@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="procedury_questions">
+        <item>	Kto w Polsce jest odpowiedzialny za podejmowanie działań w celu zapewnienia bezpieczeństwa lotów w lotnictwie cywilnym?	</item>
+        <item>	Jaki organ w kraju prowadzi badania wypadków i incydentów lotniczych w lotnictwie cywilnym?	</item>
+        <item>	Pierwszą czynnością załogi statku powietrznego po lądowaniu awaryjnym w terenie przygodnym jest:	</item>
+        <item>	Czy użytkownik może przystąpić do badania wypadku lotniczego?	</item>
+        <item>	Czy użytkownik może przystąpić do badania incydentu lotniczego?	</item>
+        <item>	Kto powiadamia prokuraturę o wypadku lotniczym?	</item>
+        <item>	Kto w kraju wydaje decyzje dotyczące wniosków wynikających z nieprzestrzegania przepisów lotniczych?	</item>
+        <item>	Kto w kraju wydaje decyzje dotyczące wniosków i powypadkowych zaleceń profilaktycznych?	</item>
+        <item>	Czy zderzenie statku powietrznego w locie z ptakiem jest incydentem lotniczym?	</item>
+        <item>	Użytkownik statku powietrznego, organ ruchu lotniczego, zarządzający lotniskiem są zobowiązani powiadomić PKBWL o zdarzeniu lotniczym w nieprzekraczalnym czasie:	</item>
+        <item>	Incydentem lotniczym jest zdarzenie związane z eksploatacją statku powietrznego inne niż wypadek lotniczy, które…	</item>
+        <item>	Poważnym incydentem lotniczym jest incydent, którego okoliczności wskazują, że…	</item>
+        <item>	Który z wymienionych Aneksów Konwencji Chicagowskiej dotyczy badania wypadków i incydentów lotniczych	</item>
+        <item>	Pierwszą czynnością załogi statku powietrznego po lądowaniu awaryjnym w terenie przygodnym i wystąpieniu pożaru jest:	</item>
+        <item>	Po zderzeniu z ptakiem dowódca statku powietrznego składa meldunek:	</item>
+        <item>	Usterki techniczne statku powietrznego odnotowuje się w:	</item>
+        <item>	Załoga statku powietrznego ma obowiązek zapinania wszystkich pasów bezpieczeństwa i uprzęży:	</item>
+        <item>	Bezpośrednio przed wejściem do kabiny statku powietrznego pilot sprawdza:	</item>
+        <item>	W przypadku konieczności opuszczenia statku powietrznego w powietrzu (np. z przyczyn technicznych), wyposażonego w radiostację pokładową pilot jest zobowiązany:	</item>
+        <item>	Bezpośrednio po zajęciu miejsca w kabinie pilot statku powietrznego sprawdza:	</item>
+        <item>	Statek powietrzny służby poszukiwania i ratownictwa lotniczego jest oznakowany następująco:	</item>
+        <item>	Czy można wykonywać loty na statku powietrznym z napędem nad parkami narodowymi?	</item>
+        <item>	Dowódca statku powietrznego powiadamia o nieprawidłowości pracy urządzeń naziemnych i nawigacyjnych:	</item>
+        <item>	Badanie wypadków i incydentów lotniczych ma na celu:	</item>
+        <item>	Członek załogi statku powietrznego nie może spożywać alkoholu w okresie minimum:	</item>
+        <item>	Raport o zdarzeniu w locie jest ważny jeśli złoży go:	</item>
+        <item>	PKBWL przedstawia wyniki badania wypadku lotniczego:	</item>
+        <item>	W celu opanowania sytuacji zagrażającej bezpieczeństwu statku powietrznego:	</item>
+        <item>	Po naruszeniu przepisów lotniczych w celu opanowania sytuacji zagrażającej bezpieczeństwu statku powietrznego dowódca statku powietrznego jest zobowiązany o tym powiadomić właściwy organ państwa, którego przepisy zostały naruszone i jeżeli przepisy tego wymagają złożyć organowi, który otrzymał zawiadomienie:	</item>
+        <item>	Osobę zatrzymaną na pokładzie statku powietrznego podejrzaną o dokonanie przestępstwa przekazuje się:	</item>
+        <item>	Obowiązek bezpiecznej eksploatacji statku powietrznego nałożony jest na użytkowniku statku powietrznego w:	</item>
+        <item>	Osoba naruszająca obowiązki w zakresie bezpiecznej eksploatacji statku powietrznego podlega karze:	</item>
+        <item>	W przypadku stwierdzenia przez załogę/dowódcę statku powietrznego zagrożenia bezpieczeństwa innego statku powietrznego należy:	</item>
+        <item>	Za bezpieczeństwo lotu od startu do lądowania odpowiada:	</item>
+        <item>	O wyborze miejsca do lądowania awaryjnego w terenie decyduje:	</item>
+        <item>	O przerwaniu zadania w powietrzu decyduje:	</item>
+        <item>	Czy funkcjonariusz Policji może zażądać od pilota/załogi poddania się badaniu na obecność alkoholu we krwi po zaistnieniu wypadku lotniczego?	</item>
+        <item>	Krajowa Konferencja Bezpieczeństwa Lotów lotnictwa Cywilnego organizowana jest:	</item>
+        <item>	Krajowa Konferencja Bezpieczeństwa Lotów Lotnictwa Cywilnego organizowana jest:	</item>
+        <item>	Za właściwą ilość paliwa zatankowanego do lotu odpowiada:	</item>
+        <item>	Pojęcia: ALERFA, DETRESFA, INTERFA odnoszą się do:	</item>
+        <item>	Lotniskowe pojazdy pożarnicze są malowane na kolor:	</item>
+        <item>	Jeżeli statek powietrzny jest wyposażony w nadajnik ratunkowy ELT, oznacza to:	</item>
+        <item>	W razie przypadkowego uruchomienia ELT należy:	</item>
+        <item>	Za sprawdzenie przed lotem ważności dopuszczenia do użytku wysokościomierza jest odpowiedzialny:	</item>
+        <item>	Pilot nie może przystąpić do wykonania lotu w znanych lub spodziewanych warunkach oblodzenia, jeżeli:	</item>
+        <item>	Przed przystąpieniem do startu dowódca statku powietrznego musi upewnić się na podstawie dostępnych mu informacji, że warunki meteorologiczne na lotnisku startu oraz stan planowanej do startu drogi startowej:	</item>
+        <item>	Sprawdzenia obecności i kompletności środków pierwszej pomocy na pokładzie statku powietrznego dokonuje:	</item>
+        <item>	Za kompletność i dostępność całego pokładowego wyposażenia awaryjnego odpowiada:	</item>
+        <item>	Zestawy pierwszej pomocy powinny być umieszczone:	</item>
+        <item>	Do zestawu pierwszej pomocy powinien być dołączony:	</item>
+        <item>	Przepisy dotyczące sygnałów, stosowanych w akcjach poszukiwawczo - ratowniczych znajdują się w:	</item>
+        <item>	Komunikat MAYDAY nadaje się w przypadku:	</item>
+        <item>	Potwierdzeniem przyjęcia i zrozumienia sygnału wizualnego, podawanego z miejsca wypadku, przez pilota samolotu jest:	</item>
+        <item>	Potwierdzeniem przyjęcia i zrozumienia przez pilota samolotu sygnału wizualnego, podawanego z miejsca wypadku nocą jest:	</item>
+        <item>	Sygnał wizualny w kształcie litery X, podawany z miejsca wypadku lotniczego, oznacza:	</item>
+        <item>	Zabrudzenie skóry rąk płynem z instalacji hydraulicznej należy usunąć:	</item>
+        <item>	Pożar instalacji elektrycznej statku powietrznego powinien być gaszony:	</item>
+        <item>	Gdy w czasie lotu rzeczywista ilość paliwa użytecznego w zbiornikach samolotu jest mniejsza od ostatecznej rezerwy paliwa, dowódca statku powietrznego powinien:	</item>
+        <item>	Paliwo lotnicze, przypadkowo rozlane przy tankowaniu, powinno zostać:	</item>
+        <item>	Obecność materiałów promieniotwórczych na pokładzie cywilnego statku powietrznego jest dozwolona pod warunkiem:	</item>
+        <item>	Podczas ręcznego przekręcania śmigła należy stać:	</item>
+        <item>	Pilot statku powietrznego może palić tytoń w czasie lotu pod warunkiem:	</item>
+        <item>	Przy wykonywaniu symulowanego lotu bez widoczności pilot bezpieczeństwa powinien zajmować miejsce:	</item>
+        <item>	W przypadku zaistnienia krytycznego niebezpieczeństwa dla życia załogi i pasażerów statku powietrznego należy w pierwszym rzędzie:	</item>
+        <item>	Uprawniony do usunięcia z pokładu statku powietrznego każdej osoby lub każdej części ładunku, która w jego opinii może stwarzać potencjalne zagrożenie dla bezpieczeństwa samolotu lub osób na nim się znajdujących jest:	</item>
+        <item>	Ostateczną decyzja co do zezwolenia na wstęp do kabiny pilotów należy do:	</item>
+        <item>	W przypadku bezprawnej ingerencji na pokładzie statku powietrznego, pierwszym obowiązkiem członków załogi jest:	</item>
+        <item>	W przypadku podejrzenia bezprawnej ingerencji na pokładzie statku powietrznego służba ruchu lotniczego powiadamia o tym poprzez sieć łączności lotniczej VHF:	</item>
+        <item>	Dyrektywy Operacyjne, wydawane przez Prezesa ULC, zabraniające, ograniczające lub poddające działalność lotniczą określonym warunkom w interesie bezpieczeństwa lotów, są publikowane w:	</item>
+        <item>	Zrzut obiektów lub substancji z pokładu statku powietrznego jest dozwolony w przypadku:	</item>
+        <item>	W trakcie wykonywania lotu pilot statku powietrznego powinien mieć zapięte pasy w czasie:	</item>
+        <item>	Jeżeli kontrola lotniska wydaje pilotowi statku powietrznego polecenie kołowania do drogi startowej np. 27, oznacza to, że:	</item>
+        <item>	O napotkanych w locie potencjalnych zagrożeniach bezpieczeństwa oraz zdarzeniach takich, jak nieprawidłowa praca urządzeń naziemnych lub nawigacyjnych, niezwykłe zjawiska pogody, dowódca statku powietrznego powinien powiadomić:	</item>
+    </string-array>
+</resources>

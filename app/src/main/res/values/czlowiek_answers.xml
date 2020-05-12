@@ -1,0 +1,1256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="czlowiek_answers">
+        <item>	odchylania rzęsek komórek sensorycznych przez bezwładnościowy ruch endolimfy	</item>
+        <item>	zdolność przystosowania się oka do danego oświetlenia	</item>
+        <item>	zmianą kształtu soczewki	</item>
+        <item>	utrzymywanie odpowiedniego kontaktu wzrokowego i koncentracji uwagi, świadomość postawy ciała oraz gestykulacji, okazywanie empatycznego zrozumienia, przyjęcie akceptującej postawy wobec rozmówcy	</item>
+        <item>	oba stwierdzenia są prawdziwe	</item>
+        <item>	zdanie powyższe jest fałszywe, a tłusty posiłek jedynie spowalnia wchłanianie alkoholu do krwi	</item>
+        <item>	teza jest prawdziwa	</item>
+        <item>	jest zabroniony ze względu na upośledzenie wykonywania czynności złożonych	</item>
+        <item>	nawet w małej ilości upośledza zdolność wykonywania czynności złożonych i jakość wykonywania czynności pilota	</item>
+        <item>	oba zdania są prawdziwe	</item>
+        <item>	zachowanie, w którym  potrafimy wyrazić siebie z pełną wiarą we własne  możliwości, nie zachowując się biernie , ulegle, czy manipulująco	</item>
+        <item>	wyćwiczone czynności poznawcze i ruchowe odbywające się z niewielkimudziałem uwagi i nie podlegające zakłóceniom w czasie wypełniania innychrównoczesnych zadań	</item>
+        <item>	dobrze wyćwiczone czynności poznawcze i ruchowe wykonywane bez aktywnego udziału świadomej uwagi	</item>
+        <item>	niewłaściwy, niepełny lub zdeformowany odbiór informacji związanych z analizą warunków przebiegu lotu	</item>
+        <item>	niedrożnością trąbki słuchowej po stronie bólu	</item>
+        <item>	zmniejszania wysokości oraz znacznie rzadziej podczas zwiększania wysokości	</item>
+        <item>	mózgowia i rdzenia kręgowego	</item>
+        <item>	chorobą związaną z formowaniem się pęcherzyków gazu we krwi i innych tkankach organizmu z powodu zbyt szybkiej zmiany ciśnienia otaczającego (nagłej dekompresji)	</item>
+        <item>	obniżenie ciśnienia otaczającego	</item>
+        <item>	jest synonimem choroby lokomocyjnej w samolocie	</item>
+        <item>	występuje częściej u pasażerów niż u pilotów	</item>
+        <item>	choroba spowodowana bodźcami płynącymi z błędników jako wyraz ich nadmiernego pobudzenia	</item>
+        <item>	podrażnienie błędnika /narządu przedsionkowego/	</item>
+        <item>	związana z niedoborem tlenu	</item>
+        <item>	osłabienie słuchu	</item>
+        <item>	wpływ różnicy ciśnień	</item>
+        <item>	omdlenie	</item>
+        <item>	ok. 20% całkowitego ciśnienia atmosferycznego	</item>
+        <item>	152 mmHg (ok. 21% ciśnienia powietrza)	</item>
+        <item>	niższe	</item>
+        <item>	typ temperamentu, typ strategii zachowania i  reakcji emocjonalnej w sytuacjach  trudnych, dojrzałość osobowości	</item>
+        <item>	ważny aspekt początkowego szkolenia lotniczego: ogół sytuacji występującychw warunkach rzeczywistego lotu związanych z napięciem emocjonalnym pilota oraz czynnikami działającymi ze strony środowiska: przyspieszenie, hałas, wibracje, różnice temperatury i ciśnienia	</item>
+        <item>	zaburzenia z kręgu zaburzeń nerwicowych	</item>
+        <item>	ujemne	</item>
+        <item>	dodatnie	</item>
+        <item>	plecy – klatka piersiowa / Gx + /	</item>
+        <item>	korzystna jest adekwatna samoocena i wysoki stopień samoakceptacji	</item>
+        <item>	skontaktować się z odpowiednim centrum medycyny lotniczej celem weryfikacji stanu zdrowia	</item>
+        <item>	poinformować go o wykonywanych czynnościach pilota, a w razie wątpliwości poprosić o kontakt ze specjalistą medycyny lotniczej	</item>
+        <item>	skontaktować się z odpowiednim centrum medycyny lotniczej celem weryfikacji stanu zdrowia	</item>
+        <item>	łamie prawo i naraża siebie i innych na niebezpieczeństwo	</item>
+        <item>	zawsze prawda	</item>
+        <item>	zmianie ciśnienia z wysokiego do niskiego	</item>
+        <item>	zaburzenie prawidłowej oceny rzeczywistej, pozycji pilota i samolotu w przestrzeni oraz względem powierzchni ziemi	</item>
+        <item>	ponieważ chłodzenie ciała odbywa się przez parowanie potu	</item>
+        <item>	transport tlenu i dwutlenku węgla, substratów i zbędnych produktów metabolizmu oraz dystrybucja energii cieplnej w ciele	</item>
+        <item>	0,8	</item>
+        <item>	bóle stawów, bóle zamostkowe, uczucie mrowienia, świąd skóry	</item>
+        <item>	otyłość, zmniejszona podaż płynów	</item>
+        <item>	zniżania samolotu	</item>
+        <item>	wrzenie płynów ustrojowych na wysokości 19.200m bez wyposażenia pilota w wysokościowy ubiór kompensacyjny	</item>
+        <item>	dokładności i trwałości ukształtowanych w procesie szkolenia schematówdziałania poprzez systematyczne i coraz bardziej skomplikowane ćwiczenia	</item>
+        <item>	złudzeniem wzrokowym wynikiem przyjęcia przez pilota poziomu np. ciemnych chmur za linię horyzontu właściwego	</item>
+        <item>	55-75 skurczów/min	</item>
+        <item>	14-16	</item>
+        <item>	starczowzroczność	</item>
+        <item>	powstania tlenu atomowego i ozonu	</item>
+        <item>	intelektualne, emocjonalno- motywacyjne, orientacji i wykonawcze	</item>
+        <item>	podobne bodźce wywołują tę samą reakcję – niesie rozszerzenie reakcji warunkowej	</item>
+        <item>	ultradźwięki, hałas	</item>
+        <item>	wentylację z liczbą większą niż 30 na minutę	</item>
+        <item>	zniekształcona  lub błędna percepcja bodźców i wrażeń wzrokowych niezgodnych z informacjami pochodzącymi z innych źródeł powodująca niewłaściwą interpretację rzeczywistych warunków lotu	</item>
+        <item>	niedrożność dróg oddechowych	</item>
+        <item>	istota szara mózgu	</item>
+        <item>	pogarsza elastyczność z tendencją do zawężenia repertuaru zachowań	</item>
+        <item>	temperatura otoczenia, wilgotność względna i ruch powietrza	</item>
+        <item>	zaburzenia rytmu serca	</item>
+        <item>	wzmożone ciśnienie śródgałkowe	</item>
+        <item>	podlegająca kontroli komunikacja bezsłowna oparta na przekazie informacjizawartych  w gestach, pozach, mimice i innych zewnętrznie obserwowalnych formach zachowań ludzkich	</item>
+        <item>	proces mówienia – słuchania – zadawania pytań – rozumienia wypowiedzi	</item>
+        <item>	stopień intensywności skupienia procesów poznawczych człowieka na określonym zadaniu, jego miarą jest siła bodźca potrzebna do oderwania uwagi od tego  zadania	</item>
+        <item>	poszkodowany nie oddycha samodzielnie i nie ma własnego tętna	</item>
+        <item>	doraźny ucisk na tętnicę ramienną np. palcami rąk w połowie długości ramienia po jego stronie wewnętrznej	</item>
+        <item>	zazwyczaj większą intensywnościąi wypływaniem jasnoczerwonej krwi zgodnie z falami tętna	</item>
+        <item>	sztywny kołnierz szyjny	</item>
+        <item>	utrata pola widzenia	</item>
+        <item>	niedotlenienie	</item>
+        <item>	ekstrawersja lub ambiwersja, wysoki stopień odporności emocjonalnej, wysokistopień ogólnych zdolności poznawczych	</item>
+        <item>	lądowanie	</item>
+        <item>	szyjny	</item>
+        <item>	Gz –działanie wzdłuż kręgosłupa w kierunku głowy	</item>
+        <item>	zachód – wschód	</item>
+        <item>	zwiększonego narażenia na chorobę dekompresyjną	</item>
+        <item>	PRAWDA	</item>
+        <item>	jeśli nadciśnienie jest ustabilizowane, a przyjmowany jest jedynie jeden rodzaj leku	</item>
+        <item>	nigdy	</item>
+        <item>	od ostatniego podania leku do momentu jego eliminacji z organizmu działania niepożądane leku są wciąż możliwe i pilot powinien powstrzymać się od lotów w tym okresie	</item>
+        <item>	są zawsze zakazane w lotnictwie	</item>
+        <item>	wywołuje niekorzystne skutki przede wszystkimw ośrodkowym układzie nerwowym, narządzie wzroku, narządzie równowagi /błędnik/	</item>
+        <item>	w wątrobie i jest w przybliżeniu stały w czasie	</item>
+        <item>	ból brzucha spowodowany rozprężaniem się gazów w jelitach w związku ze zmianą wysokości	</item>
+        <item>	mobilizacja – rozstrojenie – destrukcja	</item>
+        <item>	rogówka, komora przednia, soczewka, ciało szkliste	</item>
+        <item>	pęcherzykiem powietrza pod wypełnieniem (plombą) i występuje przy wznoszeniu	</item>
+        <item>	działaniem różnicy ciśnień	</item>
+        <item>	pogorszenie dobrej widoczności na zewnątrz samolotu	</item>
+        <item>	częstość skurczów serca	</item>
+        <item>	trening desensytyzacyjny	</item>
+        <item>	indywidualne różnice w wydolności funkcjonalnej wynikające z cech struktury osobowości	</item>
+        <item>	wzrok	</item>
+        <item>	narząd wzroku	</item>
+        <item>	zaburzenie krążenia krwi pomiędzy sercem a mózgiem	</item>
+        <item>	marihuana i haszysz	</item>
+        <item>	z ucha zewnętrznego, środkowego i wewnętrznego	</item>
+        <item>	narząd wzroku, narząd przedsionkowy (błędnik) oraz mięśnie szkieletowe	</item>
+        <item>	odbierają bodźce zewnętrzne i przekazują je do centralnego układu nerwowego	</item>
+        <item>	stała cecha osobowości charakteryzująca się dużą chwiejnością nastroju, drażliwością, pobudliwością, tendencją do intensywnegoi długotrwałego przeżywania negatywnych emocji	</item>
+        <item>	może przebiegać bez wyraźnych objawów lub wywoływać uczucie euforii	</item>
+        <item>	nadmierną wesołościąi brakiem koordynacji ruchów	</item>
+        <item>	nerwowego	</item>
+        <item>	zmniejszenia się ilości tlenu docierającego do pęcherzyków płucnych	</item>
+        <item>	zawroty głowy	</item>
+        <item>	PRAWDA	</item>
+        <item>	"wyrównywanie ciśnienia w uchu środkowym"	</item>
+        <item>	brak czucia w kończynach, niemożność poruszenia nimi, mimowolne oddanie moczu i stolca	</item>
+        <item>	sytuacji, w której pilot ma fałszywe odczucie lotu poziomego podczas wykonywania zakrętu	</item>
+        <item>	ogólne pogorszenie sprawności psychicznej, zaburzenia uwagi i logicznegorozumowania, spowolnienie reakcji, upośledzenie procesu przyjmowania i  przetwarzania bodźców zewnętrznych	</item>
+        <item>	głodem tlenowym	</item>
+        <item>	ból, obrzęk, zmianę obrysu kończyny, nienaturalne jej ułożenie lub też otwartą ranę z wystającą kością	</item>
+        <item>	niedotlenienia ośrodkowego układu nerwowego	</item>
+        <item>	teza jest prawdziwa	</item>
+        <item>	rozszerzenie gazów w jamach ciała	</item>
+        <item>	nerwów obwodowych czaszkowych i rdzeniowych	</item>
+        <item>	tlenu /O2/ z krwi do komórki	</item>
+        <item>	tlenu /O2/ do krwi, a z krwi do atmosfery dwutlenku węgla /CO2/	</item>
+        <item>	płucami a otaczającą atmosferą	</item>
+        <item>	cechą osobowości, podlegającą modyfikacji	</item>
+        <item>	naciśnięcie na hamulec przy czerwonym świetle	</item>
+        <item>	czerwonej, zielonej, niebieskiej	</item>
+        <item>	od podania ostatniej dawki do podjęcia pracy w powietrzu	</item>
+        <item>	należy reanimować na twardym podłożu, z powodu bezpośredniego zagrożenia życia	</item>
+        <item>	względnie stała i trwała organizacja cech temperamentu, intelektu, charakteru,oraz konstytucji fizycznej człowieka determinująca specyficzny sposób przystosowania się jednostki do otoczenia	</item>
+        <item>	tablic Snellena	</item>
+        <item>	zabezpiecza żywe organizmy przed szkodliwym oddziaływaniem krótkofalowego promieniowania słonecznego	</item>
+        <item>	magazyn wszystkich informacji zdobytych w czasie doświadczeń życiowych człowieka o nieograniczonej pojemności i czasie przechowywania	</item>
+        <item>	pamięć operacyjna o ograniczonej pojemności i krótkim czasie przechowywania informacji	</item>
+        <item>	możliwego powstania niedrożności trąbki słuchowej i wystąpienia bólu ucha	</item>
+        <item>	ponieważ gazy uwięzione w jelitach mogą powodować ból brzucha podczas wznoszenia	</item>
+        <item>	unieruchomić w szynie w pozycji maksymalnego komfortu	</item>
+        <item>	od 3 do 5	</item>
+        <item>	autokinezą	</item>
+        <item>	tak	</item>
+        <item>	3,2,1,6,5,4	</item>
+        <item>	krew napływa do głowy	</item>
+        <item>	mniejszą wrażliwość na dotyk, zmniejszoną zdolność wykonywania precyzyjnych ruchów, obniżenie siły mięśniowej	</item>
+        <item>	rośnie	</item>
+        <item>	krew odpływa od głowy	</item>
+        <item>	prawo Daltona	</item>
+        <item>	kończyny dolne - głowa/ Gz - /	</item>
+        <item>	#NAZWA?	</item>
+        <item>	tlen przechodzi do krwi, a dwutlenek węgla do pęcherzyka	</item>
+        <item>	tlen przechodzi do tkanek, a dwutlenek węgla do krwi	</item>
+        <item>	rośnie	</item>
+        <item>	subiektywne i podatne na błędy, związane ze sposobem formułowania problemu i jego interpretacją oraz rodzajem postaw wobec ryzyka	</item>
+        <item>	pomiar przyspieszeń liniowych	</item>
+        <item>	filtrowanie szkodliwego promieniowania UV	</item>
+        <item>	parowanie	</item>
+        <item>	wrażenia, spostrzeżenia, wyobrażenia, procesy myślowe i decyzyjne	</item>
+        <item>	zawsze zabronione	</item>
+        <item>	do trzech minut	</item>
+        <item>	zawsze przy skrajnie wysokim lub skrajnie niskim poziomie motywacji	</item>
+        <item>	styl konfrontacyjny zorientowany na zadanie	</item>
+        <item>	dłonie oparte nadgarstkami w 1/3 dolnej mostka, ręce – wyprostowane w łokciach	</item>
+        <item>	opatrunek uciskowy na ranie	</item>
+        <item>	pracy	</item>
+        <item>	zdolność do skupienia się na widokach i dźwiękach istotnych dla zadań wynikających z bieżącej sytuacji eliminująca wpływ nie związane z zadaniem myśli, obrazy i bodźce sensoryczne	</item>
+        <item>	źrenicę	</item>
+        <item>	zdanie jest nieprawdziwe	</item>
+        <item>	są najlepiej tolerowane przez organizm ludzki	</item>
+        <item>	udrożnić górne drogi oddechowe poszkodowanego (usunąć wszystkie zanieczyszczenia z jamy ustnej, nosowej i gardła)	</item>
+        <item>	kannabinoli (marihuana, haszysz)	</item>
+        <item>	zdolność do szybkiego przenoszenia uwagi jednego obserwowanegoprzedmiotu lub procesu na drugi	</item>
+        <item>	nieadekwatne działanie pilota i osób odpowiedzialnychza organizacjei zabezpieczenia wykonywania lotów	</item>
+        <item>	krew zazwyczaj wypływa leniwym strumieniem i ma ciemnoczerwone zabarwienie	</item>
+        <item>	mogą wystąpić defekty w procesie orientacji człowieka w postaci przepuszczania i zniekształcenia sygnałów, zmniejszenie zakresu ich rozróżniania i rozpoznawania	</item>
+        <item>	opadania samolotu „nosem” w dół	</item>
+        <item>	wyrównać poziom lotu i spróbować manewrów udrażniających przewód słuchowy (ziewanie, przełykanie śliny, itp.)	</item>
+        <item>	zdanie jest fałszywe i dlatego należy obchodzić się z takimi poszkodowanymi bardzo ostrożnie, ograniczyć ich poruszanie się i przenosić ich jedynie w pozycji poziomej	</item>
+        <item>	podnoszenia „nosa” samolotu w górę	</item>
+        <item>	azotu	</item>
+        <item>	uwalnianie się  pęcherzyków gazowych, głównie azotu do krwi i tkanek	</item>
+        <item>	obniżenie ciśnienia porcjalnego w powietrzu oddechowym	</item>
+        <item>	chyba, że choroba podstawowa sama stanowi przeciwwskazanie do lotów	</item>
+        <item>	zawsze	</item>
+        <item>	#NAZWA?	</item>
+        <item>	9,81 m/s 2 i działa pionowo ku dołowi	</item>
+        <item>	niedotlenienia z niedoboru tlenu	</item>
+        <item>	złożone, odbywają się w deficycie czasu przy konieczności dużej przerzutności uwagi w celu odbioru informacji z punktów orientacyjnych znajdujących się na ziemi oraz wskazań przyrządów kontrolnych	</item>
+        <item>	nie odbiera wrażeń wzrokowych, tworząc w obszarze widzenia strefę nieobserwowaną (tzw. plamkę ślepą)	</item>
+        <item>	niezdolność do skupienia się na bodźcach zewnętrznych istotnych dla zadań wynikających z bieżącej sytuacji	</item>
+        <item>	wyprowadzanie wniosków z przesłanek za pomocą reguł logicznych	</item>
+        <item>	rozumowanie, które w celu wypracowania konkluzji na temat np. możliwości zajścia jakiegoś zjawiska odwołuje się do analizy ograniczonej puli dostępnych faktów,  wnioskowanie zachodzi  na podstawie danych opartych na prawdopodobieństwie	</item>
+        <item>	człowiek uczy się reagować inaczej na wyłącznie określony bodziec wśród podobnych, w pewnym wymiarze rozpoznawanej gamy selektywności                      wg specyficznych właściwości bodźca	</item>
+        <item>	trzy przewody półkoliste błędnika	</item>
+        <item>	"jest najbardziej wewnętrzną, światłowrażliwą błoną oka"	</item>
+        <item>	ocena testowa	</item>
+        <item>	spostrzeganie obiektów w przestrzeni trójwymiarowej wymagające interpretacji odległości między podmiotem a spostrzeganym obiektem	</item>
+        <item>	zaburzenia psychiczne typu psychotycznego, silne nerwice, depresja, widoczne zaburzenia osobowości, alkoholizm i używanie środków psychoaktywnych	</item>
+        <item>	jest zabronione całkowicie	</item>
+        <item>	jest zabronione gdyż powoduje długotrwałe skutki dla zdrowia pilota	</item>
+        <item>	6-7 tys. m	</item>
+        <item>	od 6.000 – 8.000 mnpm	</item>
+        <item>	4.000-5.500 m	</item>
+        <item>	2.000-3.500 m	</item>
+        <item>	stan zmobilizowanego psychofizjologicznie organizmu wobec istniejącego lub antycypowanego zagrożenia	</item>
+        <item>	"czynniki powodujące ogólny stan napięcia organizmu ludzkiego związane ze  stanem gotowości do „ataku lub ucieczki”"	</item>
+        <item>	prawdziwe i ma znaczenie dla pilotów	</item>
+        <item>	pilot wykonuje czynności lotnicze przy niedostatecznej ilości informacji dotyczącej sytuacji w powietrzu	</item>
+        <item>	powoduje u pilota lądującego na nim złudzenie, że samolot znajduje się niżej niż w rzeczywistości	</item>
+        <item>	7 g/godzinę	</item>
+        <item>	prawda i wynosi ok.10 mg/kg masy ciała na godzinę	</item>
+        <item>	długotrwałym niedoborem witaminy A	</item>
+        <item>	około 90 dB	</item>
+        <item>	z większego  powinowactwa do hemoglobiny niż tlen	</item>
+        <item>	niedotlenienie, hiperwentylację, hipoglikemię (obniżone stężenie cukru we krwi)	</item>
+        <item>	jamę ucha środkowego (jamę bębenkową) z nosogardłem	</item>
+        <item>	relaks poprzez naukę kontrolowania stanu napięcia mięśni ciała, uregulowania oddechu i wytworzenie odpowiednich wizualizacji	</item>
+        <item>	wrodzona	</item>
+        <item>	naprzemienność nocy i dnia	</item>
+        <item>	wszyscy ludzie mogąw sobie wykształcić te same umiejętności , ale w różnym  czasie	</item>
+        <item>	potrzebuje więcej czasu  na odebranie i przetworzenie informacji, uwzględnia większe ilości danych by poprawnie zorientować się w funkcjonowaniu obiektu sterowania	</item>
+        <item>	działania na organizm przeciążenia ujemnego wzdłuż osi kończyny dolne - głowa	</item>
+        <item>	przeciążenia ujemnego wzdłuż długiej osi ciała	</item>
+        <item>	przeciążenie ujemne /Gz -/	</item>
+        <item>	90%	</item>
+        <item>	poprawę sprawności fizycznej, a szczególnie wydolności sercowo- naczyniowej	</item>
+        <item>	zamknięty, tzn. krew krąży tylko w naczyniach	</item>
+        <item>	serca, tętnic, żył i naczyń kapilarnych	</item>
+        <item>	krążenia systemowego i płucnego, a serce zbudowane jest z 4 jam	</item>
+        <item>	nieświadomą kontrolę nad procesami fizjologicznymi ustroju oraz reakcje w sytuacjach "walki lub ucieczki"	</item>
+        <item>	orientację ciała w przestrzeni	</item>
+        <item>	przy zwiększaniu ciśnienia otaczającej atmosfery	</item>
+        <item>	brakiem możliwości wyrównania ciśnień –jama bębenkowa – atmosfera	</item>
+        <item>	ślepotę	</item>
+        <item>	uwaga skupiona na przedmiocie na skutek aktywnego zamiaru i wysiłku woli powstaje w wyniku istnienia odpowiedniej motywacji ze strony człowieka	</item>
+        <item>	rodzaj uwagi realizowany bez świadomego udziału ze strony człowiekawywołany szczególnymi właściwościami obiektu	</item>
+        <item>	typ podzielności, trwałość, zakres, przerzutność, wybiórczość	</item>
+        <item>	poprawia tolerancję niedotlenienia	</item>
+        <item>	rośnie	</item>
+        <item>	przed siatkówką	</item>
+        <item>	w narządzie równowagi	</item>
+        <item>	większej wrażliwości na niedotlenienie komórek czułych na niewielką ilość światła	</item>
+        <item>	należy stosować sztuczne oddychanie, ale nie stosować masażu serca	</item>
+        <item>	należy poszukać tętna na dużych tętnicach, ponieważ brak tętna przy zachowanym przez dłuższy czas oddechu jest wysoce nieprawdopodobne, a jeśli tętno jest zatrzymane wkrótce ustanie również oddech	</item>
+        <item>	niezależnie od przyczyny założyć maskę z tlenem i zwolnić tempo oddychania	</item>
+        <item>	przenosić poszkodowanego jedynie na noszach lub poziomo przy udziale większej liczby ratowników i w miarę możliwości założyć poszkodowanemu kołnierz Shantza	</item>
+        <item>	pozostawić go pod nadzorem na miejscu do przyjazdu wyspecjalizowanych ratowników medycznych	</item>
+        <item>	pamiętać także o własnym bezpieczeństwie i w razie konieczności wynieść poszkodowanego ze strefy zagrożenia	</item>
+        <item>	przerwać wznoszenie i spróbować wyrównać ciśnienie w przewodzie pokarmowym przez wymuszone odbijanie	</item>
+        <item>	wskazaniom przyrządów	</item>
+        <item>	starać się uspokoić oddech, a w razie niepowodzenia oddychać do worka papierowego	</item>
+        <item>	obniżyć pułap	</item>
+        <item>	rozpocząć oddychanie czystym tlenem z aparatu tlenowego oraz zwolnić częstość oddechów	</item>
+        <item>	krew znacznie silniej odpływa od głowy	</item>
+        <item>	krew znacznie silniej napływa do głowy	</item>
+        <item>	poszkodowany jest nieprzytomny lub nastąpiło spożycie substancji żrących	</item>
+        <item>	unieruchomić dwa sąsiednie stawy w zastanej pozycji	</item>
+        <item>	stosować sztuczne oddychanie i pośredni masaż serca	</item>
+        <item>	silne wrażenie wirowania, skrętu i przyspieszania zwane złudzeniem Coriolisa	</item>
+        <item>	błędnik	</item>
+        <item>	najciężej poszkodowanym	</item>
+        <item>	osobom z zatrzymanym krążeniem i oddechem	</item>
+        <item>	ile razy zwiększył się ciężar ciała człowieka w danej chwili, w porównaniu do jego ciężaru w spoczynku na poziomie morza	</item>
+        <item>	panowanie nad emocjami, nie przerywanie, dostosowanie słownictwa do rozmówcy, rekapitulowanie, parafrazowanie wypowiedzi interlokutora	</item>
+        <item>	powoduje u pilota lądującego na nim złudzenie, że samolot znajduje się wyżej niż w rzeczywistości	</item>
+        <item>	zdolność widzenia przestrzennego	</item>
+        <item>	układ oddechowy	</item>
+        <item>	desynchronizacja snu i czuwania	</item>
+        <item>	uwarunkowana indywidualnymi wrodzonymi progami percepcyjnymi	</item>
+        <item>	po umiarkowanym spożyciu alkoholu obowiązuje zasada 24 godzinnej przerwypo ostatnim drinku zanim rozpocznie się lot	</item>
+        <item>	oczopląs poziomy i pogorszenie ostrości wzroku	</item>
+        <item>	uczucie braku powietrza, uczucie zmęczenia, nudności, wymioty, zawroty głowy	</item>
+        <item>	oznacza nadmierną częstość oddechów powyżej metabolicznego zapotrzebowania ustroju	</item>
+        <item>	może prowadzić do omdlenia, a jej pierwsze objawy są podobne do objawów niedotlenienia	</item>
+        <item>	promieniowanie	</item>
+        <item>	pęcherzykach płucnych	</item>
+        <item>	nie przyspiesza znacząco jego eliminacji z krwi	</item>
+        <item>	wywiera bardzo istotny wpływ na poprawną sprawność jego działania	</item>
+        <item>	4 tys.	</item>
+        <item>	niedrożną trąbką słuchową	</item>
+        <item>	może być spowodowane nierównym ciśnieniem w uchu środkowym i jamie nosowo-gardłowej	</item>
+        <item>	edukację i trening załóg lotniczych	</item>
+        <item>	4	</item>
+        <item>	patologiczne zmniejszenie zakresu uwagi, jej koncentracji, trwałości, podzielności doprowadzające do ogólnego zmniejszenia zdolności odbierania bodźców zewnętrznych	</item>
+        <item>	II	</item>
+        <item>	zmętnienie soczewki	</item>
+        <item>	tętnice odprowadzają krew od serca do tkanek	</item>
+        <item>	nienaturalne, silne aktywizowane pobudzenie psychiczne i fizyczne z tendencją do zachowań brawurowych i agresywnych, gadatliwość (czasem słowotok), brak łaknienia, poty, poszerzone źrenice	</item>
+        <item>	podniesienie nastroju, zaburzenia koncentracji i uwagi, osłabienie pamięci oraz orientacji, obniżenie krytycyzmu, lęk i urojenia prześladowcze,  poszerzenie źrenic i zaczerwienienie spojówek	</item>
+        <item>	zawsze zabronione	</item>
+        <item>	równoległym przetwarzaniu informacji, zdolności szybkiej zmiany wykonywanego zadania przy skutecznej koordynacji reakcji w czasie, odpowiednim przeznaczeniu zdolności przetwarzania informacji do wykonywania najważniejszych czynności	</item>
+        <item>	wprost proporcjonalnie do spadku ciśnienia atmosferycznego	</item>
+        <item>	skład procentowy gazów pozostaje bez zmian	</item>
+        <item>	zespół opóźnionych reakcji stresowychw postaci dolegliwości natury psychicznej nawracających wielokrotnie nawet po upływie długiego czasu, związanych z ekspozycją na zdarzenie szczególnie przerażające lub katastroficzne	</item>
+        <item>	wada układu mięśniowego oczu	</item>
+        <item>	objawy spowodowane zmianą objętością gazów w jamach ciała	</item>
+        <item>	fałsz, zwalnia jedynie jego wchłanianie się z żołądka	</item>
+        <item>	deski, parasolki lub narty unieruchamiając dwa sąsiednie stawy	</item>
+        <item>	są nieprawidłowymi odwzorowaniami rzeczywistości powstającymi w wyniku fizjologicznych, lub patologicznych procesów w mózgu	</item>
+        <item>	mogą mieć miejsce szczególnie w przypadku lotu bez widoczności lub lotów nocnych	</item>
+        <item>	przyspieszeń liniowych na narządy otolitowe	</item>
+        <item>	mogą mieć miejsce szczególnie w lotach nocnych	</item>
+        <item>	fałszywym odczuciu ruchu nieruchomego punktu świetlnego	</item>
+        <item>	błędna interpretacja sytuacji percepcyjnej będąca funkcją zniekształceń informacji otrzymywanych z wzorca sensorycznego	</item>
+        <item>	konieczności stałego przenoszenia wzroku z szybko przesuwających się obiektów naziemnych na przyrządy pokładowe	</item>
+        <item>	trąbkę słuchową Eustachiusza	</item>
+        <item>	amfetaminy	</item>
+    </string-array>
+
+    <string-array name="czlowiek_odp_b" >
+        <item>	oddziaływania przyspieszeń liniowych na komórki nerwu przedsionkowego	</item>
+        <item>	zdolność oka w rozpoznawaniu barw	</item>
+        <item>	zmianami w rogówce	</item>
+        <item>	budowanie takiego nastawienia w rozmowie, które jest istotne dla mojej sytuacji	</item>
+        <item>	jest substancją psychoaktywną, ale nie uzależniającą	</item>
+        <item>	zdanie jest prawdziwe, aby szybciej pozbyć się alkoholu z krwi należy tłusto zjeść	</item>
+        <item>	teza jest fałszywa	</item>
+        <item>	poprawia jakość pilotażu	</item>
+        <item>	nie upośledza zdolności wykonywania czynności złożonych i jakości wykonywania czynności pilota	</item>
+        <item>	pierwsze zdanie jest prawdziwe, a drugie fałszywe	</item>
+        <item>	nastawienie na unikanie konfliktów i postawy uległe	</item>
+        <item>	czynności wykonywane w czasie transu somnambulicznego	</item>
+        <item>	stereotypie ruchowe	</item>
+        <item>	brak angażowania możliwości analitycznych centralnego systemu nerwowego	</item>
+        <item>	niedrożnością trąbki słuchowej po stronie przeciwnej do bólu	</item>
+        <item>	zwiększania wysokości oraz znacznie rzadziej podczas zmniejszania wysokości	</item>
+        <item>	tylko mózgu	</item>
+        <item>	związana z dekompresją długo tłumionych emocji	</item>
+        <item>	wzrost ciśnienia otaczającego	</item>
+        <item>	jest wywołana brakiem powietrza	</item>
+        <item>	występuje częściej u pilotów niż u pasażerów	</item>
+        <item>	choroba spowodowana niedoborem tlenu w otaczającej atmosferze	</item>
+        <item>	"podrażnienie ślimaka /narządu słuchu
+/"	</item>
+        <item>	"związana z powstaniemw ustroju pęcherzyków azotu / zmiany ciśnienia
+/"	</item>
+        <item>	przewlekłe zaburzenie barofunkcji	</item>
+        <item>	wpływ przyśpieszenia	</item>
+        <item>	długotrwałą utratę przytomności	</item>
+        <item>	ok. 80% całkowitego ciśnienia atmosferycznego	</item>
+        <item>	760 mmHg (ok. 100% ciśnienia powietrza)	</item>
+        <item>	wyższe	</item>
+        <item>	dobre funkcjonowanie przy wzroście poziomu aktywacji	</item>
+        <item>	określenie stanu niepewności, niepokoju i lęku u początkującego pilota	</item>
+        <item>	zaburzenia o charakterze depresyjnym	</item>
+        <item>	dodatnie	</item>
+        <item>	ujemne	</item>
+        <item>	bok do boku/ Gy-+ /	</item>
+        <item>	korzystny jest niski poziom samooceny i akceptacji siebie gdyż ułatwia to relacje międzyludzkie	</item>
+        <item>	zacząć je zażywać i latać dalej	</item>
+        <item>	nie informować go o wykonywaniu czynności pilota, a jedynie przeczytać ulotkę leku	</item>
+        <item>	zacząć je zażywać i latać dalej	</item>
+        <item>	łamie prawo unijne, ale nie polskie	</item>
+        <item>	zawsze fałsz	</item>
+        <item>	zmianie ciśnienia z niskiego do wysokiego	</item>
+        <item>	niepewność co do prawidłowego kursu samolotu	</item>
+        <item>	picie zimnych płynów pomaga zachować normalną temperaturę ciała	</item>
+        <item>	transport tlenu i dwutlenku węgla, substratów metabolizmu, utrzymanie ciepłoty ciała oraz funkcja trawienna	</item>
+        <item>	0,9	</item>
+        <item>	"dolegliwości ze strony ucha
+środkowego"	</item>
+        <item>	zwiększona podaż płynów i niska wilgotność otoczenia	</item>
+        <item>	startu	</item>
+        <item>	oddychanie czystym tlenem przed lotem wysokościowym	</item>
+        <item>	wysokiego poziomu prędkości reakcji prostej (refleksu) właściwej pilotowi	</item>
+        <item>	źle oznaczonym instrumentem pokładowym	</item>
+        <item>	90-110 skurczów/min	</item>
+        <item>	10-sie	</item>
+        <item>	skurcz okomodacji	</item>
+        <item>	pochłaniania	</item>
+        <item>	złożone procesy myślowe analizy i syntezy	</item>
+        <item>	zupełnie różne bodźce wywołują tę samą reakcję	</item>
+        <item>	ultradźwięki, wysoka temperatura	</item>
+        <item>	wentylacje objętościową oddechową większą niż 800 ml	</item>
+        <item>	zmiany obserwowanego obrazu związane z niemożnością odpowiedniej akomodacji wzroku	</item>
+        <item>	tamponada osierdzia	</item>
+        <item>	istota biała mózgu	</item>
+        <item>	nie ma wpływu	</item>
+        <item>	temperatura otoczenia i wilgotność bezwzględna	</item>
+        <item>	uraz kręgosłupa szyjnego	</item>
+        <item>	"wzmożenie ciśnienia
+śródczaszkowego"	</item>
+        <item>	wygląd zewnętrzny człowieka i jego komunikatywność	</item>
+        <item>	umiejętność rozumienia mowy i wielowymiarowego znaczenia słów	</item>
+        <item>	zintegrowane rozpoznawanie pojedynczych cech przedmiotów lub zjawisk w celu ich selekcjonowania	</item>
+        <item>	poszkodowany nie oddycha samodzielnie,  ale ma własne tętno	</item>
+        <item>	doraźny ucisk na tętnicę promieniową (uciśnięcie nadgarstka)	</item>
+        <item>	zazwyczaj większą intensywnością i wypływaniem ciemnoczerwonej krwi	</item>
+        <item>	zrolowane ręczniki lub koce	</item>
+        <item>	widzenie lunetowate	</item>
+        <item>	uraz mózgu	</item>
+        <item>	bardzo małe zapotrzebowanie na stymulację zewnętrzną, introwersja, dobry poziom funkcjonowania intelektualnego	</item>
+        <item>	start	</item>
+        <item>	piersiowy	</item>
+        <item>	+Gxdziałanie wzdłuż kręgosłupa w kierunkupleców, mostka	</item>
+        <item>	północ – południe	</item>
+        <item>	zwiększonego narażenia na niedotlenienie	</item>
+        <item>	FAŁSZ	</item>
+        <item>	jeśli nadciśnienie jest ustabilizowane, a przyjmowane są jedynie dwa rodzaje leku	</item>
+        <item>	zawsze	</item>
+        <item>	nie ma potrzeby powstrzymywania się od lotów po ostatniej dawce leku	</item>
+        <item>	nie są przeciwwskazane w lotnictwie sportowym	</item>
+        <item>	"zwiększa tolerancję przyspieszeń Gz
++"	</item>
+        <item>	w wątrobie i jest coraz szybszy ze wzrostem ilości wypitego alkoholu	</item>
+        <item>	bóle zatok spowodowane rozprężaniem się gazów w zatokach w związku ze zmianą wysokości	</item>
+        <item>	destrukcja – rozstrojenie – mobilizacja	</item>
+        <item>	rogówka, soczewka, nerw wzrokowy	</item>
+        <item>	pęcherzykiem powietrza pod wypełnieniem (plombą) i występuje przy zmniejszaniu wysokości	</item>
+        <item>	wibracjami spowodowanymi przez statek powietrzny	</item>
+        <item>	patologia układu przedsionkowego	</item>
+        <item>	spadek ciśnienia tętniczego krwi	</item>
+        <item>	"podawanie leków antychololinoalergicznych
+/Scopolamina/"	</item>
+        <item>	zbyt racjonalne i trafne szacowanie ryzyka	</item>
+        <item>	słuch	</item>
+        <item>	narząd słuchu i równowagi	</item>
+        <item>	zaburzenie przepływu krwi w jelitach	</item>
+        <item>	grzyby halucynogenne	</item>
+        <item>	jedynie z ucha wewnętrznego	</item>
+        <item>	narząd wzroku	</item>
+        <item>	odbierają bodźce zewnętrzne i analizują je samodzielnie	</item>
+        <item>	stała cecha osobowości związana z zaniżoną samooceną	</item>
+        <item>	trwale uszkadza serce	</item>
+        <item>	utratą przytomności	</item>
+        <item>	oddechowego	</item>
+        <item>	zmniejszenia się zdolności krwi do transportu tlenu	</item>
+        <item>	ból zęba	</item>
+        <item>	FAŁSZ	</item>
+        <item>	dobre widzenie	</item>
+        <item>	nienaturalne położenie kończyny, pieczenie w okolicy kręgosłupa	</item>
+        <item>	sytuacji, w której pilot nie wie nad jakim terenem przelatuje	</item>
+        <item>	obniżony refleks, uczucie senności, częste zaburzenia w powtarzaniu słów podpostacią parafazji semantycznych	</item>
+        <item>	chorobą lokomocyjną	</item>
+        <item>	ból i obrzęk sąsiedniego stawu	</item>
+        <item>	spadku wysycenia krwi tlenem	</item>
+        <item>	teza jest fałszywa	</item>
+        <item>	nie powoduje żadnych zmian	</item>
+        <item>	rdzenia kręgowego	</item>
+        <item>	dwutlenku węgla /CO2/ z krwi do komórki	</item>
+        <item>	dwutlenku węgla /CO2/ do krwi, a z krwi do atmosfery tlenu /O2/	</item>
+        <item>	jamą nosową a otaczającą atmosferą	</item>
+        <item>	cechą nabytą we wczesnym dzieciństwie	</item>
+        <item>	zwężenie źrenicy na światło	</item>
+        <item>	czerwonej, zielonej, żółtej	</item>
+        <item>	od pierwszego podania leku do momentu ustąpienia objawów chorobowych	</item>
+        <item>	nie reanimować nawet na twardym podłożu z powodu zagrożenia uszkodzeniem rdzenia kręgowego	</item>
+        <item>	system postaw i wartości człowieka	</item>
+        <item>	testu barwnego Ishihara	</item>
+        <item>	stanowi barierę dla szkodliwego dla ssaków promieniowania kosmicznego	</item>
+        <item>	zdolność umysłu rozpoznawania zdarzeń, których się uprzednio doświadczyło	</item>
+        <item>	pamięć aktualizująca temat zagadnień w czasie rozmowy	</item>
+        <item>	możliwego bólu zęba	</item>
+        <item>	ponieważ gazy uwięzione w jelitach powodują ból brzucha niezależnie wysokości	</item>
+        <item>	umieścić w szynie próżniowej	</item>
+        <item>	od 10 do 12	</item>
+        <item>	psychokinezą	</item>
+        <item>	nie	</item>
+        <item>	2,3,4,5,6,1	</item>
+        <item>	krew odpływa od głowy	</item>
+        <item>	obniżenie napięcia mięśniowego	</item>
+        <item>	maleje	</item>
+        <item>	krew napływa do głowy	</item>
+        <item>	prawo Henrye"go	</item>
+        <item>	głowa - kończyny dolne / Gz + /	</item>
+        <item>	#NAZWA?	</item>
+        <item>	tlen przechodzi do pęcherzyka, a dwutlenek węgla do krwi	</item>
+        <item>	tlen przechodzi do krwi, a dwutlenek węgla do tkanek	</item>
+        <item>	maleje	</item>
+        <item>	zawsze związane z koniecznością przezwyciężenia zjawiska „bloku umysłowego”	</item>
+        <item>	pomiar prędkości liniowych	</item>
+        <item>	filtrowanie szkodliwego promieniowania mikrofalowego	</item>
+        <item>	rozszerzenie naczyń krwionośnych, włosowatych	</item>
+        <item>	utworzenie wewnętrznej reprezentacji przestrzeni problemu zadaniowego	</item>
+        <item>	dopuszczalne ich stosowanie na 7 dni przed lotami	</item>
+        <item>	do pięciu minut	</item>
+        <item>	tylko przy zawyżonym poziomie motywacji	</item>
+        <item>	styl konfrontacyjny zorientowany na osobę	</item>
+        <item>	dłonie oparte palcami w połowie mostka, ręce wyprostowane w łokciach	</item>
+        <item>	opaska uciskowa poniżej rany i opatrunek uciskowy na ranie	</item>
+        <item>	wychowawczej	</item>
+        <item>	proces charakteryzujący zjawisko uwagi selektywnej	</item>
+        <item>	tęczówkę	</item>
+        <item>	PRAWDA	</item>
+        <item>	są najgorzej tolerowane przez organizm ludzki	</item>
+        <item>	uderzyć poszkodowanego w mostek	</item>
+        <item>	amfetaminy	</item>
+        <item>	selekcja do dalszego przetwarzania pewnej części wejścia sensorycznego	</item>
+        <item>	awarię przyrządów pokładowych	</item>
+        <item>	krew zazwyczaj wypływa leniwym strumieniem i ma jasnoczerwone zabarwienie	</item>
+        <item>	następuje pełna, optymalna adaptacja możliwości odbioru i przetwarzania informacji u człowieka bez zakłóceń	</item>
+        <item>	podnoszenia „nosa” samolotu w górę	</item>
+        <item>	szybko zmniejszając wysokość przełykać ślinę	</item>
+        <item>	zdanie jest prawdziwe i dlatego takie osoby mogą być przenoszone w pozycji pionowej	</item>
+        <item>	opadania samolotu „nosem” w dół	</item>
+        <item>	tlenu	</item>
+        <item>	niedotlenienie wysokościowe po uszkodzeniu aparatury tlenowej	</item>
+        <item>	zaburzenia ukrwienia tkanek	</item>
+        <item>	nigdy	</item>
+        <item>	nigdy	</item>
+        <item>	#NAZWA?	</item>
+        <item>	9,81 m/s2 i działa pionowo ku górze	</item>
+        <item>	zatrucia tlenkiem węgla	</item>
+        <item>	głównie są to skoordynowane korekcyjne czynności motoryczne angażujące podstawowe rodzaje ruchów w działaniu pilota: pozycyjne, ciągłe, seryjne	</item>
+        <item>	stanowi obszar wzmożonej koncentracji komórek odbierających wrażenia wzrokowe, tworząc obszar wybitnie ostrego widzenia	</item>
+        <item>	tymczasowy brak umiejętności organizacji informacji w jednolitą całość	</item>
+        <item>	proces ukierunkowany na cel myślenia realistycznego	</item>
+        <item>	utworzenie wewnętrznej reprezentacji przestrzeni problemu z wyszczególnieniem wszystkich jej elementów	</item>
+        <item>	generalizowanie i reagowanie na wszystkie podobne bodźce szybko wygasza się	</item>
+        <item>	dwa przewody półkoliste błędnika	</item>
+        <item>	jest najbardziej zewnętrzną błoną oka	</item>
+        <item>	wywiad	</item>
+        <item>	spostrzeganie ograniczonego wycinka szerszego świata wizualnego rozciągającego się we wszystkie strony niewidocznego otoczenia	</item>
+        <item>	zaburzenia zdolności rozumowania, mania prześladowcza, utrata zdolności do samokrytyki	</item>
+        <item>	jest dozwolone w niewielkich ilościach na własne potrzeby	</item>
+        <item>	jest dozwolone	</item>
+        <item>	3-4 tys. m	</item>
+        <item>	od 2.000 – 4.000 mnpm	</item>
+        <item>	3.500-4.000 m	</item>
+        <item>	3.500-4.000 m	</item>
+        <item>	stan silnego podniesienia aktywności emocjonalnej	</item>
+        <item>	wszelkie zakłócenia fizjologicznego funkcjonowania człowieka	</item>
+        <item>	prawdziwe ale nie ma znaczenia dla pilotów	</item>
+        <item>	w procesie podejmowania decyzji pilot wykorzystuje głównie informacje stałe przyswojone w czasie naziemnego przygotowania do lotu	</item>
+        <item>	powoduje u pilota lądującego na nim złudzenie, że samolot znajduje się wyżej niż w rzeczywistości	</item>
+        <item>	10g/godzinę	</item>
+        <item>	fałsz, zależy ona jedynie od ilości wypitego alkoholu	</item>
+        <item>	niedoborem witaminy E	</item>
+        <item>	około 45 dB	</item>
+        <item>	z mniejszego powinowactwa do hemoglobiny niż tlen	</item>
+        <item>	niedotlenienie, hiperglikemię (podwyższone stężenie cukru we krwi)	</item>
+        <item>	zatoki szczękowe z jama nosową	</item>
+        <item>	umiejętność szybkiego rozluźnienia się w czasie zdenerwowania	</item>
+        <item>	po usunięciu soczewki	</item>
+        <item>	intensywność iluminacji	</item>
+        <item>	ludzie nie mają jednakowej motywacji do pracy	</item>
+        <item>	przetwarzanie informacji jest podobne pod względem jakościowym	</item>
+        <item>	działania na organizm przeciążenia dodatniego wzdłuż osi kończyny dolne-głowa	</item>
+        <item>	przeciążenia dodatniego wzdłuż długiej osi ciała	</item>
+        <item>	spadek temperatury	</item>
+        <item>	60%	</item>
+        <item>	zażywanie silnych leków nasercowych	</item>
+        <item>	otwarty, krew krąży w naczyniach i wylewa się do jam ciała	</item>
+        <item>	serca i naczyń chłonnych	</item>
+        <item>	krążenia systemowego i płucnego, a serce zbudowane jest z 3 jam	</item>
+        <item>	świadomą kontrolę nad fizjologicznymi procesami ustroju	</item>
+        <item>	odbieranie bodźców dźwiękowych	</item>
+        <item>	niezależnie od kierunku zmian ciśnienia otaczającego	</item>
+        <item>	niedotlenieniem wysokościowym	</item>
+        <item>	zapadnięcie gałki ocznej	</item>
+        <item>	nieświadome zapamiętywanie informacji sensorycznych	</item>
+        <item>	nieświadome przechowywanie i zapamiętywanie informacji	</item>
+        <item>	trwałość i stopień intensywności skupienia uwagi mierzony w jednostce czasu	</item>
+        <item>	poprawia tolerancję niedotlenienia wysokościowego, jeżeli wzrośnie również liczba oddechów	</item>
+        <item>	maleje	</item>
+        <item>	na siatkówce	</item>
+        <item>	w sercu	</item>
+        <item>	większej wrażliwości mózgu na niedotlenienie w nocy	</item>
+        <item>	należy stosować masaż serca i sztuczne oddychanie	</item>
+        <item>	należy od razu przystąpić do masażu serca	</item>
+        <item>	przyspieszyć tempo oddychania	</item>
+        <item>	przenosić poszkodowanego wygodnie niezależnie od pozycji, gdyż zasadnicze uszkodzenia już się dokonały	</item>
+        <item>	pozostawić go pod nadzorem na miejscu do czasu odzyskania przytomności, a następnie wynieść z miejsca wypadku	</item>
+        <item>	należy ratować go za wszelką cenę	</item>
+        <item>	powoli zwiększać wysokość przy wstrzymanym oddechu	</item>
+        <item>	wrażeniom wzrokowym	</item>
+        <item>	przyspieszać oddech do momentu kiedy mięśnie oddechowe zmęczą się i nie będą w stanie dalej przyspieszać	</item>
+        <item>	zwiększać powoli wysokość lotu	</item>
+        <item>	oddychać szybciej	</item>
+        <item>	krew znacznie silniej napływa do głowy	</item>
+        <item>	krew znacznie silniej odpływa od głowy	</item>
+        <item>	od zatrucia minęła więcej niż 1 godzina	</item>
+        <item>	unieruchomić dwa sąsiednie stawy dopiero  po ustawieniu kończyny  w pozycji naturalnej	</item>
+        <item>	stosować sztuczne oddychanie, ale nie masować serca	</item>
+        <item>	silny ból głowy	</item>
+        <item>	narząd słuchu	</item>
+        <item>	najlżej poszkodowanym	</item>
+        <item>	osobom ze złamaniami	</item>
+        <item>	przekroczoną  ładowność samolotu	</item>
+        <item>	wyraźna artykulacja, dobra dykcja, bogate słownictwo, talent oratorski	</item>
+        <item>	powoduje u pilota lądującego na nim złudzenie, że samolot znajduje się niżej niż w rzeczywistości	</item>
+        <item>	dwojenie obrazu	</item>
+        <item>	przewód pokarmowy	</item>
+        <item>	zaburzenia temperatury ciała	</item>
+        <item>	zmienna i nieograniczona	</item>
+        <item>	w przypadku utrzymywania się objawów „kaca" wolno zasiadać za sterami, nawet gdy stężenie alkoholu we krwi jest poniżej progu trzeźwości	</item>
+        <item>	nadmierne łzawienie i ból gałek ocznych	</item>
+        <item>	uczucie braku powietrza, uczucie zmęczenia, nudności, wymioty, widzenie lunetowate	</item>
+        <item>	nie występuje u pilotów	</item>
+        <item>	nie występuje u pilotów	</item>
+        <item>	parowanie potu	</item>
+        <item>	oskrzelach	</item>
+        <item>	przyspiesza dwukrotnie jego eliminację z krwi	</item>
+        <item>	nie ma znaczenia w wykonywaniu czynności lotniczych	</item>
+        <item>	3 tys.	</item>
+        <item>	drożną trąbką słuchową	</item>
+        <item>	nie ma związku z wyrównywaniem ciśnień w uchu środkowym i jamie nosowo-gardłowej	</item>
+        <item>	podawanie leków przeciwko chorobie lokomocyjnej	</item>
+        <item>	3	</item>
+        <item>	zdolność do bardzo szybkiego przenoszenia uwagi z jednego elementu na drugi	</item>
+        <item>	I	</item>
+        <item>	zamglenie rogówki	</item>
+        <item>	żyły odprowadzają krew od serca do tkanek	</item>
+        <item>	nie są obserwowalne objawy zewnętrzne	</item>
+        <item>	zubożenie emocjonalne, stępienie, sztywność, spłycenie uczuć, zachowania aspołeczne, unikanie kontaktów z ludźmi, nieuzasadniona wrogość, poczucie małej wartości	</item>
+        <item>	zawsze dozwolone	</item>
+        <item>	rozwijaniu, ukierunkowywaniu i regulowaniu energii służącej do osiągnięcia celu  niezależnie od przeszkód i trudności przy zachowaniu pozytywnego stosunku do  pracy	</item>
+        <item>	odwrotnie proporcjonalnie do spadku ciśnienia atmosferycznego	</item>
+        <item>	zmniejsza się procentowa zawartość tlenu i azotu	</item>
+        <item>	określenie rozdrażnienia typu neurastenicznego polegającego na zwiększonej pobudliwości na bodźce zmysłowe /światło, hałas, dotyk/ odbierane z subiektywnym poczuciem dyskomfortu lub bólu	</item>
+        <item>	zaburzenie pracy mięśni rzęskowych	</item>
+        <item>	uszkodzenie kabiny samolotu przez mikrometeoryty	</item>
+        <item>	fałsz przyspiesza jedynie jego wchłanianie z żołądka	</item>
+        <item>	właściwie umocowanych plastrów w miejscu złamania	</item>
+        <item>	nie występują w lotnictwie	</item>
+        <item>	mogą mieć miejsce szczególnie w czasie lotu przy dobrej pogodzie	</item>
+        <item>	przyspieszeń liniowych na kanały półkoliste	</item>
+        <item>	mogą mieć miejsce szczególnie podczas lotu bez widoczności	</item>
+        <item>	złudzeniu lotu z przechyleniem na skrzydło	</item>
+        <item>	stan wrażliwości zmysłowej umożliwiający dostrzeganie szczegółów	</item>
+        <item>	niepełnej adaptacji	</item>
+        <item>	kanały półkoliste	</item>
+        <item>	kannabinoli (marihuana, haszysz)	</item>
+    </string-array>
+
+    <string-array name="czlowiek_odp_c" >
+        <item>	odchylania rzęsek komórek sensorycznych przez kryształy węglanu wapnia /otoconia/	</item>
+        <item>	zdolność przechodzenia promieni przez soczewkę	</item>
+        <item>	zmianami w ciele szklistym	</item>
+        <item>	dobre przygotowanie merytoryczne i wysłuchiwanie rozmówcy w skupieniu	</item>
+        <item>	jest substancją uzależniającą, ale nie psychoaktywną	</item>
+        <item>	zdanie jest fałszywe,a tłusty posiłek nie ma wpływu na wchłanianie alkoholu do krwi	</item>
+        <item>	teza jest prawdziwa jedynie podczas lotów z użyciem aparatury tlenowej	</item>
+        <item>	powoduje lepsze kojarzenie faktów	</item>
+        <item>	nawet w małej ilości powoduje halucynacje	</item>
+        <item>	pierwsze zdanie jest fałszywe, a drugie pwawdziwe	</item>
+        <item>	stanowcza i władcza postawa w kontaktach z ludźmi	</item>
+        <item>	najprostszy sposób wykonywania rutynowych czynności	</item>
+        <item>	ruchy ciała nieświadomie wykonywane w czasie głębokiej fazy snu	</item>
+        <item>	zaniechanie analizy trasy lotu	</item>
+        <item>	obustronnie niedrożnymi trąbkami słuchowymi	</item>
+        <item>	lotu poziomego	</item>
+        <item>	tylko rdzenia kręgowego	</item>
+        <item>	bezpośrednim następstwem zbyt szybkiego oddychania 100% tlenem	</item>
+        <item>	niedobór azotu w powietrzu pęcherzykowym	</item>
+        <item>	jest wywołana nadmiarem powietrza	</item>
+        <item>	występuje równie często u pilotów jak i u pasażerów	</item>
+        <item>	choroba wywołana obniżeniem ciśnienia w otaczającej atmosferze	</item>
+        <item>	narządu wzroku	</item>
+        <item>	związana z zaburzeniami błędnika	</item>
+        <item>	przewlekłe zapalenie zatok przynosowych	</item>
+        <item>	wpływ drgań statku powietrznego	</item>
+        <item>	śmierć	</item>
+        <item>	ok. 4 % całkowitego ciśnienia atmosferycznego	</item>
+        <item>	380 mmHg (ok.50% ciśnienia powietrza)	</item>
+        <item>	takie samo	</item>
+        <item>	głównie cechy związane z doświadczeniem życiowym nabyte i wyuczone społecznie przez jednostkę	</item>
+        <item>	określa stan obniżonego nastroju u pilota w sytuacji przemęczenia pracą	</item>
+        <item>	zaburzenia o charakterze psychotycznym	</item>
+        <item>	toleruje je tak samo	</item>
+        <item>	toleruje je tak samo	</item>
+        <item>	kończyny dolne  - głowa /Gz - /	</item>
+        <item>	te aspekty psychologiczne  nie mają znaczenia	</item>
+        <item>	nigdy ich nie zażywać	</item>
+        <item>	nie informować go o wykonywaniu czynności pilota, a jedynie ściśle przestrzegać zaleconego dawkowania	</item>
+        <item>	nigdy ich nie zażywać	</item>
+        <item>	nie łamie prawa	</item>
+        <item>	prawda tylko dla pilotów liniowych	</item>
+        <item>	jonizacja powietrza w kabinie samolotu	</item>
+        <item>	zagubienie mapy lotu	</item>
+        <item>	silne wydzielanie potu pozwala zachować normalną temperaturę	</item>
+        <item>	jedynie transport tlenu	</item>
+        <item>	0,7	</item>
+        <item>	bóle głowy, mroczki przed oczami, nudności, wymioty	</item>
+        <item>	zmniejszona aktywność ruchowa	</item>
+        <item>	lotu poziomego	</item>
+        <item>	odwodnianie organizmu pilota przed lotem	</item>
+        <item>	głównie od dobrej koordynacji ruchów pilota	</item>
+        <item>	niesprawnym instrumentem pokładowym	</item>
+        <item>	powyżej 120 skurczów/min	</item>
+        <item>	07-maj	</item>
+        <item>	krótkowzroczność	</item>
+        <item>	ultrafioletowego promieniowania słońca	</item>
+        <item>	antycypacji, czyli przewidywania biegu wydarzeń	</item>
+        <item>	następuje uwarunkowanie typu lękowego po jednorazowym zestawieniu bodźca obojętnego z traumatycznym	</item>
+        <item>	światło, wibracja	</item>
+        <item>	uzyskanie saturacji większej niż 95%	</item>
+        <item>	epizodyczne halucynacje jako reakcja na podprogowe działanie bodźców	</item>
+        <item>	wstrząs krwotoczny	</item>
+        <item>	synapsy i neurony	</item>
+        <item>	kreatywnie bardzo poszerza możliwości działania	</item>
+        <item>	temperatura otoczenia i ruch powietrza	</item>
+        <item>	wstrząs hipowolemiczny	</item>
+        <item>	"wyrównanie ciśnienia w uchu
+środkowym"	</item>
+        <item>	siła, barwa i tembr głosu oraz intonacja w przekazie werbalnym	</item>
+        <item>	sposób komunikowania się zorganizowanych społeczeństw istot żywych	</item>
+        <item>	umiejętność analizy informacji ignorowanych poza polem świadomości	</item>
+        <item>	poszkodowany oddycha i ma własne tętno, ale jest nienaturalnie blady	</item>
+        <item>	doraźny ucisk na tętnicę udową	</item>
+        <item>	małą intensywnościąi wypływaniem ciemnoczerwonej krwi	</item>
+        <item>	worki piasku	</item>
+        <item>	poszarzenie całego pola widzenia	</item>
+        <item>	stłuczenie serca	</item>
+        <item>	dobra pamięć i koncentracja uwagi, osobowość dobrze funkcjonująca społecznie	</item>
+        <item>	lot akrobacyjny	</item>
+        <item>	lędźwiowy	</item>
+        <item>	+Gzdziałanie wzdłuż kręgosłupa w kierunku kończyn dolnych	</item>
+        <item>	wschód – zachód	</item>
+        <item>	zwiększonego narażenia na wystąpienie udaru cieplnego	</item>
+        <item>	prawda jedynie w przypadku pilotów liniowych	</item>
+        <item>	jeśli przyjmowane leki działają na mózg	</item>
+        <item>	jedynie w przypadku pilotów akrobacyjnych	</item>
+        <item>	należy spożyć inny lek, który zniweluje działania uboczne poprzedniego	</item>
+        <item>	nie są przeciwwskazane u pilotów liniowych	</item>
+        <item>	zwiększa  sprawność psychomotoryczną pilota	</item>
+        <item>	w nerkach i jest stały w czasie	</item>
+        <item>	ból w uszach spowodowany rozprężaniem się gazów w uchu środkowym w związku ze zmianą wysokości	</item>
+        <item>	rozstrojenie – destrukcja mobilizacja	</item>
+        <item>	rogówka, spojówka, siatkówka	</item>
+        <item>	pęcherzykiem powietrza pod wypełnieniem i występuje zarówno przy wznoszeniu i zmniejszaniu wysokości	</item>
+        <item>	nieprawidłową higieną jamy ustnej	</item>
+        <item>	iluzje związane z ruchem w obwodowym polu widzenia	</item>
+        <item>	spadek poziomu  adrenaliny w surowicy krwi	</item>
+        <item>	"podawanie leków antyhistaminowych
+/Meclizyna, Dimenhydrant/"	</item>
+        <item>	niezaspokojenie potrzeb wyższych związanych z poziomem aspiracji	</item>
+        <item>	powonienie	</item>
+        <item>	mięśnie szkieletowei stawy	</item>
+        <item>	zaburzenie pracy płuc	</item>
+        <item>	pejotl	</item>
+        <item>	jedynie z ucha środkowego	</item>
+        <item>	narząd przedsionkowy /błędnik /	</item>
+        <item>	odbierają bodźce zewnętrzne i przekazują je jedynie do autonomicznego układu nerwowego	</item>
+        <item>	cecha ludzi powolnych, flegmatycznych, działających z rozwagą	</item>
+        <item>	trwale uszkadza słuch	</item>
+        <item>	agresją	</item>
+        <item>	sercowo-naczyniowego	</item>
+        <item>	braku możliwości zużycia tlenuw tkankach	</item>
+        <item>	ból oka	</item>
+        <item>	prawda jedynie w przypadku pilotów liniowych	</item>
+        <item>	rozróżnianie barw	</item>
+        <item>	niemożność wydania  z siebie głosu i widzenie lunetowate	</item>
+        <item>	sytuacji, w której  pilot nie zna kursu do lotniska docelowego	</item>
+        <item>	nadpobudliwość nerwowa, pobudzenie psychomotoryczne, zaburzenia pamięci	</item>
+        <item>	chorobą kesonową	</item>
+        <item>	ból i obrzęk stawu bliżej tułowia	</item>
+        <item>	wzrostu CO2	</item>
+        <item>	teza jest prawdziwa jedynie podczas lotów z użyciem aparatury tlenowej	</item>
+        <item>	sprężanie gazów w jamach ciała	</item>
+        <item>	mózgu	</item>
+        <item>	"procesem dyfuzji objęty jest tylko tlen
+/O2/"	</item>
+        <item>	dyfuzja dotyczy tylko tlenu /O2/	</item>
+        <item>	tchawicą a otaczającą atmosferą	</item>
+        <item>	cechą wrodzoną	</item>
+        <item>	zwiększona potliwość w sytuacji stresowej	</item>
+        <item>	czerwonej, żółtej, niebieskiej	</item>
+        <item>	od pierwszego podania leku do podania ostatniej dawki	</item>
+        <item>	"nie reanimować z powodu zagrożenia
+życia"	</item>
+        <item>	struktura psychicznych dyspozycji do określonych zachowań i gotowości reagowania na bodźce środowiskowe	</item>
+        <item>	lampy szczelinowej	</item>
+        <item>	stanowi czynnik nieodzowny w procesach oddychania kręgowców	</item>
+        <item>	strukturę poznawczą związaną z myśleniem logicznym	</item>
+        <item>	kodowanie informacji tylko w zależności od bieżącego kontekstu	</item>
+        <item>	możliwego powikłania w postaci zapalenia oskrzeli	</item>
+        <item>	ponieważ gazy uwięzione w jelitach mogą powodować ból brzucha przy zmniejszaniu wysokości	</item>
+        <item>	nastawić rękę, stosując wyciąg	</item>
+        <item>	od 0 do 22	</item>
+        <item>	oczopląsem	</item>
+        <item>	zależy od indywidualnych możliwości organizmu	</item>
+        <item>	6,1,2,3,4,5	</item>
+        <item>	krew napływa do  kończyn dolnych	</item>
+        <item>	przyspieszenie akcji serca i zwolnienie akcji oddechowej	</item>
+        <item>	utrzymuje się na stałym poziomie	</item>
+        <item>	krew odpływa od kończyn dolnych	</item>
+        <item>	prawo Boyle`a	</item>
+        <item>	przednia ściana klatki piersiowej – plecy /Gx + /	</item>
+        <item>	#NAZWA?	</item>
+        <item>	tlen i dwutlenek węgla przechodzą do krwi	</item>
+        <item>	tlen i dwutlenek węgla przechodzą do krwi	</item>
+        <item>	utrzymuje się na stałym poziomie	</item>
+        <item>	redukcja rozwiązania złożonych problemów do prostszych cząstkowych operacji	</item>
+        <item>	pomiar przyspieszeń kątowych	</item>
+        <item>	filtrowanie szkodliwego promieniowania widzialnego	</item>
+        <item>	zwiększenie wypromieniowania ciepła przez skórę	</item>
+        <item>	procesy widzenia stereoskopowego i dużej przerzutności uwagi	</item>
+        <item>	dozwolone po lotach	</item>
+        <item>	do dziesięciu minut	</item>
+        <item>	przy średnio intensywnym poziomie motywacji	</item>
+        <item>	styl unikowy zorientowany na emocje	</item>
+        <item>	dłonie oparte palcami w 1/3  dolnej mostka, ręce wyprostowane w łokciach	</item>
+        <item>	opaska uciskowa powyżej  rany	</item>
+        <item>	społecznej	</item>
+        <item>	proces eliminacji materiału ignorowanego przez uwagę	</item>
+        <item>	siatkówkę	</item>
+        <item>	zdanie jest nieprawdziwe jedynie w przypadku akrobacji	</item>
+        <item>	są gorzej tolerowane niż przeciążenia wzdłuż osi długiej	</item>
+        <item>	wykonać kilkanaście głębokich wdechów	</item>
+        <item>	kokainy	</item>
+        <item>	ilość informacji, które kanały percepcyjne mogą przyjąć i przesłać	</item>
+        <item>	zdarzenie losowe w powietrzu	</item>
+        <item>	krew zazwyczaj wypływa intensywnym tętniącym strumieniem i ma ciemnoczerwone zabarwienie	</item>
+        <item>	następuje zjawisko wizualizacji podobnych zdarzeń z przeszłości	</item>
+        <item>	rotacji bocznej	</item>
+        <item>	szybko zmniejszać wysokość z zatrzymanym oddechem	</item>
+        <item>	zdanie jest prawdziwe i dlatego takie osoby mogą być przenoszone jedynie w pozycji poziomej	</item>
+        <item>	rotacji bocznej	</item>
+        <item>	dwutlenku węgla	</item>
+        <item>	zaburzenia funkcji błędnika podczas wyższej akrobacji	</item>
+        <item>	obniżenie stężenia hemoglobiny we krwi	</item>
+        <item>	chyba, że pilot lata zawodowo	</item>
+        <item>	jedynie dla pilota zawodowego	</item>
+        <item>	#NAZWA?	</item>
+        <item>	10,81 m/s 2 i działa pionowo ku dołowi	</item>
+        <item>	zmęczenia	</item>
+        <item>	zmniejsza się zakres koniecznej świadomej kontroli lotu i angażowania procesów orientacyjnych, pilot bazuje na zautomatyzowaniu czynności i nawykach lotniczych	</item>
+        <item>	stanowi obszar takiej samej wrażliwości na bodźce wzrokowe	</item>
+        <item>	przedłużony czas przetwarzania informacji	</item>
+        <item>	proces ułatwiający subiektywne oszacowanie prawdopodobieństwa zajścia zdarzeń	</item>
+        <item>	typ tendencyjnego rozumowania, w którym ocenia się jako prawomocne tylko konkluzje zgodne z osobistymi przekonaniami danej osoby	</item>
+        <item>	wyzwoleniu się spod działania negatywnego bodźca towarzyszą reakcje autonomicznego układu nerwowego	</item>
+        <item>	jeden przewód półkolisty błędnika	</item>
+        <item>	jest innym określeniem soczewki	</item>
+        <item>	metoda statystyczna	</item>
+        <item>	umiejętność szczegółowej obserwacji obiektów położonych w dużej odległości	</item>
+        <item>	autyzm, dereizm, dezintegracja osobowości, uzależnienia od alkoholu i substancji psychoaktywnych	</item>
+        <item>	jest dozwolone w celach towarzyskich, ale obowiązuje 24 godziny karencji przed lotem (jak przy alkoholu)	</item>
+        <item>	jest obojętne dla jakości wykonywania czynności lotniczych	</item>
+        <item>	4-5 tys. m	</item>
+        <item>	od 4.000 – 6.000 mnpm	</item>
+        <item>	3.000-4.000 m	</item>
+        <item>	4.000-5.000 m	</item>
+        <item>	stan dużego napięcia wewnętrznego związanego z jakimś problemem	</item>
+        <item>	czynniki powodujące bezsenność	</item>
+        <item>	fałszywe	</item>
+        <item>	decyzja jest jednoznaczna i nie wymaga większego zaangażowania procesów myślowych	</item>
+        <item>	powoduje u pilota lądującego na nim złudzenie, że samolot znajduje się na wysokości rzeczywistej	</item>
+        <item>	5g/godzinę	</item>
+        <item>	prawda i wynosi ona 100 mg/kg masy ciała na godzinę	</item>
+        <item>	podwyższonym poziomem cholesterolu	</item>
+        <item>	około 72 dB	</item>
+        <item>	z  uszkodzenia układu białokrwinkowego krwi	</item>
+        <item>	tylko hiperwentylację	</item>
+        <item>	jamę nosową z jamą gardłową	</item>
+        <item>	"relaks poprzez zestaw intensywnych
+ćwiczeń gimnastycznych"	</item>
+        <item>	po przeszczepieniu rogówki	</item>
+        <item>	czynnik socjalny	</item>
+        <item>	ludzie są zróżnicowani pod względem zdolności ogólnych i specjalnych	</item>
+        <item>	potrzebuje mniej czasu na odebranie i przetworzenie informacji z racji szybkiego przetwarzania informacji niepełnej nie obciążony nadmiarem doświadczeń	</item>
+        <item>	działania na organizm przeciążenia ujemnego wzdłuż osi bocznej ciała	</item>
+        <item>	przeciążenia dodatniego wzdłuż bocznej osi ciała	</item>
+        <item>	hałas	</item>
+        <item>	30%	</item>
+        <item>	stosowanie leków psychoaktywnych	</item>
+        <item>	otwarty lub zamknięty w zależności od wysokości nad poziom morza	</item>
+        <item>	tylko z tętnic i żył	</item>
+        <item>	tylko z krążenia systemowego, a serce zbudowane jest z 4 jam	</item>
+        <item>	jedynie za kontrolę fizjologii organizmu w sytuacjach "walki lub ucieczki"	</item>
+        <item>	prawidłowe napięcie mięśni	</item>
+        <item>	przy długotrwałym oddychaniu czystym tlenem	</item>
+        <item>	obniżeniem ciśnienia atmosferycznego	</item>
+        <item>	zapalenie brzegów powiek	</item>
+        <item>	"umiejętność skupienia się na jednym
+źródle informacji"	</item>
+        <item>	rodzaj uwagi o ograniczonej pojemności	</item>
+        <item>	różne cechy związane z daną sytuacją psychologiczną, motywacjąi osobowością	</item>
+        <item>	nie poprawia tolerancji niedotlenienia wysokościowego	</item>
+        <item>	utrzymuje się na stałym poziomie	</item>
+        <item>	za siatkówką	</item>
+        <item>	w wątrobie	</item>
+        <item>	mniejszej wrażliwości mózgu na niedotlenienie w nocy	</item>
+        <item>	należy czekać na powrót samoistnego oddechu	</item>
+        <item>	należy położyć poszkodowanego w pozycji bocznej bezpiecznej nawet mimo zachowanej świadomości	</item>
+        <item>	zwolnić tempo oddychania	</item>
+        <item>	przenosić poszkodowanego jedynie w pozycji pionowej, ale z założonym kołnierzem Schantza	</item>
+        <item>	położyć na twardym podłożu	</item>
+        <item>	nie dbać o własne zdrowie	</item>
+        <item>	szybko zwiększać wysokość przy wstrzymanym oddechu	</item>
+        <item>	wrażeniom błędnika oraz wzrokowym	</item>
+        <item>	nie zwracać uwagi na tempo oddechu	</item>
+        <item>	zwiększać szybko wysokość lotu	</item>
+        <item>	zamknąć oczyi spróbować się zrelaksować	</item>
+        <item>	krew nie zmienia siły napływu do głowy	</item>
+        <item>	krew nie zmienia siły napływu do głowy	</item>
+        <item>	poszkodowany jest przytomny lub nastąpiło zatrucie substancja stałą	</item>
+        <item>	unieruchomić jedynie staw bliższy tułowia	</item>
+        <item>	nie reanimować go wcale	</item>
+        <item>	zatkanie uszu	</item>
+        <item>	narząd wzroku	</item>
+        <item>	najbliższym znajdującym się przy ratowniku	</item>
+        <item>	osobom ze zwichnięciami	</item>
+        <item>	nadwagę	</item>
+        <item>	kultura osobista, bogate zainteresowania, biegłość w argumentacji	</item>
+        <item>	powoduje u pilota lądującego na nim złudzenie, że samolot znajduje się na wysokości rzeczywistej	</item>
+        <item>	awitaminoza	</item>
+        <item>	skórę i błony śluzowe	</item>
+        <item>	napadowe zasypianie w ciągu dnia	</item>
+        <item>	sztywno określona przez siłę bodźca	</item>
+        <item>	alkohol zwiększa zdolność mózgu do zużycia tlenu, szczególnie w czasie pobytu na znacznych wysokościach	</item>
+        <item>	przekrwienie spojówek	</item>
+        <item>	uczucie braku powietrza, uczucie zmęczenia, nudności, wymioty, zawroty głowy, widzenie w kolorze czerwonym	</item>
+        <item>	zawsze występujeu pilotów podczas obniżania wysokości	</item>
+        <item>	występuje u pilotów, ale nie ma znaczenia podczas lotu	</item>
+        <item>	przewodzenie	</item>
+        <item>	krtani	</item>
+        <item>	przyspiesza trzykrotnie jego eliminację z krwi	</item>
+        <item>	ma znaczenie wyłącznie przy zagrożeniu bezpieczeństwa lotu	</item>
+        <item>	5 tys.	</item>
+        <item>	przebitą błoną bębenkową	</item>
+        <item>	jest bezpośrednio związane z zapaleniem ucha środkowego	</item>
+        <item>	używanie ochronników słuchu	</item>
+        <item>	2	</item>
+        <item>	niezdolność do zmiany zachowania aktualnego pod wpływem minionych doświadczeń	</item>
+        <item>	III	</item>
+        <item>	męty w ciele szklistym	</item>
+        <item>	tętnice i żyły doprowadzają krew do serca	</item>
+        <item>	apatia, wyciszenie, spowolnienie psychomotoryki, źrenice zwężone	</item>
+        <item>	nie ma charakterystycznych objawów zewnętrznych	</item>
+        <item>	zabronione jedynie u pilotów liniowych	</item>
+        <item>	umiejętność wyboru i skoncentrowania się  na zadaniu subiektywnie ocenianym jako najważniejsze	</item>
+        <item>	całkowicie niezależnie od spadku ciśnienia atmosferycznego	</item>
+        <item>	zmniejsza się procentowa zawartość tlenu, azotu i CO2	</item>
+        <item>	określenie fazy rekonwalescencji w terapii chorób psychicznych po ustąpieniu objawów ostrych danego schorzenia	</item>
+        <item>	kręcz karku	</item>
+        <item>	objawy związane z uwalnianiem się gazów z tkanek	</item>
+        <item>	PRAWDA	</item>
+        <item>	bandażowania okolicy złamania	</item>
+        <item>	nie występują poniżej 2000 m	</item>
+        <item>	nie mają znaczenia przy locie w chmurach	</item>
+        <item>	przyspieszeń kątowych na narządy otolitowe	</item>
+        <item>	mogą mieć miejsce szczególnie podczas lotu w dobrej pogodzie	</item>
+        <item>	odczuciu zbyt dużego kąta wznoszenia podczas startu	</item>
+        <item>	aktywne przetwarzanie i przesyłanie informacji przy dużej selekcji bodźców	</item>
+        <item>	ubytków w polu widzenia	</item>
+        <item>	młoteczek i kowadełko	</item>
+        <item>	morfiny	</item>
+    </string-array>
+
+    <string-array name="czlowiek_odp_d" >
+        <item>	odbiorze wibracji przez wyspecjalizowane zakończenia nerwowe	</item>
+        <item>	zdolność przejścia promieni przez ciało szkliste	</item>
+        <item>	zmianami na dnie oka	</item>
+        <item>	pełne nastawienie kontaktu na odbiorcę pozbawione elementów mojej aktywności, która mogłaby go zakłócić	</item>
+        <item>	oba stwierdzenia są fałszywe	</item>
+        <item>	zdanie jest prawdziwe, ale wydalanie alkoholu zależy od ilości jedzenia	</item>
+        <item>	teza jest fałszywa podczas lotów powyżej 4000 m	</item>
+        <item>	polepsza krążenie i powoduje lepsze wykorzystanie tlenu przez mózg	</item>
+        <item>	w małej ilości jest dopuszczalny bezpośrednio i w czasie lotu	</item>
+        <item>	oba zdania są fałszywe	</item>
+        <item>	umiejętność instrumentalnego manipulowania ludźmi	</item>
+        <item>	wyćwiczone czynności poznawcze i ruchowe  odbywające się z udziałem woli człowieka w sytuacji stresowej lecz objęte niepamięcią wsteczną	</item>
+        <item>	koordynacja reakcji i działań w procesie uczenia się nowych czynności	</item>
+        <item>	nieuważna obserwacja przyrządów pokładowych	</item>
+        <item>	ciśnienie parcjalne tlenu O2 w przybliżeniu wynosiok. 20% całkowitego ciśnienia atmosferycznego	</item>
+        <item>	tak samo często podczas zwiększania i zmniejszania wysokości	</item>
+        <item>	narządów zmysłów	</item>
+        <item>	stanem nie występującym w lotnictwie, a jedynie podczas nurkowania na znacznej głębokości	</item>
+        <item>	spadek ciśnienia parcjalnego tlenu	</item>
+        <item>	jest spowodowana spadkiem ciśnienia atmosferycznego	</item>
+        <item>	nie ma znaczenia ani dla pilota ani dla pasażera	</item>
+        <item>	choroba spowodowana przez powstające w ustroju  /przy zmianie ciśnienia/ pęcherzyki azotu	</item>
+        <item>	niedotlenienie mózgu	</item>
+        <item>	synonimem choroby dekompresyjnej	</item>
+        <item>	zapalenie ucha środkowego	</item>
+        <item>	wpływ różnicy temperatur	</item>
+        <item>	mdłości	</item>
+        <item>	ok.1% całkowitego ciśnienia atmosferycznego	</item>
+        <item>	570 mmHg (ok. 75% ciśnienia powietrza)	</item>
+        <item>	wyższe lub niższew zależności od temperatury powietrza	</item>
+        <item>	cechy w większości uwarunkowane dziedzicznie	</item>
+        <item>	określa niechęć do podejmowania obowiązków pilotowania statku powietrznego ściśle związaną z zespołem wypalenia zawodowego	</item>
+        <item>	zaburzenia związane z procesami adaptacji społecznej	</item>
+        <item>	nie toleruje prawie zupełnie ani jednych ani drugich	</item>
+        <item>	nie toleruje prawie zupełnie ani jednych ani drugich	</item>
+        <item>	głowa – kończyny dolne / Gz + /	</item>
+        <item>	tak, ale w głównej mierze zależy to od sytuacji	</item>
+        <item>	zażywać je w mniejszej dawce niż zalecane	</item>
+        <item>	odmówić przyjmowania ich całkowicie	</item>
+        <item>	zażywać je w mniejszej dawce niż zalecane	</item>
+        <item>	nie łamie prawa o ile przyjmuje je według zaleceń psychiatry	</item>
+        <item>	prawda tylko dla skoczków spadochronowych	</item>
+        <item>	obniżeniu zawartości tlenu we wdychanym powietrzu	</item>
+        <item>	błąd urządzenia GPS	</item>
+        <item>	nie można egzystować w temperaturze wyższej niż temperatura ciała	</item>
+        <item>	jedynie transport substratów metabolizmu	</item>
+        <item>	0,6	</item>
+        <item>	bóle okolicy lędźwiowo-krzyżowej promieniujące   do kończyn dolnych	</item>
+        <item>	niska wilgotność otoczenia	</item>
+        <item>	wznoszenia z dużą prędkością	</item>
+        <item>	wzrost ciśnienia w tętnicy płucnej	</item>
+        <item>	dobrej kontroli wzrokowej nośników informacji dotyczącej przebiegu lotu wewnątrz kabiny	</item>
+        <item>	właściwym horyzontem poza polem widzenia pilota	</item>
+        <item>	40-50 skurczów/min	</item>
+        <item>	20-30	</item>
+        <item>	nadwzroczność	</item>
+        <item>	mieszania składników każdej części powietrza	</item>
+        <item>	decyzyjne w sytuacji wyboru – gdy występuje możliwość pojawienia się więcej niż jednej reakcji w danym zadaniu	</item>
+        <item>	reakcja zależności typu : bodziec – reakcja w miarę upływu czasu przestaje zachodzić	</item>
+        <item>	obniżone ciśnienie, światło	</item>
+        <item>	uzyskanie stężenia dwutlenku węgla mniejszego niż 35 mm Hg	</item>
+        <item>	błędy percepcji wzrokowej występujące tylko w lotach nocnych	</item>
+        <item>	uraz kręgosłupa	</item>
+        <item>	rdzeń kręgowy	</item>
+        <item>	całkowicie dezintegruje działanie	</item>
+        <item>	ruch powietrza i wilgotność bezwzględna	</item>
+        <item>	niewydolność nerek	</item>
+        <item>	bóle oczu przy zmianie ciśnienia atmosferycznego	</item>
+        <item>	głęboko ukryte, niewypowiedziane myśli  i pragnienia człowieka	</item>
+        <item>	sygnały związane z mową ciała w połączeniu z wypowiedzianym tekstem	</item>
+        <item>	zinterioryzowany, ukierunkowany i kreatywny odbiór wrażeń w spostrzeganiu na bazie informacji powstałych z pobudzeń receptorów zmysłów w stanie wyciszenia emocjonalnego	</item>
+        <item>	poszkodowany jest nieprzytomny	</item>
+        <item>	doraźny ucisk na tętnicę szyjną (uciśnięcie bocznej części szyi)	</item>
+        <item>	małą intensywnością niezależnie od zabarwienia krwi	</item>
+        <item>	stabilizacja głowy rękami i nogami ratownika	</item>
+        <item>	zaburzenia ostrości wzroku	</item>
+        <item>	komorowe zaburzenia rytmu	</item>
+        <item>	osobowość introwertywna o dużej wrażliwości emocjonalnej z dobrymi umiejętnościami współpracy z ludźmi w zespole	</item>
+        <item>	lot IFR	</item>
+        <item>	krzyżowo-ogonowy	</item>
+        <item>	+Gydziałanie wzdłuż kręgosłupa w kierunku kończyn górnych	</item>
+        <item>	południe – północ	</item>
+        <item>	zwiększonego narażeniem na wystąpienie złudzeń wzrokowych	</item>
+        <item>	prawda jedynie w przypadku pilotów akrobacyjnych	</item>
+        <item>	jeśli przyjmowane leki  nie są przyjmowane doustnie	</item>
+        <item>	jedynie w przypadku pilotów liniowych	</item>
+        <item>	należy osłabić działanie ostatniej dawki leku przyjmując ją w czasie posiłku	</item>
+        <item>	są zakazane jedynie u pilotów liniowych	</item>
+        <item>	skraca czas reakcji wzrokowo - ruchowej	</item>
+        <item>	w mózgu i jest stały w czasie	</item>
+        <item>	ból zęba spowodowany rozprężaniem się gazóww kanale zębowym w związku ze zmianą wysokości	</item>
+        <item>	rozstrojenie-stabilność emocjonalna – mobilizacja	</item>
+        <item>	twardówka, rogówka, soczewka	</item>
+        <item>	lotem bez zmiany wysokości	</item>
+        <item>	obniżoną temperaturą środowiska zewnętrznego	</item>
+        <item>	obroty z dużą szybkością	</item>
+        <item>	zwężenie źrenic	</item>
+        <item>	zastosowanie nadciśnienia oddechowego	</item>
+        <item>	zaburzenia zachowania związane z funkcjonowaniem społecznym	</item>
+        <item>	analiza organoleptyczna	</item>
+        <item>	układ oddechowy	</item>
+        <item>	drżenia mięśniowe	</item>
+        <item>	opium i heroina	</item>
+        <item>	jedynie z kanałów półkolistych	</item>
+        <item>	ucho środkowe	</item>
+        <item>	nie odbierają bodźców zewnętrznych, a tylko wewnętrzne (z organizmu)	</item>
+        <item>	określenie rodzaju wrodzonego typu temperamentu człowieka	</item>
+        <item>	rozpoczyna się utratą świadomości	</item>
+        <item>	zwolnioną częstością oddechu	</item>
+        <item>	mięśniowo-szkieletowego	</item>
+        <item>	nadużywania alkoholu i narkotyków	</item>
+        <item>	ból brzucha	</item>
+        <item>	prawda jedynie w przypadku pilotów akrobacyjnych	</item>
+        <item>	prawidłową koordynację ruchów	</item>
+        <item>	utrata przytomności	</item>
+        <item>	sytuacji , w której pilot nie może nawiązać łączności z kontrolerem lotów	</item>
+        <item>	mała komunikatywność, cechy rozkojarzenia myślenia, pojawiają się zafałszowania urojeniowe pamięci	</item>
+        <item>	tachykardią	</item>
+        <item>	ból i obrzęk dwóch sąsiednich stawów	</item>
+        <item>	spadku ciśnienia śródgałkowego	</item>
+        <item>	teza jest fałszywa podczas lotów powyżej 4000 m	</item>
+        <item>	utrudnia wychodzenie gazów z jam ciała	</item>
+        <item>	mózgu i rdzenia kręgowego	</item>
+        <item>	procesem dyfuzji objęty jest tylko dwutlenek węgla /CO2/	</item>
+        <item>	"dyfuzja dotyczy tylko dwutlenku węgla
+/CO2/"	</item>
+        <item>	krtanią a otaczającą atmosferą	</item>
+        <item>	efektem wysokiego poziomu motywacji	</item>
+        <item>	cofnięcie ręki przy zetknięciu z gorącą blachą	</item>
+        <item>	żółtej, zielonej, niebieskiej	</item>
+        <item>	od podania leku do jego pełnego wchłonięcia z przewodu pokarmowego	</item>
+        <item>	reanimować z powodu zagrożenia uszkodzenia   kręgowego	</item>
+        <item>	grupa skorelowanych cech danej osoby ulegająca płynnymi znacznym zmianom w ciągu całego życia i nabywania doświadczeń	</item>
+        <item>	"wziernika okulistycznego
+/oftalmoskopu/"	</item>
+        <item>	nie ma żadnego wpływu na żywe organizmy	</item>
+        <item>	połączenie pamięci wzrokowej, słuchowej i kinestetycznej	</item>
+        <item>	pamięć ikoniczna	</item>
+        <item>	nie ma przeciwwskazań do latania z nieżytem górnych dróg oddechowych	</item>
+        <item>	ponieważ gazy uwięzione w jelitach zmniejszają tolerancję na niedotlenienie	</item>
+        <item>	wyprostować rękę , aż pacjent odczuje dyskomfort, następnie zastosować unieruchomienie szynowe	</item>
+        <item>	od 1 do 2	</item>
+        <item>	„kurzą ślepotą”	</item>
+        <item>	zależy od pojemności wyrzutowej serca	</item>
+        <item>	4,1,2,5,3,6	</item>
+        <item>	krew napływa do trzew (jamy brzusznej)	</item>
+        <item>	zmniejszenie przemiany materii	</item>
+        <item>	na przemian rośnie i maleje	</item>
+        <item>	krew napływa do trzew (jamy brzusznej)	</item>
+        <item>	żadne z nich	</item>
+        <item>	bok do boku/ Gz + /	</item>
+        <item>	#NAZWA?	</item>
+        <item>	tlen i dwutlenek węgla przechodzą do pęcherzyka	</item>
+        <item>	tlen i dwutlenek węgla przechodzą do tkanek	</item>
+        <item>	na przemian rośnie  i maleje	</item>
+        <item>	głównie oparte na bieżącej analizie informacji zdrowotnych związanych z daną podjętą reakcją	</item>
+        <item>	pomiar prędkości kątowych	</item>
+        <item>	filtrowanie szkodliwego promieniowania rentgenowskiego	</item>
+        <item>	zmiana współczynnika cieplnego tkanek	</item>
+        <item>	myślowe procesy konstruowania hipotez na podstawie ograniczenia faktów i testowanie ich	</item>
+        <item>	dopuszczalne ich stosowanie  przez pilotów niezawodowych	</item>
+        <item>	do jednej godziny	</item>
+        <item>	nie ma reguły	</item>
+        <item>	radzenie sobie poprzez wsparcie społeczne	</item>
+        <item>	dłonie oparte nadgarstkami połowie mostka, ręce wyprostowane w łokciach	</item>
+        <item>	zwykły opatrunek na ranie	</item>
+        <item>	sportowej	</item>
+        <item>	filtr uwagi czyli proces regulacji dopływu informacji ze zmysłów do świadomości	</item>
+        <item>	twardówkę	</item>
+        <item>	zdanie jest nieprawdziwe jedynie przypadku lotu w pętli odwróconej	</item>
+        <item>	nie mają znaczenia dla organizmu ludzkiego niezależnie od wartości siły przeciążenia	</item>
+        <item>	wypić kieliszek silnego alkoholu dla dezynfekcji jamy ustnej	</item>
+        <item>	morfiny	</item>
+        <item>	rodzaj skupienia uwagi w którym odbierany przez zmysły materiał selekcjonują hipotezy percepcyjne	</item>
+        <item>	utratę orientacji przestrzennej w chmurach	</item>
+        <item>	krew wypływa intensywnym strumieniem niezależnie od jej zabarwienia	</item>
+        <item>	następuje zawsze całkowite zahamowanie przebiegu procesów myślowych u człowieka	</item>
+        <item>	autorotacji	</item>
+        <item>	niezależnie od wysokości nie robić nic czekając na ustąpienie dolegliwości	</item>
+        <item>	zdanie jest fałszywe, a uszkodzenie rdzenia kręgowego nie ma żadnego związku z uszkodzeniem kręgosłupa	</item>
+        <item>	autorotacji	</item>
+        <item>	pary wodnej	</item>
+        <item>	zwiększenie objętości gazów w jelitach	</item>
+        <item>	spadek temperatury atmosfery otaczającej	</item>
+        <item>	chyba, że pilot wykonuje akrobacje	</item>
+        <item>	jedynie dla skoczka spadochronowego	</item>
+        <item>	#NAZWA?	</item>
+        <item>	10,81 m/s 2 i działa pionowo ku górze	</item>
+        <item>	zmiany stref czasowych	</item>
+        <item>	skupione wyłącznie na odbiorze informacji spoza kabiny, sprowadzone do umiejętności kontroli wzrokowej w obserwacji punktów orientacyjnych na ziemi	</item>
+        <item>	stanowi obszar zagęszczenia pręcików i czopków	</item>
+        <item>	brak umiejętności selekcji informacji ze strony środowiska zewnętrznego	</item>
+        <item>	myślenie autystyczne	</item>
+        <item>	myślenie dereistyczne, oderwane od rzeczywistości	</item>
+        <item>	po zestawieniu bodźca obojętnego z traumatycznym powstaje silne uczucie lęku odporne na wygaszanie	</item>
+        <item>	ślimak	</item>
+        <item>	nie występuje w gałce ocznej	</item>
+        <item>	metoda opisu	</item>
+        <item>	umiejętność oceny względnych odległości między obiektami obserwowanymi gdy człowiek porusza się w nieruchomym otoczeniu	</item>
+        <item>	cechy niedostosowania społecznego, wahania nastroju, ograniczenie aktywności złożonej, spłycenie uczuciowości	</item>
+        <item>	jest dozwolone warunkowo ale obowiązuje 48 godzin karencji przed lotem	</item>
+        <item>	jest dozwolone u pilotów turystycznych i szybowników	</item>
+        <item>	8-9 tys. m	</item>
+        <item>	powyżej 8.000 mnpm	</item>
+        <item>	5.500-6.000 m	</item>
+        <item>	5.000-6.000 m	</item>
+        <item>	stan rozchwiania emocjonalnego związanego z jakimś problemem	</item>
+        <item>	problemy i kłopoty życia codziennego	</item>
+        <item>	nieistotne dla pilota	</item>
+        <item>	dominują określone indywidualne preferencje w sposobie działania pilota	</item>
+        <item>	nie ma wpływu na postrzeganie odległości  od ziemi	</item>
+        <item>	0,5g/godzinę	</item>
+        <item>	fałsz, zależy ona jedynie od rodzaju wypitego alkoholu	</item>
+        <item>	niedoborem potasu	</item>
+        <item>	około 80 dB	</item>
+        <item>	z uszkodzenia płytek krwi	</item>
+        <item>	tylko niedotlenienie	</item>
+        <item>	jamy serca ze sobą	</item>
+        <item>	naukę umiejętności lekceważenia znaczenia nieistotnych zagrożeń	</item>
+        <item>	po zapaleniu tęczówki	</item>
+        <item>	dobowe wahania temperatury zewnętrznej otoczenia	</item>
+        <item>	wszyscy ludzie są równi pod względem inteligencji	</item>
+        <item>	nie koncentruje się na informacjach pochodzących z wskazań przyrządów określających parametry lotu	</item>
+        <item>	działania na organizm przeciążenia dodatniego wzdłuż osi bocznej ciała	</item>
+        <item>	przeciążenia dodatniego wzdłuż bocznej osi ciała	</item>
+        <item>	przeciążenie dodatnie / Gz+ /	</item>
+        <item>	45%	</item>
+        <item>	stosowanie alkoholu	</item>
+        <item>	otwarty lub zamknięty w zależności od stopnia utlenowania krwi	</item>
+        <item>	tylko z serca i naczyń kapilarnych	</item>
+        <item>	krążenia płucnego i systemowego, a serce składa się z 2 jam	</item>
+        <item>	za bliżej niepoznane procesy rozumowania i oceny sytuacji	</item>
+        <item>	rozpoznawanie zapachów	</item>
+        <item>	przy zmniejszeniu ciśnienia powietrza otaczającego	</item>
+        <item>	spadkiem temperatury powietrza	</item>
+        <item>	zapalenie gruczołu łzowego	</item>
+        <item>	przetwarzanie informacji ze zmysłów do świadomości	</item>
+        <item>	rodzaj uwagi świadomie selekcjonujący informacje w jednostce czasu	</item>
+        <item>	liczba elementów, które człowiek jest w stanie zauważyć	</item>
+        <item>	nie ma wpływu na tolerancję niedotlenienia	</item>
+        <item>	zmienia się cyklicznie	</item>
+        <item>	na rogówce	</item>
+        <item>	w płucach	</item>
+        <item>	większej wrażliwości na niedotlenienie komórek rozpoznających kolory	</item>
+        <item>	należy ułożyć poszkodowanego w pozycji bocznej bezpiecznej	</item>
+        <item>	należy wykonywać od razu masaż serca i sztuczne oddychanie	</item>
+        <item>	założyć maskę tlenową i przyspieszyć tempo oddychania	</item>
+        <item>	nie przenosić poszkodowanego nawet w przypadku zagrożenia np. pożarem	</item>
+        <item>	reanimowaćz zachowaniem szczególnych środków ostrożności	</item>
+        <item>	zadbać o poszkodowanego najpierw, a dopiero następnie pomyśleć o własnym bezpieczeństwie	</item>
+        <item>	powoli zwiększać wysokość i przełykać ślinę	</item>
+        <item>	wrażeniom błędnika	</item>
+        <item>	przełykać ślinę	</item>
+        <item>	przełykać ślinę	</item>
+        <item>	podwyższyć pułap lotu	</item>
+        <item>	występują silne zaburzenia oddychania	</item>
+        <item>	występują silne wrażenia słuchowe	</item>
+        <item>	poszkodowany jest przytomny lub nastąpiło zatrucie substancja płynną	</item>
+        <item>	unieruchomić jedynie staw dalszy od tułowia	</item>
+        <item>	nie przenosić	</item>
+        <item>	silny ból zęba	</item>
+        <item>	zmysł dotyku	</item>
+        <item>	osobom ze zwichnięciami	</item>
+        <item>	osobom przytomnym	</item>
+        <item>	zbytnie obciążenie pracą	</item>
+        <item>	umiejętność przeforsowania swojego punktu widzenia w rozmowie	</item>
+        <item>	nie ma wpływu na postrzeganie odległości od ziemi	</item>
+        <item>	pogorszenie widzenia	</item>
+        <item>	układ moczowy	</item>
+        <item>	bóle głowy i bezsenność	</item>
+        <item>	silnie uwarunkowana sytuacyjnie	</item>
+        <item>	po małym drinku /piwo, kieliszek wódki/ nie ma przeciwwskazań do wykonywania lotów	</item>
+        <item>	zwężenie pola widzenia	</item>
+        <item>	nudności, wymioty, zawroty głowy, utrata słuchu	</item>
+        <item>	jest konieczna przy wznoszeniu	</item>
+        <item>	jest pożądana przy obniżaniu wysokości	</item>
+        <item>	konwekcja	</item>
+        <item>	tętnicach	</item>
+        <item>	spowalnia jego eliminację z krwi	</item>
+        <item>	może zaburzać  koncentrację uwagi i koordynację psychoruchową	</item>
+        <item>	6 tys.	</item>
+        <item>	niedrożnym przewodem słuchowym zewnętrznym	</item>
+        <item>	jest związane z chorobami nerwu słuchowego	</item>
+        <item>	wykonywanie lotów tylko w dzień	</item>
+        <item>	5	</item>
+        <item>	ograniczenie pola widzenia przy utrzymaniu uwagi dowolnej na tym samym poziomie	</item>
+        <item>	IV	</item>
+        <item>	zmiany zwyrodnieniowe na dnie oka	</item>
+        <item>	tętnice i żyły odprowadzają krew od serca	</item>
+        <item>	silne halucynacje wzrokowo- słuchowe, ataki lęku	</item>
+        <item>	po niekontrolowanej euforii i pobudzenia:  zanik woli i chęci działania, krótkotrwała depresja połączona z lękami i bezsennością	</item>
+        <item>	dozwolone jedynie u pilotów akrobacyjnych	</item>
+        <item>	umiejętności podejmowania szybkiej decyzji na bazie właściwej interpretacji struktury problemu w czasie pracy zespołowej przy akceptacji zadań i ról zmierzających do osiągnięcia jednomyślności	</item>
+        <item>	zależnie od temperatury powietrza	</item>
+        <item>	zmniejsza się procentowa zawartość tlenu	</item>
+        <item>	określenie zespołu objawów związanych z brakiem poczucia kontroli nad jedzeniem w chwilach smutku i przygnębienia	</item>
+        <item>	zwichnięcie soczewki	</item>
+        <item>	wspólna nazwa dla bólów stawów, mrowienia  i świądu skóry	</item>
+        <item>	prawda lub fałsz w zależności od rodzaju wypitego  alkoholu	</item>
+        <item>	jałowej gazy	</item>
+        <item>	są prawidłowymi odwzorowaniami nieprawidłowych zachowań w rzeczywistości	</item>
+        <item>	mają miejsce jedynie w lotnictwie liniowym	</item>
+        <item>	przyspieszeń kątowych na kanały półkoliste	</item>
+        <item>	mają miejsce jedynie w lotnictwie liniowym	</item>
+        <item>	złudzeniu ruchu obrotowego podczas wyprowadzania z korkociągu	</item>
+        <item>	rzadko spotykany efekt symulacji zjawiska uwagi selektywnej	</item>
+        <item>	małej prędkości kątowej	</item>
+        <item>	ślimak	</item>
+        <item>	heroiny	</item>
+    </string-array>
+</resources>

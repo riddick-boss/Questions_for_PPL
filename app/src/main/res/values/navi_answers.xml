@@ -1,0 +1,780 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="navi_answers">
+        <item>	2 500 ft	</item>
+        <item>	QFE	</item>
+        <item>	kąt zawarty między południkiem geograficznym a południkiem magnetycznym	</item>
+        <item>	kąt zawarty między południkiem magnetycznym a południkiem busoli, mierzony zgodnie z połówkowym systemem pomiaru kierunku	</item>
+        <item>	kąt dwuścienny, zawarty między płaszczyzną południka zerowego a płaszczyzną południka przechodzącego przez dany punkt na powierzchni Ziemi	</item>
+        <item>	odbioru sygnału czterech satelitów,	</item>
+        <item>	Busola magnetyczna	</item>
+        <item>	2300 UTC dnia poprzedniego	</item>
+        <item>	0100 UTC	</item>
+        <item>	0200 UTC	</item>
+        <item>	1200 UTC	</item>
+        <item>	2100 UTC	</item>
+        <item>	21 cm	</item>
+        <item>	90 stopni	</item>
+        <item>	kąt zawarty między kierunkiem wektora magnetycznego Ziemi a płaszczyzną styczną do jej powierzchni	</item>
+        <item>	linia łącząca punkty o jednakowej wartości deklinacji	</item>
+        <item>	90 stopni	</item>
+        <item>	045°	</item>
+        <item>	315°	</item>
+        <item>	135°	</item>
+        <item>	225°	</item>
+        <item>	60 NM	</item>
+        <item>	1852m	</item>
+        <item>	1 NM	</item>
+        <item>	po prawej stronie	</item>
+        <item>	wysokość bezwzględną	</item>
+        <item>	mniejszy od kursu geograficznego	</item>
+        <item>	większy od kursu geograficznego	</item>
+        <item>	maksymalny	</item>
+        <item>	długość geograficzna	</item>
+        <item>	inklinacja	</item>
+        <item>	szerokość geograficzna	</item>
+        <item>	deklinacja	</item>
+        <item>	dewiacja	</item>
+        <item>	Kąt zawarty między podłużną osią statku powietrznego a nakazaną linią drogi.	</item>
+        <item>	NE	</item>
+        <item>	SE	</item>
+        <item>	SW	</item>
+        <item>	NW	</item>
+        <item>	"7500 - HIJACK;  7600 -COMMUNICATION FAILURE;  7700– EMERGENCY"	</item>
+        <item>	ortodroma	</item>
+        <item>	północnym kierunkiem południka a podłużną osią statku powietrznego	</item>
+        <item>	odjęcie od czasu lokalnego (LMT) dwóch godzin [UTC=LMT-2h]	</item>
+        <item>	izogona	</item>
+        <item>	loksodroma	</item>
+        <item>	południk ziemski	</item>
+        <item>	równik	</item>
+        <item>	214 stopni	</item>
+        <item>	200 km	</item>
+        <item>	40 km	</item>
+        <item>	100 km	</item>
+        <item>	73 NM	</item>
+        <item>	QNH	</item>
+        <item>	4°E, 253°	</item>
+        <item>	003°, 359°	</item>
+        <item>	111 km	</item>
+        <item>	111 km	</item>
+        <item>	111 km	</item>
+        <item>	NM/h	</item>
+        <item>	21 600 NM	</item>
+        <item>	łuk łączący oba bieguny geograficzne Ziemi, będący przecięciem powierzchni Ziemi płaszczyzną przechodzącą przez oś obrotu Ziemi	</item>
+        <item>	30	</item>
+        <item>	50	</item>
+        <item>	72	</item>
+        <item>	prędkość przemieszczania się statku powietrznego względem ziemi	</item>
+        <item>	kątomierz przykłada się przy południku najbliższym środka odcinka trasy	</item>
+        <item>	1 : 250 000	</item>
+        <item>	1 : 250 000	</item>
+        <item>	1 : 500 000	</item>
+        <item>	ciśnienie atmosferyczne na poziomie lotniska lub na progu drogi startowej	</item>
+        <item>	nastawienie ruchomej skali wysokościomierza tak, aby wskazał wzniesienie terenu, gdy jest na ziemi (na lotnisku)	</item>
+        <item>	łuk powstały w wyniku przecięcia powierzchni Ziemi płaszczyzną prostopadłą do osi Ziemi przechodzącą przez jej środek	</item>
+        <item>	90°	</item>
+        <item>	kąt zawarty między płaszczyzną równika a pionem (promieniem) danego punktu	</item>
+        <item>	18 km	</item>
+        <item>	2.5 m/s	</item>
+        <item>	3.8 m/s	</item>
+        <item>	wysokość mierzona od średniego poziomu morza	</item>
+        <item>	wysokość mierzona od poziomu terenu, nad którym statek powietrzny w danej chwili przelatuje	</item>
+        <item>	wysokość mierzona od dowolnej powierzchni (poziomu), np. od poziomu progu pasa startowego	</item>
+        <item>	tory kolejowe	</item>
+        <item>	duże miasto	</item>
+        <item>	most	</item>
+        <item>	odjęcie od czasu lokalnego (LMT) jednej godziny [UTC=LMT-1h]	</item>
+        <item>	124°, 126°	</item>
+        <item>	191°, -2°	</item>
+        <item>	(km : 2) + 10%	</item>
+        <item>	(m × 3) + 10%	</item>
+        <item>	radiokompas	</item>
+        <item>	zliczania zmian położenia w przestrzeni i przyspieszeń, którym podlega statek powietrzny	</item>
+        <item>	QNE	</item>
+        <item>	29.92 inHg	</item>
+        <item>	własny czas systemu skorelowany z UTC.	</item>
+        <item>	Lotem po spirali będzie leciał w kierunku bieguna północnego, dążąc do jego osiągnięcia.	</item>
+        <item>	nastawienie częstotliwości VOR.	</item>
+        <item>	wskazuje zakręt w kierunku północy	</item>
+        <item>	wskazuje zakręt w kierunku północy	</item>
+        <item>	Umieszczenie tego urządzenia w miejscu, gdzie nie ma żadnych obwodów elektrycznych powodujących dewiację	</item>
+        <item>	20 cm	</item>
+        <item>	podróżną (GS)	</item>
+        <item>	108.00-117.95 MHz	</item>
+        <item>	Wskazanie równe wysokości, na jakiej leci statek powietrzny.	</item>
+        <item>	6000 stóp	</item>
+        <item>	30 stóp	</item>
+        <item>	kątem znoszenia	</item>
+        <item>	KKR	</item>
+        <item>	kąt znoszenia	</item>
+        <item>	QDR	</item>
+        <item>	QDM	</item>
+        <item>	TAS do prędkości dźwięku na danej wysokości	</item>
+        <item>	4096	</item>
+        <item>	320 ft	</item>
+        <item>	WGS84.	</item>
+        <item>	200 m	</item>
+        <item>	162 km/h	</item>
+        <item>	2 km	</item>
+        <item>	ukośną	</item>
+        <item>	10	</item>
+        <item>	magnetycznej	</item>
+        <item>	stacji DME usytuowanej na trasie lotu	</item>
+        <item>	40 NM	</item>
+        <item>	76 l	</item>
+        <item>	102 l	</item>
+        <item>	9 US gal	</item>
+        <item>	17 US gal	</item>
+        <item>	NM, kt, min	</item>
+        <item>	około 2 NM.	</item>
+        <item>	radar pierwotny działa na zasadzie odbicia fal elektromagnetycznych od samolotu, wtórny - na zasadzie odpowiedzi transpondera na pokładzie samolotu.	</item>
+        <item>	na polecenie kontrolera radarowego	</item>
+        <item>	zachód słońca w Zamościu następuje około 30 minut wcześniej	</item>
+        <item>	zachód słońca w Jeleniej Górze następuje 30 minut później	</item>
+        <item>	23 kt	</item>
+        <item>	27 NM	</item>
+        <item>	prędkość podróżna (Ground Speed)	</item>
+        <item>	23 kt	</item>
+        <item>	Na radialu 159° od VOR LDZ, mając kurs 159°.	</item>
+        <item>	Z kursem 233°, z magnetycznym kątem drogi 233°, na radialu 053° od VOR-a SIE.	</item>
+        <item>	NE	</item>
+        <item>	NW	</item>
+        <item>	SE	</item>
+        <item>	SW	</item>
+        <item>	1 : 10 000	</item>
+        <item>	techniki impulsowej	</item>
+        <item>	QDR	</item>
+        <item>	od 150 kHz do 1800 kHz	</item>
+        <item>	bezkierunkowo,	</item>
+        <item>	satelity GPS	</item>
+        <item>	200-1750 kHz	</item>
+        <item>	Ziemi	</item>
+        <item>	130 MHz i 122.7 MHz	</item>
+        <item>	12 stopni w lewo	</item>
+        <item>	25 stopni w prawo	</item>
+        <item>	16 stopni w prawo	</item>
+        <item>	16 stopni w lewo	</item>
+        <item>	6 stopni w lewo	</item>
+        <item>	jest znoszony w prawo	</item>
+        <item>	runway visual range - widzialność na drodze startowej	</item>
+        <item>	secondary surveillance radar - wtórny radar dozorowania	</item>
+        <item>	16 NM	</item>
+        <item>	Na zachód od VOR-a JED.	</item>
+        <item>	Po wschodniej stronie VOR/DME LIN	</item>
+        <item>	1000 ft/min	</item>
+        <item>	15°	</item>
+        <item>	12°	</item>
+        <item>	35 km	</item>
+        <item>	54 km	</item>
+        <item>	15 NM	</item>
+        <item>	25 NM	</item>
+        <item>	72	</item>
+        <item>	UHF, pomiaru o opóźnienia odbioru sygnału (odległości) na drodze odbiornik - satelity.	</item>
+        <item>	45 km	</item>
+        <item>	GEN	</item>
+        <item>	radiokompas	</item>
+        <item>	radiostacja komunikacyjna VHF	</item>
+        <item>	kątowym	</item>
+        <item>	względem południka magnetycznego samolotu,	</item>
+        <item>	jako impuls służący do identyfikacji statku powietrznego	</item>
+        <item>	w modzie "C"	</item>
+        <item>	zmiana częstotliwości proporcjonalna do prędkości w ruchu względnym.	</item>
+        <item>	7600	</item>
+        <item>	7700	</item>
+        <item>	7500	</item>
+        <item>	760 mmHg	</item>
+        <item>	1013 hPa	</item>
+        <item>	dwóch częstotliwości radiowych	</item>
+        <item>	prędkości wskazywanej IAS w warunkach bezwietrznych	</item>
+        <item>	od 960 MHz do 1215 MHz	</item>
+        <item>	większy nad morzem niż obszarami lądowymi.	</item>
+        <item>	można zminimalizować jego wpływ przez branie namiarów na stacje, których sygnał dochodząc do odbiornika przecina brzeg pod kątem prostym.	</item>
+        <item>	24 NM	</item>
+        <item>	własne zegary atomowe satelity.	</item>
+    </string-array>
+
+    <string-array name="navi_odp_b" >
+        <item>	25000 ft	</item>
+        <item>	QNE	</item>
+        <item>	kąt zawarty między kierunkiem wektora magnetycznego Ziemi a płaszczyzną styczną do jej powierzchni	</item>
+        <item>	kąt zawarty między południkiem geograficznym a południkiem magnetycznym	</item>
+        <item>	łuk łączący oba bieguny geograficzne Ziemi, będący przecięciem powierzchni Ziemi płaszczyzną przechodzącą przez oś obrotu Ziemi	</item>
+        <item>	odbioru sygnału dwóch satelitów,	</item>
+        <item>	Chyłomierz poprzeczny	</item>
+        <item>	2400 UTC dnia poprzedniego	</item>
+        <item>	0400 UTC	</item>
+        <item>	0400 UTC	</item>
+        <item>	1400 UTC	</item>
+        <item>	0100 UTC dnia następnego	</item>
+        <item>	42 cm	</item>
+        <item>	0 stopni	</item>
+        <item>	kąt zawarty między południkiem geograficznym a południkiem magnetycznym	</item>
+        <item>	kąt zawarty między południkiem geograficznym a południkiem magnetycznym	</item>
+        <item>	0 stopni	</item>
+        <item>	095°	</item>
+        <item>	295°	</item>
+        <item>	095°	</item>
+        <item>	295°	</item>
+        <item>	1 NM	</item>
+        <item>	1620m	</item>
+        <item>	1 km	</item>
+        <item>	po lewej stronie	</item>
+        <item>	wysokość rzeczywistą	</item>
+        <item>	większy od kursu geograficznego	</item>
+        <item>	mniejszy od kursu geograficznego	</item>
+        <item>	równy zero	</item>
+        <item>	południk ziemski	</item>
+        <item>	deklinacja	</item>
+        <item>	południk ziemski	</item>
+        <item>	inklinacja	</item>
+        <item>	deklinacja	</item>
+        <item>	Kąt zawarty między północnym zwrotem południka a linią drogi.	</item>
+        <item>	SE	</item>
+        <item>	NE	</item>
+        <item>	SE	</item>
+        <item>	SE	</item>
+        <item>	7500 - EMERGENCY;  7600 - COMMUNICATION FAILURE;  7700 - HIJACK	</item>
+        <item>	loksodroma	</item>
+        <item>	północnym kierunkiem południka a kierunkiem nakazanej drogi statku powietrznego	</item>
+        <item>	dodanie to czasu lokalnego (LMT) jednej godziny [UTC=LMT+1h]	</item>
+        <item>	deklinacja	</item>
+        <item>	ortodroma	</item>
+        <item>	równik	</item>
+        <item>	południk ziemski	</item>
+        <item>	186 stopni	</item>
+        <item>	50 km	</item>
+        <item>	20 km	</item>
+        <item>	50 km	</item>
+        <item>	54 NM	</item>
+        <item>	QNE	</item>
+        <item>	2°W, 255°	</item>
+        <item>	359°, 003°	</item>
+        <item>	60 km	</item>
+        <item>	60 km	</item>
+        <item>	60 km	</item>
+        <item>	SM/h	</item>
+        <item>	21 600 km	</item>
+        <item>	łuk powstały w wyniku przecięcia powierzchni Ziemi płaszczyzną prostopadłą do osi Ziemi przechodzącą przez jej środek	</item>
+        <item>	27	</item>
+        <item>	30	</item>
+        <item>	24	</item>
+        <item>	CAS z uwzględnieniem wiatru	</item>
+        <item>	kątomierz przykłada się na punkcie odlotowym trasy	</item>
+        <item>	1 : 300 000	</item>
+        <item>	1 : 300 000	</item>
+        <item>	1 : 250 000	</item>
+        <item>	ciśnienie na średnim poziomie morza	</item>
+        <item>	ciśnienie atmosferyczne na poziomie lotniska lub na progu drogi startowej	</item>
+        <item>	łuk łączący oba bieguny geograficzne Ziemi, będący przecięciem powierzchni Ziemi płaszczyzną przechodzącą przez oś obrotu Ziemi	</item>
+        <item>	60°	</item>
+        <item>	łuk powstały w wyniku przecięcia powierzchni Ziemi płaszczyzną prostopadłą do osi Ziemi przechodzącą przez jej środek	</item>
+        <item>	12 km	</item>
+        <item>	3.5 m/s	</item>
+        <item>	2.5 m/s	</item>
+        <item>	wysokość mierzona od poziomu terenu, nad którym statek powietrzny w danej chwili przelatuje	</item>
+        <item>	wysokość mierzona od poziomu morza	</item>
+        <item>	wysokość mierzona od poziomu terenu, nad którym statek powietrzny w danej chwili przelatuje	</item>
+        <item>	ostry zakręt rzeki	</item>
+        <item>	wieś	</item>
+        <item>	duże miasto	</item>
+        <item>	dodanie do czasu lokalnego (LMT) jednej godziny [UTC=LMT+1h]	</item>
+        <item>	126°, 128°	</item>
+        <item>	185°, -2°	</item>
+        <item>	(km × 2) - 20%	</item>
+        <item>	m × 0.3	</item>
+        <item>	radionamiernik VHF	</item>
+        <item>	pomiaru różnicy głębokości modulacji,	</item>
+        <item>	QFE	</item>
+        <item>	32.10 inHg	</item>
+        <item>	własny czas systemu zupełnie niezależny od UTC.	</item>
+        <item>	Z kursem 300 stopni będzie leciał po równoleżniku i wróci do miejsca wylotu.	</item>
+        <item>	nastawienie aktualnego ciśnienia QFE,	</item>
+        <item>	wskazuje kurs 090	</item>
+        <item>	wskazuje kurs 270	</item>
+        <item>	Ułatwienie dostępu do urządzenia i zwiększenie dostępności na oddziaływanie ziemskiego pola magnetycznego	</item>
+        <item>	40 cm	</item>
+        <item>	przyrządową (IAS)	</item>
+        <item>	107.95-117.95 MHz	</item>
+        <item>	0 (zero).	</item>
+        <item>	5000 stóp	</item>
+        <item>	40 stóp	</item>
+        <item>	kątowym bocznym odchyleniem	</item>
+        <item>	QDR	</item>
+        <item>	kąt wiatru	</item>
+        <item>	QDM	</item>
+        <item>	QDR	</item>
+        <item>	IAS do prędkości dźwięku na danej wysokości	</item>
+        <item>	10 000	</item>
+        <item>	1680 ft	</item>
+        <item>	WGPS.	</item>
+        <item>	50 m	</item>
+        <item>	200 MPH	</item>
+        <item>	5 km	</item>
+        <item>	pionową	</item>
+        <item>	5	</item>
+        <item>	geograficznej	</item>
+        <item>	stacji VOR usytuowanej poprzecznie do trasy lotu	</item>
+        <item>	32 NM	</item>
+        <item>	92 l	</item>
+        <item>	92 l	</item>
+        <item>	12 US gal	</item>
+        <item>	12 US gal	</item>
+        <item>	km, km/h, min	</item>
+        <item>	nie więcej niż 1 NM.	</item>
+        <item>	na samolotach instaluje się wyłącznie radar pierwotny, stacje naziemne wyłącznie systemy radarów wtórnych.	</item>
+        <item>	przy zmianie częstotliwości radiowej	</item>
+        <item>	zachód słońca w Zamościu następuje około 1 godzinę wcześniej	</item>
+        <item>	zachód słońca w Jeleniej Górze następuje około 1 godzinę wcześniej	</item>
+        <item>	17 kt	</item>
+        <item>	18 NM	</item>
+        <item>	liczba Macha	</item>
+        <item>	17 kt	</item>
+        <item>	Na radialu 339° od VOR LDZ, mając kurs 159°.	</item>
+        <item>	Z kursem 233°, z magnetycznym kątem drogi 053°, na radialu 053° od VOR-a SIE.	</item>
+        <item>	SE	</item>
+        <item>	NE	</item>
+        <item>	NE	</item>
+        <item>	NE	</item>
+        <item>	1 : 150 000	</item>
+        <item>	porównywania fazy	</item>
+        <item>	QDM	</item>
+        <item>	od 200 kHz do 600 kHz	</item>
+        <item>	w określonych sektorach	</item>
+        <item>	odbiorniki GPS	</item>
+        <item>	200-1750 MHz	</item>
+        <item>	pokładzie statku powietrznego	</item>
+        <item>	od 108 MHz do 136.975 MHz	</item>
+        <item>	6 stopni w prawo	</item>
+        <item>	5 stopni w lewo	</item>
+        <item>	13 stopni w lewo	</item>
+        <item>	13 stopni w prawo	</item>
+        <item>	3 stopni w prawo	</item>
+        <item>	jest znoszony w lewo	</item>
+        <item>	radar vectors requested - prosimy o wektorowanie radarowe	</item>
+        <item>	search and surveillance radar - radar poszukiwawczy i dozorujący	</item>
+        <item>	15 NM	</item>
+        <item>	Na wschód od VOR-a JED.	</item>
+        <item>	Po zachodniej stronie VOR/DME LIN.	</item>
+        <item>	2000 ft/min	</item>
+        <item>	12°	</item>
+        <item>	15°	</item>
+        <item>	14 km	</item>
+        <item>	36 km	</item>
+        <item>	18 NM	</item>
+        <item>	18 NM	</item>
+        <item>	56	</item>
+        <item>	SHF, podobnie do radaru wtórnego - pytanie-odzew.	</item>
+        <item>	18 km	</item>
+        <item>	ENR	</item>
+        <item>	radiostacja średniofalowa	</item>
+        <item>	radar wtórny	</item>
+        <item>	odległościowo-kątowym,	</item>
+        <item>	względem osi podłużnej statku powietrznego,	</item>
+        <item>	jako impuls kodu alarmowego	</item>
+        <item>	w modzie "3/A"	</item>
+        <item>	interferencji pozwalające na mierzenie prędkości.	</item>
+        <item>	7000	</item>
+        <item>	7000	</item>
+        <item>	7000	</item>
+        <item>	750 mmHg	</item>
+        <item>	760 hPa	</item>
+        <item>	jednej częstotliwości radiowej	</item>
+        <item>	prędkości wskazywanej IAS poprawionej o wartość poprawki na błąd gęstości powietrza	</item>
+        <item>	od 118.0 MHz do 137.9 MHz	</item>
+        <item>	mniejszy nad morzem niż obszarami lądowymi	</item>
+        <item>	występuje tylko w czasie wschodów i zachodów słońca	</item>
+        <item>	18 NM	</item>
+        <item>	radiostacja DCF-77 we Frankfurcie,	</item>
+    </string-array>
+
+    <string-array name="navi_odp_c" >
+        <item>	2 400 ft	</item>
+        <item>	QNH	</item>
+        <item>	kąt zawarty między południkiem magnetycznym a południkiem busoli, mierzony zgodnie z połówkowym systemem pomiaru kierunku	</item>
+        <item>	kąt zawarty między kierunkiem wektora magnetycznego Ziemi a płaszczyzną styczną do jej powierzchni	</item>
+        <item>	łuk powstały w wyniku przecięcia powierzchni Ziemi płaszczyzną prostopadłą do osi Ziemi przechodzącą przez jej środek	</item>
+        <item>	dwóch odbiorników,	</item>
+        <item>	VOR/ILS	</item>
+        <item>	0100 UTC	</item>
+        <item>	0200 UTC	</item>
+        <item>	0100 UTC	</item>
+        <item>	0100 UTC	</item>
+        <item>	2200 UTC	</item>
+        <item>	25 cm	</item>
+        <item>	60 stopni	</item>
+        <item>	kąt zawarty między południkiem magnetycznym a południkiem busoli, mierzony zgodnie z połówkowym systemem pomiaru kierunku	</item>
+        <item>	kąt zawarty między południkiem magnetycznym a południkiem busoli, mierzony zgodnie z połówkowym systemem pomiaru kierunku	</item>
+        <item>	60 stopni	</item>
+        <item>	135°	</item>
+        <item>	335°	</item>
+        <item>	315°	</item>
+        <item>	335°	</item>
+        <item>	60 km	</item>
+        <item>	1820m	</item>
+        <item>	60 km	</item>
+        <item>	dokładnie przed sobą	</item>
+        <item>	wysokość względną	</item>
+        <item>	równy kursowi magnetycznemu	</item>
+        <item>	równy kursowi magnetycznemu	</item>
+        <item>	dodatni, lecz nie jest maksymalny	</item>
+        <item>	równik	</item>
+        <item>	dewiacja	</item>
+        <item>	równik	</item>
+        <item>	kurs geograficzny	</item>
+        <item>	kurs magnetyczny	</item>
+        <item>	Kąt zawarty między kierunkiem "dokąd wieje wiatr" a północą magnetyczną.	</item>
+        <item>	SW	</item>
+        <item>	SW	</item>
+        <item>	NE	</item>
+        <item>	SW	</item>
+        <item>	"7500 - HIJACK;  7600 -
+EMERGENCY;  7700 - COMMUNICATION FAILURE"	</item>
+        <item>	krzywa łącząca te punkty i składająca się z szeregu odcinków loksodromicznych	</item>
+        <item>	północnym kierunkiem południka a poprzeczną osią statku powietrznego	</item>
+        <item>	dodanie to czasu lokalnego (LMT) dwóch godzin [UTC=LMT+2h]	</item>
+        <item>	dewiacja	</item>
+        <item>	izogona	</item>
+        <item>	długość geograficzna	</item>
+        <item>	długość geograficzna	</item>
+        <item>	206 stopni	</item>
+        <item>	100 km	</item>
+        <item>	80 km	</item>
+        <item>	10 km	</item>
+        <item>	108 NM	</item>
+        <item>	QFE	</item>
+        <item>	4°W, 251°	</item>
+        <item>	007°, 010°	</item>
+        <item>	60 mil lądowych	</item>
+        <item>	60 mil lądowych	</item>
+        <item>	60 mil lądowych	</item>
+        <item>	km/h	</item>
+        <item>	12 714 NM	</item>
+        <item>	kąt dwuścienny, zawarty między płaszczyzną południka zerowego a płaszczyzną południka przechodzącego przez dany punkt na powierzchni Ziemi	</item>
+        <item>	24	</item>
+        <item>	60	</item>
+        <item>	88	</item>
+        <item>	IAS z uwzględnieniem wiatru	</item>
+        <item>	kątomierz przykłada się w punkcie przecięcia przedłużenia odcinka trasy z południkiem ramki mapy	</item>
+        <item>	1 : 400 000	</item>
+        <item>	1 : 400 000	</item>
+        <item>	1 : 400 000	</item>
+        <item>	ciśnienie standard	</item>
+        <item>	ciśnienie standard	</item>
+        <item>	kąt dwuścienny, zawarty między płaszczyzną południka zerowego a płaszczyzną południka przechodzącego przez dany punkt na powierzchni Ziemi	</item>
+        <item>	45°	</item>
+        <item>	kąt dwuścienny, zawarty między płaszczyzną południka zerowego a płaszczyzną południka przechodzącego przez dany punkt na powierzchni Ziemi	</item>
+        <item>	3 km	</item>
+        <item>	5.0 m/s	</item>
+        <item>	5.0 m/s	</item>
+        <item>	wysokość mierzona od dowolnej powierzchni (poziomu), np. od poziomu progu pasa startowego	</item>
+        <item>	wysokość mierzona od dowolnej powierzchni (poziomu), np. od poziomu progu pasa startowego	</item>
+        <item>	wysokość mierzona od poziomu morza	</item>
+        <item>	wysoki maszt radiowy	</item>
+        <item>	brzeg morza	</item>
+        <item>	tory kolejowe	</item>
+        <item>	dodanie do czasu lokalnego (LMT) dwóch godzin [UTC=LMT+2h]	</item>
+        <item>	124°, 124°	</item>
+        <item>	194°, +4°	</item>
+        <item>	(km : 2) - 10%	</item>
+        <item>	(m : 10) × 3	</item>
+        <item>	pokładowe urządzenie odzewowe.	</item>
+        <item>	pomiaru różnicy odległości.	</item>
+        <item>	QNH	</item>
+        <item>	28.50 inHg	</item>
+        <item>	Czas zegarów satelitów i systemu dokładnie odpowiada UTC.	</item>
+        <item>	Korygując kurs doleci do miejsca wylotu.	</item>
+        <item>	wybranie kanału DME,	</item>
+        <item>	wskazuje zakręt w kierunku południowym	</item>
+        <item>	wskazuje zakręt w kierunku południowym	</item>
+        <item>	Umieszczenie tego urządzenia w pozycji, gdzie nie będzie warunków do uszkodzenia tego urządzenia podczas uderzenia pioruna	</item>
+        <item>	5 cm	</item>
+        <item>	rzeczywistą (TAS)	</item>
+        <item>	108.00-117.00 kHz	</item>
+        <item>	Nie będzie żadnego wskazania, gdyż statek powietrzny znajdzie się w stożku martwym urządzenia.	</item>
+        <item>	4500 stóp	</item>
+        <item>	10 stóp	</item>
+        <item>	kątową poprawką dopełniającą	</item>
+        <item>	QDM	</item>
+        <item>	kąt drogi	</item>
+        <item>	KKR	</item>
+        <item>	Radial	</item>
+        <item>	prędkości dźwięku na danej wysokości do IAS	</item>
+        <item>	9999	</item>
+        <item>	-320 ft	</item>
+        <item>	GPS84.	</item>
+        <item>	100 m	</item>
+        <item>	162 kts	</item>
+        <item>	10 km	</item>
+        <item>	poziomą	</item>
+        <item>	2	</item>
+        <item>	busoli	</item>
+        <item>	stacji DME usytuowanej poprzecznie do trasy lotu	</item>
+        <item>	48 NM	</item>
+        <item>	20 l	</item>
+        <item>	15 l	</item>
+        <item>	18 US gal	</item>
+        <item>	20 US gal	</item>
+        <item>	w zależności od nastawy	</item>
+        <item>	zależy od typu nadajnika DME, ale nigdy więcej niż 1.2 NM.	</item>
+        <item>	radar pierwotny jest zawsze mniej dokładny niż radar wtórny.	</item>
+        <item>	podczas korespondencji radiowej	</item>
+        <item>	zachód słońca na lotnisku odlotowym i dolotowym następuje w tym samym czasie	</item>
+        <item>	zachód słońca na lotnisku odlotowym i dolotowym następuje w tym samym czasie	</item>
+        <item>	29 kt	</item>
+        <item>	33 NM	</item>
+        <item>	prędkość wskazywana IAS (Indicated Air Speed)	</item>
+        <item>	29 kt	</item>
+        <item>	Na radialu 159° od VOR LDZ, mając kurs 339°.	</item>
+        <item>	Z kursem 233°, z magnetycznym kątem drogi 233°, na radialu 233° od VOR-a SIE.	</item>
+        <item>	SW	</item>
+        <item>	SW	</item>
+        <item>	SW	</item>
+        <item>	SE	</item>
+        <item>	1 : 20 000	</item>
+        <item>	transpondera zapytującego	</item>
+        <item>	QUJ	</item>
+        <item>	od 188 MHz do 413 MHz	</item>
+        <item>	kierunkowo	</item>
+        <item>	stacje kontrolne	</item>
+        <item>	200-600 kHz	</item>
+        <item>	satelicie systemu GPS	</item>
+        <item>	od 88 MHz do 108 MHz	</item>
+        <item>	12 stopni w prawo	</item>
+        <item>	12 stopni w prawo	</item>
+        <item>	12 stopni w prawo	</item>
+        <item>	12 stopni w prawo	</item>
+        <item>	12 stopni w prawo	</item>
+        <item>	wieje zachodni wiatr	</item>
+        <item>	runway visibility report - meldunek o widzialności drogi startowej	</item>
+        <item>	surface strength of runway - wytrzymałość nawierzchni drogi startowej	</item>
+        <item>	18 NM	</item>
+        <item>	Nad VOR-em JED.	</item>
+        <item>	Dokładnie nad VOR/DME LIN.	</item>
+        <item>	1500 ft/min	</item>
+        <item>	30°	</item>
+        <item>	30°	</item>
+        <item>	27 km	</item>
+        <item>	18 km	</item>
+        <item>	20 NM	</item>
+        <item>	21 NM	</item>
+        <item>	64	</item>
+        <item>	SHF, pomiaru o odległości do minimum 24 satelitów.	</item>
+        <item>	27 km	</item>
+        <item>	AD	</item>
+        <item>	radionamiernik VHF	</item>
+        <item>	radiodalmierz DME	</item>
+        <item>	odległościowym,	</item>
+        <item>	względem południka geograficznego samolotu	</item>
+        <item>	jako impuls służący do tłumienia zakłóceń	</item>
+        <item>	w modzie "D"	</item>
+        <item>	rozproszenia - zmieniające słyszalność korespondencji.	</item>
+        <item>	7500	</item>
+        <item>	7500	</item>
+        <item>	7600	</item>
+        <item>	1000 mmHg	</item>
+        <item>	1000 hPa	</item>
+        <item>	trzech częstotliwości radiowych	</item>
+        <item>	prędkości podróżnej (GS), gdy uwzględnimy wpływ wiatru	</item>
+        <item>	od 500 MHz do 1.8 GHz	</item>
+        <item>	nie różni się.	</item>
+        <item>	można zminimalizować przez branie namiarów na stacje położone jak najdalej w głąb lądu	</item>
+        <item>	60 NM	</item>
+        <item>	wewnętrzny zegar kwarcowy odbiornika,	</item>
+    </string-array>
+
+    <string-array name="navi_odp_d" >
+        <item>	232.3 ft	</item>
+        <item>	STD	</item>
+        <item>	linia łącząca punkty o jednakowej wartości inklinacji	</item>
+        <item>	linia łącząca punkty o jednakowej wartości deklinacji	</item>
+        <item>	kąt zawarty między płaszczyzną równika a pionem (promieniem) danego punktu	</item>
+        <item>	trzech odbiorników.	</item>
+        <item>	Wariometr	</item>
+        <item>	1100 UTC	</item>
+        <item>	1500 UTC	</item>
+        <item>	1500 UTC	</item>
+        <item>	1100 UTC	</item>
+        <item>	1100 UTC	</item>
+        <item>	10.5 cm	</item>
+        <item>	45 stopni	</item>
+        <item>	linia łącząca punkty o jednakowej wartości deklinacji	</item>
+        <item>	kąt zawarty między kierunkiem wektora magnetycznego Ziemi a płaszczyzną styczną do jej powierzchni	</item>
+        <item>	45 stopni	</item>
+        <item>	345°	</item>
+        <item>	205°	</item>
+        <item>	045°	</item>
+        <item>	205°	</item>
+        <item>	100 km	</item>
+        <item>	1013m	</item>
+        <item>	2 km	</item>
+        <item>	w czasie letnim po prawej, w czasie zimowym - po lewej stronie	</item>
+        <item>	poziom lotu	</item>
+        <item>	równy kursowi geograficznemu	</item>
+        <item>	równy kursowi geograficznemu	</item>
+        <item>	pomijalnie mały	</item>
+        <item>	szerokość geograficzna	</item>
+        <item>	izogona	</item>
+        <item>	długość geograficzna	</item>
+        <item>	kurs magnetyczny	</item>
+        <item>	kurs busoli	</item>
+        <item>	"Kąt zawarty między podłużną osią statku powietrznego a kierunkiem
+„skąd wieje wiatr”"	</item>
+        <item>	NW	</item>
+        <item>	NW	</item>
+        <item>	NW	</item>
+        <item>	NE	</item>
+        <item>	żadna z odpowiedzi nie jest prawdziwa	</item>
+        <item>	izohipsa	</item>
+        <item>	północnym kierunkiem południka a kierunkiem drogi starowej	</item>
+        <item>	odjęcie od czasu lokalnego (LMT) jednej godziny [UTC=LMT-1h]	</item>
+        <item>	inklinacja	</item>
+        <item>	izobara	</item>
+        <item>	szerokość geograficzna	</item>
+        <item>	szerokość geograficzna	</item>
+        <item>	194 stopni	</item>
+        <item>	20 km	</item>
+        <item>	100 km	</item>
+        <item>	200 km	</item>
+        <item>	135 NM	</item>
+        <item>	QDM	</item>
+        <item>	2°E, 249°	</item>
+        <item>	360°, 359°	</item>
+        <item>	111 mil morskich	</item>
+        <item>	111 mil morskich	</item>
+        <item>	111 mil morskich	</item>
+        <item>	m/h	</item>
+        <item>	6 865 NM	</item>
+        <item>	kąt zawarty między płaszczyzną równika a pionem (promieniem) danego punktu	</item>
+        <item>	34	</item>
+        <item>	90	</item>
+        <item>	100	</item>
+        <item>	liczba Macha	</item>
+        <item>	kątomierz przykłada się na punkcie docelowym trasy	</item>
+        <item>	1 : 500 000	</item>
+        <item>	1 : 500 000	</item>
+        <item>	1 : 300 000	</item>
+        <item>	fabryczna nastawa wysokościomierza	</item>
+        <item>	fabryczna nastawa wysokościomierza	</item>
+        <item>	kąt zawarty między płaszczyzną równika a pionem (promieniem) danego punktu	</item>
+        <item>	180°	</item>
+        <item>	łuk łączący oba bieguny geograficzne Ziemi, będący przecięciem powierzchni Ziemi płaszczyzną przechodzącą przez oś obrotu Ziemi	</item>
+        <item>	23 km	</item>
+        <item>	15 m/s	</item>
+        <item>	7.5 m/s	</item>
+        <item>	żadna z odpowiedzi nie jest prawdziwa	</item>
+        <item>	żadna z odpowiedzi nie jest prawdziwa	</item>
+        <item>	żadna z odpowiedzi nie jest prawdziwa	</item>
+        <item>	most	</item>
+        <item>	skrzyżowanie głównych dróg	</item>
+        <item>	masyw leśny	</item>
+        <item>	odjęcie od czasu lokalnego (LMT) dwóch godzin [UTC=LMT-2h]	</item>
+        <item>	126°, 124°	</item>
+        <item>	189°, -3°	</item>
+        <item>	(km × 2) - 10 %	</item>
+        <item>	(m × 3) : 10	</item>
+        <item>	transponder radaru wtórnego	</item>
+        <item>	porównywania prędkości IAS i TAS	</item>
+        <item>	QDM	</item>
+        <item>	10.13 inHg	</item>
+        <item>	Czas zegarów satelitów i systemu dokładnie odpowiada UTC + 6.5h.	</item>
+        <item>	Będzie lecieć po południku do bieguna północnego	</item>
+        <item>	żadna z odpowiedzi nie jest prawdziwa	</item>
+        <item>	zwalnia wskazywaną prędkość zakrętu	</item>
+        <item>	zwalnia wskazywaną prędkość zakrętu	</item>
+        <item>	Żadna z odpowiedzi nie jest prawdziwa	</item>
+        <item>	10.5 cm	</item>
+        <item>	liczbę Macha.	</item>
+        <item>	112.05-118.00 MHz	</item>
+        <item>	żadna z odpowiedzi nie jest prawdziwa	</item>
+        <item>	8000 stóp	</item>
+        <item>	50 stóp	</item>
+        <item>	kątem wiatru	</item>
+        <item>	QFE	</item>
+        <item>	kąt kursowy radiolatarni	</item>
+        <item>	QFE	</item>
+        <item>	QFE	</item>
+        <item>	prędkości dźwięku na danej wysokości do TAS	</item>
+        <item>	7700	</item>
+        <item>	680 ft	</item>
+        <item>	NAVSTAR.	</item>
+        <item>	20 m	</item>
+        <item>	200 km/h	</item>
+        <item>	20 km	</item>
+        <item>	żadna z odpowiedzi nie jest prawdziwa	</item>
+        <item>	12	</item>
+        <item>	żadna z odpowiedzi nie jest prawdziwa	</item>
+        <item>	radiolatarni NDB usytuowanej na trasie lotu	</item>
+        <item>	38 NM	</item>
+        <item>	53 l	</item>
+        <item>	53 l	</item>
+        <item>	13 US gal	</item>
+        <item>	13 US gal	</item>
+        <item>	żadna z odpowiedzi nie jest prawdziwa	</item>
+        <item>	0 NM (+-0.1 NM).	</item>
+        <item>	na samolotach instaluje się wyłącznie radar wtórny.	</item>
+        <item>	zawsze po ustawieniu nowego kodu (squawk)	</item>
+        <item>	zachód słońca w Zamościu następuje około 30 minut później	</item>
+        <item>	zachód słońca w Jeleniej Górze następuje około 30 minut wcześniej	</item>
+        <item>	34 kt	</item>
+        <item>	45 NM	</item>
+        <item>	prędkość poprawiona CAS (Calibrated Air Speed)	</item>
+        <item>	21 kt	</item>
+        <item>	żadna z odpowiedzi nie jest prawdziwa	</item>
+        <item>	żadna z odpowiedzi nie jest prawdziwa	</item>
+        <item>	NW	</item>
+        <item>	SE	</item>
+        <item>	NW	</item>
+        <item>	NW	</item>
+        <item>	1 : 100 000	</item>
+        <item>	ciągłej emisji fali nośnej	</item>
+        <item>	QTE	</item>
+        <item>	powyżej 500 MHz	</item>
+        <item>	co 10 stopni	</item>
+        <item>	radiostacje VHF	</item>
+        <item>	200-800 kHz	</item>
+        <item>	żadna z odpowiedzi nie jest prawdziwa	</item>
+        <item>	powyżej 140 MHz	</item>
+        <item>	20 stopni w lewo	</item>
+        <item>	15 stopni w lewo	</item>
+        <item>	8 stopni w lewo	</item>
+        <item>	8 stopni w lewo	</item>
+        <item>	9 stopni w lewo	</item>
+        <item>	kąt znoszenia jest zerowy	</item>
+        <item>	recleared via route… - nowe zezwolenie na przelot inną trasą	</item>
+        <item>	standard snow report - standardowy meldunek o opadach i zaleganiu śniegu	</item>
+        <item>	37 NM	</item>
+        <item>	żadna z odpowiedzi nie jest prawdziwa	</item>
+        <item>	żadna z odpowiedzi nie jest prawdziwa	</item>
+        <item>	500 ft/min	</item>
+        <item>	40°	</item>
+        <item>	40°	</item>
+        <item>	45 km	</item>
+        <item>	68 km	</item>
+        <item>	12 NM	</item>
+        <item>	12.5 NM	</item>
+        <item>	48	</item>
+        <item>	HF, informacji o odległości do co najmniej 4 satelitów.	</item>
+        <item>	35 km	</item>
+        <item>	RAC	</item>
+        <item>	transponder	</item>
+        <item>	radiokompas ADF	</item>
+        <item>	hiperbolicznym	</item>
+        <item>	względem południka busoli	</item>
+        <item>	żadna z odpowiedzi nie jest prawdziwa	</item>
+        <item>	w modzie ”B”	</item>
+        <item>	zmiana częstotliwości odwrotnie proporcjonalna do prędkości w ruchu względnym.	</item>
+        <item>	7700	</item>
+        <item>	7600	</item>
+        <item>	7700	</item>
+        <item>	1013 mmHg	</item>
+        <item>	750 hPa	</item>
+        <item>	czterech częstotliwości radiowych	</item>
+        <item>	liczbie Macha (Ma)	</item>
+        <item>	od 112 MHz do 117.900 MHz	</item>
+        <item>	żadna z odpowiedzi nie jest prawdziwa	</item>
+        <item>	występuje głównie w nocy	</item>
+        <item>	13 NM	</item>
+        <item>	żadna z odpowiedzi nie jest prawdziwa	</item>
+    </string-array>
+</resources>

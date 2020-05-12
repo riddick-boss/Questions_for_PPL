@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="procedury_answers">
+        <item>	Prezes Urzędu Lotnictwa Cywilnego	</item>
+        <item>	Państwowa Komisja Badania Wypadków Lotniczych	</item>
+        <item>	Ratowanie życia załogi i pasażerów	</item>
+        <item>	Nie	</item>
+        <item>	Tak, ale po decyzji PKBWL i pod jej nadzorem	</item>
+        <item>	PKBWL	</item>
+        <item>	Prezes ULC	</item>
+        <item>	Prezes ULC	</item>
+        <item>	Tak, bez względu na konsekwencje	</item>
+        <item>	72 godziny	</item>
+        <item>	ma lub mogłoby mieć niekorzystny wpływ na bezpieczeństwo eksploatacji.	</item>
+        <item>	nieomal doszło do wypadku lotniczego.	</item>
+        <item>	Aneks 13	</item>
+        <item>	Ugaszenie pożaru	</item>
+        <item>	pisemny.	</item>
+        <item>	pokładowym dzienniku technicznym statku powietrznego.	</item>
+        <item>	Do startu i lądowania oraz w sytuacjach, kiedy dowódca statku powietrznego uzna to za konieczne.	</item>
+        <item>	Stan techniczny statku powietrznego wykonując przegląd przedlotowy.	</item>
+        <item>	Zameldować do najbliższego organu ruchu lotniczego lub stanowiska kierowania lotami o miejscu opuszczenia	</item>
+        <item>	Czy wszystkie przełączniki, dźwignie i urządzenia kontroli i sterowania znajdują się w położeniu określonym instrukcja użytkowania w locie.	</item>
+        <item>	Napisem SAR	</item>
+        <item>	Tak, ale pod warunkiem wykonywania lotu na wysokości określonej przez państwowy organ zarządzania ruchem lotniczym	</item>
+        <item>	Właściwą stację naziemną, tak szybko jak to jest możliwe.	</item>
+        <item>	Wyjaśnienie okoliczności i przyczyn oraz wypracowanie zaleceń profilaktycznych.	</item>
+        <item>	24 godzin przed lotem	</item>
+        <item>	jeden z członków załogi.	</item>
+        <item>	Ministrowi Infrastruktury	</item>
+        <item>	Można naruszyć przepisy lotnicze	</item>
+        <item>	Pisemne sprawozdanie o zdarzeniu w ciągu 10 dni	</item>
+        <item>	Organom Policji lub Straży Granicznej	</item>
+        <item>	Prawie lotniczym	</item>
+        <item>	grzywny	</item>
+        <item>	Udzielić poszkodowanym lub znajdującym się w niebezpieczeństwie pomocy w zakresie, w jakim może to uczynić bez narażania na niebezpieczeństwo powierzonego mu statku powietrznego, pasażerów, załogi.	</item>
+        <item>	Dowódca załogi	</item>
+        <item>	Dowódca załogi	</item>
+        <item>	Dowódca załogi	</item>
+        <item>	Tak	</item>
+        <item>	Przez ULC	</item>
+        <item>	Raz do roku	</item>
+        <item>	Dowódca załogi	</item>
+        <item>	Stanu zagrożenia dla statku powietrznego określanego przez służby SAR .	</item>
+        <item>	zielonożółty lub czerwony	</item>
+        <item>	że posiada lotniczy nadajnik ratowniczy SARSAT	</item>
+        <item>	niezwłocznie wyłączyć ELT i powiadomić o tym fakcie właściwe RCC lub służbę informacji lotniczej	</item>
+        <item>	dowódca statku powietrznego	</item>
+        <item>	samolot nie będzie certyfikowany i wyposażony do zwalczenia takich warunków	</item>
+        <item>	nie wpłyną ujemnie na bezpieczeństwo startu i odlotu	</item>
+        <item>	dowódca statku powietrznego	</item>
+        <item>	dowódca statku powietrznego	</item>
+        <item>	tak, by były łatwo dostępne dla wszystkich członków załogi i pasażerów	</item>
+        <item>	podręcznik pierwszej pomocy i zestaw sygnałów zgodny z Aneksem 12 ICAO („ground-air visual signal code for use by survivors”)	</item>
+        <item>	Aneksie 12 ICAO	</item>
+        <item>	bezpośredniego zagrożenia życia załogi i pasażerów	</item>
+        <item>	kilkakrotne przechylenie samolotu na boki	</item>
+        <item>	"kilkakrotne włączenie i wyłączenie świateł lądowania lub nawigacyjnych"	</item>
+        <item>	żądanie pomocy medycznej	</item>
+        <item>	wodą z mydłem lub detergentem	</item>
+        <item>	gaśnicą śniegową lub BCE	</item>
+        <item>	zgłosić sytuację awaryjną	</item>
+        <item>	niezwłocznie zneutralizowane i usunięte	</item>
+        <item>	że substancje te są niezbędne do działania istotnych systemów statku powietrznego	</item>
+        <item>	przed płaszczyzną obrotu śmigła	</item>
+        <item>	palenie tytoniu nie jest dozwolone	</item>
+        <item>	przy drugim zestawie urządzeń sterowych statku powietrznego	</item>
+        <item>	nadać wywołanie w niebezpieczeństwie wszystkimi dostępnymi środkami	</item>
+        <item>	dowódca statku powietrznego	</item>
+        <item>	dowódcy statku powietrznego	</item>
+        <item>	powiadomić o tym fakcie służby ruchu lotniczego	</item>
+        <item>	nie informuje o podejrzeniu za pośrednictwem łączności radiowej	</item>
+        <item>	Dzienniku Urzędowym Urzędu Lotnictwa Cywilnego	</item>
+        <item>	podjęcia działań, zapewniających zabezpieczenie życia osób i mienia w rejonie zrzutu	</item>
+        <item>	podczas startu i lądowania oraz zawsze, kiedy dowódca uzna to za konieczne	</item>
+        <item>	należy kołować do najbliższego przecięcia drogi kołowania z drogą startową, zgłosić ten fakt i czekać na dalsze instrukcje	</item>
+        <item>	właściwą stację naziemną tak szybko, jak jest to praktycznie możliwe	</item>
+    </string-array>
+
+    <string-array name="procedury_odp_b" >
+        <item>	Minister Infrastruktury	</item>
+        <item>	Główna Komisja Badania Wypadków Lotniczych	</item>
+        <item>	Ratowanie mienia i wyposażenia statku powietrznego	</item>
+        <item>	Tak	</item>
+        <item>	Tak	</item>
+        <item>	Prezes ULC	</item>
+        <item>	PKBWL	</item>
+        <item>	Minister Infrastruktury	</item>
+        <item>	Nie, jeśli statek powietrzny nie został uszkodzony	</item>
+        <item>	48 godzin	</item>
+        <item>	zakończyło się bez konsekwencji uszczerbku na zdrowiu załogi i/lub pasażerów	</item>
+        <item>	uszkodzenia statku powietrznego są nieznaczne.	</item>
+        <item>	Aneks 11	</item>
+        <item>	Ratowanie rannych	</item>
+        <item>	ustny.	</item>
+        <item>	książce obsługi.	</item>
+        <item>	Na polecenie dowódcy załogi statku powietrznego.	</item>
+        <item>	Warunki meteorologiczne do planowanego lotu.	</item>
+        <item>	Nadać sygnał SOS i opuścić statek powietrzny	</item>
+        <item>	Czy wszystkie przełączniki, dźwignie i urządzenia kontroli i sterowania znajdują się w położeniu neutralnym.	</item>
+        <item>	Napisem SOS	</item>
+        <item>	Tak, ale pod warunkiem wykonywania lotu na odpowiedniej wysokości.	</item>
+        <item>	Właściwą stację naziemną, telefonicznie po lądowaniu.	</item>
+        <item>	Wyjaśnienie okoliczności i przyczyn oraz wypracowanie zaleceń profilaktycznych oraz wskazanie winnych zdarzenia	</item>
+        <item>	12 godzin przed lotem	</item>
+        <item>	Wszyscy członkowie załogi.	</item>
+        <item>	Prezesowi Urzędu Lotnictwa Cywilnego	</item>
+        <item>	Nie można naruszać przepisów lotniczych	</item>
+        <item>	Pisemne sprawozdanie o zdarzeniu w ciągu 14 dni	</item>
+        <item>	Służbie Więziennej	</item>
+        <item>	PL - 2	</item>
+        <item>	Pozbawienia wolności do lat 5	</item>
+        <item>	Użyć wszelkich środków do udzielenia pomocy naruszając nawet przepisy lotnicze.	</item>
+        <item>	Załoga statku powietrznego	</item>
+        <item>	Załoga statku powietrznego	</item>
+        <item>	Załoga statku powietrznego	</item>
+        <item>	Nie	</item>
+        <item>	Przez PKBWL	</item>
+        <item>	Dwa razy w roku	</item>
+        <item>	Obsługa techniczna	</item>
+        <item>	Stanu zdrowia załogi	</item>
+        <item>	pomarańczowy	</item>
+        <item>	że ma możliwość podejścia według MLS	</item>
+        <item>	wyłączyć ELT	</item>
+        <item>	inspektor kontroli cywilnych statków powietrznych	</item>
+        <item>	nie ustanowiono procedury odladzania i przeciwdziałania oblodzeniu samolotu na ziemi	</item>
+        <item>	odpowiadają danym z AIP	</item>
+        <item>	dowolna osoba	</item>
+        <item>	przewoźnik lub dysponent statku powietrznego	</item>
+        <item>	w kabinie załogi	</item>
+        <item>	jedynie podręcznik pierwszej pomocy	</item>
+        <item>	Aneksie 6 ICAO	</item>
+        <item>	konieczności zapewnienia pomocy medycznej	</item>
+        <item>	wystrzelenie zielonej rakiety	</item>
+        <item>	kilkakrotne przechylenie samolotu na boki	</item>
+        <item>	żądanie udzielenia informacji o własnej pozycji	</item>
+        <item>	benzyną lotniczą	</item>
+        <item>	pianą gaśniczą	</item>
+        <item>	zamówić paliwo na lotnisku lądowania	</item>
+        <item>	zostawione na podłożu do odparowania	</item>
+        <item>	obecność substancji promieniotwórczych na pokładzie statku powietrznego jest bezwzględnie zabroniona	</item>
+        <item>	z boku, w płaszczyźnie obrotu śmigła	</item>
+        <item>	utrzymania dobrej wentylacji kabiny	</item>
+        <item>	w miejscu zapewniającym najlepszą widoczność	</item>
+        <item>	poinformować pasażerów	</item>
+        <item>	przedstawiciel przewoźnika	</item>
+        <item>	inspektora ULC, odpowiedzialnego za certyfikację, licencjonowanie lub nadzór bieżący	</item>
+        <item>	podjąć próbę siłowego odzyskania kontroli nad sytuacją	</item>
+        <item>	powiadamia statki powietrzne znajdujące się najbliżej statku, co do którego istnieje takie podejrzenie	</item>
+        <item>	Dzienniku Ustaw	</item>
+        <item>	tylko w niebezpieczeństwie	</item>
+        <item>	przez cały czas trwania lotu	</item>
+        <item>	można kołować poprzez wszystkie drogi kołowania i startowe po drodze, do wjazdu na drogę startową 27	</item>
+        <item>	organ kontroli ruchu lotniczego, po wylądowaniu	</item>
+    </string-array>
+
+    <string-array name="procedury_odp_c" >
+        <item>	Urząd Lotnictwa Cywilnego	</item>
+        <item>	Krajowa Komisja Badania Wypadków Lotniczych	</item>
+        <item>	Powiadomienie przełożonego i/lub władzy lotniczej	</item>
+        <item>	Tak, ale pod nadzorem PKBWL	</item>
+        <item>	Nie	</item>
+        <item>	Użytkownik statku powietrznego	</item>
+        <item>	Minister Infrastruktury	</item>
+        <item>	Minister Spraw Wewnętrznych	</item>
+        <item>	Tak, jeśli statek powietrzny został uszkodzony	</item>
+        <item>	24 godziny	</item>
+        <item>	zakłóciło bezpieczne wykonanie lotu.	</item>
+        <item>	osoby biorące udział w zdarzeniu są tylko lekko ranne.	</item>
+        <item>	Aneks 12	</item>
+        <item>	Telefon do straży pożarnej	</item>
+        <item>	nie składa.	</item>
+        <item>	zeszycie prac obsługowych.	</item>
+        <item>	Do startu i do lądowania.	</item>
+        <item>	Zgodność listy pasażerów.	</item>
+        <item>	Opuścić statek powietrzny niezwłocznie.	</item>
+        <item>	Czystość i porządek w kabinie.	</item>
+        <item>	Krzyżem maltańskim	</item>
+        <item>	Zabrania się.	</item>
+        <item>	Właściwą stację naziemną, pisemnie po lądowaniu	</item>
+        <item>	Wyjaśnienie okoliczności i przyczyn oraz wypracowanie zaleceń profilaktycznych, wskazanie winnych zdarzenia oraz rozpowszechnianie informacji dotyczącej zdarzeń.	</item>
+        <item>	36 godzin przed lotem	</item>
+        <item>	Pilot.	</item>
+        <item>	Opinii publicznej	</item>
+        <item>	Można naruszyć przepisy lotnicze po konsultacji z członkami załogi	</item>
+        <item>	Ustne – telefoniczne sprawozdanie po lądowaniu w miejscu docelowym	</item>
+        <item>	Straży Ochrony Lotniska	</item>
+        <item>	JAR-ach	</item>
+        <item>	Pozbawienia wolności do roku	</item>
+        <item>	Powiadomić odpowiednie służby lotnicze.	</item>
+        <item>	Kontroler Ruchu Lotniczego	</item>
+        <item>	Służba ruchu lotniczego	</item>
+        <item>	Służba ruchu lotniczego	</item>
+        <item>	Tylko w obecności członków PKBWL	</item>
+        <item>	Przez ULC wraz z PKBWL	</item>
+        <item>	Raz na dwa lata	</item>
+        <item>	Obsługa lotniskowa	</item>
+        <item>	Stanu pogody	</item>
+        <item>	biały	</item>
+        <item>	że ma możliwość podejścia według TLS	</item>
+        <item>	zgłosić fakt mechanikowi gdy będzie to możliwe	</item>
+        <item>	właściciel statku powietrznego	</item>
+        <item>	temperatura powietrza jest niższa niż 7°C	</item>
+        <item>	są zgodne z podawanymi przez odpowiednie służby	</item>
+        <item>	lekarz wojewódzki	</item>
+        <item>	obsługa techniczna w miejscu startu	</item>
+        <item>	w części kadłuba najmniej narażonej na uszkodzenie	</item>
+        <item>	podręcznik pierwszej pomocy i pełny tekst Aneksu 6 ICAO	</item>
+        <item>	Aneksie 2 ICAO	</item>
+        <item>	ogólnego niebezpieczeństwa dla ruchu lotniczego, zaobserwowania groźnych zjawisk itp.	</item>
+        <item>	włączenie smugaczy	</item>
+        <item>	wystrzelenie zielonej rakiety	</item>
+        <item>	żądanie zidentyfikowania statku powietrznego	</item>
+        <item>	alkoholem	</item>
+        <item>	piaskiem	</item>
+        <item>	natychmiast lądować w terenie przygodnym	</item>
+        <item>	zebrane, przefiltrowane i zużyte do celów gospodarczych	</item>
+        <item>	udzielenia stosownego zezwolenia przez Ministersto Ochrony Środowiska	</item>
+        <item>	za śmigłem	</item>
+        <item>	może palic tylko jedna osoba na raz	</item>
+        <item>	w miejscu zapewniającym najlepszy nadzór nad czynnościami pilota prowadzącego statek powietrzny	</item>
+        <item>	zabezpieczyć przedmioty wartościowe	</item>
+        <item>	każdy członek załogi lotniczej	</item>
+        <item>	przedstawiciela przewoźnika	</item>
+        <item>	upewnić się czy instalacja tlenowa jest sprawna	</item>
+        <item>	rządowe statki powietrzne	</item>
+        <item>	miesięczniku „Przegląd Lotniczy”	</item>
+        <item>	uzyskania pisemnej zgody władz terenowych	</item>
+        <item>	w czasie startu i lądowania	</item>
+        <item>	można kołować poprzez wszystkie drogi kołowania i startowe po drodze i zająć drogę startową 27	</item>
+        <item>	władze lokalne	</item>
+    </string-array>
+
+    <string-array name="procedury_odp_d" >
+        <item>	Komórka ds. Bezpieczeństwa Lotów ULC	</item>
+        <item>	Główna Komisja Badania Wypadków i Incydentów Lotniczych	</item>
+        <item>	Powiadomienie Policji	</item>
+        <item>	Tak, ale po wyrażeniu zgody przez Prezesa ULC	</item>
+        <item>	Tak, jeśli posiada do tego odpowiednie kwalifikacje	</item>
+        <item>	Pilot	</item>
+        <item>	Urząd Lotnictwa Cywilnego	</item>
+        <item>	PKBWL	</item>
+        <item>	Tak, jeśli z tej przyczyny lot został przerwany	</item>
+        <item>	96 godzin	</item>
+        <item>	przyczyniło się do przerwania zadania.	</item>
+        <item>	Statek powietrzny lądował w terenie przygodnym bez uszkodzeń.	</item>
+        <item>	Aneks 14	</item>
+        <item>	Oddalenie się na bezpieczną odległość	</item>
+        <item>	składa, meldunek ustny, jeśli statek powietrzny uległ jakiemukolwiek uszkodzeniu.	</item>
+        <item>	dokumentacji technicznej statku powietrznego	</item>
+        <item>	Tylko do lądowania.	</item>
+        <item>	Czy otrzymał zgodę na lot.	</item>
+        <item>	Wszystkie pozostałe odpowiedzi są nieprawidłowe	</item>
+        <item>	Czy wszystkie przełączniki, dźwignie i urządzenia kontroli i sterowania znajdują się w położeniu wyjściowym.	</item>
+        <item>	Czerwonym krzyżem na białym tle.	</item>
+        <item>	Tak, po otrzymaniu zgody od właściwego organu ruchu lotniczego.	</item>
+        <item>	Przełożonego lub najbliższy organ ruchu lotniczego	</item>
+        <item>	Wyjaśnienie okoliczności i przyczyn zdarzenia.	</item>
+        <item>	48 godzin przed lotem	</item>
+        <item>	użytkownik bez wiedzy załogi.	</item>
+        <item>	Stronom zainteresowanym.	</item>
+        <item>	Wszystkie pozostałe odpowiedzi są nieprawidłowe.	</item>
+        <item>	Nie składa dodatkowych wyjaśnień.	</item>
+        <item>	Funkcjonariuszom ABW.	</item>
+        <item>	PL - 6	</item>
+        <item>	Grzywny, karze ograniczenia wolności lub pozbawienia wolności do roku	</item>
+        <item>	Powiadomić odpowiednie służby lotnicze i działać według ich poleceń.	</item>
+        <item>	Inspektor bezpieczeństwa lotów	</item>
+        <item>	Dowódca załogi w porozumieniu z załogą i kontrolerem ruchu lotniczego	</item>
+        <item>	Dowódca załogi w porozumieniu z załogą i kontrolerem ruchu lotniczego	</item>
+        <item>	Tylko w obecności lekarza.	</item>
+        <item>	Przez MI	</item>
+        <item>	W razie potrzeb.	</item>
+        <item>	Drugi pilot	</item>
+        <item>	Stanu lotniska	</item>
+        <item>	wyłącznie czerwony	</item>
+        <item>	że może korzystać z przestrzeni RVSM	</item>
+        <item>	powiadomić policję	</item>
+        <item>	kierownik obsługi startowej	</item>
+        <item>	pada deszcz	</item>
+        <item>	jeśli organ kontroli ruchu lotniczego udziela zgody, dowódca statku powietrznego wykonuje start	</item>
+        <item>	dowolny członek personelu lotniczego	</item>
+        <item>	pion bezpieczeństwa lotniczego ULC	</item>
+        <item>	w zamkniętej kasetce w dyspozycji dowódcy statku powietrznego	</item>
+        <item>	Aneks 12 ICAO	</item>
+        <item>	AIP Polska, rozdz. ENR1 „Przepisy i Procedury Ogólne”	</item>
+        <item>	utraty łączności	</item>
+        <item>	zrzucenie meldunku potwierdzającego	</item>
+        <item>	zrzucenie meldunku potwierdzającego	</item>
+        <item>	odpowiedź negatywna	</item>
+        <item>	benzyną ekstrakcyjną	</item>
+        <item>	wodą	</item>
+        <item>	porozumieć się z przewoźnikiem lub dysponentem statku powietrznego	</item>
+        <item>	zlane do kanalizacji	</item>
+        <item>	właściwego opakowania i wyraźnego oznakowania substancji promieniotwórczej	</item>
+        <item>	obojętnie	</item>
+        <item>	załoga jest jednoosobowa	</item>
+        <item>	w zasięgu wzroku pilota prowadzącego statek powietrzny	</item>
+        <item>	zadbać o bezpieczeństwo dowódcy statku powietrznego	</item>
+        <item>	zarządca lotniska	</item>
+        <item>	zarządcy lotniska	</item>
+        <item>	wykonywać polecenia  napastników	</item>
+        <item>	wszystkie statki powietrzne w sektorze odpowiedzialności danej służby ruchu lotniczego	</item>
+        <item>	na stronach internetowych organizacji lotniczych	</item>
+        <item>	uzyskania zgody władz lotniczych	</item>
+        <item>	występowania turbulencji	</item>
+        <item>	można kołować poprzez wszystkie drogi kołowania i startowe po drodze i startować  z drogi startowej 27	</item>
+        <item>	Urząd Lotnictwa Cywilnego	</item>
+    </string-array>
+</resources>

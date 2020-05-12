@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lacznosci_answers">
+        <item>	Przygotowanie treści , wciśnięcie przycisku nadawania i (po chwili) rozpoczęcie transmisji, zakończenie transmisji i ( po chwili) zwolnienie przycisku nadawania	</item>
+        <item>	Otrzymał polecenie organu kontroli ruchu lotniczego lub służby informacji powietrznej.	</item>
+        <item>	Ponowić wywołanie nie wcześniej niż po 10 sekundach i jeśli wtedy brak odpowiedzi upewnić się czy wybrano właściwą częstotliwość.	</item>
+        <item>	Oscar	</item>
+        <item>	Foxtrot	</item>
+        <item>	Romeo	</item>
+        <item>	Nie opóźnia  to znacznie tempa prowadzonej korespondencji i jest istotne ze względu na zrozumienie treści nazw lub skrótów	</item>
+        <item>	Wzajemnego komunikowania się personelu latającego i naziemnego	</item>
+        <item>	Utrzymywać stałe natężenie głosu i właściwą odległość ust od mikrofonu	</item>
+        <item>	Nawiązaniu dwustronnej łączności na określonej  częstotliwości i wymianie raportów o czytelności transmisji	</item>
+        <item>	Upewnić się czy częstotliwość nie jest zajęta przez inną transmisje	</item>
+        <item>	Stacja lotnicza znajduje się w niebezpieczeństwie lub sytuacji naglącej	</item>
+        <item>	System Simplex	</item>
+        <item>	Transmisje zbędne, anonimowe, o charakterze prywatnym, zakłócające prowadzenie innej korespondencji	</item>
+        <item>	Potwierdzona przez pilota poprzez powtórzenie całości korespondencji i podanie swojego znaku wywoławczego	</item>
+        <item>	Trzykrotne wywołanie MAYDAY, trzykrotne podanie swojego znaku wywoławczego,rodzaj niebezpieczeństwa, pozycję i parametry lotu, zamiary dowódcy statku powietrznego, rodzaj oczekiwanej pomocy na częstotliwości, na której prowadzono korespondencję lub jeśli niemożliwe, na 121,500 MHz	</item>
+        <item>	SHN	</item>
+        <item>	Procedura specjalna w przypadku braku odbioru ze stacji, z którą chcemy się skomunikować  polegająca na dwukrotnym przekazaniu treści depeszy na częstotliwości podstawowej i zapasowej z użyciem słów „Nadaję na ślepo”	</item>
+        <item>	Organ kontroli zbliżania Gdańsk	</item>
+    </string-array>
+
+    <string-array name="lacznosc_odp_b" >
+        <item>	Sprawdzenie mikrofonu i  nadawanie treści natychmiast  aż do zakończenia meldunku	</item>
+        <item>	Uzna, że powinien zmienić częstotliwość odpowiednią do trasy	</item>
+        <item>	Poczekać na wywołanie przez stację naziemną	</item>
+        <item>	Ontario	</item>
+        <item>	Fox	</item>
+        <item>	Radio	</item>
+        <item>	Chcemy umożliwić zapisanie treści depeszy	</item>
+        <item>	Przekazywania pleceń pilotom przez kontrolera wieży	</item>
+        <item>	Trzymać mikrofon w polu widzenia	</item>
+        <item>	Wywołaniu stacji naziemnej z powietrza i uzyskaniu odpowiedzi na wywołanie	</item>
+        <item>	"Przeprowadzić łączność
+sprawdzającą"	</item>
+        <item>	Nie jest dozwolone do czasu zakończenia korespondencji	</item>
+        <item>	System Duplex (dupleks)	</item>
+        <item>	Transmisje rozwlekłe, przerywane, zawierające treści nie związane z wykonywanym zadaniem lotniczym	</item>
+        <item>	"Powinna być potwierdzona sformułowaniem „Roger” lub
+„Zrozumiałem”"	</item>
+        <item>	Słowo MAYDAY, swój znak wywoławczy i rodzaj zagrożenia nadane na częstotliwości radiowej przydzielonej dla danej trasy	</item>
+        <item>	HN	</item>
+        <item>	Nadawanie komunikatów nie wymagających potwierdzenia odbioru	</item>
+        <item>	Kontrolę podejścia w Gdańsku	</item>
+    </string-array>
+
+    <string-array name="lacznosc_odp_c" >
+        <item>	Włączenie mikrofonu, ustawienie wzmocnienia i wyłączenie podsłuchu własnego nadawania, przekazanie treści	</item>
+        <item>	Występują zakłócenia na częstotliwości podstawowej	</item>
+        <item>	Zmienić częstotliwość	</item>
+        <item>	Oklahoma	</item>
+        <item>	Frank	</item>
+        <item>	Roger	</item>
+        <item>	Nie jest istotne tempo nadawania w małym natężeniu ruchu lotniczego	</item>
+        <item>	Przekazywania wyłącznie informacji handlingowych pilotom przez uprawnione osoby	</item>
+        <item>	Mówić głośno i szybko	</item>
+        <item>	Włączeniu radiostacji i wywołaniu dowolnej stacji radiowej	</item>
+        <item>	Ustawić częstotliwość zapasową	</item>
+        <item>	Wymaga szczególnej autoryzacji ULC	</item>
+        <item>	System Półdupleks	</item>
+        <item>	Transmisje nadawane zbyt szybko, bez użycia standardowej frazeologii	</item>
+        <item>	Nie wymaga potwierdzenia	</item>
+        <item>	Słowo MADAY nadane trzykrotnie na częstotliwości 121,500 MHz	</item>
+        <item>	AHN	</item>
+        <item>	Nadawanie komunikatów do wszystkich zainteresowanych ( rozgłaszanie)	</item>
+        <item>	Służbę zbliżania statków powietrznych w Gdańsku	</item>
+    </string-array>
+
+    <string-array name="lacznosc_odp_d" >
+        <item>	Weryfikacja treści komunikatu i bezzwłoczne rozpoczęcie transmisji do czasu przerwy w nadawaniu	</item>
+        <item>	Nie ma odpowiedzi na pierwsze wywołanie.	</item>
+        <item>	Wywołać inny statek powietrzny na tej samej częstotliwości	</item>
+        <item>	Ohio	</item>
+        <item>	Florida	</item>
+        <item>	Rover	</item>
+        <item>	W korespondencji występują więcej niż dwie nazwy punktów meldunkowych	</item>
+        <item>	Komunikowania się kontrolera wieży z obsługą naziemną lotniska	</item>
+        <item>	Mieć przed oczami tekst korespondencji	</item>
+        <item>	Wywołaniu stacji naziemnej na wszystkich opublikowanych częstotliwościach	</item>
+        <item>	Włączyć podsłuch własnego nadawania	</item>
+        <item>	Status lotu daje taki przywilej	</item>
+        <item>	System konferencyjny	</item>
+        <item>	Transmisje pomiędzy pilotami bez powiadomienia służb naziemnych	</item>
+        <item>	Pilot decyduje o sposobie potwierdzenia odebrania korespondencji	</item>
+        <item>	Znak wywoławczy, określenie zagrożenia, pozycję samolotu, zamiary dowódcy na dostępnej częstotliwości radiowej	</item>
+        <item>	SN	</item>
+        <item>	Procedura wykonania lotu w warunkach IMC wraz z utratą łączności	</item>
+        <item>	System podejścia do lądowania w Gdańsku	</item>
+    </string-array>
+</resources>

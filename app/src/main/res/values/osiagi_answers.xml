@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="osiagi_answers">
+        <item>	Ciśnienie na poziomie morza (Mean Sea Level) różni się od wartości 1013.25hPa.	</item>
+        <item>	Gradient zmiany temperatury jest inny niż standardowy –  czyli warunki różnią się od tych zdefiniowanych Międzynarodową Atmosferą Wzorcową.	</item>
+        <item>	126,5	</item>
+        <item>	Zwiększy się stateczność podłużna (co spowoduje większe siły na drążku przy manewrach).	</item>
+        <item>	"15°C / 1013,25 hPa / 1.225 kg/m3 /  - 6.5°C na 1000 m"	</item>
+        <item>	"w procentach średniej cięciwy aerodynamicznej (% MAC) lub odległości (mm, cm, inch) położenia S.C. względem punktu pomiarowego ""DATUM"""	</item>
+        <item>	Punkt, w którym skoncentrowana jest masa statku powietrznego.	</item>
+        <item>	1.88 m	</item>
+        <item>	2.04 m	</item>
+        <item>	siła (ciężar) mnożone przez ramię działania siły.	</item>
+        <item>	Odczytując wysokość wskazywaną przez wysokościomierz nastawiony na 1013.2 hPa.	</item>
+        <item>	Oderwanie samolotu przy mniejszej prędkości, ale zjawisko zanika na wysokości równej w przybliżeniu rozpiętości i osiągi spadają.	</item>
+        <item>	Redukcji oporu indukowanego oraz kąta natarcia potrzebnego do lotu poziomego (przy danej prędkości) co jest spowodowanej bliskością ziemii.	</item>
+        <item>	Grubość warstwy wody na pasie musi być większa od krytycznej (około 3 mm) oraz samolot musi uzyskać odpowiednią prękość.	</item>
+        <item>	To prędkość, przy której osiąga się najlepszy gradient wznoszenia. Best Angle of Climb.	</item>
+        <item>	To prędkość, przy której osiąga się najlepszą prędkość wznoszenia Best Rate of Climb.	</item>
+        <item>	Tak.	</item>
+        <item>	Taki kąt natarcia, przy którym siła nośna równa się ciężarowi i możliwy jest lot poziomy.	</item>
+        <item>	Małą gęstość powietrza i niskie osiągi samolotu.	</item>
+        <item>	Zwiększenie długości rozbiegu.	</item>
+        <item>	Start z wysoko położonego lotniska - większenie długości rozbiegu.	</item>
+        <item>	Zmniejszenie długości rozbiegu.	</item>
+        <item>	Zwiększenie długości rozbiegu.	</item>
+        <item>	Spadek temperatury otoczenia spowoduje wzrost gradientu wznoszenia.	</item>
+        <item>	Spadek temperatury otoczenia spowoduje zmniejszenie wymaganego dystansu do startu.	</item>
+        <item>	Nastąpi zmniejszenie prędkości wznoszenia.	</item>
+        <item>	Ze względu na konieczność większego wychylenia steru wysokości – wzrasta wymagana siła nośna na płacie – zwiększa się opór indukowany, co negatywnie wpływa na osiągi.	</item>
+        <item>	W ogon: 12 kt, boczna – z lewej 14 kt.	</item>
+        <item>	Czołowa: 8 kt, boczna – z prawej 21 kt.	</item>
+        <item>	W ogon: 7 kt, boczna – z lewej 11 kt.	</item>
+        <item>	Czołowa: 13 kt, boczna – z lewej 23 kt.	</item>
+        <item>	Czołowa: 3 kt, boczna – z lewej 15 kt.	</item>
+        <item>	duża temperatura, duża wysokość gęstościowa, duża wilgotność.	</item>
+        <item>	duża wysokość gęstościowa i duża temperatura otoczenia.	</item>
+        <item>	Prędkości TAS i lokalnej prędkości dźwięku.	</item>
+        <item>	maksymalna masa do lądowania w normalnych okolicznościach.	</item>
+        <item>	Gęstość powietrza jest duża – czyli osiągi samolotu będą lepsze niż w przypadku dużej wysokości gestościowej.	</item>
+        <item>	Najlepszy stosunek sił nośnej do oporu – taki najbardziej ekonomiczny kąt natarcia jest stały dla każdej kombinacji wysokości lotu i masy samolotu.	</item>
+        <item>	Zjawisko zanika na wysokości równej w przybliżeniu rozpiętości samolotu / szybowca i osiągi spadają.	</item>
+        <item>	"Nawet drobne zanieczyszczenie typu „papier ścierny” powierzchni nośnych może mieć niebezpieczny wpływ na osiągi."	</item>
+        <item>	Prękość przeciągnięcia wzrosnie o około 40%.	</item>
+        <item>	Pojawia się siła dośrodkowa  i przeciązenie (load factor).	</item>
+        <item>	Całkowita siła nośna dzielona przez ciężar.	</item>
+        <item>	Mniejsze, wzrośnie.	</item>
+        <item>	Zmniejszy się.	</item>
+        <item>	prędkość wznoszenia statku powietrznego osiąga pewną, określoną przepisami, wartość.	</item>
+        <item>	Wysoka trawa.	</item>
+        <item>	podłużnej.	</item>
+        <item>	Zachowanie stateczności podłużnej.	</item>
+        <item>	Podwyższenie prędkości startu i prędkości bezpiecznych, wydłużenie dystansu do startu i lądowania, zmniejszenie prędkości wznoszenia, możliwość uszkodzeń konstrukcji samolotu.	</item>
+        <item>	Współczynnik sił nośnej do oporu.	</item>
+        <item>	10	</item>
+        <item>	Przed środkiem aerodynamicznym.	</item>
+        <item>	0.91 m	</item>
+        <item>	Może doprowadzić do przeciągniecia statecznika poziomego i wejście samolotu w niekontrolowane nurkowanie.	</item>
+    </string-array>
+
+    <string-array name="osiagi_odp_b" >
+        <item>	Gradient zmiany gęstości jest inny niż standardowy.	</item>
+        <item>	Gradient zmiany ciśnienia jest inny niż standardowy.	</item>
+        <item>	23,9	</item>
+        <item>	"Zwiększy się manewrowość samolotu
+/ szybowca."	</item>
+        <item>	"15°C / 1013,25 mb / 1.225 kg/m3 /
+1.98°C na 1000m"	</item>
+        <item>	w procentach średniej cięciwy aerodynamicznej ciężkości (% MAC).	</item>
+        <item>	Punkt, do którego przyłożone są wszystkie siły działające na statek powietrzny.	</item>
+        <item>	2,92	</item>
+        <item>	3.12 m	</item>
+        <item>	siła (ciężar) dzielone przez ramię działania siły.	</item>
+        <item>	Odczytujemy wysokość z wysokościomierza nastawionego na 1013.2hPa, a następnie korygujemy ją, ze względu odczytaną temperaturę otoczenia.	</item>
+        <item>	Osiągnięcie większej mocy silnika blisko ziemi (dotyczy silników bez sprężarkowych).	</item>
+        <item>	Znacznym skróceniu fazy wytrzymania przy lądowaniu.	</item>
+        <item>	Bieżniki koł samolotu muszą rozgrzać się do wysokiej temperatury podczas intensywnego hamowania na wilgotnym pasie.	</item>
+        <item>	To prędkość, przy której osiąga się najlepszą prędkość wznoszenia Best Rate of Climb.	</item>
+        <item>	To prędkość, przy której osiąga się najlepszy gradient wznoszenia. Best Angle of Climb.	</item>
+        <item>	Fałsz – chłodzi silnik i przez to poprawia osiągi.	</item>
+        <item>	Takie przechylenie, które zapewnia, że siła nośna równa się ciężarowi i możliwy jest lot poziomy	</item>
+        <item>	Dużą gęstość powietrza i niskie osiągi samolotu.	</item>
+        <item>	Zmniejszenie długości rozbiegu.	</item>
+        <item>	Zmniejszenie długości rozbiegu.	</item>
+        <item>	Zwiększenie długości rozbiegu.	</item>
+        <item>	Zmniejszenie długości rozbiegu.	</item>
+        <item>	Wzrost temperatury otoczenia spowoduje spadek wymaganego dystansu do startu.	</item>
+        <item>	Wzrost temperatury otoczenia spowoduje spadek wymaganego dystansu do startu.	</item>
+        <item>	Ze względu na konieczność mniejszego wychylenia steru wysokości – spada wymagana siła nośna na płacie – zmniejsza się prędkość przeciągniecia.	</item>
+        <item>	Ze względu na konieczność mniejszego wychylenia steru wysokości – zmniejsza się siła nośna na usterzeniu, co wymaga zwiększenia siły nosniej na płacie co zmniejsza opór indukowany i ma negatywny wpływ na osiągi.	</item>
+        <item>	Czołowa: 12 kt, boczna – z prawej 14 kt.	</item>
+        <item>	Czołowa: 14 kt, boczna – z prawej 17 kt.	</item>
+        <item>	Czołowa: 7 kt, boczna – z prawej 11 kt.	</item>
+        <item>	Czołowa: 14 kt, boczna – z prawej 17 kt.	</item>
+        <item>	Czołowa: 8 kt, boczna – z lewej 13 kt.	</item>
+        <item>	mała temperatura, duża wysokość gestościowa, mała wilgotność.	</item>
+        <item>	silny wiatr czołowy.	</item>
+        <item>	Prędkości IAS i lokalnej prędkości dźwięku.	</item>
+        <item>	maksymalna masa do lądowania - nieprzekraczalna - nawet w sytuacjach awaryjnych ze względu na pewność zniszczenia konstrukcji.	</item>
+        <item>	Gęstość powietrza jest duża – czyli osiągi samolotu będą dużo gorsze niż w przypadku dużej wysokości gestościowej.	</item>
+        <item>	Najlepszy stosunek sił nośnej do oporu – taki najbardziej ekonomiczny kąt natarcia rośnie wraz z masą samolotu oraz wysokością lotu.	</item>
+        <item>	Zjawisko znaczne skraca fazę wytrzymania przy lądowaniu.	</item>
+        <item>	"Lód na górnej powierzchni skrzydeł
+/łopat wirników jest mniej niebezpieczny niż na dolnej."	</item>
+        <item>	Prękość przeciągnięcia spadnie o około 20%.	</item>
+        <item>	Siła ciężkości jest dokładnie równoważona przez siłę nośną.	</item>
+        <item>	Ciężar dzielony przez siłę nośną.	</item>
+        <item>	Mniejsze, zmniejszy się.	</item>
+        <item>	Zwiększy się.	</item>
+        <item>	prędkość wznoszenia statku powietrznego osiąga zero.	</item>
+        <item>	Niska trawa.	</item>
+        <item>	poprzecznej.	</item>
+        <item>	Zachowanie stateczności poprzecznej.	</item>
+        <item>	Obniżenie prędkości startu i prędkości bezpiecznych, nie ma zmian w osiągach silników.	</item>
+        <item>	Opór indukowany.	</item>
+        <item>	0,	</item>
+        <item>	Dokładnie w środku aerodynamicznym.	</item>
+        <item>	0.75 m	</item>
+        <item>	Gdy zaistnieje, wymaga takiego samego działania ze strony pilota – oddania steru od siebie, dodania mocy.	</item>
+    </string-array>
+
+    <string-array name="osiagi_odp_c" >
+        <item>	Gradient zmiany ciśnienia jest inny niż ISA.	</item>
+        <item>	Wysokościomierz został nagrzany (np.w świetle słonecznym) do wysokiej temperatury.	</item>
+        <item>	6957	</item>
+        <item>	Zwiększy się stateczność podłużna (co spowoduje mniejsze siły na drążku przy manewrach).	</item>
+        <item>	"0°C / 1.013 Bar / 1225 g/m3 / 1.98°C
+na 1000 ft"	</item>
+        <item>	w procentach cięciwy aerodynamicznej przy kadłubie (% MAC).	</item>
+        <item>	Punkt, do którego przyłożone są siły nośna i ciężkości - działające na statek powietrzny.	</item>
+        <item>	3,2	</item>
+        <item>	1.88 m	</item>
+        <item>	siła (ciężar) x odległość środka ciężkości od datum.	</item>
+        <item>	Odczytujemy wysokość z wysokościomierza nastawionego na aktualne QNH, a następnie skorygujemyją ze względu odczytaną temperaturę otoczenia.	</item>
+        <item>	Lepszą obserwacje otoczenia przez pilota ze względu na szersze pole widzenia blisko ziemi.	</item>
+        <item>	Osiąganiu większej mocy przez silniki tłokowe blisko ziemi (dotyczy silników bezsprężarkowych).	</item>
+        <item>	Jedna z koł samolotu musi zostać zablokowane (np. awaria anti-skid) na mokrym pasie.	</item>
+        <item>	To prędkość decyzji, przy której są bezpiecznie spełnione warunki do przerwania i kontynuowania startu.	</item>
+        <item>	To prędkość decyzji, przy której są bezpiecznie spełnione warunki do przerwania i kontynuowania startu.	</item>
+        <item>	Wilgotność powietrza nie ma wpływu na osiągi.	</item>
+        <item>	Taki kąt natarcia, przy którym siła oporu równa się ciągowi wytwarzanemu przez jednostki napędowe i możliwy jest lot poziomy.	</item>
+        <item>	Dużą gęstość powietrza i wysokie osiągi samolotu.	</item>
+        <item>	Temperatura otoczenia nie ma wpływu na długość rozbiegu.	</item>
+        <item>	Elewacja lotniska nie ma wpływu na długość rozbiegu.	</item>
+        <item>	Nie ma wpływu na długość rozbiegu.	</item>
+        <item>	Nie ma wpływu na długość rozbiegu.	</item>
+        <item>	Spadek temperatury otoczenia spowoduje wzrost wymaganego dystansu do startu.	</item>
+        <item>	Spadek temperatury otoczenia spowoduje wzrost wymaganego dystansu do startu.	</item>
+        <item>	nastąpi zmniejszenie zużycia paliwa podczas lotu ze względu na mniejszy opór.	</item>
+        <item>	Ze względu na konieczność mniejszego wychylenia steru wysokości – spada wymagana siła nośna na płacie – zmniejsza się prędkość przeciągniecia.	</item>
+        <item>	Czołowa: 16 kt, boczna – z prawej 16 kt.	</item>
+        <item>	Czołowa: 4 kt, boczna – z prawej 22 kt.	</item>
+        <item>	Czołowa: 4 kt, boczna – z prawej 12 kt.	</item>
+        <item>	Czołowa: 9 kt, boczna – z prawej 23 kt.	</item>
+        <item>	W ogon: 3 kt, boczna – z lewej 15 kt.	</item>
+        <item>	duża temperatura, mała wysokość gestościowa, małą wilgotność.	</item>
+        <item>	słaby opad deszczu przy niskiej, ale dodatniej temperaturze otoczenia.	</item>
+        <item>	Prędkości IAS i prędkości dźwięku na danej wysokości odniesionej do ISA.	</item>
+        <item>	maksymalna masa do lądowania w sytuacjach awaryjnych (1.3 razy większa od normalnej masy do lądowania).	</item>
+        <item>	Gęstość powietrza jest mała, co powoduje spadek osiągów samolotu w porównaniu do przypadku dużej wysokości gestościowej.	</item>
+        <item>	Najlepszy stosunek siły oporu do ciągu.	</item>
+        <item>	Poprawia się gradient wznoszenia do wysokości 150 m.	</item>
+        <item>	Głównym czynnikiem wpływającym na osiągi statków powietrznych jest masa osadzającego się na nich lodu.	</item>
+        <item>	Prękość przeciągnięcia wzrośnie o około 60%.	</item>
+        <item>	Pojawia się przyspieszenie ujemne.	</item>
+        <item>	Ciąg dzielony przez ciężar.	</item>
+        <item>	Nie ma różnicy, nie ma wpływu na długość rozbiegu.	</item>
+        <item>	Nachylenie drogi startowej nie ma wpływu na długość rozbiegu.	</item>
+        <item>	prędkość przeciągniecia i krytyczna prędkość Macha statku powietrznego są równe.	</item>
+        <item>	Beton.	</item>
+        <item>	stayczynej poprzecznej.	</item>
+        <item>	Konieczność zachowania równomiernego obciążenia goleni podwozia.	</item>
+        <item>	Obniżenie prędkości startu i prędkości bezpiecznych oraz możliwość uszkodzeń konstrukcji samolotu.	</item>
+        <item>	Pole widzenia pilota ze względu na zwiększony kąt natarcia.	</item>
+        <item>	Położenie klap nie ma wpływu na długość rozbiegu.	</item>
+        <item>	Zawsze dokładnie pod środkiem aerodynamicznym.	</item>
+        <item>	9.1 m	</item>
+        <item>	Występuje tylko na dużych samolotach pasażerskich.	</item>
+    </string-array>
+
+    <string-array name="osiagi_odp_d" >
+        <item>	Wysokościomierz został nagrzany (np.w świetle słonecznym) do wysokiej temperatury.	</item>
+        <item>	Ciśnienie npm (Mean Sea Level) różni się od wartości 1013.25hPa.	</item>
+        <item>	0,0418	</item>
+        <item>	Będą występowały mniejsze siły na drążku.	</item>
+        <item>	"15°C / 29.92 in.Hg / 1013 kg/m3 /
+1.98°C na 1000 ft."	</item>
+        <item>	w procentach średniej cięciwy aerodynamicznej liczonej w średniej rozpiętości (% MAC).	</item>
+        <item>	Punkt, do którego przyłożone są siły oporu działające na statek powietrzny.	</item>
+        <item>	1,68	</item>
+        <item>	2.09 m	</item>
+        <item>	ramię działania siły dzielone przez siłę (ciężar)	</item>
+        <item>	Zawsze odczytując wysokość wskazywaną przez wysokościomierz nastawiony na aktualne QNH.	</item>
+        <item>	Osiągnięcie większego ciągu silnika blisko ziemi – efekt ten zanika na wysokości równej w przybliżeniu rozpiętości samolotu.	</item>
+        <item>	Osiągnięcie większego ciągu silnika blisko ziemi – efekt ten zanika na wysokości równej w przybliżeniu rozpiętości samolotu.	</item>
+        <item>	„Hydroplanning’” to określenie dotyczące tylko lądowania wodnosamolotu na gładkiej powierzchni wody.	</item>
+        <item>	To prędkość, przy której osiąga się najlepszy stosunek siły nośnej do ciągu.	</item>
+        <item>	To prędkość, przy której osiąga się najlepszy stosunek siły nośnej do ciągu.	</item>
+        <item>	Wszystkie podane odpowiedzi są nieprawdziwe.	</item>
+        <item>	Taki kąt natarcia, przy którym siła nośna równa się ciężarowi razy cosinus kąta natarcia i możliwy jest lot poziomy.	</item>
+        <item>	Małą gęstość powietrza i wysokie osiągi samolotu.	</item>
+        <item>	wszystkie podane odpowiedzi są nieprawdziwe.	</item>
+        <item>	wszystkie podane odpowiedzi są nieprawdziwe.	</item>
+        <item>	wszystkie podane odpowiedzi są nieprawdziwe.	</item>
+        <item>	wszystkie podane odpowiedzi są nieprawdziwe.	</item>
+        <item>	Wzrost temperatury otoczenia spowoduje spadek wymaganego dystansu do startu i lądowania.	</item>
+        <item>	Zmiany temperatury otoczenia nie spowodują zmiany wymaganego dystansu do startu.	</item>
+        <item>	nastąpi zmniejszenie oporu indukowanego.	</item>
+        <item>	Ze względu na konieczność większego wychylenia steru wysokości – spada wymagana siła nośna na płacie – zwiększa się prędkość przeciągniecia.	</item>
+        <item>	W ogon: 8 kt, boczna – z lewej 21 kt.	</item>
+        <item>	W ogon: 8 kt, boczna – z lewej 21 kt.	</item>
+        <item>	W ogon: 8 kt, boczna – z lewej 12 kt.	</item>
+        <item>	W ogon: 13 kt, boczna – z lewej 22 kt.	</item>
+        <item>	W ogon: 3 kt, boczna – z prawej 15 kt.	</item>
+        <item>	mała temperatura, małą wysokość gestościowa, mała wilgotność.	</item>
+        <item>	niska temperatura otoczenia.	</item>
+        <item>	Prędkości TAS i prędkości dźwięku na poziomie morza.	</item>
+        <item>	maksymalna masa do startu i do lądowania w sytuacjach awaryjnych (1.3 razy większa od normalnej masy do lądowania).	</item>
+        <item>	Gęstość powietrza jest duża, co powoduje spadek osiągów samolotu w porównaniu do przypadku dużej wysokości gestościowej.	</item>
+        <item>	Najlepszy stosunek siły nośnej do ciągu.	</item>
+        <item>	Wzrast istotnie prędkość przeciągniecia.	</item>
+        <item>	Aby na statku powietrznym pojawiło się oblodzenie mające wpływ na osiągi musi on poruszać się w chmurach.	</item>
+        <item>	Prędkość przeciągnięcia nie zmienia się w zakręcie.	</item>
+        <item>	Spada prękość przeciągniecia.	</item>
+        <item>	Ciężar dzielony przez ciąg.	</item>
+        <item>	Większe, zmniejszy się.	</item>
+        <item>	wszystkie podane odpowiedzi są nieprawdziwe.	</item>
+        <item>	prędkość statku powietrznego nie pozwala na żadne poziome manewry.	</item>
+        <item>	Asfalt.	</item>
+        <item>	dynamicznej poprzecznej i podłużnej.	</item>
+        <item>	Zabezpieczenia przed przekroczeniem krytycznego kąta natarcia we wszystkich stanach lotu.	</item>
+        <item>	Podwyższenie prędkości startu oraz zwiększenie zasięgu i długotrwałości lotu.	</item>
+        <item>	Ciąg potrzebny do lotu poziomego.	</item>
+        <item>	wszystkie podane odpowiedzi są nieprawdziwe.	</item>
+        <item>	Za środkiem aerodynamicznym.	</item>
+        <item>	0.81 m	</item>
+        <item>	Jest najbardziej niebezpieczne przy dużych prędkościach lotu, kiedy skuteczność sterowania pochyleniem jest największa.	</item>
+    </string-array>
+</resources>

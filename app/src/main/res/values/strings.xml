@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_label">Pytania PPL(A)</string>
+    <string name="app_name">Pytania Egzaminacyjne PPL(A)</string>
+
+    <string name="learn_button">nauka</string>
+    <string name="test_yourself_button">test</string>
+    <string name="exam_yourself_button">exam</string>
+    <string name="question_text_view">Treść pytania</string>
+    <string name="answer_text_view">odpowiedź</string>
+    <string name="question_number_text_view">xx/yy</string>
+    <string name="answer_edit_text">Podaj odpowiedź</string>
+    <string name="iscorrect_text_view">czy poprawne?</string>
+    <string name="correct">Poprawne!</string>
+    <string name="incorrect">Niepoprawne!</string>
+    <string name="next_button">Next</string>
+    <string name="prev_button">Prev</string>
+    <string name="go_to_edit_text">go to...</string>
+    <string name="go_to_button">go!</string>
+    <string name="subject">przedmiot</string>
+    <string name="prawo_lotnicze">Prawo lotnicze</string>
+    <string name="wiedza_o_samolocie">Wiedza o samolocie</string>
+    <string name="osiagi">Osiągi i planowanie lotu</string>
+    <string name="czlowiek">Człowiek możliwości i ograniczenia</string>
+    <string name="meteo">Meteorologia</string>
+    <string name="nawigacja">Nawigacja</string>
+    <string name="procedury_operacyjne">Procedury operacyjne</string>
+    <string name="zasady_lotu">Zasady lotu</string>
+    <string name="lacznosc">Łączność</string>
+    <string name="bezpieczenstwo">Bezpieczeństwo lotów</string>
+    <string name="wszystko">Wszystkie pytania</string>
+    <string name="odpowiedz1">odpowiedź 1</string>
+    <string name="odpowiedz2">odpowiedź 2</string>
+    <string name="odpowiedz3">odpowiedź 3</string>
+    <string name="odpowiedz4">odpowiedź 4</string>
+    <string name="check_answers_button">Sprawdź wynik</string>
+    <string name="bravo_text_view">Brawo! Zdane!</string>
+    <string name="bravo_text_view_negative">Spróbuj jeszcze raz</string>
+    <string name="poprawne_text_view">Poprawnych odpowiedzi:</string>
+    <string name="percentage_text_view">%</string>
+    <string name="back_result_button">back to menu</string>
+
+</resources>

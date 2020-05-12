@@ -1,0 +1,938 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wiedza_answers">
+        <item>	Zapewnia stateczność i sterowność podłużną oraz kierunkową	</item>
+        <item>	prędkość lotu samolotu względem otaczających mas powietrza	</item>
+        <item>	różnicowa puszka membranowa	</item>
+        <item>	puszka próżniowa aneroidowa	</item>
+        <item>	Hydrauliczne lub pneumatyczne	</item>
+        <item>	statyczne i całkowite	</item>
+        <item>	statyczne	</item>
+        <item>	ciśnienie lotniska i wysokość lotu	</item>
+        <item>	Wręgi, podłużnice, pokrycie	</item>
+        <item>	Głównym elementem siłowym jest pokrycie – obecnie z laminatów – wzmocnione wręgami	</item>
+        <item>	Zmniejszania sił działających na elementach sterowania sterami i lotkami	</item>
+        <item>	Barwy poszczególnych dźwigni i uchwytów są znormalizowane w zależności od przeznaczenia dźwigni	</item>
+        <item>	Stosowana do wyeliminowania drgań samowzbudnych lotek i sterów	</item>
+        <item>	Sterowania przechyleniami samolotu względem jego osi podłużnej	</item>
+        <item>	Lotki do góry wychylają się o większy kąt niż do dołu – przy skrzydłach o profilu niesymetrycznym	</item>
+        <item>	Zasadniczym przeznaczeniem klap jest zwiększenie współczynnika siły nośnej skrzydła	</item>
+        <item>	Samopodsłuchu.	</item>
+        <item>	Systemem simpleks.	</item>
+        <item>	Linki stalowe i układ rolek	</item>
+        <item>	Popychacze sztywne z układem dźwigni	</item>
+        <item>	prawidłową pracę prądnicy lub alternatora	</item>
+        <item>	Od silnika poprzez skrzynkę napędów	</item>
+        <item>	prądnicy prądu przemiennego z układem prostowniczym	</item>
+        <item>	Nadajnik na każdym hamowanym kole podwozia głównego i przeciwdziała powstaniu poślizgu poprzez odpowiednie odhamowanie	</item>
+        <item>	Wyeliminowania szumów  w sygnale użytecznym. W skrajnym przypadku do wyłączenia toru odbiornika w radiostacji.	</item>
+        <item>	Unieruchomienie organów sterowania na ziemi w czasie postoju samolotu	</item>
+        <item>	Na wejściu do silnika	</item>
+        <item>	ciśnienie oleju, paliwa oraz temperaturę oleju	</item>
+        <item>	wysokość lotu i ciśnienie lotniska	</item>
+        <item>	ilość elektronów jaką można pobrać z ogniwa	</item>
+        <item>	ciało obrotowe (wirnik) wirujące z dużą prędkoś cią kątową dookoła osi symetrii, gdzie jeden z punktów ciała jest nieruchomy	</item>
+        <item>	kurs magnetyczny samolotu	</item>
+        <item>	drut oporowy	</item>
+        <item>	Jest to wartość stosunku wytrzymałości doraźnej do dopuszczalnej. Wartości współczynników określane są w przepisach dotyczących budowy konstrukcji lotniczych i jest większa od 1	</item>
+        <item>	prędkość pionową samolotu tzn. prędkość wznoszenia i opadania	</item>
+        <item>	Tak – jako elementy pokrycia i zbrojenia konstrukcji płatowca i silników	</item>
+        <item>	Tak – należy przerwać wszelkie prace do czasu zneutralizowania zagrożenia przez kompetentne służby	</item>
+        <item>	bezpiecznikami	</item>
+        <item>	Płyn hydrauliczny lub powietrze	</item>
+        <item>	Zazwyczaj dwie radiostacje UKF.	</item>
+        <item>	Hydrauliczna, pneumatyczna i elektryczna	</item>
+        <item>	do pomiaru ciśnienia paliwa podanego do gaźnika	</item>
+        <item>	jako nadajnik ciśnienia całkowitego i statycznego	</item>
+        <item>	do określenia położenia samolotu względem linii horyzontalnej oraz pochylenia i przechyłu samolotu	</item>
+        <item>	pomiaru temperatury cylindrów silnika	</item>
+        <item>	Antena stała i antena ramowa tzw. ramka.	</item>
+        <item>	Zjawisko odbicia fal radiowych od powierzchni ziemi.	</item>
+        <item>	tlenu	</item>
+        <item>	końcówek skrzydeł i steru kierunku	</item>
+        <item>	Jest nieograniczony	</item>
+        <item>	5 min.	</item>
+        <item>	Na końcówce łopaty	</item>
+        <item>	Stosowany w skrzydłach, statecznikach, sterach, klapach, jako główny element przenoszący obciążenia	</item>
+        <item>	Piastą śmigła	</item>
+        <item>	lord	</item>
+        <item>	Dźwignia zaworowa	</item>
+        <item>	Wał korbowy	</item>
+        <item>	Pierścień	</item>
+        <item>	Sprężyna zaworowa	</item>
+        <item>	Krawędź natarcia	</item>
+        <item>	Filtrze oleju	</item>
+        <item>	Przygotowania mieszanki palnej	</item>
+        <item>	Instrukcja Użytkowania Statku Powietrznego	</item>
+        <item>	Prędkość obrotowa Temperatura oleju Ciśnienie oleju Ciśnienie paliwa	</item>
+        <item>	3	</item>
+        <item>	jednoprzewodowa	</item>
+        <item>	trzy	</item>
+        <item>	dwa	</item>
+        <item>	Miarki bagnetowej	</item>
+        <item>	Prędkości obrotowej	</item>
+        <item>	W gondolach silników, w rejonach zbiorników paliwowych i w silnikach	</item>
+        <item>	Jest obowiązkowym dokumentem, który musi znajdować się na pokładzie samolotu do wykorzystania przez załogę w czasie całego lotu i dotyczy jego użytkowania	</item>
+        <item>	puszka próżniowa aneroidowa	</item>
+        <item>	400 Hz	</item>
+        <item>	24 V  lub 12 V	</item>
+        <item>	elektryczną w chemiczną	</item>
+        <item>	chemiczną w elektryczną	</item>
+        <item>	"kulka wskaźnika znajduje się w środkowym położeniu"	</item>
+        <item>	obrotomierz	</item>
+        <item>	paliwomierz	</item>
+        <item>	sztuczny horyzont	</item>
+        <item>	Powietrze pobierane od sprężarki silnika	</item>
+        <item>	statyczne i całkowite	</item>
+        <item>	Określić stopień uszkodzenia (przetarcie, przebicie) i zgłosić ten  fakt obsłudze technicznej oraz wpisać uszkodzenie w dzienniku technicznym jako usterkę	</item>
+        <item>	Krawędź natarcia chwytu powietrza i gaźnik silnika tłokowego	</item>
+        <item>	Krawędź natarcia skrzydeł i stateczników	</item>
+        <item>	manometry, termometry i obrotomierz	</item>
+        <item>	wartość napięcia w sieci	</item>
+        <item>	Mechaniczne i elektroniczne	</item>
+        <item>	Temperatury i ciśnienia oleju	</item>
+        <item>	g/kW h	</item>
+        <item>	Dzięki zastosowaniu anteny stałej i anteny ramowej co daje wypadkową charakterystykę odbioru kardioidę.	</item>
+        <item>	Zapewnia wykonywanie lotów na dużych wysokościach bez konieczności stosowania tlenu	</item>
+        <item>	Wręgi, podłużnice, pokrycie	</item>
+        <item>	Wręgi i pokrycia	</item>
+        <item>	W czasie próby silnika	</item>
+        <item>	Zmniejszenia sił działających na elementach sterowania sterami i lotkami	</item>
+        <item>	Wychylenie ich, zwiększa współczynnik siły nośnej przy mniejszych prędkościach samolotu bez zwiększenia kąta natarcia skrzydła	</item>
+        <item>	Stosowana do wyeliminowania drgań samowzbudnych zespołów sterujących	</item>
+        <item>	Sterowanie przechyleniem samolotu względem jego osi podłużnej	</item>
+        <item>	Powietrze pod ciśnieniem	</item>
+        <item>	rozrząd	</item>
+        <item>	efektywną	</item>
+        <item>	maleje	</item>
+        <item>	Rośnie do wysokości obliczeniowej a potem maleje	</item>
+        <item>	Maleje, a potem rośnie	</item>
+        <item>	Wyprzedzenia zapłonu	</item>
+        <item>	określenie spadku prędkości obrotowej silnika dla każdego układu	</item>
+        <item>	28V  lub 12 V	</item>
+        <item>	Uszkodzeniem układu pomiarowego	</item>
+        <item>	równiku magnetycznym	</item>
+        <item>	Analiza prognozy pogody na trasie lotu przez załogę, jeśli przewiduje oblodzenie, powinna być włączona niezależnie od sygnalizacji:	</item>
+        <item>	deflektorami	</item>
+        <item>	niedopuszczalna	</item>
+        <item>	od ilości energii elektrycznej potrzebnej dla danego typu samolotu	</item>
+        <item>	Podanie aktualnej pozycji samolotu	</item>
+        <item>	Statyczne i dynamiczne	</item>
+        <item>	Odległość wzdłuż linii nachylonej między samolotem a radiolatarnią.	</item>
+        <item>	Równomierne obciążenie wału korbowego	</item>
+        <item>	Zmniejszenie pulsacji momentu obrotowego	</item>
+        <item>	Zabezpieczenie przed oblodzeniem	</item>
+        <item>	Są szerokie i przeznaczone do użytkowania na miękkim podłożu	</item>
+        <item>	Są wąskie i przeznaczone do użytkowania na twardym podłożu	</item>
+        <item>	Opracowuje producent samolotu, zatwierdza Państwowy Nadzór Lotniczy	</item>
+        <item>	90-100	</item>
+        <item>	"lampy antykolizyjnej, świateł pozycyjnych i reflektora"	</item>
+        <item>	W kokpicie.	</item>
+        <item>	"Prędkość obrotowa i ciśnienie ładowania"	</item>
+        <item>	Ciśnienie paliwa	</item>
+        <item>	Ssanie Sprężanie Rozprężanie Wydech	</item>
+        <item>	Ułatwienie rozruchu	</item>
+        <item>	Przez odpowiednie ustawienie przełącznika na  Audio Selektor Panel ( z rosyjska SPU).	</item>
+        <item>	Pozycja ADF, z rosyjska Kompas.	</item>
+        <item>	"Służy do potwierdzenia wykonanych obsług technicznych do lotu i po locie potwierdzenia przyjęcia przez załogę samolotu do lotu i zdania po locie obsłudze technicznej rejestracji czasu pracy samolotu, wpisywania niesprawności samolotu itp. Przeznaczony dla personelu technicznego i latającego"	</item>
+        <item>	Sztywne, przenoszące obciążenie	</item>
+        <item>	Elastyczne nie przenoszące obciążeń	</item>
+        <item>	elektrycznie	</item>
+        <item>	Od silnika	</item>
+        <item>	Wtrysk paliwa do cylindrów lub układu dolotowego	</item>
+        <item>	Prawidłową ilość oleju	</item>
+        <item>	Przygotowania transpondera do pracy.	</item>
+        <item>	Doborze odpowiedniej ilości satelitów.	</item>
+        <item>	mechaniczną w elektryczną	</item>
+        <item>	samowzbudne – bocznikowe	</item>
+        <item>	prędkość wskazywana przez prędkościomierz	</item>
+        <item>	prędkość lotu  samolotu względem powietrza o parametrach panujących na wysokości lotu	</item>
+        <item>	W czasie przeglądu przedlotowego przed startem oraz zawsze kiedy uznamy to za konieczne	</item>
+        <item>	iskrowniki	</item>
+        <item>	Dźwigni (cięgna) sterowania silnikiem	</item>
+        <item>	0,5 h – 1 h	</item>
+        <item>	Na życzenie kontroli ruchu lotniczego.	</item>
+        <item>	Za mała liczba oktanowa paliwa lub późny zapłon	</item>
+        <item>	118,00 – 136,975 MHz	</item>
+        <item>	Radionamiernik dostarczający informacji o położeniu statku powietrznego względem radiolatarni naziemnej i jako średniofalowy odbiornik radiowy,	</item>
+        <item>	Dwie anteny	</item>
+        <item>	Prowadzenia statku powietrznego według radiolatarni prowadzących.	</item>
+        <item>	Napięciem stałym.	</item>
+        <item>	Nadajnik i odbiornik są z sobą integralnie związane,	</item>
+        <item>	Sygnalizacji świetlnej i dźwiękowej.	</item>
+        <item>	Określenia rzeczywistej wysokości lotu statku powietrznego nad powierzchnią ziemi.	</item>
+        <item>	Ustawienia zadanej wysokości.	</item>
+        <item>	Zredukowania prędkości obrotowej wału śmigła	</item>
+        <item>	równomiernie rozmieszczonych na okręgu	</item>
+        <item>	Po dwa cylindry w płaszczyźnie poziomej naprzeciw siebie	</item>
+        <item>	średnicy cylindra	</item>
+        <item>	Łoże silnika	</item>
+        <item>	minimalny	</item>
+        <item>	Wytworzenia siły nośnej	</item>
+        <item>	Wychylenie ich, zwiększa krytyczny kąt natarcia skrzydła i siły nośnej przy mniejszych prędkościach samolotu.	</item>
+        <item>	Przez skrzynki ASP.(Audio Selector Panel) z rosyjska SPU.	</item>
+        <item>	Zaburzenia pracy silnika	</item>
+        <item>	Wbudowanego układu samokontroli (Self-Test).	</item>
+        <item>	odśrodkowe	</item>
+        <item>	Temperatury głowic	</item>
+        <item>	Uruchomieniem bądź nie przycisku N/O.(Na rosyjskim sprzęcie przy nadawaniu naciskamy przycisk radio)	</item>
+        <item>	Sterownicą nożną (orczyk) układem linkowym lub hydraulicznym	</item>
+        <item>	Do sterowania sterem kierunku	</item>
+        <item>	Do sterowania lotkami i sterem wysokości	</item>
+        <item>	Jest to zasadniczy materiał na konstrukcje zespołów płatowca bez głównych elementów siłowych i wytrzymałościowych	</item>
+        <item>	Stopniem sprężania	</item>
+        <item>	przestawialnym	</item>
+        <item>	pchające	</item>
+        <item>	ciągnące	</item>
+        <item>	Wydawane jest przez Techniczny Państwowy Nadzór Lotniczy	</item>
+        <item>	gwiazdowych	</item>
+        <item>	W gniazdach świec	</item>
+        <item>	Na wyjściu z silnika	</item>
+        <item>	Podwozia przedniego	</item>
+        <item>	Identyfikacji statku powietrznego i podania wysokości do kontroli ruchu.	</item>
+        <item>	odpieniaczem	</item>
+        <item>	Iskrownikiem	</item>
+        <item>	Azot lub powietrze	</item>
+        <item>	Ustawić przełącznik rodzaju pracy w położenie TEST.	</item>
+        <item>	Zapamiętania kilku częstotliwości.	</item>
+        <item>	wykonując przechylenia pod kontrolą wskazań sztucznego horyzontu i wskaźnika kursu	</item>
+        <item>	w amperogodzinach	</item>
+        <item>	normalnych	</item>
+        <item>	W tunelu dolotowym do sprężarki	</item>
+        <item>	Układzie dolotowym	</item>
+        <item>	Zaworu wylotowego	</item>
+        <item>	Instalację olejową	</item>
+        <item>	Rozpraszanie paliwa w strumieniu powietrza	</item>
+        <item>	cylindrach	</item>
+        <item>	Wałem korbowym	</item>
+        <item>	115V	</item>
+        <item>	3 x 36V	</item>
+        <item>	Jest ograniczona do określonego terminu	</item>
+        <item>	Miganiem lampki kontrolnej.	</item>
+        <item>	kierunek oraz prędkość kątową zakrętu samolotu	</item>
+        <item>	Skrzynki połączeniowe ASP Audio Selektor Panel czyli z rosyjska SPU.	</item>
+        <item>	Do góry wychylają się więcej	</item>
+        <item>	akumulatora	</item>
+        <item>	Kodami ratunkowymi.	</item>
+        <item>	Instalacja olejowa	</item>
+        <item>	Momentu obrotowego na ciąg strumienia zaśmigłowego	</item>
+        <item>	Może wykonywać obsługę techniczną łącznie z usuwaniem usterek, gdy posiada licencję mechanika obsługi	</item>
+        <item>	0-1200m	</item>
+        <item>	mierzy prędkość precesji przechylenia	</item>
+        <item>	Sprężaniem i rozprężaniem	</item>
+        <item>	Od silnika	</item>
+        <item>	Służy jako układ wspomagający zasadniczą instalację hydrauliczną przy spadku w niej ciśnienia.	</item>
+        <item>	prądnica prądu przemiennego lub przetwornica	</item>
+        <item>	prądnica prądu stałego lub alternator	</item>
+        <item>	Erozję i wypalenie zaworu	</item>
+        <item>	Rośnie, a potem maleje	</item>
+        <item>	Większą liczbę oktanową	</item>
+        <item>	Radiostacji UKF,ASP (Audio Selektor Panel z rosyjska SPU) oraz słuchawek i mikrofonów.	</item>
+        <item>	negatywnie	</item>
+        <item>	-1do 12	</item>
+        <item>	Maleje a potem rośnie	</item>
+        <item>	określenia kursu żyromagnetycznego przy zmianie położenia samolotu wokół osi pionowej	</item>
+    </string-array>
+
+    <string-array name="wiedza_odp_b" >
+        <item>	Zapewnia sterowność kierunkową	</item>
+        <item>	ciśnienie lotniska	</item>
+        <item>	rurka Burdona	</item>
+        <item>	przepona gumowa	</item>
+        <item>	Pneumatyczno-elektryczne	</item>
+        <item>	dynamiczne i statyczne	</item>
+        <item>	dynamiczne i statyczne	</item>
+        <item>	ciśnienie lotniska	</item>
+        <item>	Dźwigary, wręgi, pokrycie	</item>
+        <item>	Wręgi, przedłużenie, pokrycie	</item>
+        <item>	Wyważenia samolotu	</item>
+        <item>	Barwy są dowolne	</item>
+        <item>	Stosowana do wyeliminowania drgań klap	</item>
+        <item>	Utrzymanie stateczności samolotu	</item>
+        <item>	Lotki wychylają się do dołu o większy kąt niż do góry	</item>
+        <item>	Służą głównie jako hamulec aerodynamiczny	</item>
+        <item>	Zmiany rodzaju modulacji.	</item>
+        <item>	Systemem dupleks.	</item>
+        <item>	Popychacze połączone z amortyzatorami gumowymi oraz dzwignie	</item>
+        <item>	Popychacze sztywne i linki z układem rolek	</item>
+        <item>	prawidłową pracę prędkościomierza	</item>
+        <item>	Bezpośrednio od silnika	</item>
+        <item>	przetwornicy trójfazowej	</item>
+        <item>	Nadajnik na wybranym hamowanym kole podwozia głównego i całkowicie rozhamowuje wszystkie koła przy powstaniu poślizgu	</item>
+        <item>	Ograniczenia poziomu nadawanego sygnału.	</item>
+        <item>	W czasie lotu poziomego	</item>
+        <item>	W pompie oleju	</item>
+        <item>	ciśnienie oleju i ciśnienie paliwa	</item>
+        <item>	prędkość lotu	</item>
+        <item>	ilość jonów	</item>
+        <item>	prędkość lotu	</item>
+        <item>	prędkość lotu	</item>
+        <item>	element magnetyczny	</item>
+        <item>	Jest to wartość stosunku wytrzymałości zmęczeniowej do dopuszczalnej określana przez konstruktora	</item>
+        <item>	wysokość lotu	</item>
+        <item>	Nie są stosowane	</item>
+        <item>	Można miejsce rozlania zasypać piaskiem i kontynuować pracę	</item>
+        <item>	izolacją	</item>
+        <item>	Układ elektryczny	</item>
+        <item>	Cztery radiostacje UKF	</item>
+        <item>	Tylko pneumatyczna	</item>
+        <item>	do pomiaru ciśnienia oleju smarującego silnik	</item>
+        <item>	jako nadajnik ciśnienia całkowitego i dynamicznego	</item>
+        <item>	do określania prędkości samolotu	</item>
+        <item>	pomiaru ciśnienia oleju	</item>
+        <item>	Tylko antena stała.	</item>
+        <item>	Modulację amplitudy.	</item>
+        <item>	wodoru	</item>
+        <item>	klapy	</item>
+        <item>	100 godz.	</item>
+        <item>	60 min.	</item>
+        <item>	U nasady łopaty	</item>
+        <item>	Stosowany w kadłubach	</item>
+        <item>	łącznikiem	</item>
+        <item>	amortyzator	</item>
+        <item>	krzywka	</item>
+        <item>	Wał rozrządu	</item>
+        <item>	uszczelka	</item>
+        <item>	Trzonek zaworu	</item>
+        <item>	Górna powierzchnia skrzydła	</item>
+        <item>	Misce olejowej	</item>
+        <item>	Wtrysk paliwa do układu dolotowego	</item>
+        <item>	Świadectwie Zdatności	</item>
+        <item>	Prędkość obrotowa  Temperatura spalin Ciśnienie oleju Ciśnienie paliwa	</item>
+        <item>	2	</item>
+        <item>	trójprzewodowa	</item>
+        <item>	dwa	</item>
+        <item>	trzy	</item>
+        <item>	Wskaźnika w kabinie	</item>
+        <item>	Temperatury głowic	</item>
+        <item>	W kadłubach i kabinie	</item>
+        <item>	Instrukcja służy personelowi technicznemu przy obsłudze samolotu	</item>
+        <item>	różnicowa puszka membranowa	</item>
+        <item>	50 Hz	</item>
+        <item>	40 V	</item>
+        <item>	chemiczną w elektryczną	</item>
+        <item>	cieplną w chemiczną	</item>
+        <item>	kulka nie znajduje się w środkowym ani max. położeniu	</item>
+        <item>	prędkościomierz	</item>
+        <item>	obrotomierz	</item>
+        <item>	wskaźnik radiowysokościomierza	</item>
+        <item>	Gazy spalinowe	</item>
+        <item>	dynamiczne i statyczne	</item>
+        <item>	Określić stopień zużycia i samodzielnie podjąć decyzję o użytkowaniu	</item>
+        <item>	Kierownice łopatek sprężarki	</item>
+        <item>	Krawędzie natarcia sterów i lotek	</item>
+        <item>	prędkościomierz	</item>
+        <item>	wartość prądu	</item>
+        <item>	Tylko elektroniczne	</item>
+        <item>	Temperatury głowic cylindrów	</item>
+        <item>	g/h	</item>
+        <item>	Dzięki dobraniu odpowiedniej częstotliwości.	</item>
+        <item>	Zabezpiecza przed dostaniem się wody w opadach deszczu	</item>
+        <item>	Dźwigary, wręgi, pokrycie	</item>
+        <item>	Wręgi, podłużnice, wypełniacz ulowy	</item>
+        <item>	Po wymianie oleju	</item>
+        <item>	Wyważenia samolotu	</item>
+        <item>	Jako hamulec aerodynamiczne	</item>
+        <item>	Stosowana dla wyeliminowania drgań steru wysokości	</item>
+        <item>	Utrzymania stateczności samolotu	</item>
+        <item>	Elementy grzejne elektryczne wmontowane w segmenty gumowe	</item>
+        <item>	sterownik	</item>
+        <item>	niezbędną	</item>
+        <item>	Pozostaje bez zmian	</item>
+        <item>	Maleje	</item>
+        <item>	maleje	</item>
+        <item>	Opóźnienia zapłonu	</item>
+        <item>	Określenie maksymalnej prędkości obrotowej silnika dla każdego układu zapłonowego	</item>
+        <item>	35V	</item>
+        <item>	Uszkodzeniem akumulatora	</item>
+        <item>	biegunie magnetycznym północnym	</item>
+        <item>	Włączenie się sygnalizacji ostrzegającej przed oblodzeniem	</item>
+        <item>	sterownicami	</item>
+        <item>	Dopuszczalna w ilości ok.5 ml./l	</item>
+        <item>	od prędkości samolotu	</item>
+        <item>	Określenia kąta natarcia.	</item>
+        <item>	Odśrodkowe i dynamiczne	</item>
+        <item>	Rzut prostopadły na ziemię linii między samolotem a radiolatarnią.	</item>
+        <item>	Równomierne smarowanie silnika	</item>
+        <item>	Równomierne smarowanie silnika	</item>
+        <item>	Ogrzanie powietrza w kabinie	</item>
+        <item>	Do użytkowania tylko na twardym podłożu	</item>
+        <item>	Służą do użytkowania na miękkim podłożu	</item>
+        <item>	Opracowuje użytkownik samolotu a zatwierdza jego Służba Jakości	</item>
+        <item>	30-40	</item>
+        <item>	lampek oświetlenia tablicy przyrządów	</item>
+        <item>	W przedziałach elektronicznych.	</item>
+        <item>	Prędkość obrotowa i ciśnienie paliwa	</item>
+        <item>	Zużycie paliwa	</item>
+        <item>	Sprężanie Ssanie Rozprężanie Wydech	</item>
+        <item>	Zwiększenie lepkości oleju	</item>
+        <item>	Przez specjalny wzmacniacz.	</item>
+        <item>	Antena	</item>
+        <item>	Służy dla personelu technicznego przy obsłudze technicznej liniowej	</item>
+        <item>	Stosowane dla zwiększenia trwałości samolotu	</item>
+        <item>	Jako element konstrukcyjny dla zmniejszenia masy samolotu  i przenoszący obciążenia	</item>
+        <item>	od silnika	</item>
+        <item>	elektrycznie	</item>
+        <item>	Mieszanie paliwa i powietrza	</item>
+        <item>	Nieprawidłową ilość oleju	</item>
+        <item>	Uaktywnienia pracy transpondera.	</item>
+        <item>	Wybraniu odpowiednich radiolatarni prowadzących.	</item>
+        <item>	elektryczną w chemiczną	</item>
+        <item>	szeregowe	</item>
+        <item>	pozioma prędkość lotu samolotu względem ziemi	</item>
+        <item>	prędkość lotu samolotu względem ziemi	</item>
+        <item>	Przed każdym startem	</item>
+        <item>	akumulator	</item>
+        <item>	Regulatora prędkości obrotowej silnika	</item>
+        <item>	3 h – 4 h	</item>
+        <item>	W celu stabilizacji częstotliwości.	</item>
+        <item>	Za duża liczba oktanowa paliwa	</item>
+        <item>	105,00 – 131,00 MHz	</item>
+        <item>	Krótkofalowy odbiornik radiowy.	</item>
+        <item>	Trzy anteny.	</item>
+        <item>	Do nadawania sygnałów alarmowych.	</item>
+        <item>	Napięciem zmiennym 115V	</item>
+        <item>	Nadajnik i odbiornik stanowią oddzielne zespoły.	</item>
+        <item>	Syreny.	</item>
+        <item>	Określania dużych wysokości.	</item>
+        <item>	Automatycznego odejścia na drugi krąg.	</item>
+        <item>	Mocowania silnika	</item>
+        <item>	Cylindry jeden za drugim tzw. wiszące	</item>
+        <item>	Cylindry rozmieszczone na okręgu co 90 stopni	</item>
+        <item>	Temperatury silnika	</item>
+        <item>	Ścianę ogniową	</item>
+        <item>	maksymalny	</item>
+        <item>	Elementem konstrukcyjnym do zabudowy zespołów samolotu	</item>
+        <item>	Zabezpieczają krawędź natarcia skrzydła przed oblodzeniem	</item>
+        <item>	Słuchawki bezpośrednio do odbiornika.	</item>
+        <item>	Wzrost mocy silnika	</item>
+        <item>	Generatora akustycznego.	</item>
+        <item>	osiowe	</item>
+        <item>	Temperatury gazów wylotowych	</item>
+        <item>	Przyciśnięciem przycisku SGU.	</item>
+        <item>	Drążkiem (wolantem) sterownym i układem linkowym	</item>
+        <item>	Do sterowania sterem kierunku i wysokości	</item>
+        <item>	Do sterowania tylko lotkami	</item>
+        <item>	Używany jako podstawowy materiał na konstrukcje okuć i sworzni połączeniowych skrzydło – kadłub	</item>
+        <item>	sprężaniem	</item>
+        <item>	samoprzestawialnym	</item>
+        <item>	ciągnące	</item>
+        <item>	pchające	</item>
+        <item>	Wydawane jest przez uprawniona bazę obsługową	</item>
+        <item>	Szeregowych	</item>
+        <item>	Za zaworem wylotowym	</item>
+        <item>	Na wejściu do silnika	</item>
+        <item>	Podwozia głównego	</item>
+        <item>	Prowadzenia dalekiej nawigacji.	</item>
+        <item>	Filtrem	</item>
+        <item>	generatorem	</item>
+        <item>	Tlen	</item>
+        <item>	Ustawić przełącznik rodzaju pracy w położenie SBY.	</item>
+        <item>	Zastosowano bank danych.	</item>
+        <item>	utrzymując właściwy kąt natarcia	</item>
+        <item>	w amperach	</item>
+        <item>	polowych	</item>
+        <item>	Na zewnętrznej części chwytu powietrza	</item>
+        <item>	cylindrach	</item>
+        <item>	Zaworu wlotowego	</item>
+        <item>	Instalację paliwową	</item>
+        <item>	Wtrysk paliwa do układu dolotowego	</item>
+        <item>	gaźniku	</item>
+        <item>	Tarcza krzywkową	</item>
+        <item>	200V	</item>
+        <item>	115V	</item>
+        <item>	Wydawane jest bez żadnych ograniczeń	</item>
+        <item>	Dzwonieniem dzwonka.	</item>
+        <item>	wysokość lotu nad danym terenem	</item>
+        <item>	Skrzynki SGU.	</item>
+        <item>	Do dołu wychylają więcej	</item>
+        <item>	prądnicy prądu przemiennego	</item>
+        <item>	Kodami zalecanymi  dla IFR.	</item>
+        <item>	Instalacja paliwowa	</item>
+        <item>	Mocy silnika na prędkość obrotową śmigła	</item>
+        <item>	Pilot może wykonywać obsługę techniczną liniową w zakresie dopuszczenia samolotu do lotu z prawem usuwania niesprawności, gdy posiada odpowiednie uprawnienia jako załącznik do licencji	</item>
+        <item>	15-350m.	</item>
+        <item>	ma oś główną poziomą	</item>
+        <item>	Rozprężaniem i wydechem	</item>
+        <item>	elektrycznie	</item>
+        <item>	Jako zasadnicze źródło zasilania instalacji hydraulicznej.	</item>
+        <item>	akumulator	</item>
+        <item>	przetwornica	</item>
+        <item>	Złamanie trzonka zaworu	</item>
+        <item>	rośnie	</item>
+        <item>	Mniejsza liczbę oktanową	</item>
+        <item>	Radiostacji KF i SGU.	</item>
+        <item>	pozytywnie	</item>
+        <item>	-1 do 4	</item>
+        <item>	Pozostaje bez zmian	</item>
+        <item>	kursu geograficznego	</item>
+    </string-array>
+
+    <string-array name="wiedza_odp_c" >
+        <item>	Zapewnia sterowność podłużną	</item>
+        <item>	kurs samolotu	</item>
+        <item>	puszka aneroidowa	</item>
+        <item>	rurka Burdona	</item>
+        <item>	Pneumatyczne	</item>
+        <item>	dynamiczne i całkowite	</item>
+        <item>	całkowite i dynamiczne	</item>
+        <item>	wysokość lotu	</item>
+        <item>	Wręgi, podłużnice, dźwigary	</item>
+        <item>	Dźwigary, pokrycie, wręgi	</item>
+        <item>	Ułatwienia wychylenia klap	</item>
+        <item>	Barwy ustala konstruktor danego samolotu	</item>
+        <item>	Stosowana do wyeliminowania drgań hamulca aerdynamicznego	</item>
+        <item>	Sterowalności podłużnej	</item>
+        <item>	Lotki do góry wychylają się o większy kat niż do dołu przy profilach skrzydeł symetrycznych	</item>
+        <item>	Służą głównie do polepszenia efektywności lotek	</item>
+        <item>	Zmiany ilości kanałów.	</item>
+        <item>	Systemem ogólnym .	</item>
+        <item>	Linki stalowe i popychacze oraz rolki	</item>
+        <item>	Popychacze sztywne i linki z układem dźwigni	</item>
+        <item>	prawidłową pracę sztucznego horyzontu	</item>
+        <item>	Od silnika poprzez reduktor główny	</item>
+        <item>	przetwornicy jednofazowej	</item>
+        <item>	Stosowane jest na kołach podwozia przedniego i zabezpiecza przed poślizgiem w czasie skrętu kołami	</item>
+        <item>	Regulacji poziomu odebranego sygnału.	</item>
+        <item>	Stosowane tak w locie jak i w czasie postoju samolotu	</item>
+        <item>	W regulatorze ciśnienia oleju	</item>
+        <item>	ilość paliwa i temperaturę oleju	</item>
+        <item>	kurs lotu	</item>
+        <item>	ilość ciepła	</item>
+        <item>	wysokość lotu	</item>
+        <item>	prędkość kątową	</item>
+        <item>	dioda	</item>
+        <item>	Jest wartością stosunku wytrzymałości zmęczeniowej do doraźnej określanej przez nadzór lotniczy	</item>
+        <item>	kurs geograficzny	</item>
+        <item>	Tylko jako elementy wyposażenia kabin	</item>
+        <item>	Nie wpływa to na zagrożenie bezpieczeństwa	</item>
+        <item>	przekaźnikami	</item>
+        <item>	Mechaniczny układ	</item>
+        <item>	Jedna Radiostacja UKF i jedna radiostacja KF	</item>
+        <item>	Tylko hydrauliczna	</item>
+        <item>	do pomiaru temperatury cylindrów silnika	</item>
+        <item>	jako nadajnik ciśnienia statycznego	</item>
+        <item>	do określania wysokości lotu samolotu	</item>
+        <item>	pomiaru ciśnienia ładowania	</item>
+        <item>	Tylko antena ramowa.	</item>
+        <item>	Zjawisko interferencji.	</item>
+        <item>	węgla	</item>
+        <item>	lotek	</item>
+        <item>	1 czasokresu międzynaprawczego	</item>
+        <item>	30 min.	</item>
+        <item>	Powyżej 1 promienia śmigła	</item>
+        <item>	Służy tylko jako element łączący zespoły samolotu	</item>
+        <item>	obsadą	</item>
+        <item>	tłumik	</item>
+        <item>	trzonek	</item>
+        <item>	korbowód	</item>
+        <item>	simmering	</item>
+        <item>	Krzywka rozrządu	</item>
+        <item>	Krawędź spływu	</item>
+        <item>	Zbiorniku oleju	</item>
+        <item>	Wtrysk paliwa do cylindrów	</item>
+        <item>	Instrukcji Obsługi Statku Powietrznego	</item>
+        <item>	Prędkość obrotowa Temperatura oleju Ciśnienie w instalacji hydraulicznej Ciśnienie paliwa	</item>
+        <item>	4	</item>
+        <item>	czteroprzewodowa	</item>
+        <item>	cztery	</item>
+        <item>	cztery	</item>
+        <item>	Zasady naczyń połączonych	</item>
+        <item>	Ciśnienia paliwa	</item>
+        <item>	Tylko wewnątrz silników	</item>
+        <item>	Instrukcja zawiera czynności techniczne, obsługowe wykorzystywane przez załogę samolotu - pilota	</item>
+        <item>	rurka Burdona	</item>
+        <item>	200 Hz	</item>
+        <item>	15 V	</item>
+        <item>	elektryczną w cieplną	</item>
+        <item>	elektryczną w cieplną	</item>
+        <item>	kulka wskażnika jest w max. skrajnym położeniu w kierunku przeciwnym do przechylenia	</item>
+        <item>	paliwomierz	</item>
+        <item>	wariometr	</item>
+        <item>	prędkościomierz	</item>
+        <item>	Specjalny gaz	</item>
+        <item>	całkowite i dynamiczne	</item>
+        <item>	Samodzielnie wymienić koło uszkodzone	</item>
+        <item>	Elementy maskowania	</item>
+        <item>	Krawędzie natarcia klap i sterów	</item>
+        <item>	wysokościomierz	</item>
+        <item>	wartość częstotliwości	</item>
+        <item>	Tylko mechaniczne	</item>
+        <item>	Prędkości obrotowej silnika	</item>
+        <item>	g/kW	</item>
+        <item>	Dzięki zastosowaniu odpowiedniej modulacji.	</item>
+        <item>	Utrzymuje stałe ciśnienie między kabiną a otoczeniem	</item>
+        <item>	Pokrycie, podłużnice, dźwigary	</item>
+        <item>	Podłużnice, pokrycie, dźwigary	</item>
+        <item>	W czasie lotu	</item>
+        <item>	Ułatwia wychylenie klap	</item>
+        <item>	Do zwiększenia siły nośnej przy dużych prędkościach	</item>
+        <item>	Stosowana dla wyeliminowania drgań klap	</item>
+        <item>	Sterowności podłużnej	</item>
+        <item>	Gorące powietrze	</item>
+        <item>	rozdzielacz	</item>
+        <item>	nominalną	</item>
+        <item>	rośnie	</item>
+        <item>	Pozostaje bez zmian	</item>
+        <item>	rośnie	</item>
+        <item>	Inicjacji zapłonu	</item>
+        <item>	Pomiar czasu przejścia silnika z obrotów biegu jałowego do maksymalnych	</item>
+        <item>	10 V	</item>
+        <item>	Brakiem oleju	</item>
+        <item>	biegunie magnetycznym południowym	</item>
+        <item>	Zawsze w czasie lotu powinna być włączona	</item>
+        <item>	dyszami	</item>
+        <item>	Dopuszczalna w formie emulsji	</item>
+        <item>	od ciśnienia lotniska i wysokości lotu	</item>
+        <item>	Wykrywania frontów burzowych.	</item>
+        <item>	Bezwładnościowe i statyczne	</item>
+        <item>	Odległość do wyliczenia według podanego wzoru.	</item>
+        <item>	Zmniejszenie zużycia paliwa	</item>
+        <item>	Zmniejszenie zużycia paliwa	</item>
+        <item>	Podniesienie temperatury paliwa	</item>
+        <item>	Tylko do samolotów lekkich	</item>
+        <item>	Są szerokie i przeznaczone tylko do samolotów lekkich	</item>
+        <item>	Opracowuje użytkownik samolotu, a zatwierdza państwowy nadzór lotniczy	</item>
+        <item>	50-70	</item>
+        <item>	lampki oświetlenia mapy	</item>
+        <item>	W kabinie pasażerskiej.	</item>
+        <item>	Ciśnienie ładowania i temperatura głowic	</item>
+        <item>	Ciśnienie oleju	</item>
+        <item>	Ssanie Rozprężanie Wydech Sprężanie	</item>
+        <item>	Zwiększenie energii zapłonu	</item>
+        <item>	Przez przyciśnięcie przycisku radio.	</item>
+        <item>	Ramka.	</item>
+        <item>	Służy dla personelu latającego dla wpisywania powstałych niesprawności	</item>
+        <item>	Stosowane w celach estetycznych	</item>
+        <item>	Łączy zespoły skrzydła jako ułatwienie konstrukcyjne i technologiczne	</item>
+        <item>	ręcznie	</item>
+        <item>	eżektorowo	</item>
+        <item>	Przygotowanie mieszanki palnej	</item>
+        <item>	Należy dolać do górnej kreski	</item>
+        <item>	Podawania wysokości lotu.	</item>
+        <item>	Wykorzystaniu zjawiska Dopplera.	</item>
+        <item>	chemiczna w elektryczną	</item>
+        <item>	obcowzbudne	</item>
+        <item>	prędkość samolotu względem morza	</item>
+        <item>	prędkość kątowa	</item>
+        <item>	W czasie lotu	</item>
+        <item>	alternator	</item>
+        <item>	Regulatora skoku śmigła	</item>
+        <item>	5 h – 6 h	</item>
+        <item>	W celu  wyłączenia.	</item>
+        <item>	Za dużo oleju w paliwie	</item>
+        <item>	95,00 – 101,00 MHz	</item>
+        <item>	Urządzenie do pomiaru odległości.	</item>
+        <item>	Cztery anteny.	</item>
+        <item>	Do prowadzenia łączności zewnętrznej.	</item>
+        <item>	Napięciem zmiennym 36V	</item>
+        <item>	Jest jeden odbiornik do kilku nadajników.	</item>
+        <item>	Sygnału akustycznego 300Hz.	</item>
+        <item>	Wykrywania przeszkód terenowych.	</item>
+        <item>	Automatycznego podejścia do lądowania.	</item>
+        <item>	Regulowania prędkości obrotowej silnika	</item>
+        <item>	Połowa cylindrów naprzeciw drugiej połowy	</item>
+        <item>	Cylindry jeden za drugim	</item>
+        <item>	skoku tłoka	</item>
+        <item>	Osłony silnika	</item>
+        <item>	średni	</item>
+        <item>	Zapewnia stateczność samolotu	</item>
+        <item>	Wychylenie ich powoduje zwiększenie oporu i działają jako hamulce aerodynamiczne	</item>
+        <item>	Mikrofony bezpośrednio do nadajnika.	</item>
+        <item>	Zmniejszenie zużycia paliwa	</item>
+        <item>	Miernika uniwersalnego.	</item>
+        <item>	tłokowe	</item>
+        <item>	Temperatury mieszanki palnej	</item>
+        <item>	Przyciśnięciem przycisku Test.	</item>
+        <item>	Drążkiem (wolantem) sterownym poprzez układ hydrauliczny	</item>
+        <item>	Do sterowania lotkami	</item>
+        <item>	Do sterowania lotkami i sterem kierunku	</item>
+        <item>	Konstrukcję podwozia	</item>
+        <item>	Współczynnikiem sprężu	</item>
+        <item>	nastawialnym	</item>
+        <item>	odrzucające	</item>
+        <item>	odrzucające	</item>
+        <item>	Wydawane jest przez Służby Jakości Użytkownika	</item>
+        <item>	bokser	</item>
+        <item>	Między głowicą, a tuleją cylindra	</item>
+        <item>	W zbiorniku	</item>
+        <item>	Śmigła i silnika	</item>
+        <item>	Wykrywania frontów atmosferycznych.	</item>
+        <item>	ekranem	</item>
+        <item>	zapłonnikiem	</item>
+        <item>	Dwutlenek węgla	</item>
+        <item>	Ustawić przełącznik rodzaju pracy w położenie OF.	</item>
+        <item>	Uproszczono metody  obliczeń.	</item>
+        <item>	utrzymując stałą prędkość przyrządową	</item>
+        <item>	w woltach	</item>
+        <item>	specjalnych	</item>
+        <item>	Na widocznej części obudowy silnika	</item>
+        <item>	gaźniku	</item>
+        <item>	Dolna część cylindra	</item>
+        <item>	Instalację hydrauliczną	</item>
+        <item>	Bezpośredni wtrysk paliwa do cylindrów	</item>
+        <item>	Układzie dolotowym	</item>
+        <item>	reduktorem	</item>
+        <item>	300V	</item>
+        <item>	250V	</item>
+        <item>	Upływa, gdy zachodzi konieczność wymiany zespołu napędowego	</item>
+        <item>	Uruchomieniem brzęczyka.	</item>
+        <item>	ciśnienie lotniska	</item>
+        <item>	Bezpośrednio z radiostacji.	</item>
+        <item>	Wychylają się jednakowo  tak do góry jak do dołu	</item>
+        <item>	przetwornicy	</item>
+        <item>	Kodami zalecanymi dla VFR.	</item>
+        <item>	Chłodnica powietrzno-olejowa	</item>
+        <item>	Momentu obrotowego silnika na moment obrotowy śmigła	</item>
+        <item>	Może wykonywać obsługę techniczną liniową, gdy posiada licencję pilota z uprawnieniami dowódcy	</item>
+        <item>	50-450m	</item>
+        <item>	mierzy odchylenie kierunku linii magnetycznych od płaszczyzny horyzontu	</item>
+        <item>	Ssaniem i sprężaniem	</item>
+        <item>	eżektorowo	</item>
+        <item>	Jako zasadnicze źródło zasilania instalacji hydraulicznej hamulcowej.	</item>
+        <item>	prądnica prądu stałego	</item>
+        <item>	prądnica prądu przemiennego	</item>
+        <item>	Wyciek oleju z cylindra	</item>
+        <item>	Pozostaje bez zmian	</item>
+        <item>	Większą liczbę cetanową	</item>
+        <item>	Radiostacji średniofalowej i mikrofonów.	</item>
+        <item>	Nie ma wpływu	</item>
+        <item>	-1 do -4	</item>
+        <item>	Rośnie a potem maleje	</item>
+        <item>	prędkości lotu	</item>
+    </string-array>
+
+    <string-array name="wiedza_odp_d" >
+        <item>	Zapewnia stateczność podłużną	</item>
+        <item>	wysokość lotu	</item>
+        <item>	przepona gumowa	</item>
+        <item>	różnicowa puszka membranowa	</item>
+        <item>	Elektryczne	</item>
+        <item>	całkowite	</item>
+        <item>	całkowite	</item>
+        <item>	wysokość lotniska	</item>
+        <item>	Pokrycie, podłużnice, dźwigary	</item>
+        <item>	Dźwigary, pokrycie, wypełniacz ulowy	</item>
+        <item>	Zwiększenia stateczności samolotu	</item>
+        <item>	Kolor dźwigni nie ma znaczenia	</item>
+        <item>	Stosowana do wyeliminowania drgań sterów przy małych prędkościach	</item>
+        <item>	Sterowalności kierunkowej	</item>
+        <item>	Zależnie od zabudowy na skrzydle lewym lub prawym wychylają się różnie więcej lub mniej	</item>
+        <item>	Służą do sterowania przechyleniem w osi podłużnej samolotu	</item>
+        <item>	Wybrania częstotliwości powyżej 137MHz.	</item>
+        <item>	Inne.	</item>
+        <item>	Popychacze z układem rolek	</item>
+        <item>	Linki w sztywnych rurkach i układ dźwigni	</item>
+        <item>	prawidłową pracę obrotomierz	</item>
+        <item>	Od silników elektrycznych	</item>
+        <item>	prądnicy prądu stałego	</item>
+        <item>	Zabudowane na podwoziu głównym i odhamowuje koła przed przyziemieniem	</item>
+        <item>	Poprawienia modulacji sygnału.	</item>
+        <item>	Nie jest stosowane	</item>
+        <item>	We wtryskiwaczu	</item>
+        <item>	ilość i ciśnienie paliwa	</item>
+        <item>	przechylenie samolotu	</item>
+        <item>	ilość cząsteczek	</item>
+        <item>	kurs lotu	</item>
+        <item>	ciśnienie lotniska	</item>
+        <item>	drut półprzewodnikowy	</item>
+        <item>	Wartość współczynnika bezpieczeństwa określona jest przepisami lotniczymi dotyczącymi budowy i jest mniejsza od 1	</item>
+        <item>	kurs samolotu	</item>
+        <item>	Tylko w konstrukcji silników lotniczych	</item>
+        <item>	Zaczekać z pracami przy samolocie do czasu odparowania paliwa	</item>
+        <item>	kablami	</item>
+        <item>	Układ mechaniczno-elektryczny	</item>
+        <item>	Jedna radiostacja fal średnich.	</item>
+        <item>	Mechaniczny układ	</item>
+        <item>	do pomiaru ciśnienia ładowania	</item>
+        <item>	jako nadajnik ciśnienia dynamicznego i statycznego	</item>
+        <item>	do określenia ciśnienia lotniska	</item>
+        <item>	pomiaru ciśnienia paliwa	</item>
+        <item>	Nie potrzebne są anteny.	</item>
+        <item>	Modulację fazy.	</item>
+        <item>	azotu	</item>
+        <item>	klapy i lotek	</item>
+        <item>	90 procent czasokresu międzynaprawczego	</item>
+        <item>	Nieograniczony	</item>
+        <item>	Nie dopuszczalne	</item>
+        <item>	Stosowany tylko w konstrukcji sterów	</item>
+        <item>	obudową	</item>
+        <item>	Sworzeń tłumiący	</item>
+        <item>	popychacz	</item>
+        <item>	Sworzeń tłoka	</item>
+        <item>	Nie występuje	</item>
+        <item>	Zamek zaworu	</item>
+        <item>	Końcówki skrzydła	</item>
+        <item>	Pompie olejowej	</item>
+        <item>	Podgrzanie paliwa	</item>
+        <item>	Książce Silnika	</item>
+        <item>	Prędkość obrotowa Temperatura paliwa Ciśnienie oleju Ciśnienie paliwa	</item>
+        <item>	1	</item>
+        <item>	pięcioprzewodowa	</item>
+        <item>	jeden	</item>
+        <item>	jeden	</item>
+        <item>	Zdalnego pomiaru	</item>
+        <item>	Ciśnienia ładowania	</item>
+        <item>	Tylko w gondolach podwozia.	</item>
+        <item>	Jest zbiorem procedur operacyjnych	</item>
+        <item>	przepona gumowa	</item>
+        <item>	600 Hz	</item>
+        <item>	30 V	</item>
+        <item>	cieplną w chemiczną	</item>
+        <item>	elektryczną w chemiczną	</item>
+        <item>	kulka wskaźnika jest w max. skrajnym położeniu w kierunku przechylenia	</item>
+        <item>	wysokościomierz	</item>
+        <item>	manometr ciśnienia	</item>
+        <item>	obrotomierz	</item>
+        <item>	Płyn odladzający	</item>
+        <item>	całkowite	</item>
+        <item>	Zgłosić obsłudze technicznej uszkodzenie bez wpisywania do dziennika technicznego	</item>
+        <item>	Nie ma takiej instalacji	</item>
+        <item>	Krawędzie natarcia klap i lotek	</item>
+        <item>	busola lotnicza	</item>
+        <item>	wartość oporności	</item>
+        <item>	Nie ma sygnalizatorów	</item>
+        <item>	Ciśnienia ładowania	</item>
+        <item>	l/h	</item>
+        <item>	Dzięki otrzymaniu wypadkowej charakterystyki odbioru w postaci koła.	</item>
+        <item>	Zapobiega przed dostaniem się pyłu	</item>
+        <item>	Wręgi, podłużnice, dźwigary	</item>
+        <item>	Podłużnice, wręgi, pokrycie	</item>
+        <item>	Podczas przeglądu przedlotowego	</item>
+        <item>	Ułatwia wychylenie spoilerów	</item>
+        <item>	Do sterowania przechyleniem w osi poprzecznej samolotu	</item>
+        <item>	Stosowana dla wyeliminowania drgań tylko steru kierunku	</item>
+        <item>	Sterowności kierunkowej	</item>
+        <item>	Gazy spalinowe	</item>
+        <item>	regulator	</item>
+        <item>	indykowaną	</item>
+        <item>	Rośnie a potem maleje	</item>
+        <item>	rośnie	</item>
+        <item>	Pozostaje bez zmian	</item>
+        <item>	zapłonu	</item>
+        <item>	Pomiar wibracji silnika podczas pracy silnika na zakresie startowym	</item>
+        <item>	40 V	</item>
+        <item>	Uszkodzeniem chłodnicy oleju	</item>
+        <item>	biegunie geograficznym	</item>
+        <item>	Zależnie od informacji służb ruchu lotniczego.	</item>
+        <item>	zasłonkami	</item>
+        <item>	Dopuszczalna w wysokich temperaturach	</item>
+        <item>	od przyrządów ciśnieniowych	</item>
+        <item>	Utrzymania łączności.	</item>
+        <item>	Z filtrem i bez filtra	</item>
+        <item>	Odległość orientacyjna.	</item>
+        <item>	Pełniejsze spalanie mieszanki	</item>
+        <item>	Pełniejsze spalanie mieszanki	</item>
+        <item>	Podgrzanie oleju przed uruchomieniem	</item>
+        <item>	Są wąskie i przeznaczone do użytkowania na miękkim podłożu	</item>
+        <item>	Służą do użytkowania tak na miękkim i na twardym podłożu	</item>
+        <item>	Opracowuje producent samolotu i zatwierdza jego służba jakości	</item>
+        <item>	140-160	</item>
+        <item>	lampek w kabinie pasażerskiej	</item>
+        <item>	W specjalnych lukach.	</item>
+        <item>	Ciśnienie ładowania i ciśnienie oleju	</item>
+        <item>	Prędkość obrotowa	</item>
+        <item>	Ssanie Sprężanie Rozprężanie Praca	</item>
+        <item>	Ułatwienie tworzenia się mieszanki palnej	</item>
+        <item>	Przez przyciśnięcie przycisku SPU.	</item>
+        <item>	WŁ.	</item>
+        <item>	Stanowi dokument do potwierdzenia wykonania obsług technicznych wyższego rzędu	</item>
+        <item>	Stosowane tylko w samolotach o małych prędkościach.	</item>
+        <item>	Stosowane w samolotach o dużych prędkościach	</item>
+        <item>	eżektorowo	</item>
+        <item>	hydraulicznie	</item>
+        <item>	Podanie paliwa do gaźnika	</item>
+        <item>	Należy obniżyć poziom oleju do dolnej kreski	</item>
+        <item>	Identyfikacji .	</item>
+        <item>	Wykorzystaniu  zjawiska interferencji.	</item>
+        <item>	elektryczną w cieplną	</item>
+        <item>	dwustopniowe	</item>
+        <item>	prędkość kątowa	</item>
+        <item>	prędkość wskazywana przez prędkościomierz	</item>
+        <item>	W czasie przeglądu polotowego	</item>
+        <item>	radiostacja	</item>
+        <item>	Różnicy ciśnień	</item>
+        <item>	7 h – 8 h	</item>
+        <item>	W celu poprawienia propagacji.	</item>
+        <item>	Za mała energia zapłonu	</item>
+        <item>	76,00 – 98,00 MHz	</item>
+        <item>	Wskaźnik wibracji.	</item>
+        <item>	Nie posiada żadnej anteny.	</item>
+        <item>	Do prowadzenia łączności między członkami załogi.	</item>
+        <item>	Napięciem stałym i zmiennym.	</item>
+        <item>	Jest jeden nadajnik do kilku odbiorników.	</item>
+        <item>	Brak informacji.	</item>
+        <item>	Wykrywania wibracji.	</item>
+        <item>	Określenia warunków terenowych.	</item>
+        <item>	Zabezpieczenie przed rozkręceniem silnika	</item>
+        <item>	Jeden za drugim	</item>
+        <item>	Cylindry jeden za drugim tzw. wiszące	</item>
+        <item>	ilości zaworów	</item>
+        <item>	przekładnia	</item>
+        <item>	zmienny	</item>
+        <item>	Głównym nośnikiem paliwa	</item>
+        <item>	Wychylnie ich polepszenie sterowność podłużną	</item>
+        <item>	Różnie w zależności od egzemplarza samolotu.	</item>
+        <item>	Spadek  temperatury silnika	</item>
+        <item>	Specjalnej sondy.	</item>
+        <item>	Osiowo-odśrodkowe	</item>
+        <item>	Temperatury powietrza za sprężarką doładowującą	</item>
+        <item>	Wybraniem odpowiedniego kanału.	</item>
+        <item>	Z instalacją hamulcową, poprzez układ dźwigni	</item>
+        <item>	Do sterowania sterem wysokości	</item>
+        <item>	Do sterowania tylko sterem wysokości	</item>
+        <item>	Konstrukcję zespołów silników odpornych na wysoką temperaturę	</item>
+        <item>	Współczynnikiem nadciśnienia	</item>
+        <item>	Regulowanym	</item>
+        <item>	odwrotne	</item>
+        <item>	Normalne	</item>
+        <item>	Wydawane jest przez producenta samolotu	</item>
+        <item>	widlastych	</item>
+        <item>	Między zaworem ,a głowicą	</item>
+        <item>	Za pompą olejową	</item>
+        <item>	Steru kierunku	</item>
+        <item>	Wykrywania wibracji.	</item>
+        <item>	odpowietrznik	</item>
+        <item>	wytwornicą	</item>
+        <item>	Dowolny gaz	</item>
+        <item>	Ustawić przełącznik rodzaju pracy w dowolnym położeniu.	</item>
+        <item>	Zastosowano przeliczniki nawigacyjne.	</item>
+        <item>	przez zmniejszenie prędkości lotu	</item>
+        <item>	w godzinach	</item>
+        <item>	wymuszonych	</item>
+        <item>	Nie ma takiego nadajnika	</item>
+        <item>	Pompie wtryskowej	</item>
+        <item>	Miska olejowa	</item>
+        <item>	Płyn chłodzący	</item>
+        <item>	Wtrysk paliwa przed gaźnikiem	</item>
+        <item>	Sprężarce doładowującej	</item>
+        <item>	Regulatorem obrotów	</item>
+        <item>	30V	</item>
+        <item>	100V	</item>
+        <item>	Upływa, gdy wykonywane są techniczne czynności okresowe	</item>
+        <item>	Sygnałem akustycznym 150Hz.	</item>
+        <item>	kurs magnetyczny	</item>
+        <item>	Bezpośrednio z pomocy radionawigacyjnych.	</item>
+        <item>	Zależnie od zabudowy na skrzydle – lewe lub prawe	</item>
+        <item>	silnika	</item>
+        <item>	Wszystkie odpowiedzi są poprawne	</item>
+        <item>	Regulator ciśnienia oleju	</item>
+        <item>	Mocy silnika na siłę strumienia zaśmigłowego	</item>
+        <item>	Nie ma prawa wykonywać żadnych obsług na samolocie, na którym ma wykonać lot	</item>
+        <item>	Powyżej 2000m.	</item>
+        <item>	mierzy ciśnienie lotniska	</item>
+        <item>	Wydechem i ssaniem	</item>
+        <item>	przepływowo	</item>
+        <item>	Jako wzmacniacz hydrauliczny w układzie sterowania	</item>
+        <item>	silnik prądu stałego	</item>
+        <item>	silnik prądu przemiennego	</item>
+        <item>	Nie ma znaczenia	</item>
+        <item>	maleje	</item>
+        <item>	Niższą temperaturę	</item>
+        <item>	Słuchawek i zespołów kontrolnych.	</item>
+        <item>	Zależy od jakości paliwa	</item>
+        <item>	Poniżej -4	</item>
+        <item>	rośnie	</item>
+        <item>	przechylenia samolotu	</item>
+    </string-array>
+</resources>

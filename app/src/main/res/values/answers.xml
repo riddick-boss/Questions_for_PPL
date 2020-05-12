@@ -1,0 +1,2002 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="answers" >
+        <item>	Do startu i lądowania oraz w sytuacjach kiedy dowódca statku powietrznego uzna to za konieczne.	</item>
+        <item>	Stan techniczny statku powietrznego wykonując przegląd przedstartowy	</item>
+        <item>	Jeżeli czas pozwala zameldować do najbliższego organu ruchu lotniczego lub stanowiska kierowania lotami o miejscu opuszczenia	</item>
+        <item>	Kiedy należy zapewnić bezpieczeństwo lotu oraz bezpieczeństwo i porządek na pokładzie statku powietrznego.	</item>
+        <item>	Napisem SAR	</item>
+        <item>	Tak, ale pod warunkiem wykonywania lotu na wysokości określonej przez państwowy organ zarządzania ruchem lotniczym	</item>
+        <item>	Właściwą stację naziemną, tak szybko jak to jest możliwe.	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	serię błysków czerwonych	</item>
+        <item>	Wszystkie odpowiedzi są poprawne	</item>
+        <item>	Gdy dowódca wie, że ktoś inny udziela pomocy w podobnych lub lepszych warunkach, niż on sam mógłby udzielić	</item>
+        <item>	Gdy dowódca wie, że ktoś inny udziela pomocy w podobnych lub lepszych warunkach, niż on sam mógłby udzielić	</item>
+        <item>	Minister właściwy do spraw transportu w porozumieniu z Ministrem Obrony Narodowej ministrami właściwymi do spraw wewnętrznych oraz środowiska	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	W celu zapobiegania kolizjom podczas lotu statków powietrznych z innymi  statkami powietrznymi oraz utrzymywania uporządkowanego przepływu ruchu lotniczego	</item>
+        <item>	W celu udzielania wskazówek i informacji użytecznych dla bezpiecznego i sprawnego wykonywania lotów	</item>
+        <item>	300 m	</item>
+        <item>	strefa identyfikacji obrony powietrznej	</item>
+        <item>	Ośrodek Zarządzania Przestrzenią Powietrzną	</item>
+        <item>	Punkt odniesienia lotniska	</item>
+        <item>	zarządzanie ruchem lotniczym	</item>
+        <item>	strefa ruchu lotniskowego	</item>
+        <item>	plan użytkowania przestrzeni powietrznej	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	rejon lotów po obu stronach granicy państwa będący rejonem czasowo wydzielonym, ustanowionym ze względu na szczególne wymogi operacyjne	</item>
+        <item>	obszar kontrolowany	</item>
+        <item>	strefa kontrolowana lotniska	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Instrukcji wykonawczych organów służb ruchu lotniczego	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Nie ma takiej możliwości	</item>
+        <item>	Tak, ale tylko w zakresie, w jakim może to uczynić  bez narażenia na niebezpieczeństwo powierzonego mu statku powietrznego, pasażerów, załogi lub innych osób	</item>
+        <item>	Tak, ale tylko w zakresie, w jakim może to uczynić  bez narażenia na niebezpieczeństwo powierzonego mu statku powietrznego, pasażerów, załogi lub innych osób	</item>
+        <item>	Tak, ale tylko w zakresie, w jakim może to uczynić  bez narażenia na niebezpieczeństwo powierzonego mu statku powietrznego, pasażerów, załogi lub innych osób	</item>
+        <item>	Tak, ale tylko w zakresie, w jakim może to uczynić  bez narażenia na niebezpieczeństwo powierzonego mu statku powietrznego, pasażerów, załogi lub innych osób	</item>
+        <item>	Tak	</item>
+        <item>	Tak	</item>
+        <item>	Tak jeżeli wynika to z umowy międzynarodowej	</item>
+        <item>	Jeżeli wymagania stawiane przy jej wydaniu nie były łagodniejsze od stawianych w Rzeczypospolitej Polskiej.	</item>
+        <item>	Tak, zawsze	</item>
+        <item>	Tak	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Tak	</item>
+        <item>	Tak, ale bez narażania na niebezpieczeństwo osób będących na pokładzie tego statku powietrznego	</item>
+        <item>	Tak, ale bez narażania na niebezpieczeństwo osób będących na pokładzie tego statku powietrznego	</item>
+        <item>	Nie jest to niemożliwe	</item>
+        <item>	Jest świadectwem stwierdzającym posiadanie określonych kwalifikacji oraz dowodem upoważnienia do wykonywania określonych czynności lotniczych	</item>
+        <item>	Przynależnością państwową statku powietrznego oraz poddaniem go nadzorowi organów lotniczych państwa przynależności	</item>
+        <item>	Do natychmiastowego poddania się badaniom lotniczo-lekarskim	</item>
+        <item>	Do Naczelnego Lekarza, a w szczególnych przypadkach do Prezesa ULC	</item>
+        <item>	Do Naczelnego Lekarza, a w szczególnych przypadkach do Prezesa ULC	</item>
+        <item>	ciągły sygnał zielony	</item>
+        <item>	lotnisko nie jest bezpieczne, nie lądować	</item>
+        <item>	zezwala się lądować	</item>
+        <item>	200m	</item>
+        <item>	na powierzchni terenu	</item>
+        <item>	nie niżej niż 200m AGL	</item>
+        <item>	wzniesienie nad średni poziom morza najwyższego punktu terenowego na polu wzlotów	</item>
+        <item>	Na konferencji chicagowskiej	</item>
+        <item>	Licencję wydaną przez Prezesa ULC lub licencja wydana przez właściwy organ obcego państwa i uznana przez Prezesa ULC	</item>
+        <item>	Ma charakter okresowy	</item>
+        <item>	W ruchu lotniczym kontrolowanym i niekontrolowanym - czas UTC.	</item>
+        <item>	Status wyspecjalizowanej organizacji Organizacji Narodów Zjednoczonej	</item>
+        <item>	Powołuje komisję w skład której wchodzą lekarze specjaliści w szczególności z zakresu medycyny lotniczej	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Służba alarmowa i służba informacji powietrznej	</item>
+        <item>	Cywilne statki powietrzne wpisane do polskiego lub obcego rejestru cywilnych statków powietrznych,	</item>
+        <item>	Cywilne statki powietrzne mające wymagane znaki rozpoznawcze,	</item>
+        <item>	Posiadającą zdolność do lotów potwierdzoną odpowiednimi dokumentami,	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Prawu polskiemu , chyba że to prawo stanowi inaczej	</item>
+        <item>	Prawu polskiemu chyba, że prawo to stanowi inaczej	</item>
+        <item>	poza granicą strefy kontrolowanej lub rejonu kontrolowanego tego lotniska (CTR lub TMA)	</item>
+        <item>	poza granicą strefy ruchu lotniskowego tego lotniska (ATZ)	</item>
+        <item>	poza granicą strefy ruchu lotniskowego tego lotniska (MATZ)	</item>
+        <item>	Członek personelu lotniczego musi posiadać zapasowe okulary korekcyjne	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	W okresie jego ważności, jednak nie wcześniej niż 3 miesiące przed jego upływem	</item>
+        <item>	W okresie jego ważności, jednak nie wcześniej niż 3 miesiące przed jego upływem	</item>
+        <item>	W okresie jego ważności, jednak nie wcześniej niż 12 miesięcy przed jego upływem	</item>
+        <item>	Na wniosek złożony do Prezesa ULC	</item>
+        <item>	Kiedy zostały spełnione warunki przywrócenia licencji, określone w decyzji o zawieszeniu licencji	</item>
+        <item>	Gdy dowódca wie, że ktoś inny udziela pomocy w podobnych lub lepszych warunkach, niż on sam mógłby udzielić	</item>
+        <item>	Gdy dowódca wie, że ktoś inny udziela pomocy w podobnych lub lepszych warunkach, niż on sam mógłby udzielić	</item>
+        <item>	W trakcie badań lotniczo-lekarskich	</item>
+        <item>	W trakcie badań lotniczo-lekarskich	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Osobie która korzysta z pełni praw publicznych	</item>
+        <item>	Osobie która ma pełną zdolność do czynności prawnych	</item>
+        <item>	Osobie która nie była skazana prawomocnym wyrokiem za popełnienie przestępstwa	</item>
+        <item>	Osobie która spełnia wymogi w zakresie wieku i wykształcenia	</item>
+        <item>	Osobie która odpowiada wymaganiom w zakresie sprawności psychicznej i fizycznej, potwierdzonym orzeczeniem o braku przeciwwskazań do wykonywania funkcji członka personelu lotniczego	</item>
+        <item>	Osobie która spełnia wymagania i warunki dotyczące ukończenia szkolenia lotniczego, praktyki lotniczej oraz posiadania wiedzy i  umiejętności, potwierdzone zdaniem egzaminu państwowego	</item>
+        <item>	Żadna z odpowiedzi nie jest prawidłowa	</item>
+        <item>	Żadna z odpowiedzi nie jest prawidłowa	</item>
+        <item>	przestępstw i niektórych innych czynów dokonywanych na pokładzie statków powietrznych	</item>
+        <item>	Komisja Egzaminacyjna	</item>
+        <item>	Komisja Egzaminacyjna	</item>
+        <item>	Komisja Egzaminacyjna	</item>
+        <item>	Lotnicza Komisja Egzaminacyjna	</item>
+        <item>	Lotnicza Komisja Egzaminacyjna	</item>
+        <item>	Lotnicza Komisja Egzaminacyjna	</item>
+        <item>	Lotnicza Komisja Egzaminacyjna	</item>
+        <item>	Jest to osoba posiadająca ważną licencję lub świadectwo kwalifikacji wpisana do państwowego rejestru personelu lotniczego lub innego odpowiedniego rejestru prowadzonego zgodnie z odrębnymi przepisami	</item>
+        <item>	Jest to osoba posiadająca ważne świadectwo kwalifikacji i jest wpisana do właściwego rejestru prowadzonego zgodnie z odrębnymi przepisami	</item>
+        <item>	Organy Policji i Straży Granicznej	</item>
+        <item>	Organy Policji i Straży Granicznej	</item>
+        <item>	Organy Policji i Straży Granicznej	</item>
+        <item>	Wszystkie odpowiedzi są poprawne	</item>
+        <item>	Członkowie personelu lotniczego	</item>
+        <item>	Osoby uczestniczące w szkoleniu lotniczym prowadzonym zgodnie z przepisami wykonawczymi	</item>
+        <item>	Minister właściwy do spraw transportu w porozumieniu z Ministrem Obrony Narodowej ministrami właściwymi do spraw wewnętrznych oraz środowiska	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Centra medycyny lotniczej	</item>
+        <item>	Lekarze orzecznicy	</item>
+        <item>	Są to osoby wyznaczone przez użytkownika statku powietrznego do wykonania określonych czynności na statku powietrznym w czasie lotu	</item>
+        <item>	Komisja lekarska centrum medycyny lotniczej złożona z lekarzy orzeczników oraz specjalistów z zakresu medycyny transportu lub medycyny lotniczej	</item>
+        <item>	Prezes ULC	</item>
+        <item>	przy zmniejszeniu widzialności w locie do 1500 m – z prędkościami, przy których będzie wystarczająco zapewniona możliwość zauważenia we właściwym czasie innego ruchu lub jakichkolwiek przeszkód, aby uniknąć kolizji	</item>
+        <item>	z dala od chmur i z widocznością powierzchni ziemi	</item>
+        <item>	300 m	</item>
+        <item>	1500 m	</item>
+        <item>	5 km	</item>
+        <item>	300 m	</item>
+        <item>	1500 m	</item>
+        <item>	5 km	</item>
+        <item>	FL 100	</item>
+        <item>	dozwolone tylko wtedy, gdy strefa jest nieaktywna i po uzyskaniu zezwolenia właściwego organu wojskowych służb ruchu lotniczego,	</item>
+        <item>	dozwolone tylko wtedy, gdy lot nie narusza obowiązujących w tej strefie ograniczeń lub uzyska się zezwolenie od właściwego organu służby ruchu lotniczego	</item>
+        <item>	zabronione	</item>
+        <item>	wojskowa strefa ruchu lotniskowego	</item>
+        <item>	stała trasa lotnictwa wojskowego	</item>
+        <item>	Na optymalizacji natężenia ruchu lotniczego	</item>
+        <item>	Żadna z odpowiedzi nie jest prawidłowa	</item>
+        <item>	Na przydziale odpowiednich elementów przestrzeni powietrznej poszczególnym jej użytkownikom	</item>
+        <item>	Żadna z odpowiedzi nie jest prawidłowa	</item>
+        <item>	Na okres 5 lat	</item>
+        <item>	Na równych prawach dla jej wszystkich użytkowników	</item>
+        <item>	Od wyniku okresowego sprawdzenia sprawności psychicznej i fizycznej członka personelu lotniczego stwierdzonej w badaniach lotniczo- lekarskich	</item>
+        <item>	Od utrzymania w okresie ważności licencji wiadomości i umiejętności nie mniejszych niż wymagane do uzyskania	</item>
+        <item>	60 miesięcy	</item>
+        <item>	24 miesiące	</item>
+        <item>	24 miesiące	</item>
+        <item>	Niezwłocznie przekazać ją Prezesowi ULC za pokwitowaniem, chyba że licencja została już uprzednio zatrzymana	</item>
+        <item>	Niezwłocznie przekazać ją Prezesowi ULC za pokwitowaniem, chyba że licencja została już uprzednio zatrzymana	</item>
+        <item>	pola ruchu naziemnego lotniska	</item>
+        <item>	serię błysków zielonych	</item>
+        <item>	Przestrzeń kontrolowaną i przestrzeń niekontrolowaną	</item>
+        <item>	przestrzeń powietrzna o określonych wymiarach, w której zapewniona jest służba informacji powietrznej i służba alarmowa	</item>
+        <item>	1000 m	</item>
+        <item>	wydzieloną służbę ustanowioną w granicach określonego obszaru dla zapewniania danych i informacji lotniczych niezbędnych dla bezpieczeństwa, regularności i efektywności żeglugi powietrznej	</item>
+        <item>	wszystkie organy służby ruchu lotniczego w odniesieniu do statków powietrznych będących w ich kompetencji lub o których zainteresowany organ służby ruchu lotniczego został powiadomiony	</item>
+        <item>	należy wracać do lądowania	</item>
+        <item>	Wszystkie  odpowiedzi są prawidłowe	</item>
+        <item>	trasa lotnicza umożliwiająca przeloty pomiędzy TSA i lub TRA	</item>
+        <item>	rejon kontrolowany lotniska	</item>
+        <item>	strefa czasowo rezerwowana	</item>
+        <item>	strefa czasowo wydzielona	</item>
+        <item>	Oba stwierdzenia są prawdziwe	</item>
+        <item>	przestrzeń powietrzna klasy C, G oraz przestrzeń powietrzna niesklasyfikowana	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	W formie decyzji administracyjnej	</item>
+        <item>	W celu zawiadamiania organów systemu poszukiwania i ratownictwa o statkach powietrznych potrzebujących pomocy i współdziałania z tymi organami	</item>
+        <item>	W celu udzielania wskazówek i informacji użytecznych dla bezpiecznego i sprawnego wykonywania lotów	</item>
+        <item>	W celu zapobiegania zderzeniom statków powietrznych podczas lotu,	</item>
+        <item>	Zapewnienie bezpiecznego i prawidłowego rozwoju międzynarodowego lotnictwa cywilnego na całym świecie	</item>
+        <item>	W celu zbierania i publikowania informacji lub danych lotniczych mających zasadnicze znaczenie dla bezpieczeństwa i regularności żeglugi powietrznej	</item>
+        <item>	W celu zapewnienia załogom statków powietrznych niezbędnych danych meteorologicznych	</item>
+        <item>	W celu zapewnienia organom służb ruchu lotniczego, organom systemu poszukiwania i ratownictwa oraz innym organom prowadzącym lub obsługującym żeglugę powietrzną niezbędnych danych meteorologicznych	</item>
+        <item>	Żadna z odpowiedzi nie jest prawidłowa	</item>
+        <item>	W celu zapewnienia pomocy statkom powietrznym w niebezpieczeństwie oraz uczestnikom wypadku lotniczego	</item>
+        <item>	Żadna z odpowiedzi nie jest prawidłowa	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	W terminie 14 dni od dnia otrzymania orzeczenia	</item>
+        <item>	W terminie 14 dni od dnia otrzymania orzeczenia	</item>
+        <item>	Przed upływem 2 lat	</item>
+        <item>	jest niższy niż minimalny określony dla danego rodzaju statku powietrznego na danym lotnisku	</item>
+        <item>	jest mniejsza niż minimalna określona dla danego rodzaju statku powietrznego na danym lotnisku	</item>
+        <item>	serię błysków białych	</item>
+        <item>	ciągły sygnał czerwony	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Zastosować wszelkie niezbędne środki w celu ratowania pasażerów i załogi	</item>
+        <item>	Od dnia upływu poprzedniego okresu ważności przedłużanych uprawnień lotniczych	</item>
+        <item>	Po odbyciu szkolenia wznawiającego w zakresie określonym w programie szkolenia	</item>
+        <item>	Po złożeniu egzaminu przed Lotniczą Komisją Egzaminacyjną	</item>
+        <item>	Od dnia upływu poprzedniego okresu ważności wznawianych uprawnień lotniczych	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Niezwłocznego zwrotu licencji Prezesowi ULC w celu dokonania wpisu o zawieszeniu uprawnienia lotniczego	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Drogi lotnicze i rejony kontrolowane lotnisk (węzłów lotnisk)	</item>
+        <item>	Zgodnie z przepisami międzynarodowymi	</item>
+        <item>	Zgodnie z przepisami obowiązującymi w granicach danego terytorium	</item>
+        <item>	Według prawa państwa przynależności danego statku powietrznego	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	1000 m AGL	</item>
+        <item>	500 m	</item>
+        <item>	1000 m AGL	</item>
+        <item>	poziomu terenu danego miasta	</item>
+        <item>	1500 m AGL	</item>
+        <item>	FL 70	</item>
+        <item>	Najbliższy organ Policji lub administracji publicznej	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	pogorszenia się sprawności psychicznej lub fizycznej, w takim stopniu, że może mieć to wpływ na jego zdolność do bezpiecznego wykonywania czynności lotniczych	</item>
+        <item>	Tak	</item>
+        <item>	Tak.	</item>
+        <item>	Tak	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Kiedy upłynął okres zawieszenia licencji	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Gdy statek powietrzny przekroczył granicę państwową bez wymaganego zezwolenia lub niezgodnie z warunkami zezwolenia	</item>
+        <item>	Gdy statek powietrzny wykonuje lot wbrew zakazom ustalonym w danej przestrzeni powietrznej	</item>
+        <item>	Gdy istnieją uzasadnione obawy, aby sądzić, że statek powietrzny jest użyty do działań sprzecznych z prawem	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Osoba która bezprawnie używa statku powietrznego i solidarnie osoba wpisana do rejestru statków powietrznych jako użytkownik chyba że udowodni że w danym czasie osobą eksploatującą była inna osoba lub że użycie statku  powietrznego nastąpiło bez jej winy	</item>
+        <item>	Osoba która bezprawnie używa statku powietrznego i solidarnie osoba która przekazała prawo używania statku powietrznego jeżeli zachowała prawo decydowania w sprawach wykonywania lotu, chyba  że użycie statku  powietrznego nastąpiło bez jej winy	</item>
+        <item>	Prezes ULC	</item>
+        <item>	Prezes ULC	</item>
+        <item>	W drodze rozporządzenia wprowadzić częściowy lub całkowity zakaz lotów dla statków powietrznych niespełniających wymogów ochrony środowiska w zakresie ochrony przed hałasem	</item>
+        <item>	Na czas dłuższy niż 3 miesiące	</item>
+        <item>	Wszystkie odpowiedzi są poprawne	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Żadna z odpowiedzi nie jest poprawna	</item>
+        <item>	Służby bezpieczeństwa i porządku publicznego, mogące udzielić pomocy	</item>
+        <item>	Jednostki ochrony przeciwpożarowej, mogące udzielić pomocy	</item>
+        <item>	Najbliższy organ Policji lub administracji publicznej	</item>
+        <item>	Służby bezpieczeństwa i porządku publicznego, mogące udzielić pomocy	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Najbliższy organ Policji lub administracji publicznej	</item>
+        <item>	Służby bezpieczeństwa i porządku publicznego, mogące udzielić pomocy	</item>
+        <item>	Jednostki ochrony przeciwpożarowej, mogące udzielić pomocy	</item>
+        <item>	Przy Ministrze właściwym do spraw transportu,	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Prezes ULC zawiesza ważność uprawnienia przez dokonanie odpowiedniego wpisu do licencji	</item>
+        <item>	W protokole sprawdzenia wiadomości i umiejętności lotniczych wskazuje się zakres dodatkowego szkolenia niezbędnego do przywrócenia uprawnienia	</item>
+        <item>	Prezes ULC zawiesza ważność uprawnienia przez dokonanie odpowiedniego wpisu do licencji	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Nie, jeżeli przelot statku powietrznego odbywał się zgodnie z przepisami	</item>
+        <item>	Tak, ale tylko po okazaniu legitymacji służbowej,	</item>
+        <item>	lokalny ruch zasadniczy	</item>
+        <item>	Międzynarodowe loty niehandlowe polskich cywilnych statków powietrznych	</item>
+        <item>	8 km	</item>
+        <item>	4 NM	</item>
+        <item>	2000	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	nie ma obowiązku zapewniania separacji między statkami powietrznymi	</item>
+        <item>	nie mniejsza niż 1500m	</item>
+        <item>	150 m AGL	</item>
+        <item>	plan lotu złożony z powietrza	</item>
+        <item>	CPL - Current flight plan	</item>
+        <item>	Jest to lotnisko użytku publicznego, wykorzystywane do lotów handlowych	</item>
+        <item>	Wykonywanie lotów statkami powietrznymi innymi niż zarobkowy przewóz lotniczy	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Tak	</item>
+        <item>	Tak	</item>
+        <item>	Tak	</item>
+        <item>	Tak	</item>
+        <item>	Tak, jeżeli pobiera naukę, po ukończeniu której spełni to wymaganie oraz po udokumentowanym stwierdzeniu, że posiada wiedzę wystarczającą do opanowania przedmiotów szkolenia teoretycznego	</item>
+        <item>	Nie	</item>
+        <item>	Nie	</item>
+        <item>	Tak, jeżeli pobiera naukę, po ukończeniu której spełni to wymaganie oraz po udokumentowanym stwierdzeniu, że posiada wiedzę wystarczającą do opanowania przedmiotów szkolenia teoretycznego	</item>
+        <item>	Nie	</item>
+        <item>	Nie	</item>
+        <item>	Tak, pod warunkiem posiadania orzeczenia lotniczo-lekarskiego klasy I, lub rozszerzonego klasy II	</item>
+        <item>	Tak, pod warunkiem posiadania orzeczenia lotniczo-lekarskiego klasy II ze stwierdzeniem braku przeciwwskazań do wykonywania lotów IFR	</item>
+        <item>	Tak, ale tylko po okazaniu legitymacji służbowej,	</item>
+        <item>	Tak, ale tylko po okazaniu legitymacji służbowej,	</item>
+        <item>	Tak, ale tylko po okazaniu legitymacji służbowej,	</item>
+        <item>	Tak, ale tylko po okazaniu legitymacji służbowej,	</item>
+        <item>	Tak, ale tylko po okazaniu legitymacji służbowej,	</item>
+        <item>	Tak	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Nauczaniem umiejętności praktycznych – dla pilotów wszystkich specjalności	</item>
+        <item>	Nauczaniem wiedzy lotniczej – dla wszystkich specjalności członków personelu lotniczego	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	należy lądować na tym lotnisku i kołować do płyty postojowej	</item>
+        <item>	należy dać pierwszeństwo drogi innym statkom powietrznym i kontynuować okrążenie	</item>
+        <item>	przymusowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Zmienić wysokość lotu o 500 ft  (1000 ft powyżej FL 410).	</item>
+        <item>	3 minuty	</item>
+        <item>	natychmiast zmienić kurs, aby możliwie jak najprędzej wejść ponownie na tę linie drogi	</item>
+        <item>	podać niezwłocznie zainteresowanemu organowi służb ruchu lotniczego poprawiony przewidywany czas	</item>
+        <item>	zawiadomić o tym właściwy organ służb kontroli ruchu lotniczego	</item>
+        <item>	W ośrodkach szkolenia lotniczego	</item>
+        <item>	W organizacjach lotniczych niebędących ośrodkami szkolenia lotniczego, prowadzących szkolenia lotnicze niezarobkowo	</item>
+        <item>	punkt, do którego ważne jest zezwolenie organu służby kontroli ruchu lotniczego, udzielone dowódcy statku powietrznego określony przez podanie nazwy odpowiedniego punktu meldowania lub lotniska albo granicy przestrzeni powietrznej kontrolowanej	</item>
+        <item>	3 godzin lotu szkoleniowego na dwusterze w tym co najmniej 1 godziny przelotu	</item>
+        <item>	2 godziny lotu w nocy	</item>
+        <item>	5 godzin lotu w nocy	</item>
+        <item>	Co najmniej 5	</item>
+        <item>	Ukończone 17 lat	</item>
+        <item>	Ukończone 17 lat	</item>
+        <item>	Kod, którego dwie ostatnie cyfry nie są zerami.	</item>
+        <item>	informacji powietrznej	</item>
+        <item>	30 min	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	operacyjnie ważne	</item>
+        <item>	węzły	</item>
+        <item>	Dotyczące samolotów jednosilnikowych tłokowych lądowych	</item>
+        <item>	Dotyczące samolotów jednosilnikowych tłokowych wodnych	</item>
+        <item>	Dotyczące samolotów wielosilnikowych tłokowych lądowych	</item>
+        <item>	Dotyczące samolotów wielosilnikowych tłokowych wodnych	</item>
+        <item>	Dotyczące każdej klasy samolotów	</item>
+        <item>	Dotyczące motoszybowców turystycznych	</item>
+        <item>	Na każdy typ samolotu, które może być ograniczone do wykonywania czynności drugiego pilota, jeżeli uprawnienie to dotyczy samolotu z załogą wieloosobową	</item>
+        <item>	Do lotów nocnych VFR	</item>
+        <item>	Dotyczące lotów wg wskazań przyrządów	</item>
+        <item>	Jest uprawniony do wykonywania bez wynagrodzenia czynności dowódcy i drugiego pilota każdego samolotu używanego w celach niezarobkowych	</item>
+        <item>	Co najmniej gimnazjalne lub równorzędne	</item>
+        <item>	Co najmniej gimnazjalne lub równorzędne	</item>
+        <item>	Przepisom prawa cywilnego o odpowiedzialności przy posługiwaniu się mechanicznymi środkami komunikacji poruszanymi za pomocą sił przyrody	</item>
+        <item>	60 min	</item>
+        <item>	10 min	</item>
+        <item>	10 min	</item>
+        <item>	w czasie określonym od przewidywanego czasu przybycia statku powietrznego do zamierzonego punktu przecięcia drogi lotniczej	</item>
+        <item>	w czasie określonym od przewidywanego czasu przybycia statku powietrznego do zamierzonego punktu wlotu do przestrzeni kontrolowanej	</item>
+        <item>	60 min	</item>
+        <item>	60 min	</item>
+        <item>	30 min	</item>
+        <item>	wysokości bezwzględnej 800 m	</item>
+        <item>	wysokości bezwzględnej 600 m	</item>
+        <item>	wysokości bezwzględnej 1350 m	</item>
+        <item>	wysokości bezwzględnej 800 m	</item>
+        <item>	wysokości bezwzględnej 600 m	</item>
+        <item>	wysokości bezwzględnej 800 m	</item>
+        <item>	wysokości bezwzględnej 650 m	</item>
+        <item>	wysokości bezwzględnej 1350 m	</item>
+        <item>	na FL 65	</item>
+        <item>	na FL 65	</item>
+        <item>	na FL 75	</item>
+        <item>	wysokości bezwzględnej 1350 m	</item>
+        <item>	na wysokości bezwzględnej 1700 m	</item>
+        <item>	na wysokości bezwzględnej 1350 m	</item>
+        <item>	FL 85	</item>
+        <item>	Według prawa państwa, na którego obszarze zdarzenie nastąpiło	</item>
+        <item>	Według prawa państwa, na którego obszarze zdarzenie nastąpiło	</item>
+        <item>	Według prawa państwa, na którego obszarze zdarzenie nastąpiło	</item>
+        <item>	Według prawa państwa, na którego obszarze zdarzenie nastąpiło	</item>
+        <item>	Według prawa sądu, który spór rozpoznaje	</item>
+        <item>	Według prawa sądu, który spór rozpoznaje	</item>
+        <item>	Według prawa sądu, który spór rozpoznaje	</item>
+        <item>	Według prawa sądu, który spór rozpoznaje	</item>
+        <item>	Nie więcej niż 5 godzin lotu, wykonanych przez niego na urządzeniu treningowym	</item>
+        <item>	Wykonał co najmniej 45 godzin lotu na samolotach zaliczonych do klasy samolotów jednosilnikowych tłokowych	</item>
+        <item>	Wykonał co najmniej 25 godzin lotu szkoleniowego na dwusterze z instruktorem, na samolotach zaliczonych do klasy samolotów jednosilnikowych tłokowych	</item>
+        <item>	Wykonał co najmniej 25 godzin lotu szkoleniowego na dwusterze z instruktorem, na samolotach zaliczonych do klasy samolotów wielosilnikowych tłokowych	</item>
+        <item>	Wykonał co najmniej 10 godzin lotu samodzielnego, w przypadku szkolenia na samolotach zaliczonych do klasy samolotów jednosilnikowych tłokowych	</item>
+        <item>	Wykonał co najmniej 5 godzin przelotu samodzielnego	</item>
+        <item>	Wykonał przelot na odległość nie mniejszą niż 270 km, podczas którego zostały wykonane dwa lądowania z całkowitym zatrzymaniem na dwu różnych lotniskach innych niż lotnisko startu	</item>
+        <item>	60 min	</item>
+        <item>	Jeśli nowy czas EOBT różni się o więcej niż 15 minut od pierwotnego czasu EOBT	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Gdy statek powietrzny przekroczył granicę państwową bez wymaganego zezwolenia lub niezgodnie z warunkami zezwolenia	</item>
+        <item>	Gdy statek powietrzny wykonuje lot wbrew zakazom ustalonym w danej przestrzeni powietrznej	</item>
+        <item>	Gdy istnieją uzasadnione obawy, aby sądzić, że statek powietrzny jest użyty do działań sprzecznych z prawem	</item>
+        <item>	Jeżeli zostanie wykazane, że wymagania przyjęte przy wydawaniu lub potwierdzaniu tych świadectw zdatności do lotu nie były niższe niż określone zgodnie z ustawą Prawo Lotnicze	</item>
+        <item>	Jeżeli zostanie wykazane, że wymagania przyjęte przy wydawaniu lub potwierdzaniu tych zezwoleń na lot statku powietrznego bez świadectwa zdatności do lotu nie były niższe niż określone zgodnie z ustawą Prawo Lotnicze	</item>
+        <item>	Jest to właściciel lub inna osoba wpisana jako użytkownik do rejestru statków powietrznych	</item>
+        <item>	Jest to podmiot, który został wpisany jako zarządzający do rejestru lotnisk cywilnych,	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Żadna z odpowiedzi nie jest prawidłowa	</item>
+        <item>	Żadna z odpowiedzi nie jest poprawna	</item>
+        <item>	informacji lotniczej	</item>
+        <item>	Prezes ULC	</item>
+        <item>	Prezes ULC	</item>
+        <item>	Prezes ULC	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Osoba eksploatująca statek powietrzny, czyli ta która go używała w czasie spowodowania szkody	</item>
+        <item>	Osoba wpisana do rejestru statków powietrznych jako użytkownik chyba że udowodni że w danym czasie osobą eksploatującą była inna osoba	</item>
+        <item>	Osoba która przekazała prawo używania statku powietrznego jeżeli zachowała prawo decydowania w sprawach wykonywania lotu	</item>
+        <item>	Osoba używająca sama statku powietrznego lub osoby działające za nią, choćby przekroczyły  udzielone im uprawnienia	</item>
+        <item>	Osoba która bezprawnie używa statku powietrznego	</item>
+        <item>	Osoba która bezprawnie używa statku powietrznego i solidarnie osoba eksploatująca statek powietrzny, czyli ta która go używała w czasie spowodowania szkody, chyba że użycie statku  powietrznego nastąpiło bez jej winy	</item>
+        <item>	Osoba która bezprawnie używa statku powietrznego i solidarnie osoba wpisana do rejestru statków powietrznych jako użytkownik chyba że udowodni że w danym czasie osobą eksploatującą była inna osoba lub że użycie statku  powietrznego nastąpiło bez jej winy	</item>
+        <item>	Osoba która bezprawnie używa statku powietrznego i solidarnie osoba która przekazała prawo używania statku powietrznego jeżeli zachowała prawo decydowania w sprawach wykonywania lotu, chyba  że użycie statku  powietrznego nastąpiło bez jej winy	</item>
+        <item>	Rzeczpospolita Polska	</item>
+        <item>	Ośrodek szkolenia lotniczego	</item>
+        <item>	Organizacja lotnicza nie będąca ośrodkiem szkolenia, wykonująca szkolenia niezarobkowo	</item>
+        <item>	Polski państwowy organ zarządzania ruchem lotniczym zgodnie z ustawą prawo lotnicze, innymi ustawami i przepisami wykonawczymi wydanymi na ich podstawie	</item>
+        <item>	W zakresie niezwiązanym z umacnianiem obronności państwa, minister właściwy do spraw transportu	</item>
+        <item>	Centrum Kontroli Obszaru (ACC) Warszawa	</item>
+        <item>	Każdy lot, na który wymaga się zezwolenia kontroli ruchu lotniczego	</item>
+        <item>	2 km	</item>
+        <item>	150 m	</item>
+        <item>	przy zmniejszeniu widzialności w locie do 1500 m	</item>
+        <item>	300 m	</item>
+        <item>	prędkość poddźwiękowa	</item>
+        <item>	nie mniejsza niż 1500 m	</item>
+        <item>	300 km/h TAS	</item>
+        <item>	z dala od chmur i z widocznością terenu lub świateł w terenie	</item>
+        <item>	300 m	</item>
+        <item>	15 km	</item>
+        <item>	7km	</item>
+        <item>	7km	</item>
+        <item>	4 NM	</item>
+        <item>	przeszkód	</item>
+        <item>	Minimum Sector Altitude – najniższą wysokość bezwzględną jaka może być stosowana, która zapewnia minimalne przewyższenie nad przeszkodami wynoszące 300m (1000 ft) nad wszystkimi obiektami znajdującymi się na wycinku koła o promieniu 46 km (25 NM), wychodzącym od pomocy radionawigacyjnej	</item>
+        <item>	Wszystkie odpowiedzi są poprawne	</item>
+        <item>	O czas lotu wynoszący 10% czasu lotu wykonanego przez kandydata w charakterze dowódcy tego statku powietrznego, jednak nie więcej niż 10 godzin pod warunkiem prowadzenia szkolenia według programu szkolenia zatwierdzonego dla tego typu kandydatów	</item>
+        <item>	O czas lotu wynoszący 10% czasu lotu wykonanego przez kandydata w charakterze dowódcy tego statku powietrznego, jednak nie więcej niż 10 godzin pod warunkiem prowadzenia szkolenia według programu szkolenia zatwierdzonego dla tego typu kandydatów	</item>
+        <item>	O czas lotu wynoszący 10% czasu lotu wykonanego przez kandydata w charakterze dowódcy tego statku powietrznego, jednak nie więcej niż 10 godzin pod warunkiem prowadzenia szkolenia według programu szkolenia zatwierdzonego dla tego typu kandydatów	</item>
+        <item>	O nie więcej niż 10	</item>
+        <item>	O nie więcej niż 10 godzin	</item>
+        <item>	O nie więcej niż 10 godzin	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Żadna z odpowiedzi nie jest poprawna	</item>
+        <item>	12 miesięcy	</item>
+        <item>	6 miesięcy	</item>
+        <item>	Samodzielna organizacja lotnicza lub część składowa innego podmiotu	</item>
+        <item>	I	</item>
+        <item>	X	</item>
+        <item>	G	</item>
+        <item>	N	</item>
+        <item>	S	</item>
+        <item>	V	</item>
+        <item>	Y	</item>
+        <item>	Z	</item>
+        <item>	Mający uszkodzony zespół napędowy	</item>
+        <item>	nie	</item>
+        <item>	AIP -  Zbiór Informacji Lotniczych	</item>
+        <item>	wyrażenie ogólne odnoszące się do pozycji statku powietrznego w locie w płaszczyźnie pionowej i oznaczające zarówno wysokość względną, wysokość bezwzględną lub poziom lotu.	</item>
+        <item>	powierzchnia o stałym ciśnieniu odniesiona do szczególnej wartości ciśnienia 1013,2 hPa i oddzielona od innych takich powierzchni określonymi różnicami ciśnienia	</item>
+        <item>	najniższy poziom lotu jaki można wykorzystać powyżej wysokości przejściowej	</item>
+        <item>	poziom utrzymywany podczas znacznej części lotu	</item>
+        <item>	podczas lotu na najniższym dostępnym poziomie lotu lub powyżej tego poziomu albo odpowiednio powyżej wysokości bezwzględnej przejściowej	</item>
+        <item>	podczas lotu poniżej najniższego dostępnego poziomu lotu albo odpowiednio na lub poniżej wysokości bezwzględnej przejściowej	</item>
+        <item>	ciągłe światło czerwone	</item>
+        <item>	seria błysków czerwonych	</item>
+        <item>	seria błysków białych	</item>
+        <item>	seria błysków zielonych	</item>
+        <item>	ciągłe światło zielone	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	ciśnienie atmosferyczne na poziomie lotniska lub progu drogi startowej w użyciu	</item>
+        <item>	nastawienie ruchomej skali wysokościomierza tak, aby wskazywał elewację miejsca, kiedy jest na ziemi	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	nie ma obowiązku zapewniania separacji między statkami powietrznymi	</item>
+        <item>	IFR od IFR	</item>
+        <item>	VFR od IFR	</item>
+        <item>	IFR od IFR	</item>
+        <item>	IFR od IFR	</item>
+        <item>	dowódcy statków powietrznych oraz użytkownicy statków powietrznych lub ich wyznaczeni przedstawiciele	</item>
+        <item>	Awaryjne	</item>
+        <item>	należy wracać do punktu wyjściowego na lotnisku	</item>
+        <item>	należy kołować poza polem wzlotów będącym w użytku	</item>
+        <item>	zezwala się kołować	</item>
+        <item>	należy zatrzymać się	</item>
+        <item>	zezwala się startować	</item>
+        <item>	złożył plan lotu i uzyskał na jego podstawie zezwolenie organu kontroli ruchu lotniczego na wlot w przestrzeń	</item>
+        <item>	QNH	</item>
+        <item>	15 km	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	250 kt IAS	</item>
+        <item>	nie mniejsza niż 300 m	</item>
+        <item>	5 km	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	większą od zera	</item>
+        <item>	W formie rozporządzenia	</item>
+        <item>	Przed upływem 1 roku w przypadku licencji uprawniającej do  zarobkowego wykonywania czynności lotniczych	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	A	</item>
+        <item>	skręcić w prawo	</item>
+        <item>	w odległości nieokreślonej -  takiej, żeby nie zaistniało niebezpieczeństwo kolizji	</item>
+        <item>	niebezpieczne	</item>
+        <item>	7700	</item>
+        <item>	7500	</item>
+        <item>	Prezes ULC zawiesza ważność uprawnienia przez dokonanie odpowiedniego wpisu do licencji	</item>
+        <item>	W protokole sprawdzenia wiadomości i umiejętności lotniczych wskazuje się zakres dodatkowego szkolenia niezbędnego do przywrócenia uprawnienia	</item>
+        <item>	7600	</item>
+        <item>	7700	</item>
+        <item>	Do obywateli polskich i cudzoziemców	</item>
+        <item>	VFR	</item>
+        <item>	przestrzeń powietrzna zawarta między wysokością przejściową a poziomem przejściowym	</item>
+        <item>	Według prawa państwa przynależności zainteresowanych stron i statku powietrznego, bez względu na miejsce zdarzenia, chyba że strony skorzystają z możliwości wyboru innego prawa	</item>
+        <item>	Według prawa państwa przynależności statków powietrznych, bez względu na miejsce zdarzenia, chyba że strony skorzystają z możliwości wyboru innego prawa	</item>
+        <item>	Według prawa państwa przynależności statków powietrznych, bez względu na miejsce zdarzenia, chyba że strony skorzystają z możliwości wyboru innego prawa	</item>
+        <item>	7000	</item>
+        <item>	wysokość, na i poniżej której pozycja statku powietrznego w płaszczyźnie pionowej określana jest jako wysokość względna lub bezwzględna	</item>
+        <item>	wysokość, na i poniżej której pozycja statku powietrznego w płaszczyźnie pionowej określana jest jako wysokość bezwzględna	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	wysokości bezwzględnej 600 m	</item>
+        <item>	Zapewnia stateczność i sterowność podłużną oraz kierunkową	</item>
+        <item>	prędkość lotu samolotu względem otaczających mas powietrza	</item>
+        <item>	różnicowa puszka membranowa	</item>
+        <item>	puszka próżniowa aneroidowa	</item>
+        <item>	Hydrauliczne lub pneumatyczne	</item>
+        <item>	statyczne i całkowite	</item>
+        <item>	statyczne	</item>
+        <item>	ciśnienie lotniska i wysokość lotu	</item>
+        <item>	Wręgi, podłużnice, pokrycie	</item>
+        <item>	Głównym elementem siłowym jest pokrycie – obecnie z laminatów – wzmocnione wręgami	</item>
+        <item>	Zmniejszania sił działających na elementach sterowania sterami i lotkami	</item>
+        <item>	Barwy poszczególnych dźwigni i uchwytów są znormalizowane w zależności od przeznaczenia dźwigni	</item>
+        <item>	Stosowana do wyeliminowania drgań samowzbudnych lotek i sterów	</item>
+        <item>	Sterowania przechyleniami samolotu względem jego osi podłużnej	</item>
+        <item>	Lotki do góry wychylają się o większy kąt niż do dołu – przy skrzydłach o profilu niesymetrycznym	</item>
+        <item>	Zasadniczym przeznaczeniem klap jest zwiększenie współczynnika siły nośnej skrzydła	</item>
+        <item>	Samopodsłuchu.	</item>
+        <item>	Systemem simpleks.	</item>
+        <item>	Linki stalowe i układ rolek	</item>
+        <item>	Popychacze sztywne z układem dźwigni	</item>
+        <item>	prawidłową pracę prądnicy lub alternatora	</item>
+        <item>	Od silnika poprzez skrzynkę napędów	</item>
+        <item>	prądnicy prądu przemiennego z układem prostowniczym	</item>
+        <item>	Nadajnik na każdym hamowanym kole podwozia głównego i przeciwdziała powstaniu poślizgu poprzez odpowiednie odhamowanie	</item>
+        <item>	Wyeliminowania szumów  w sygnale użytecznym. W skrajnym przypadku do wyłączenia toru odbiornika w radiostacji.	</item>
+        <item>	Unieruchomienie organów sterowania na ziemi w czasie postoju samolotu	</item>
+        <item>	Na wejściu do silnika	</item>
+        <item>	ciśnienie oleju, paliwa oraz temperaturę oleju	</item>
+        <item>	wysokość lotu i ciśnienie lotniska	</item>
+        <item>	ilość elektronów jaką można pobrać z ogniwa	</item>
+        <item>	ciało obrotowe (wirnik) wirujące z dużą prędkoś cią kątową dookoła osi symetrii, gdzie jeden z punktów ciała jest nieruchomy	</item>
+        <item>	kurs magnetyczny samolotu	</item>
+        <item>	drut oporowy	</item>
+        <item>	Jest to wartość stosunku wytrzymałości doraźnej do dopuszczalnej. Wartości współczynników określane są w przepisach dotyczących budowy konstrukcji lotniczych i jest większa od 1	</item>
+        <item>	prędkość pionową samolotu tzn. prędkość wznoszenia i opadania	</item>
+        <item>	Tak – jako elementy pokrycia i zbrojenia konstrukcji płatowca i silników	</item>
+        <item>	Tak – należy przerwać wszelkie prace do czasu zneutralizowania zagrożenia przez kompetentne służby	</item>
+        <item>	bezpiecznikami	</item>
+        <item>	Płyn hydrauliczny lub powietrze	</item>
+        <item>	Zazwyczaj dwie radiostacje UKF.	</item>
+        <item>	Hydrauliczna, pneumatyczna i elektryczna	</item>
+        <item>	do pomiaru ciśnienia paliwa podanego do gaźnika	</item>
+        <item>	jako nadajnik ciśnienia całkowitego i statycznego	</item>
+        <item>	do określenia położenia samolotu względem linii horyzontalnej oraz pochylenia i przechyłu samolotu	</item>
+        <item>	pomiaru temperatury cylindrów silnika	</item>
+        <item>	Antena stała i antena ramowa tzw. ramka.	</item>
+        <item>	Zjawisko odbicia fal radiowych od powierzchni ziemi.	</item>
+        <item>	tlenu	</item>
+        <item>	końcówek skrzydeł i steru kierunku	</item>
+        <item>	Jest nieograniczony	</item>
+        <item>	5 min.	</item>
+        <item>	Na końcówce łopaty	</item>
+        <item>	Stosowany w skrzydłach, statecznikach, sterach, klapach, jako główny element przenoszący obciążenia	</item>
+        <item>	Piastą śmigła	</item>
+        <item>	lord	</item>
+        <item>	Dźwignia zaworowa	</item>
+        <item>	Wał korbowy	</item>
+        <item>	Pierścień	</item>
+        <item>	Sprężyna zaworowa	</item>
+        <item>	Krawędź natarcia	</item>
+        <item>	Filtrze oleju	</item>
+        <item>	Przygotowania mieszanki palnej	</item>
+        <item>	Instrukcja Użytkowania Statku Powietrznego	</item>
+        <item>	Prędkość obrotowa Temperatura oleju Ciśnienie oleju Ciśnienie paliwa	</item>
+        <item>	3	</item>
+        <item>	jednoprzewodowa	</item>
+        <item>	trzy	</item>
+        <item>	dwa	</item>
+        <item>	Miarki bagnetowej	</item>
+        <item>	Prędkości obrotowej	</item>
+        <item>	W gondolach silników, w rejonach zbiorników paliwowych i w silnikach	</item>
+        <item>	Jest obowiązkowym dokumentem, który musi znajdować się na pokładzie samolotu do wykorzystania przez załogę w czasie całego lotu i dotyczy jego użytkowania	</item>
+        <item>	puszka próżniowa aneroidowa	</item>
+        <item>	400 Hz	</item>
+        <item>	24 V  lub 12 V	</item>
+        <item>	elektryczną w chemiczną	</item>
+        <item>	chemiczną w elektryczną	</item>
+        <item>	"kulka wskaźnika znajduje się w środkowym położeniu"	</item>
+        <item>	obrotomierz	</item>
+        <item>	paliwomierz	</item>
+        <item>	sztuczny horyzont	</item>
+        <item>	Powietrze pobierane od sprężarki silnika	</item>
+        <item>	statyczne i całkowite	</item>
+        <item>	Określić stopień uszkodzenia (przetarcie, przebicie) i zgłosić ten  fakt obsłudze technicznej oraz wpisać uszkodzenie w dzienniku technicznym jako usterkę	</item>
+        <item>	Krawędź natarcia chwytu powietrza i gaźnik silnika tłokowego	</item>
+        <item>	Krawędź natarcia skrzydeł i stateczników	</item>
+        <item>	manometry, termometry i obrotomierz	</item>
+        <item>	wartość napięcia w sieci	</item>
+        <item>	Mechaniczne i elektroniczne	</item>
+        <item>	Temperatury i ciśnienia oleju	</item>
+        <item>	g/kW h	</item>
+        <item>	Dzięki zastosowaniu anteny stałej i anteny ramowej co daje wypadkową charakterystykę odbioru kardioidę.	</item>
+        <item>	Zapewnia wykonywanie lotów na dużych wysokościach bez konieczności stosowania tlenu	</item>
+        <item>	Wręgi, podłużnice, pokrycie	</item>
+        <item>	Wręgi i pokrycia	</item>
+        <item>	W czasie próby silnika	</item>
+        <item>	Zmniejszenia sił działających na elementach sterowania sterami i lotkami	</item>
+        <item>	Wychylenie ich, zwiększa współczynnik siły nośnej przy mniejszych prędkościach samolotu bez zwiększenia kąta natarcia skrzydła	</item>
+        <item>	Stosowana do wyeliminowania drgań samowzbudnych zespołów sterujących	</item>
+        <item>	Sterowanie przechyleniem samolotu względem jego osi podłużnej	</item>
+        <item>	Powietrze pod ciśnieniem	</item>
+        <item>	rozrząd	</item>
+        <item>	efektywną	</item>
+        <item>	maleje	</item>
+        <item>	Rośnie do wysokości obliczeniowej a potem maleje	</item>
+        <item>	Maleje, a potem rośnie	</item>
+        <item>	Wyprzedzenia zapłonu	</item>
+        <item>	określenie spadku prędkości obrotowej silnika dla każdego układu	</item>
+        <item>	28V  lub 12 V	</item>
+        <item>	Uszkodzeniem układu pomiarowego	</item>
+        <item>	równiku magnetycznym	</item>
+        <item>	Analiza prognozy pogody na trasie lotu przez załogę, jeśli przewiduje oblodzenie, powinna być włączona niezależnie od sygnalizacji:	</item>
+        <item>	deflektorami	</item>
+        <item>	niedopuszczalna	</item>
+        <item>	od ilości energii elektrycznej potrzebnej dla danego typu samolotu	</item>
+        <item>	Podanie aktualnej pozycji samolotu	</item>
+        <item>	Statyczne i dynamiczne	</item>
+        <item>	Odległość wzdłuż linii nachylonej między samolotem a radiolatarnią.	</item>
+        <item>	Równomierne obciążenie wału korbowego	</item>
+        <item>	Zmniejszenie pulsacji momentu obrotowego	</item>
+        <item>	Zabezpieczenie przed oblodzeniem	</item>
+        <item>	Są szerokie i przeznaczone do użytkowania na miękkim podłożu	</item>
+        <item>	Są wąskie i przeznaczone do użytkowania na twardym podłożu	</item>
+        <item>	Opracowuje producent samolotu, zatwierdza Państwowy Nadzór Lotniczy	</item>
+        <item>	90-100	</item>
+        <item>	"lampy antykolizyjnej, świateł pozycyjnych i reflektora"	</item>
+        <item>	W kokpicie.	</item>
+        <item>	"Prędkość obrotowa i ciśnienie ładowania"	</item>
+        <item>	Ciśnienie paliwa	</item>
+        <item>	Ssanie Sprężanie Rozprężanie Wydech	</item>
+        <item>	Ułatwienie rozruchu	</item>
+        <item>	Przez odpowiednie ustawienie przełącznika na  Audio Selektor Panel ( z rosyjska SPU).	</item>
+        <item>	Pozycja ADF, z rosyjska Kompas.	</item>
+        <item>	"Służy do potwierdzenia wykonanych obsług technicznych do lotu i po locie potwierdzenia przyjęcia przez załogę samolotu do lotu i zdania po locie obsłudze technicznej rejestracji czasu pracy samolotu, wpisywania niesprawności samolotu itp. Przeznaczony dla personelu technicznego i latającego"	</item>
+        <item>	Sztywne, przenoszące obciążenie	</item>
+        <item>	Elastyczne nie przenoszące obciążeń	</item>
+        <item>	elektrycznie	</item>
+        <item>	Od silnika	</item>
+        <item>	Wtrysk paliwa do cylindrów lub układu dolotowego	</item>
+        <item>	Prawidłową ilość oleju	</item>
+        <item>	Przygotowania transpondera do pracy.	</item>
+        <item>	Doborze odpowiedniej ilości satelitów.	</item>
+        <item>	mechaniczną w elektryczną	</item>
+        <item>	samowzbudne – bocznikowe	</item>
+        <item>	prędkość wskazywana przez prędkościomierz	</item>
+        <item>	prędkość lotu  samolotu względem powietrza o parametrach panujących na wysokości lotu	</item>
+        <item>	W czasie przeglądu przedlotowego przed startem oraz zawsze kiedy uznamy to za konieczne	</item>
+        <item>	iskrowniki	</item>
+        <item>	Dźwigni (cięgna) sterowania silnikiem	</item>
+        <item>	0,5 h – 1 h	</item>
+        <item>	Na życzenie kontroli ruchu lotniczego.	</item>
+        <item>	Za mała liczba oktanowa paliwa lub późny zapłon	</item>
+        <item>	118,00 – 136,975 MHz	</item>
+        <item>	Radionamiernik dostarczający informacji o położeniu statku powietrznego względem radiolatarni naziemnej i jako średniofalowy odbiornik radiowy,	</item>
+        <item>	Dwie anteny	</item>
+        <item>	Prowadzenia statku powietrznego według radiolatarni prowadzących.	</item>
+        <item>	Napięciem stałym.	</item>
+        <item>	Nadajnik i odbiornik są z sobą integralnie związane,	</item>
+        <item>	Sygnalizacji świetlnej i dźwiękowej.	</item>
+        <item>	Określenia rzeczywistej wysokości lotu statku powietrznego nad powierzchnią ziemi.	</item>
+        <item>	Ustawienia zadanej wysokości.	</item>
+        <item>	Zredukowania prędkości obrotowej wału śmigła	</item>
+        <item>	równomiernie rozmieszczonych na okręgu	</item>
+        <item>	Po dwa cylindry w płaszczyźnie poziomej naprzeciw siebie	</item>
+        <item>	średnicy cylindra	</item>
+        <item>	Łoże silnika	</item>
+        <item>	minimalny	</item>
+        <item>	Wytworzenia siły nośnej	</item>
+        <item>	Wychylenie ich, zwiększa krytyczny kąt natarcia skrzydła i siły nośnej przy mniejszych prędkościach samolotu.	</item>
+        <item>	Przez skrzynki ASP.(Audio Selector Panel) z rosyjska SPU.	</item>
+        <item>	Zaburzenia pracy silnika	</item>
+        <item>	Wbudowanego układu samokontroli (Self-Test).	</item>
+        <item>	odśrodkowe	</item>
+        <item>	Temperatury głowic	</item>
+        <item>	Uruchomieniem bądź nie przycisku N/O.(Na rosyjskim sprzęcie przy nadawaniu naciskamy przycisk radio)	</item>
+        <item>	Sterownicą nożną (orczyk) układem linkowym lub hydraulicznym	</item>
+        <item>	Do sterowania sterem kierunku	</item>
+        <item>	Do sterowania lotkami i sterem wysokości	</item>
+        <item>	Jest to zasadniczy materiał na konstrukcje zespołów płatowca bez głównych elementów siłowych i wytrzymałościowych	</item>
+        <item>	Stopniem sprężania	</item>
+        <item>	przestawialnym	</item>
+        <item>	pchające	</item>
+        <item>	ciągnące	</item>
+        <item>	Wydawane jest przez Techniczny Państwowy Nadzór Lotniczy	</item>
+        <item>	gwiazdowych	</item>
+        <item>	W gniazdach świec	</item>
+        <item>	Na wyjściu z silnika	</item>
+        <item>	Podwozia przedniego	</item>
+        <item>	Identyfikacji statku powietrznego i podania wysokości do kontroli ruchu.	</item>
+        <item>	odpieniaczem	</item>
+        <item>	Iskrownikiem	</item>
+        <item>	Azot lub powietrze	</item>
+        <item>	Ustawić przełącznik rodzaju pracy w położenie TEST.	</item>
+        <item>	Zapamiętania kilku częstotliwości.	</item>
+        <item>	wykonując przechylenia pod kontrolą wskazań sztucznego horyzontu i wskaźnika kursu	</item>
+        <item>	w amperogodzinach	</item>
+        <item>	normalnych	</item>
+        <item>	W tunelu dolotowym do sprężarki	</item>
+        <item>	Układzie dolotowym	</item>
+        <item>	Zaworu wylotowego	</item>
+        <item>	Instalację olejową	</item>
+        <item>	Rozpraszanie paliwa w strumieniu powietrza	</item>
+        <item>	cylindrach	</item>
+        <item>	Wałem korbowym	</item>
+        <item>	115V	</item>
+        <item>	3 x 36V	</item>
+        <item>	Jest ograniczona do określonego terminu	</item>
+        <item>	Miganiem lampki kontrolnej.	</item>
+        <item>	kierunek oraz prędkość kątową zakrętu samolotu	</item>
+        <item>	Skrzynki połączeniowe ASP Audio Selektor Panel czyli z rosyjska SPU.	</item>
+        <item>	Do góry wychylają się więcej	</item>
+        <item>	akumulatora	</item>
+        <item>	Kodami ratunkowymi.	</item>
+        <item>	Instalacja olejowa	</item>
+        <item>	Momentu obrotowego na ciąg strumienia zaśmigłowego	</item>
+        <item>	Może wykonywać obsługę techniczną łącznie z usuwaniem usterek, gdy posiada licencję mechanika obsługi	</item>
+        <item>	0-1200m	</item>
+        <item>	mierzy prędkość precesji przechylenia	</item>
+        <item>	Sprężaniem i rozprężaniem	</item>
+        <item>	Od silnika	</item>
+        <item>	Służy jako układ wspomagający zasadniczą instalację hydrauliczną przy spadku w niej ciśnienia.	</item>
+        <item>	prądnica prądu przemiennego lub przetwornica	</item>
+        <item>	prądnica prądu stałego lub alternator	</item>
+        <item>	Erozję i wypalenie zaworu	</item>
+        <item>	Rośnie, a potem maleje	</item>
+        <item>	Większą liczbę oktanową	</item>
+        <item>	Radiostacji UKF,ASP (Audio Selektor Panel z rosyjska SPU) oraz słuchawek i mikrofonów.	</item>
+        <item>	negatywnie	</item>
+        <item>	-1do 12	</item>
+        <item>	Maleje a potem rośnie	</item>
+        <item>	określenia kursu żyromagnetycznego przy zmianie położenia samolotu wokół osi pionowej	</item>
+        <item>	Ciśnienie na poziomie morza (Mean Sea Level) różni się od wartości 1013.25hPa.	</item>
+        <item>	Gradient zmiany temperatury jest inny niż standardowy –  czyli warunki różnią się od tych zdefiniowanych Międzynarodową Atmosferą Wzorcową.	</item>
+        <item>	126,5	</item>
+        <item>	Zwiększy się stateczność podłużna (co spowoduje większe siły na drążku przy manewrach).	</item>
+        <item>	"15°C / 1013,25 hPa / 1.225 kg/m3 /  - 6.5°C na 1000 m"	</item>
+        <item>	"w procentach średniej cięciwy aerodynamicznej (% MAC) lub odległości (mm, cm, inch) położenia S.C. względem punktu pomiarowego ""DATUM"""	</item>
+        <item>	Punkt, w którym skoncentrowana jest masa statku powietrznego.	</item>
+        <item>	1.88 m	</item>
+        <item>	2.04 m	</item>
+        <item>	siła (ciężar) mnożone przez ramię działania siły.	</item>
+        <item>	Odczytując wysokość wskazywaną przez wysokościomierz nastawiony na 1013.2 hPa.	</item>
+        <item>	Oderwanie samolotu przy mniejszej prędkości, ale zjawisko zanika na wysokości równej w przybliżeniu rozpiętości i osiągi spadają.	</item>
+        <item>	Redukcji oporu indukowanego oraz kąta natarcia potrzebnego do lotu poziomego (przy danej prędkości) co jest spowodowanej bliskością ziemii.	</item>
+        <item>	Grubość warstwy wody na pasie musi być większa od krytycznej (około 3 mm) oraz samolot musi uzyskać odpowiednią prękość.	</item>
+        <item>	To prędkość, przy której osiąga się najlepszy gradient wznoszenia. Best Angle of Climb.	</item>
+        <item>	To prędkość, przy której osiąga się najlepszą prędkość wznoszenia Best Rate of Climb.	</item>
+        <item>	Tak.	</item>
+        <item>	Taki kąt natarcia, przy którym siła nośna równa się ciężarowi i możliwy jest lot poziomy.	</item>
+        <item>	Małą gęstość powietrza i niskie osiągi samolotu.	</item>
+        <item>	Zwiększenie długości rozbiegu.	</item>
+        <item>	Start z wysoko położonego lotniska - większenie długości rozbiegu.	</item>
+        <item>	Zmniejszenie długości rozbiegu.	</item>
+        <item>	Zwiększenie długości rozbiegu.	</item>
+        <item>	Spadek temperatury otoczenia spowoduje wzrost gradientu wznoszenia.	</item>
+        <item>	Spadek temperatury otoczenia spowoduje zmniejszenie wymaganego dystansu do startu.	</item>
+        <item>	Nastąpi zmniejszenie prędkości wznoszenia.	</item>
+        <item>	Ze względu na konieczność większego wychylenia steru wysokości – wzrasta wymagana siła nośna na płacie – zwiększa się opór indukowany, co negatywnie wpływa na osiągi.	</item>
+        <item>	W ogon: 12 kt, boczna – z lewej 14 kt.	</item>
+        <item>	Czołowa: 8 kt, boczna – z prawej 21 kt.	</item>
+        <item>	W ogon: 7 kt, boczna – z lewej 11 kt.	</item>
+        <item>	Czołowa: 13 kt, boczna – z lewej 23 kt.	</item>
+        <item>	Czołowa: 3 kt, boczna – z lewej 15 kt.	</item>
+        <item>	duża temperatura, duża wysokość gęstościowa, duża wilgotność.	</item>
+        <item>	duża wysokość gęstościowa i duża temperatura otoczenia.	</item>
+        <item>	Prędkości TAS i lokalnej prędkości dźwięku.	</item>
+        <item>	maksymalna masa do lądowania w normalnych okolicznościach.	</item>
+        <item>	Gęstość powietrza jest duża – czyli osiągi samolotu będą lepsze niż w przypadku dużej wysokości gestościowej.	</item>
+        <item>	Najlepszy stosunek sił nośnej do oporu – taki najbardziej ekonomiczny kąt natarcia jest stały dla każdej kombinacji wysokości lotu i masy samolotu.	</item>
+        <item>	Zjawisko zanika na wysokości równej w przybliżeniu rozpiętości samolotu / szybowca i osiągi spadają.	</item>
+        <item>	"Nawet drobne zanieczyszczenie typu „papier ścierny” powierzchni nośnych może mieć niebezpieczny wpływ na osiągi."	</item>
+        <item>	Prękość przeciągnięcia wzrosnie o około 40%.	</item>
+        <item>	Pojawia się siła dośrodkowa  i przeciązenie (load factor).	</item>
+        <item>	Całkowita siła nośna dzielona przez ciężar.	</item>
+        <item>	Mniejsze, wzrośnie.	</item>
+        <item>	Zmniejszy się.	</item>
+        <item>	prędkość wznoszenia statku powietrznego osiąga pewną, określoną przepisami, wartość.	</item>
+        <item>	Wysoka trawa.	</item>
+        <item>	podłużnej.	</item>
+        <item>	Zachowanie stateczności podłużnej.	</item>
+        <item>	Podwyższenie prędkości startu i prędkości bezpiecznych, wydłużenie dystansu do startu i lądowania, zmniejszenie prędkości wznoszenia, możliwość uszkodzeń konstrukcji samolotu.	</item>
+        <item>	Współczynnik sił nośnej do oporu.	</item>
+        <item>	10	</item>
+        <item>	Przed środkiem aerodynamicznym.	</item>
+        <item>	0.91 m	</item>
+        <item>	Może doprowadzić do przeciągniecia statecznika poziomego i wejście samolotu w niekontrolowane nurkowanie.	</item>
+        <item>	odchylania rzęsek komórek sensorycznych przez bezwładnościowy ruch endolimfy	</item>
+        <item>	zdolność przystosowania się oka do danego oświetlenia	</item>
+        <item>	zmianą kształtu soczewki	</item>
+        <item>	utrzymywanie odpowiedniego kontaktu wzrokowego i koncentracji uwagi, świadomość postawy ciała oraz gestykulacji, okazywanie empatycznego zrozumienia, przyjęcie akceptującej postawy wobec rozmówcy	</item>
+        <item>	oba stwierdzenia są prawdziwe	</item>
+        <item>	zdanie powyższe jest fałszywe, a tłusty posiłek jedynie spowalnia wchłanianie alkoholu do krwi	</item>
+        <item>	teza jest prawdziwa	</item>
+        <item>	jest zabroniony ze względu na upośledzenie wykonywania czynności złożonych	</item>
+        <item>	nawet w małej ilości upośledza zdolność wykonywania czynności złożonych i jakość wykonywania czynności pilota	</item>
+        <item>	oba zdania są prawdziwe	</item>
+        <item>	zachowanie, w którym  potrafimy wyrazić siebie z pełną wiarą we własne  możliwości, nie zachowując się biernie , ulegle, czy manipulująco	</item>
+        <item>	wyćwiczone czynności poznawcze i ruchowe odbywające się z niewielkimudziałem uwagi i nie podlegające zakłóceniom w czasie wypełniania innychrównoczesnych zadań	</item>
+        <item>	dobrze wyćwiczone czynności poznawcze i ruchowe wykonywane bez aktywnego udziału świadomej uwagi	</item>
+        <item>	niewłaściwy, niepełny lub zdeformowany odbiór informacji związanych z analizą warunków przebiegu lotu	</item>
+        <item>	niedrożnością trąbki słuchowej po stronie bólu	</item>
+        <item>	zmniejszania wysokości oraz znacznie rzadziej podczas zwiększania wysokości	</item>
+        <item>	mózgowia i rdzenia kręgowego	</item>
+        <item>	chorobą związaną z formowaniem się pęcherzyków gazu we krwi i innych tkankach organizmu z powodu zbyt szybkiej zmiany ciśnienia otaczającego (nagłej dekompresji)	</item>
+        <item>	obniżenie ciśnienia otaczającego	</item>
+        <item>	jest synonimem choroby lokomocyjnej w samolocie	</item>
+        <item>	występuje częściej u pasażerów niż u pilotów	</item>
+        <item>	choroba spowodowana bodźcami płynącymi z błędników jako wyraz ich nadmiernego pobudzenia	</item>
+        <item>	podrażnienie błędnika /narządu przedsionkowego/	</item>
+        <item>	związana z niedoborem tlenu	</item>
+        <item>	osłabienie słuchu	</item>
+        <item>	wpływ różnicy ciśnień	</item>
+        <item>	omdlenie	</item>
+        <item>	ok. 20% całkowitego ciśnienia atmosferycznego	</item>
+        <item>	152 mmHg (ok. 21% ciśnienia powietrza)	</item>
+        <item>	niższe	</item>
+        <item>	typ temperamentu, typ strategii zachowania i  reakcji emocjonalnej w sytuacjach  trudnych, dojrzałość osobowości	</item>
+        <item>	ważny aspekt początkowego szkolenia lotniczego: ogół sytuacji występującychw warunkach rzeczywistego lotu związanych z napięciem emocjonalnym pilota oraz czynnikami działającymi ze strony środowiska: przyspieszenie, hałas, wibracje, różnice temperatury i ciśnienia	</item>
+        <item>	zaburzenia z kręgu zaburzeń nerwicowych	</item>
+        <item>	ujemne	</item>
+        <item>	dodatnie	</item>
+        <item>	plecy – klatka piersiowa / Gx + /	</item>
+        <item>	korzystna jest adekwatna samoocena i wysoki stopień samoakceptacji	</item>
+        <item>	skontaktować się z odpowiednim centrum medycyny lotniczej celem weryfikacji stanu zdrowia	</item>
+        <item>	poinformować go o wykonywanych czynnościach pilota, a w razie wątpliwości poprosić o kontakt ze specjalistą medycyny lotniczej	</item>
+        <item>	skontaktować się z odpowiednim centrum medycyny lotniczej celem weryfikacji stanu zdrowia	</item>
+        <item>	łamie prawo i naraża siebie i innych na niebezpieczeństwo	</item>
+        <item>	zawsze prawda	</item>
+        <item>	zmianie ciśnienia z wysokiego do niskiego	</item>
+        <item>	zaburzenie prawidłowej oceny rzeczywistej, pozycji pilota i samolotu w przestrzeni oraz względem powierzchni ziemi	</item>
+        <item>	ponieważ chłodzenie ciała odbywa się przez parowanie potu	</item>
+        <item>	transport tlenu i dwutlenku węgla, substratów i zbędnych produktów metabolizmu oraz dystrybucja energii cieplnej w ciele	</item>
+        <item>	0,8	</item>
+        <item>	bóle stawów, bóle zamostkowe, uczucie mrowienia, świąd skóry	</item>
+        <item>	otyłość, zmniejszona podaż płynów	</item>
+        <item>	zniżania samolotu	</item>
+        <item>	wrzenie płynów ustrojowych na wysokości 19.200m bez wyposażenia pilota w wysokościowy ubiór kompensacyjny	</item>
+        <item>	dokładności i trwałości ukształtowanych w procesie szkolenia schematówdziałania poprzez systematyczne i coraz bardziej skomplikowane ćwiczenia	</item>
+        <item>	złudzeniem wzrokowym wynikiem przyjęcia przez pilota poziomu np. ciemnych chmur za linię horyzontu właściwego	</item>
+        <item>	55-75 skurczów/min	</item>
+        <item>	14-16	</item>
+        <item>	starczowzroczność	</item>
+        <item>	powstania tlenu atomowego i ozonu	</item>
+        <item>	intelektualne, emocjonalno- motywacyjne, orientacji i wykonawcze	</item>
+        <item>	podobne bodźce wywołują tę samą reakcję – niesie rozszerzenie reakcji warunkowej	</item>
+        <item>	ultradźwięki, hałas	</item>
+        <item>	wentylację z liczbą większą niż 30 na minutę	</item>
+        <item>	zniekształcona  lub błędna percepcja bodźców i wrażeń wzrokowych niezgodnych z informacjami pochodzącymi z innych źródeł powodująca niewłaściwą interpretację rzeczywistych warunków lotu	</item>
+        <item>	niedrożność dróg oddechowych	</item>
+        <item>	istota szara mózgu	</item>
+        <item>	pogarsza elastyczność z tendencją do zawężenia repertuaru zachowań	</item>
+        <item>	temperatura otoczenia, wilgotność względna i ruch powietrza	</item>
+        <item>	zaburzenia rytmu serca	</item>
+        <item>	wzmożone ciśnienie śródgałkowe	</item>
+        <item>	podlegająca kontroli komunikacja bezsłowna oparta na przekazie informacjizawartych  w gestach, pozach, mimice i innych zewnętrznie obserwowalnych formach zachowań ludzkich	</item>
+        <item>	proces mówienia – słuchania – zadawania pytań – rozumienia wypowiedzi	</item>
+        <item>	stopień intensywności skupienia procesów poznawczych człowieka na określonym zadaniu, jego miarą jest siła bodźca potrzebna do oderwania uwagi od tego  zadania	</item>
+        <item>	poszkodowany nie oddycha samodzielnie i nie ma własnego tętna	</item>
+        <item>	doraźny ucisk na tętnicę ramienną np. palcami rąk w połowie długości ramienia po jego stronie wewnętrznej	</item>
+        <item>	zazwyczaj większą intensywnościąi wypływaniem jasnoczerwonej krwi zgodnie z falami tętna	</item>
+        <item>	sztywny kołnierz szyjny	</item>
+        <item>	utrata pola widzenia	</item>
+        <item>	niedotlenienie	</item>
+        <item>	ekstrawersja lub ambiwersja, wysoki stopień odporności emocjonalnej, wysokistopień ogólnych zdolności poznawczych	</item>
+        <item>	lądowanie	</item>
+        <item>	szyjny	</item>
+        <item>	Gz –działanie wzdłuż kręgosłupa w kierunku głowy	</item>
+        <item>	zachód – wschód	</item>
+        <item>	zwiększonego narażenia na chorobę dekompresyjną	</item>
+        <item>	PRAWDA	</item>
+        <item>	jeśli nadciśnienie jest ustabilizowane, a przyjmowany jest jedynie jeden rodzaj leku	</item>
+        <item>	nigdy	</item>
+        <item>	od ostatniego podania leku do momentu jego eliminacji z organizmu działania niepożądane leku są wciąż możliwe i pilot powinien powstrzymać się od lotów w tym okresie	</item>
+        <item>	są zawsze zakazane w lotnictwie	</item>
+        <item>	wywołuje niekorzystne skutki przede wszystkimw ośrodkowym układzie nerwowym, narządzie wzroku, narządzie równowagi /błędnik/	</item>
+        <item>	w wątrobie i jest w przybliżeniu stały w czasie	</item>
+        <item>	ból brzucha spowodowany rozprężaniem się gazów w jelitach w związku ze zmianą wysokości	</item>
+        <item>	mobilizacja – rozstrojenie – destrukcja	</item>
+        <item>	rogówka, komora przednia, soczewka, ciało szkliste	</item>
+        <item>	pęcherzykiem powietrza pod wypełnieniem (plombą) i występuje przy wznoszeniu	</item>
+        <item>	działaniem różnicy ciśnień	</item>
+        <item>	pogorszenie dobrej widoczności na zewnątrz samolotu	</item>
+        <item>	częstość skurczów serca	</item>
+        <item>	trening desensytyzacyjny	</item>
+        <item>	indywidualne różnice w wydolności funkcjonalnej wynikające z cech struktury osobowości	</item>
+        <item>	wzrok	</item>
+        <item>	narząd wzroku	</item>
+        <item>	zaburzenie krążenia krwi pomiędzy sercem a mózgiem	</item>
+        <item>	marihuana i haszysz	</item>
+        <item>	z ucha zewnętrznego, środkowego i wewnętrznego	</item>
+        <item>	narząd wzroku, narząd przedsionkowy (błędnik) oraz mięśnie szkieletowe	</item>
+        <item>	odbierają bodźce zewnętrzne i przekazują je do centralnego układu nerwowego	</item>
+        <item>	stała cecha osobowości charakteryzująca się dużą chwiejnością nastroju, drażliwością, pobudliwością, tendencją do intensywnegoi długotrwałego przeżywania negatywnych emocji	</item>
+        <item>	może przebiegać bez wyraźnych objawów lub wywoływać uczucie euforii	</item>
+        <item>	nadmierną wesołościąi brakiem koordynacji ruchów	</item>
+        <item>	nerwowego	</item>
+        <item>	zmniejszenia się ilości tlenu docierającego do pęcherzyków płucnych	</item>
+        <item>	zawroty głowy	</item>
+        <item>	PRAWDA	</item>
+        <item>	"wyrównywanie ciśnienia w uchu środkowym"	</item>
+        <item>	brak czucia w kończynach, niemożność poruszenia nimi, mimowolne oddanie moczu i stolca	</item>
+        <item>	sytuacji, w której pilot ma fałszywe odczucie lotu poziomego podczas wykonywania zakrętu	</item>
+        <item>	ogólne pogorszenie sprawności psychicznej, zaburzenia uwagi i logicznegorozumowania, spowolnienie reakcji, upośledzenie procesu przyjmowania i  przetwarzania bodźców zewnętrznych	</item>
+        <item>	głodem tlenowym	</item>
+        <item>	ból, obrzęk, zmianę obrysu kończyny, nienaturalne jej ułożenie lub też otwartą ranę z wystającą kością	</item>
+        <item>	niedotlenienia ośrodkowego układu nerwowego	</item>
+        <item>	teza jest prawdziwa	</item>
+        <item>	rozszerzenie gazów w jamach ciała	</item>
+        <item>	nerwów obwodowych czaszkowych i rdzeniowych	</item>
+        <item>	tlenu /O2/ z krwi do komórki	</item>
+        <item>	tlenu /O2/ do krwi, a z krwi do atmosfery dwutlenku węgla /CO2/	</item>
+        <item>	płucami a otaczającą atmosferą	</item>
+        <item>	cechą osobowości, podlegającą modyfikacji	</item>
+        <item>	naciśnięcie na hamulec przy czerwonym świetle	</item>
+        <item>	czerwonej, zielonej, niebieskiej	</item>
+        <item>	od podania ostatniej dawki do podjęcia pracy w powietrzu	</item>
+        <item>	należy reanimować na twardym podłożu, z powodu bezpośredniego zagrożenia życia	</item>
+        <item>	względnie stała i trwała organizacja cech temperamentu, intelektu, charakteru,oraz konstytucji fizycznej człowieka determinująca specyficzny sposób przystosowania się jednostki do otoczenia	</item>
+        <item>	tablic Snellena	</item>
+        <item>	zabezpiecza żywe organizmy przed szkodliwym oddziaływaniem krótkofalowego promieniowania słonecznego	</item>
+        <item>	magazyn wszystkich informacji zdobytych w czasie doświadczeń życiowych człowieka o nieograniczonej pojemności i czasie przechowywania	</item>
+        <item>	pamięć operacyjna o ograniczonej pojemności i krótkim czasie przechowywania informacji	</item>
+        <item>	możliwego powstania niedrożności trąbki słuchowej i wystąpienia bólu ucha	</item>
+        <item>	ponieważ gazy uwięzione w jelitach mogą powodować ból brzucha podczas wznoszenia	</item>
+        <item>	unieruchomić w szynie w pozycji maksymalnego komfortu	</item>
+        <item>	od 3 do 5	</item>
+        <item>	autokinezą	</item>
+        <item>	tak	</item>
+        <item>	3,2,1,6,5,4	</item>
+        <item>	krew napływa do głowy	</item>
+        <item>	mniejszą wrażliwość na dotyk, zmniejszoną zdolność wykonywania precyzyjnych ruchów, obniżenie siły mięśniowej	</item>
+        <item>	rośnie	</item>
+        <item>	krew odpływa od głowy	</item>
+        <item>	prawo Daltona	</item>
+        <item>	kończyny dolne - głowa/ Gz - /	</item>
+        <item>	#NAZWA?	</item>
+        <item>	tlen przechodzi do krwi, a dwutlenek węgla do pęcherzyka	</item>
+        <item>	tlen przechodzi do tkanek, a dwutlenek węgla do krwi	</item>
+        <item>	rośnie	</item>
+        <item>	subiektywne i podatne na błędy, związane ze sposobem formułowania problemu i jego interpretacją oraz rodzajem postaw wobec ryzyka	</item>
+        <item>	pomiar przyspieszeń liniowych	</item>
+        <item>	filtrowanie szkodliwego promieniowania UV	</item>
+        <item>	parowanie	</item>
+        <item>	wrażenia, spostrzeżenia, wyobrażenia, procesy myślowe i decyzyjne	</item>
+        <item>	zawsze zabronione	</item>
+        <item>	do trzech minut	</item>
+        <item>	zawsze przy skrajnie wysokim lub skrajnie niskim poziomie motywacji	</item>
+        <item>	styl konfrontacyjny zorientowany na zadanie	</item>
+        <item>	dłonie oparte nadgarstkami w 1/3 dolnej mostka, ręce – wyprostowane w łokciach	</item>
+        <item>	opatrunek uciskowy na ranie	</item>
+        <item>	pracy	</item>
+        <item>	zdolność do skupienia się na widokach i dźwiękach istotnych dla zadań wynikających z bieżącej sytuacji eliminująca wpływ nie związane z zadaniem myśli, obrazy i bodźce sensoryczne	</item>
+        <item>	źrenicę	</item>
+        <item>	zdanie jest nieprawdziwe	</item>
+        <item>	są najlepiej tolerowane przez organizm ludzki	</item>
+        <item>	udrożnić górne drogi oddechowe poszkodowanego (usunąć wszystkie zanieczyszczenia z jamy ustnej, nosowej i gardła)	</item>
+        <item>	kannabinoli (marihuana, haszysz)	</item>
+        <item>	zdolność do szybkiego przenoszenia uwagi jednego obserwowanegoprzedmiotu lub procesu na drugi	</item>
+        <item>	nieadekwatne działanie pilota i osób odpowiedzialnychza organizacjei zabezpieczenia wykonywania lotów	</item>
+        <item>	krew zazwyczaj wypływa leniwym strumieniem i ma ciemnoczerwone zabarwienie	</item>
+        <item>	mogą wystąpić defekty w procesie orientacji człowieka w postaci przepuszczania i zniekształcenia sygnałów, zmniejszenie zakresu ich rozróżniania i rozpoznawania	</item>
+        <item>	opadania samolotu „nosem” w dół	</item>
+        <item>	wyrównać poziom lotu i spróbować manewrów udrażniających przewód słuchowy (ziewanie, przełykanie śliny, itp.)	</item>
+        <item>	zdanie jest fałszywe i dlatego należy obchodzić się z takimi poszkodowanymi bardzo ostrożnie, ograniczyć ich poruszanie się i przenosić ich jedynie w pozycji poziomej	</item>
+        <item>	podnoszenia „nosa” samolotu w górę	</item>
+        <item>	azotu	</item>
+        <item>	uwalnianie się  pęcherzyków gazowych, głównie azotu do krwi i tkanek	</item>
+        <item>	obniżenie ciśnienia porcjalnego w powietrzu oddechowym	</item>
+        <item>	chyba, że choroba podstawowa sama stanowi przeciwwskazanie do lotów	</item>
+        <item>	zawsze	</item>
+        <item>	#NAZWA?	</item>
+        <item>	9,81 m/s 2 i działa pionowo ku dołowi	</item>
+        <item>	niedotlenienia z niedoboru tlenu	</item>
+        <item>	złożone, odbywają się w deficycie czasu przy konieczności dużej przerzutności uwagi w celu odbioru informacji z punktów orientacyjnych znajdujących się na ziemi oraz wskazań przyrządów kontrolnych	</item>
+        <item>	nie odbiera wrażeń wzrokowych, tworząc w obszarze widzenia strefę nieobserwowaną (tzw. plamkę ślepą)	</item>
+        <item>	niezdolność do skupienia się na bodźcach zewnętrznych istotnych dla zadań wynikających z bieżącej sytuacji	</item>
+        <item>	wyprowadzanie wniosków z przesłanek za pomocą reguł logicznych	</item>
+        <item>	rozumowanie, które w celu wypracowania konkluzji na temat np. możliwości zajścia jakiegoś zjawiska odwołuje się do analizy ograniczonej puli dostępnych faktów,  wnioskowanie zachodzi  na podstawie danych opartych na prawdopodobieństwie	</item>
+        <item>	człowiek uczy się reagować inaczej na wyłącznie określony bodziec wśród podobnych, w pewnym wymiarze rozpoznawanej gamy selektywności                      wg specyficznych właściwości bodźca	</item>
+        <item>	trzy przewody półkoliste błędnika	</item>
+        <item>	"jest najbardziej wewnętrzną, światłowrażliwą błoną oka"	</item>
+        <item>	ocena testowa	</item>
+        <item>	spostrzeganie obiektów w przestrzeni trójwymiarowej wymagające interpretacji odległości między podmiotem a spostrzeganym obiektem	</item>
+        <item>	zaburzenia psychiczne typu psychotycznego, silne nerwice, depresja, widoczne zaburzenia osobowości, alkoholizm i używanie środków psychoaktywnych	</item>
+        <item>	jest zabronione całkowicie	</item>
+        <item>	jest zabronione gdyż powoduje długotrwałe skutki dla zdrowia pilota	</item>
+        <item>	6-7 tys. m	</item>
+        <item>	od 6.000 – 8.000 mnpm	</item>
+        <item>	4.000-5.500 m	</item>
+        <item>	2.000-3.500 m	</item>
+        <item>	stan zmobilizowanego psychofizjologicznie organizmu wobec istniejącego lub antycypowanego zagrożenia	</item>
+        <item>	"czynniki powodujące ogólny stan napięcia organizmu ludzkiego związane ze  stanem gotowości do „ataku lub ucieczki”"	</item>
+        <item>	prawdziwe i ma znaczenie dla pilotów	</item>
+        <item>	pilot wykonuje czynności lotnicze przy niedostatecznej ilości informacji dotyczącej sytuacji w powietrzu	</item>
+        <item>	powoduje u pilota lądującego na nim złudzenie, że samolot znajduje się niżej niż w rzeczywistości	</item>
+        <item>	7 g/godzinę	</item>
+        <item>	prawda i wynosi ok.10 mg/kg masy ciała na godzinę	</item>
+        <item>	długotrwałym niedoborem witaminy A	</item>
+        <item>	około 90 dB	</item>
+        <item>	z większego  powinowactwa do hemoglobiny niż tlen	</item>
+        <item>	niedotlenienie, hiperwentylację, hipoglikemię (obniżone stężenie cukru we krwi)	</item>
+        <item>	jamę ucha środkowego (jamę bębenkową) z nosogardłem	</item>
+        <item>	relaks poprzez naukę kontrolowania stanu napięcia mięśni ciała, uregulowania oddechu i wytworzenie odpowiednich wizualizacji	</item>
+        <item>	wrodzona	</item>
+        <item>	naprzemienność nocy i dnia	</item>
+        <item>	wszyscy ludzie mogąw sobie wykształcić te same umiejętności , ale w różnym  czasie	</item>
+        <item>	potrzebuje więcej czasu  na odebranie i przetworzenie informacji, uwzględnia większe ilości danych by poprawnie zorientować się w funkcjonowaniu obiektu sterowania	</item>
+        <item>	działania na organizm przeciążenia ujemnego wzdłuż osi kończyny dolne - głowa	</item>
+        <item>	przeciążenia ujemnego wzdłuż długiej osi ciała	</item>
+        <item>	przeciążenie ujemne /Gz -/	</item>
+        <item>	90%	</item>
+        <item>	poprawę sprawności fizycznej, a szczególnie wydolności sercowo- naczyniowej	</item>
+        <item>	zamknięty, tzn. krew krąży tylko w naczyniach	</item>
+        <item>	serca, tętnic, żył i naczyń kapilarnych	</item>
+        <item>	krążenia systemowego i płucnego, a serce zbudowane jest z 4 jam	</item>
+        <item>	nieświadomą kontrolę nad procesami fizjologicznymi ustroju oraz reakcje w sytuacjach "walki lub ucieczki"	</item>
+        <item>	orientację ciała w przestrzeni	</item>
+        <item>	przy zwiększaniu ciśnienia otaczającej atmosfery	</item>
+        <item>	brakiem możliwości wyrównania ciśnień –jama bębenkowa – atmosfera	</item>
+        <item>	ślepotę	</item>
+        <item>	uwaga skupiona na przedmiocie na skutek aktywnego zamiaru i wysiłku woli powstaje w wyniku istnienia odpowiedniej motywacji ze strony człowieka	</item>
+        <item>	rodzaj uwagi realizowany bez świadomego udziału ze strony człowiekawywołany szczególnymi właściwościami obiektu	</item>
+        <item>	typ podzielności, trwałość, zakres, przerzutność, wybiórczość	</item>
+        <item>	poprawia tolerancję niedotlenienia	</item>
+        <item>	rośnie	</item>
+        <item>	przed siatkówką	</item>
+        <item>	w narządzie równowagi	</item>
+        <item>	większej wrażliwości na niedotlenienie komórek czułych na niewielką ilość światła	</item>
+        <item>	należy stosować sztuczne oddychanie, ale nie stosować masażu serca	</item>
+        <item>	należy poszukać tętna na dużych tętnicach, ponieważ brak tętna przy zachowanym przez dłuższy czas oddechu jest wysoce nieprawdopodobne, a jeśli tętno jest zatrzymane wkrótce ustanie również oddech	</item>
+        <item>	niezależnie od przyczyny założyć maskę z tlenem i zwolnić tempo oddychania	</item>
+        <item>	przenosić poszkodowanego jedynie na noszach lub poziomo przy udziale większej liczby ratowników i w miarę możliwości założyć poszkodowanemu kołnierz Shantza	</item>
+        <item>	pozostawić go pod nadzorem na miejscu do przyjazdu wyspecjalizowanych ratowników medycznych	</item>
+        <item>	pamiętać także o własnym bezpieczeństwie i w razie konieczności wynieść poszkodowanego ze strefy zagrożenia	</item>
+        <item>	przerwać wznoszenie i spróbować wyrównać ciśnienie w przewodzie pokarmowym przez wymuszone odbijanie	</item>
+        <item>	wskazaniom przyrządów	</item>
+        <item>	starać się uspokoić oddech, a w razie niepowodzenia oddychać do worka papierowego	</item>
+        <item>	obniżyć pułap	</item>
+        <item>	rozpocząć oddychanie czystym tlenem z aparatu tlenowego oraz zwolnić częstość oddechów	</item>
+        <item>	krew znacznie silniej odpływa od głowy	</item>
+        <item>	krew znacznie silniej napływa do głowy	</item>
+        <item>	poszkodowany jest nieprzytomny lub nastąpiło spożycie substancji żrących	</item>
+        <item>	unieruchomić dwa sąsiednie stawy w zastanej pozycji	</item>
+        <item>	stosować sztuczne oddychanie i pośredni masaż serca	</item>
+        <item>	silne wrażenie wirowania, skrętu i przyspieszania zwane złudzeniem Coriolisa	</item>
+        <item>	błędnik	</item>
+        <item>	najciężej poszkodowanym	</item>
+        <item>	osobom z zatrzymanym krążeniem i oddechem	</item>
+        <item>	ile razy zwiększył się ciężar ciała człowieka w danej chwili, w porównaniu do jego ciężaru w spoczynku na poziomie morza	</item>
+        <item>	panowanie nad emocjami, nie przerywanie, dostosowanie słownictwa do rozmówcy, rekapitulowanie, parafrazowanie wypowiedzi interlokutora	</item>
+        <item>	powoduje u pilota lądującego na nim złudzenie, że samolot znajduje się wyżej niż w rzeczywistości	</item>
+        <item>	zdolność widzenia przestrzennego	</item>
+        <item>	układ oddechowy	</item>
+        <item>	desynchronizacja snu i czuwania	</item>
+        <item>	uwarunkowana indywidualnymi wrodzonymi progami percepcyjnymi	</item>
+        <item>	po umiarkowanym spożyciu alkoholu obowiązuje zasada 24 godzinnej przerwypo ostatnim drinku zanim rozpocznie się lot	</item>
+        <item>	oczopląs poziomy i pogorszenie ostrości wzroku	</item>
+        <item>	uczucie braku powietrza, uczucie zmęczenia, nudności, wymioty, zawroty głowy	</item>
+        <item>	oznacza nadmierną częstość oddechów powyżej metabolicznego zapotrzebowania ustroju	</item>
+        <item>	może prowadzić do omdlenia, a jej pierwsze objawy są podobne do objawów niedotlenienia	</item>
+        <item>	promieniowanie	</item>
+        <item>	pęcherzykach płucnych	</item>
+        <item>	nie przyspiesza znacząco jego eliminacji z krwi	</item>
+        <item>	wywiera bardzo istotny wpływ na poprawną sprawność jego działania	</item>
+        <item>	4 tys.	</item>
+        <item>	niedrożną trąbką słuchową	</item>
+        <item>	może być spowodowane nierównym ciśnieniem w uchu środkowym i jamie nosowo-gardłowej	</item>
+        <item>	edukację i trening załóg lotniczych	</item>
+        <item>	4	</item>
+        <item>	patologiczne zmniejszenie zakresu uwagi, jej koncentracji, trwałości, podzielności doprowadzające do ogólnego zmniejszenia zdolności odbierania bodźców zewnętrznych	</item>
+        <item>	II	</item>
+        <item>	zmętnienie soczewki	</item>
+        <item>	tętnice odprowadzają krew od serca do tkanek	</item>
+        <item>	nienaturalne, silne aktywizowane pobudzenie psychiczne i fizyczne z tendencją do zachowań brawurowych i agresywnych, gadatliwość (czasem słowotok), brak łaknienia, poty, poszerzone źrenice	</item>
+        <item>	podniesienie nastroju, zaburzenia koncentracji i uwagi, osłabienie pamięci oraz orientacji, obniżenie krytycyzmu, lęk i urojenia prześladowcze,  poszerzenie źrenic i zaczerwienienie spojówek	</item>
+        <item>	zawsze zabronione	</item>
+        <item>	równoległym przetwarzaniu informacji, zdolności szybkiej zmiany wykonywanego zadania przy skutecznej koordynacji reakcji w czasie, odpowiednim przeznaczeniu zdolności przetwarzania informacji do wykonywania najważniejszych czynności	</item>
+        <item>	wprost proporcjonalnie do spadku ciśnienia atmosferycznego	</item>
+        <item>	skład procentowy gazów pozostaje bez zmian	</item>
+        <item>	zespół opóźnionych reakcji stresowychw postaci dolegliwości natury psychicznej nawracających wielokrotnie nawet po upływie długiego czasu, związanych z ekspozycją na zdarzenie szczególnie przerażające lub katastroficzne	</item>
+        <item>	wada układu mięśniowego oczu	</item>
+        <item>	objawy spowodowane zmianą objętością gazów w jamach ciała	</item>
+        <item>	fałsz, zwalnia jedynie jego wchłanianie się z żołądka	</item>
+        <item>	deski, parasolki lub narty unieruchamiając dwa sąsiednie stawy	</item>
+        <item>	są nieprawidłowymi odwzorowaniami rzeczywistości powstającymi w wyniku fizjologicznych, lub patologicznych procesów w mózgu	</item>
+        <item>	mogą mieć miejsce szczególnie w przypadku lotu bez widoczności lub lotów nocnych	</item>
+        <item>	przyspieszeń liniowych na narządy otolitowe	</item>
+        <item>	mogą mieć miejsce szczególnie w lotach nocnych	</item>
+        <item>	fałszywym odczuciu ruchu nieruchomego punktu świetlnego	</item>
+        <item>	błędna interpretacja sytuacji percepcyjnej będąca funkcją zniekształceń informacji otrzymywanych z wzorca sensorycznego	</item>
+        <item>	konieczności stałego przenoszenia wzroku z szybko przesuwających się obiektów naziemnych na przyrządy pokładowe	</item>
+        <item>	trąbkę słuchową Eustachiusza	</item>
+        <item>	amfetaminy	</item>
+        <item>	Temperatura cząsteczek wody jest niższa od 0°C z zachowaniem stanu ciekłego	</item>
+        <item>	Chłodnych II rodzaju	</item>
+        <item>	Popołudniowe burze	</item>
+        <item>	Zbliżanie frontu ciepłego	</item>
+        <item>	Frontu ciepłego	</item>
+        <item>	Chwiejnej	</item>
+        <item>	Grupy chmur o budowie pionowej	</item>
+        <item>	St, Cs	</item>
+        <item>	Cu hum	</item>
+        <item>	Ac, As	</item>
+        <item>	Postrzępione	</item>
+        <item>	Ns As	</item>
+        <item>	Cb	</item>
+        <item>	850 hPa	</item>
+        <item>	Spada	</item>
+        <item>	około 8 m	</item>
+        <item>	Maleje o około 1 hPa/8 m	</item>
+        <item>	Rośnie	</item>
+        <item>	Pięknej pogody	</item>
+        <item>	Zgodna z ruchem wskazówek zegara z odchyleniem ku ciśnieniu niższemu	</item>
+        <item>	Adwekcyjna	</item>
+        <item>	Ok. 50 km	</item>
+        <item>	Około 60 - 80 km/h	</item>
+        <item>	20 – 40 km/h	</item>
+        <item>	Z połączenia frontu chłodnego z ciepłym	</item>
+        <item>	Widzialność zmniejsza się	</item>
+        <item>	Wyżach	</item>
+        <item>	Poziomy rozkład zmian ciśnienia atmosferycznego zredukowanego do średniego poziomu morza	</item>
+        <item>	Morza	</item>
+        <item>	"Ciśnieniu zredukowanym do średniego poziomu morza"	</item>
+        <item>	Odchylony pod kątem około 30° ze skrętem ku ciśnieniu niższemu	</item>
+        <item>	Zimowym	</item>
+        <item>	Przy napływie ciepłego powietrza	</item>
+        <item>	Kondensacji pary wodnej	</item>
+        <item>	W godzinach nocnych	</item>
+        <item>	W wyżach	</item>
+        <item>	Po przejściu frontu ciepłego	</item>
+        <item>	niższe o 50 hPa	</item>
+        <item>	850 hPa	</item>
+        <item>	Ochładza się o 1°C/100 m	</item>
+        <item>	Przy przechodzeniu frontu chłodnego II rodzaju	</item>
+        <item>	Adwekcyjna	</item>
+        <item>	0°C do - 10°C	</item>
+        <item>	Cb, Ns	</item>
+        <item>	Troposfera	</item>
+        <item>	St	</item>
+        <item>	Późną jesienią i podczas ciepłej zimy	</item>
+        <item>	Podczas przechodzenia frontu chłodnego II rodzaju	</item>
+        <item>	Wypromieniowania ciepła z podłoża	</item>
+        <item>	1000 m	</item>
+        <item>	Ciepłej porze roku	</item>
+        <item>	Cb	</item>
+        <item>	Gołoledzi	</item>
+        <item>	St	</item>
+        <item>	Cu, Cb	</item>
+        <item>	Wiatry porywiste	</item>
+        <item>	Turbulencja występuje	</item>
+        <item>	Od ziemi do dolnej granicy chmur	</item>
+        <item>	00 i 12 UTC	</item>
+        <item>	5 m/s	</item>
+        <item>	Ochładza się o 1&lt;sup&gt;°&lt;/sup&gt;C/100 m	</item>
+        <item>	Niżu	</item>
+        <item>	80 kt	</item>
+        <item>	Wzrasta	</item>
+        <item>	maleje	</item>
+        <item>	Warstwowe	</item>
+        <item>	długotrwałe opady ciągłe	</item>
+        <item>	Kierunek wiatru gwałtownie skręca w prawo a prędkość wzrasta	</item>
+        <item>	W godzinach nocnych	</item>
+        <item>	Radiosond	</item>
+        <item>	Większy od adiabatycznego	</item>
+        <item>	niżu	</item>
+        <item>	Ciepłym	</item>
+        <item>	Przed frontem w odległości 300-400 km	</item>
+        <item>	Opad mżawki	</item>
+        <item>	2 m	</item>
+        <item>	W której powietrze osiąga stan nasycenia	</item>
+        <item>	Przy której następuje kondensacja pary wodnej	</item>
+        <item>	Maleje o 0,65°C/100 m	</item>
+        <item>	Temperatura punktu rosy	</item>
+        <item>	W ciągu słonecznego dnia	</item>
+        <item>	Nad równikiem	</item>
+        <item>	250 hPa	</item>
+        <item>	Cb	</item>
+        <item>	troposfera	</item>
+        <item>	10 m	</item>
+        <item>	"prędkość maksymalna przekracza średnią o 5 m/s"	</item>
+        <item>	Przeciwnie do ruchu wskazówek zegara ze skrętem ku środkowi niżu	</item>
+        <item>	Przeciwnie do ruchu wskazówek zegara ze skrętem ku ciśnieniu niższemu	</item>
+        <item>	270	</item>
+        <item>	850 hPa	</item>
+        <item>	W pomiarach radiosondażowych	</item>
+        <item>	Chłodnego	</item>
+        <item>	Procentach	</item>
+        <item>	Między frontem ciepłym a chłodnym	</item>
+        <item>	Congestus	</item>
+        <item>	Radiosondażowych	</item>
+        <item>	Wyżu	</item>
+        <item>	Ciepłemu	</item>
+        <item>	PPm	</item>
+        <item>	Haczykowatym	</item>
+        <item>	W rejonie brzegu morskiego	</item>
+        <item>	Frontu ciepłego	</item>
+        <item>	Arktyka	</item>
+        <item>	St, Ns, As	</item>
+        <item>	Ns	</item>
+        <item>	Przed frontem ciepłym	</item>
+        <item>	300 m	</item>
+        <item>	Lenticularis	</item>
+        <item>	Naniesionej	</item>
+        <item>	Inwersja	</item>
+        <item>	Powietrza arktycznego lub polarno- morskiego	</item>
+        <item>	Po przejściu frontu chłodnego	</item>
+        <item>	W wyżach	</item>
+        <item>	Oblodzenia	</item>
+        <item>	Prognozę pogody dla lotniska	</item>
+        <item>	Cb	</item>
+        <item>	Jednakowej wysokości powierzchni izobarycznej	</item>
+        <item>	Niezbyt gruba ok. 2 km i wąska strefa bardzo silnych wiatrów występująca na poziomie 9 – 12 km	</item>
+        <item>	Ok. 500 km/h	</item>
+        <item>	W strefie frontu polarnego	</item>
+        <item>	500 hPa	</item>
+        <item>	Obserwacje regularne	</item>
+        <item>	Brak istotnych zmian warunków na lądowanie	</item>
+        <item>	Warstwowych	</item>
+        <item>	Przed frontem ciepłym	</item>
+        <item>	Przed frontem ciepłym	</item>
+        <item>	0,65°C/100 m	</item>
+        <item>	1000 m	</item>
+        <item>	300 m	</item>
+        <item>	OVC010	</item>
+        <item>	mniejsza równa 1500 m	</item>
+        <item>	FRA TS	</item>
+        <item>	Ostrzeżenie dla przestrzeni powietrznej lub trasy	</item>
+        <item>	Inwersja	</item>
+        <item>	Krótkotrwałe trwające krócej niż 1 godz.	</item>
+        <item>	As	</item>
+        <item>	Gdy temperatura powierzchni samolotu jest niższa od temperatury powietrza otaczającego	</item>
+        <item>	Równolegle	</item>
+        <item>	2 500 ft	</item>
+        <item>	QFE	</item>
+        <item>	kąt zawarty między południkiem geograficznym a południkiem magnetycznym	</item>
+        <item>	kąt zawarty między południkiem magnetycznym a południkiem busoli, mierzony zgodnie z połówkowym systemem pomiaru kierunku	</item>
+        <item>	kąt dwuścienny, zawarty między płaszczyzną południka zerowego a płaszczyzną południka przechodzącego przez dany punkt na powierzchni Ziemi	</item>
+        <item>	odbioru sygnału czterech satelitów,	</item>
+        <item>	Busola magnetyczna	</item>
+        <item>	2300 UTC dnia poprzedniego	</item>
+        <item>	0100 UTC	</item>
+        <item>	0200 UTC	</item>
+        <item>	1200 UTC	</item>
+        <item>	2100 UTC	</item>
+        <item>	21 cm	</item>
+        <item>	90 stopni	</item>
+        <item>	kąt zawarty między kierunkiem wektora magnetycznego Ziemi a płaszczyzną styczną do jej powierzchni	</item>
+        <item>	linia łącząca punkty o jednakowej wartości deklinacji	</item>
+        <item>	90 stopni	</item>
+        <item>	045°	</item>
+        <item>	315°	</item>
+        <item>	135°	</item>
+        <item>	225°	</item>
+        <item>	60 NM	</item>
+        <item>	1852m	</item>
+        <item>	1 NM	</item>
+        <item>	po prawej stronie	</item>
+        <item>	wysokość bezwzględną	</item>
+        <item>	mniejszy od kursu geograficznego	</item>
+        <item>	większy od kursu geograficznego	</item>
+        <item>	maksymalny	</item>
+        <item>	długość geograficzna	</item>
+        <item>	inklinacja	</item>
+        <item>	szerokość geograficzna	</item>
+        <item>	deklinacja	</item>
+        <item>	dewiacja	</item>
+        <item>	Kąt zawarty między podłużną osią statku powietrznego a nakazaną linią drogi.	</item>
+        <item>	NE	</item>
+        <item>	SE	</item>
+        <item>	SW	</item>
+        <item>	NW	</item>
+        <item>	"7500 - HIJACK;  7600 -COMMUNICATION FAILURE;  7700– EMERGENCY"	</item>
+        <item>	ortodroma	</item>
+        <item>	północnym kierunkiem południka a podłużną osią statku powietrznego	</item>
+        <item>	odjęcie od czasu lokalnego (LMT) dwóch godzin [UTC=LMT-2h]	</item>
+        <item>	izogona	</item>
+        <item>	loksodroma	</item>
+        <item>	południk ziemski	</item>
+        <item>	równik	</item>
+        <item>	214 stopni	</item>
+        <item>	200 km	</item>
+        <item>	40 km	</item>
+        <item>	100 km	</item>
+        <item>	73 NM	</item>
+        <item>	QNH	</item>
+        <item>	4°E, 253°	</item>
+        <item>	003°, 359°	</item>
+        <item>	111 km	</item>
+        <item>	111 km	</item>
+        <item>	111 km	</item>
+        <item>	NM/h	</item>
+        <item>	21 600 NM	</item>
+        <item>	łuk łączący oba bieguny geograficzne Ziemi, będący przecięciem powierzchni Ziemi płaszczyzną przechodzącą przez oś obrotu Ziemi	</item>
+        <item>	30	</item>
+        <item>	50	</item>
+        <item>	72	</item>
+        <item>	prędkość przemieszczania się statku powietrznego względem ziemi	</item>
+        <item>	kątomierz przykłada się przy południku najbliższym środka odcinka trasy	</item>
+        <item>	1 : 250 000	</item>
+        <item>	1 : 250 000	</item>
+        <item>	1 : 500 000	</item>
+        <item>	ciśnienie atmosferyczne na poziomie lotniska lub na progu drogi startowej	</item>
+        <item>	nastawienie ruchomej skali wysokościomierza tak, aby wskazał wzniesienie terenu, gdy jest na ziemi (na lotnisku)	</item>
+        <item>	łuk powstały w wyniku przecięcia powierzchni Ziemi płaszczyzną prostopadłą do osi Ziemi przechodzącą przez jej środek	</item>
+        <item>	90°	</item>
+        <item>	kąt zawarty między płaszczyzną równika a pionem (promieniem) danego punktu	</item>
+        <item>	18 km	</item>
+        <item>	2.5 m/s	</item>
+        <item>	3.8 m/s	</item>
+        <item>	wysokość mierzona od średniego poziomu morza	</item>
+        <item>	wysokość mierzona od poziomu terenu, nad którym statek powietrzny w danej chwili przelatuje	</item>
+        <item>	wysokość mierzona od dowolnej powierzchni (poziomu), np. od poziomu progu pasa startowego	</item>
+        <item>	tory kolejowe	</item>
+        <item>	duże miasto	</item>
+        <item>	most	</item>
+        <item>	odjęcie od czasu lokalnego (LMT) jednej godziny [UTC=LMT-1h]	</item>
+        <item>	124°, 126°	</item>
+        <item>	191°, -2°	</item>
+        <item>	(km : 2) + 10%	</item>
+        <item>	(m × 3) + 10%	</item>
+        <item>	radiokompas	</item>
+        <item>	zliczania zmian położenia w przestrzeni i przyspieszeń, którym podlega statek powietrzny	</item>
+        <item>	QNE	</item>
+        <item>	29.92 inHg	</item>
+        <item>	własny czas systemu skorelowany z UTC.	</item>
+        <item>	Lotem po spirali będzie leciał w kierunku bieguna północnego, dążąc do jego osiągnięcia.	</item>
+        <item>	nastawienie częstotliwości VOR.	</item>
+        <item>	wskazuje zakręt w kierunku północy	</item>
+        <item>	wskazuje zakręt w kierunku północy	</item>
+        <item>	Umieszczenie tego urządzenia w miejscu, gdzie nie ma żadnych obwodów elektrycznych powodujących dewiację	</item>
+        <item>	20 cm	</item>
+        <item>	podróżną (GS)	</item>
+        <item>	108.00-117.95 MHz	</item>
+        <item>	Wskazanie równe wysokości, na jakiej leci statek powietrzny.	</item>
+        <item>	6000 stóp	</item>
+        <item>	30 stóp	</item>
+        <item>	kątem znoszenia	</item>
+        <item>	KKR	</item>
+        <item>	kąt znoszenia	</item>
+        <item>	QDR	</item>
+        <item>	QDM	</item>
+        <item>	TAS do prędkości dźwięku na danej wysokości	</item>
+        <item>	4096	</item>
+        <item>	320 ft	</item>
+        <item>	WGS84.	</item>
+        <item>	200 m	</item>
+        <item>	162 km/h	</item>
+        <item>	2 km	</item>
+        <item>	ukośną	</item>
+        <item>	10	</item>
+        <item>	magnetycznej	</item>
+        <item>	stacji DME usytuowanej na trasie lotu	</item>
+        <item>	40 NM	</item>
+        <item>	76 l	</item>
+        <item>	102 l	</item>
+        <item>	9 US gal	</item>
+        <item>	17 US gal	</item>
+        <item>	NM, kt, min	</item>
+        <item>	około 2 NM.	</item>
+        <item>	radar pierwotny działa na zasadzie odbicia fal elektromagnetycznych od samolotu, wtórny - na zasadzie odpowiedzi transpondera na pokładzie samolotu.	</item>
+        <item>	na polecenie kontrolera radarowego	</item>
+        <item>	zachód słońca w Zamościu następuje około 30 minut wcześniej	</item>
+        <item>	zachód słońca w Jeleniej Górze następuje 30 minut później	</item>
+        <item>	23 kt	</item>
+        <item>	27 NM	</item>
+        <item>	prędkość podróżna (Ground Speed)	</item>
+        <item>	23 kt	</item>
+        <item>	Na radialu 159° od VOR LDZ, mając kurs 159°.	</item>
+        <item>	Z kursem 233°, z magnetycznym kątem drogi 233°, na radialu 053° od VOR-a SIE.	</item>
+        <item>	NE	</item>
+        <item>	NW	</item>
+        <item>	SE	</item>
+        <item>	SW	</item>
+        <item>	1 : 10 000	</item>
+        <item>	techniki impulsowej	</item>
+        <item>	QDR	</item>
+        <item>	od 150 kHz do 1800 kHz	</item>
+        <item>	bezkierunkowo,	</item>
+        <item>	satelity GPS	</item>
+        <item>	200-1750 kHz	</item>
+        <item>	Ziemi	</item>
+        <item>	130 MHz i 122.7 MHz	</item>
+        <item>	12 stopni w lewo	</item>
+        <item>	25 stopni w prawo	</item>
+        <item>	16 stopni w prawo	</item>
+        <item>	16 stopni w lewo	</item>
+        <item>	6 stopni w lewo	</item>
+        <item>	jest znoszony w prawo	</item>
+        <item>	runway visual range - widzialność na drodze startowej	</item>
+        <item>	secondary surveillance radar - wtórny radar dozorowania	</item>
+        <item>	16 NM	</item>
+        <item>	Na zachód od VOR-a JED.	</item>
+        <item>	Po wschodniej stronie VOR/DME LIN	</item>
+        <item>	1000 ft/min	</item>
+        <item>	15°	</item>
+        <item>	12°	</item>
+        <item>	35 km	</item>
+        <item>	54 km	</item>
+        <item>	15 NM	</item>
+        <item>	25 NM	</item>
+        <item>	72	</item>
+        <item>	UHF, pomiaru o opóźnienia odbioru sygnału (odległości) na drodze odbiornik - satelity.	</item>
+        <item>	45 km	</item>
+        <item>	GEN	</item>
+        <item>	radiokompas	</item>
+        <item>	radiostacja komunikacyjna VHF	</item>
+        <item>	kątowym	</item>
+        <item>	względem południka magnetycznego samolotu,	</item>
+        <item>	jako impuls służący do identyfikacji statku powietrznego	</item>
+        <item>	w modzie "C"	</item>
+        <item>	zmiana częstotliwości proporcjonalna do prędkości w ruchu względnym.	</item>
+        <item>	7600	</item>
+        <item>	7700	</item>
+        <item>	7500	</item>
+        <item>	760 mmHg	</item>
+        <item>	1013 hPa	</item>
+        <item>	dwóch częstotliwości radiowych	</item>
+        <item>	prędkości wskazywanej IAS w warunkach bezwietrznych	</item>
+        <item>	od 960 MHz do 1215 MHz	</item>
+        <item>	większy nad morzem niż obszarami lądowymi.	</item>
+        <item>	można zminimalizować jego wpływ przez branie namiarów na stacje, których sygnał dochodząc do odbiornika przecina brzeg pod kątem prostym.	</item>
+        <item>	24 NM	</item>
+        <item>	własne zegary atomowe satelity.	</item>
+        <item>	Prezes Urzędu Lotnictwa Cywilnego	</item>
+        <item>	Państwowa Komisja Badania Wypadków Lotniczych	</item>
+        <item>	Ratowanie życia załogi i pasażerów	</item>
+        <item>	Nie	</item>
+        <item>	Tak, ale po decyzji PKBWL i pod jej nadzorem	</item>
+        <item>	PKBWL	</item>
+        <item>	Prezes ULC	</item>
+        <item>	Prezes ULC	</item>
+        <item>	Tak, bez względu na konsekwencje	</item>
+        <item>	72 godziny	</item>
+        <item>	ma lub mogłoby mieć niekorzystny wpływ na bezpieczeństwo eksploatacji.	</item>
+        <item>	nieomal doszło do wypadku lotniczego.	</item>
+        <item>	Aneks 13	</item>
+        <item>	Ugaszenie pożaru	</item>
+        <item>	pisemny.	</item>
+        <item>	pokładowym dzienniku technicznym statku powietrznego.	</item>
+        <item>	Do startu i lądowania oraz w sytuacjach, kiedy dowódca statku powietrznego uzna to za konieczne.	</item>
+        <item>	Stan techniczny statku powietrznego wykonując przegląd przedlotowy.	</item>
+        <item>	Zameldować do najbliższego organu ruchu lotniczego lub stanowiska kierowania lotami o miejscu opuszczenia	</item>
+        <item>	Czy wszystkie przełączniki, dźwignie i urządzenia kontroli i sterowania znajdują się w położeniu określonym instrukcja użytkowania w locie.	</item>
+        <item>	Napisem SAR	</item>
+        <item>	Tak, ale pod warunkiem wykonywania lotu na wysokości określonej przez państwowy organ zarządzania ruchem lotniczym	</item>
+        <item>	Właściwą stację naziemną, tak szybko jak to jest możliwe.	</item>
+        <item>	Wyjaśnienie okoliczności i przyczyn oraz wypracowanie zaleceń profilaktycznych.	</item>
+        <item>	24 godzin przed lotem	</item>
+        <item>	jeden z członków załogi.	</item>
+        <item>	Ministrowi Infrastruktury	</item>
+        <item>	Można naruszyć przepisy lotnicze	</item>
+        <item>	Pisemne sprawozdanie o zdarzeniu w ciągu 10 dni	</item>
+        <item>	Organom Policji lub Straży Granicznej	</item>
+        <item>	Prawie lotniczym	</item>
+        <item>	grzywny	</item>
+        <item>	Udzielić poszkodowanym lub znajdującym się w niebezpieczeństwie pomocy w zakresie, w jakim może to uczynić bez narażania na niebezpieczeństwo powierzonego mu statku powietrznego, pasażerów, załogi.	</item>
+        <item>	Dowódca załogi	</item>
+        <item>	Dowódca załogi	</item>
+        <item>	Dowódca załogi	</item>
+        <item>	Tak	</item>
+        <item>	Przez ULC	</item>
+        <item>	Raz do roku	</item>
+        <item>	Dowódca załogi	</item>
+        <item>	Stanu zagrożenia dla statku powietrznego określanego przez służby SAR .	</item>
+        <item>	zielonożółty lub czerwony	</item>
+        <item>	że posiada lotniczy nadajnik ratowniczy SARSAT	</item>
+        <item>	niezwłocznie wyłączyć ELT i powiadomić o tym fakcie właściwe RCC lub służbę informacji lotniczej	</item>
+        <item>	dowódca statku powietrznego	</item>
+        <item>	samolot nie będzie certyfikowany i wyposażony do zwalczenia takich warunków	</item>
+        <item>	nie wpłyną ujemnie na bezpieczeństwo startu i odlotu	</item>
+        <item>	dowódca statku powietrznego	</item>
+        <item>	dowódca statku powietrznego	</item>
+        <item>	tak, by były łatwo dostępne dla wszystkich członków załogi i pasażerów	</item>
+        <item>	podręcznik pierwszej pomocy i zestaw sygnałów zgodny z Aneksem 12 ICAO („ground-air visual signal code for use by survivors”)	</item>
+        <item>	Aneksie 12 ICAO	</item>
+        <item>	bezpośredniego zagrożenia życia załogi i pasażerów	</item>
+        <item>	kilkakrotne przechylenie samolotu na boki	</item>
+        <item>	"kilkakrotne włączenie i wyłączenie świateł lądowania lub nawigacyjnych"	</item>
+        <item>	żądanie pomocy medycznej	</item>
+        <item>	wodą z mydłem lub detergentem	</item>
+        <item>	gaśnicą śniegową lub BCE	</item>
+        <item>	zgłosić sytuację awaryjną	</item>
+        <item>	niezwłocznie zneutralizowane i usunięte	</item>
+        <item>	że substancje te są niezbędne do działania istotnych systemów statku powietrznego	</item>
+        <item>	przed płaszczyzną obrotu śmigła	</item>
+        <item>	palenie tytoniu nie jest dozwolone	</item>
+        <item>	przy drugim zestawie urządzeń sterowych statku powietrznego	</item>
+        <item>	nadać wywołanie w niebezpieczeństwie wszystkimi dostępnymi środkami	</item>
+        <item>	dowódca statku powietrznego	</item>
+        <item>	dowódcy statku powietrznego	</item>
+        <item>	powiadomić o tym fakcie służby ruchu lotniczego	</item>
+        <item>	nie informuje o podejrzeniu za pośrednictwem łączności radiowej	</item>
+        <item>	Dzienniku Urzędowym Urzędu Lotnictwa Cywilnego	</item>
+        <item>	podjęcia działań, zapewniających zabezpieczenie życia osób i mienia w rejonie zrzutu	</item>
+        <item>	podczas startu i lądowania oraz zawsze, kiedy dowódca uzna to za konieczne	</item>
+        <item>	należy kołować do najbliższego przecięcia drogi kołowania z drogą startową, zgłosić ten fakt i czekać na dalsze instrukcje	</item>
+        <item>	właściwą stację naziemną tak szybko, jak jest to praktycznie możliwe	</item>
+        <item>	nie	</item>
+        <item>	- zwiększyć sztywność giętną skrzydła; - zastosować wyważenia masowe lotek	</item>
+        <item>	- zwiększyć sztywność skrętną skrzydła; - przesunąć środek ciężkości skrzydła jak najbliżej osi skrętnej	</item>
+        <item>	zwiększyć sztywność skrętną skrzydła	</item>
+        <item>	- zastosować usterzenia typu T; - starannie opracować przejście skrzydło-kadłub	</item>
+        <item>	prędkość strumienia jest równa zeru, a ciśnienie – ciśnieniu spiętrzenia	</item>
+        <item>	flatteru lotkowego	</item>
+        <item>	trzepotanie usterzeń	</item>
+        <item>	-prędkość kątowa wzrośnie dwukrotnie -przyśpieszenie dośrodkowe "ar" wzrośnie czterokrotnie	</item>
+        <item>	-prędkość kątowa zmaleje dwukrotnie -droga przebyta przez ciało w czasie okresu ‘T’ wzrośnie dwukrotnie -przyśpieszenie dośrodkowe ‘ar’ zmaleje dwukrotnie	</item>
+        <item>	w stronę środka okręgu	</item>
+        <item>	minimalne na górnej powierzchni i maksymalne  na dolnej powierzchni	</item>
+        <item>	Związek między ciśnieniem statycznym, gęstością, temperaturą i stałą gazową powietrza    p = rho.g.R.T  [Pa]	</item>
+        <item>	Zdolność do „odpowiadania” przez obiekt na zadawane przez pilota impulsy sterujące.	</item>
+        <item>	różnica ciśnienia dynamicznego i ciśnienia statycznego	</item>
+        <item>	niezaburzony opływ od krawędzi natarcia do punktu przejściowego	</item>
+        <item>	Największa wysokość na którą teoretycznie statek powietrzny może się wznieść.	</item>
+        <item>	Istnienie tendencji (w postaci działania siły lub momentu) do powrotu do równowagi po wytrąceniu z niej.	</item>
+        <item>	Wyobrażalny punkt na cięciwie profilu, w którym działa wypadkowa wszystkich sił aerodynamicznych występujących na profilu	</item>
+        <item>	Warstwa powietrza opływającego dowolny element statku powietrznego, w której prędkość zmienia się od zera do prędkości opływu	</item>
+        <item>	Stosunek rozpiętości do średniej cięciwy geometrycznej.	</item>
+        <item>	Fizyczne wzniesienie (wysokość) płyty lotniska nad umowny poziom morza wg. ISA.	</item>
+        <item>	Ilość masy powietrza  zawartej w 1 m? objętości.	</item>
+        <item>	Zbiór uznawanych za wzorcowe wielkości ciśnienia statycznego p, temperatur t i T oraz gęstości powietrza na różnych wysokościach.	</item>
+        <item>	Wysokość odczytywana na wysokościomierzu ciśnieniowym stawionym  na aktualne ciśnienie na poziomie lotniska QFE.	</item>
+        <item>	Wysokość odczytywana na wysokościomierzu ciśnieniowym ustawionym na aktualne ciśnienie na poziomie morza QNH	</item>
+        <item>	Wysokość pozorna, na której gęstość powietrza jest równa wartości standardowej wg. atmosfery ISA.	</item>
+        <item>	Wysokość odczytywana na wysokościomierzu ciśnieniowym ustawionym na standardową wartość na poziomie morza (QNH), tj. po = 1013,25 hPa  =  760 mm Hg.	</item>
+        <item>	Tak, wyrażony tzw. równaniem stanu p = rho.g.R.T  [Pa], w którym g oznacza przyspieszenie ziemskie g = 9,81 m/s? zaś R stałą gazową powietrza R = 29,2746 m/K.	</item>
+        <item>	Nie.	</item>
+        <item>	tak, sterowność maleje	</item>
+        <item>	Stateczność statyczna uwzględnia tylko tendencję do powrotu do równowagi, stateczność dynamiczna uwzględnia charakter ruchu obiektu.	</item>
+        <item>	Istnieniem tendencji (w postaci działania siły lub momentu) do pogłębiania odejścia od stanu równowagi po wytrąceniu z niej.	</item>
+        <item>	Brakiem jakiejkolwiek reakcji obiektu na wytrącenie go z równowagi.	</item>
+        <item>	dwuwypukłym symetrycznym	</item>
+        <item>	czterokrotne zwiększenie przebytej drogi	</item>
+        <item>	dwukrotne zwiększenie przebytej drogi	</item>
+        <item>	cięciwa geometryczna nie zmienia się wzdłuż rozpiętości	</item>
+        <item>	takie same dla wszystkich skrzydeł	</item>
+        <item>	Px=Q	</item>
+        <item>	Do krzywej biegunowej pokazującej zależność siły nośnej od oporu..	</item>
+        <item>	poszerzasz i klapę przednią	</item>
+        <item>	sloty (skrzela)	</item>
+        <item>	klapę przednią	</item>
+        <item>	zwiększenie stateczności statycznej podłużnej	</item>
+        <item>	zmienia się w zależności od kąta natarcia	</item>
+        <item>	czterokrotny spadek ciśnienia statycznego	</item>
+        <item>	powstawaniem drgań samowzbudnych	</item>
+        <item>	przy maleniu powierzchni przekroju prędkość V zwiększa się	</item>
+        <item>	największa odległość między górnym i dolnym obrysem profilu, prostopadła do jego cięciwy	</item>
+        <item>	opór tarcia większy, a warstwa przyścienna grubsza	</item>
+        <item>	oporu szczelinowego	</item>
+        <item>	klapka odciążająca	</item>
+        <item>	zwiększyć dwukrotnie	</item>
+        <item>	trymer	</item>
+        <item>	punkt przejściowy	</item>
+        <item>	Biegunowa.	</item>
+        <item>	Maksymalna prędkość dopuszczalna	</item>
+        <item>	Kilogram (kg), metr (m) i sekunda (sec)	</item>
+        <item>	Niuton (N), Paskal (Pa), Kelwin (K)	</item>
+        <item>	100000 N/m?	</item>
+        <item>	wzrośnie czterokrotnie	</item>
+        <item>	Wzrasta.	</item>
+        <item>	większa kątowa zmiana kierunku w korkociągu płaskim	</item>
+        <item>	760 mm Hg.	</item>
+        <item>	ciśnienie względne.	</item>
+        <item>	Gęstość powietrza względna.	</item>
+        <item>	Bezwymiarowa temperatura względna.	</item>
+        <item>	po = 101325  N/m?  =  1013,25 hPa	</item>
+        <item>	To  =  288  K.	</item>
+        <item>	=  1,2255 kg/m?.	</item>
+        <item>	t = +15 &lt; sup &gt; o&lt; /sup &gt; C	</item>
+        <item>	T = t + 273.	</item>
+        <item>	większy opór i większy współczynnik siły nośnej	</item>
+        <item>	Ciśnienie statyczne, temperatura i gęstość.	</item>
+        <item>	Deka- (da), hekto- (h), kilo- (k).	</item>
+        <item>	wystarczy znać przechylenie	</item>
+        <item>	Celem  jest zmienianie współczynników aerodynamicznych w celu wywierania wpływu na  osiągi (np. prędkość podejścia do lądowania)	</item>
+        <item>	Wysokościomierzem radiowym (radarowym).	</item>
+        <item>	Czas jaki upływa od odchylenia od równowagi o jakąś wielkość do chwili zmalenia tego odchylenia do połowy (50%).	</item>
+        <item>	równowagą obojętną	</item>
+        <item>	równowagą chwiejną	</item>
+        <item>	mniejsza od oporu płatowca zmontowanego z tych części	</item>
+        <item>	wzrośnie czterokrotnie	</item>
+        <item>	wzrośnie czterokrotnie	</item>
+        <item>	siły aerodynamiczne na skrzydle wzrosną	</item>
+        <item>	stateczność statyczna podłużna wzrośnie	</item>
+        <item>	fałsz, współczynnik oporu kształtu zależy również od ustawienia ciała	</item>
+        <item>	mniejszy od kąta natarcia dla(Cz/Cx)max	</item>
+        <item>	ujemną	</item>
+        <item>	cięciwą geometryczną profilu i kierunkiem napływu strumienia niezaburzonego	</item>
+        <item>	kąt natarcia profilu	</item>
+        <item>	W warunkach zgodnych z podanymi w tabeli Międzynarodowej Atmosfery Wzorcowej ISA.	</item>
+        <item>	zwiększenia CZmax	</item>
+        <item>	zmniejszenie sił używanych przez pilota	</item>
+        <item>	PRAWDA	</item>
+        <item>	bardziej niebezpieczny od stromego	</item>
+        <item>	siły wzbudzające drgania są równe siłom tłumiącym	</item>
+        <item>	oś OZ?	</item>
+        <item>	oś OX?	</item>
+        <item>	oś OY?	</item>
+        <item>	zwiększające CZmax poprzez zmniejszenie przepływu indukowanego, np. winglety	</item>
+        <item>	- iloczyn ciężaru i wysokości ciała- jednostka dżul [J]	</item>
+        <item>	obrys skrzydła	</item>
+        <item>	geometryczna krawędź natarcia	</item>
+        <item>	geometryczna krawędź spływu	</item>
+        <item>	szkieletowa	</item>
+        <item>	procentowe zwiększenie "Cz" będzie większe od procentowego zwiększenia "Cx"	</item>
+        <item>	zniwelowania momentu oporowego lotek	</item>
+        <item>	ośi OX›	</item>
+        <item>	największa prędkość, z jaką można wykonywać lot w powietrzu spokojnym	</item>
+        <item>	jest stałą charakterystyczną dla profilu i odpowiada wartości (Cz/Cx)max	</item>
+        <item>	V &lt;sub &gt; RAamp; &lt; /sub &gt;	</item>
+        <item>	V&lt;sub>A&lt;/sub>	</item>
+        <item>	zwiększenia CZmax	</item>
+        <item>	prawda tylko dla profili symetrycznych	</item>
+        <item>	prawie nie zależy od kata natarcia, ale jest proporcjonalny do kwadratu prędkości lotu	</item>
+        <item>	siła oporu na lotce wychylonej w dół jest większa od siły oporu na lotce wychylonej w górę	</item>
+        <item>	tym większa im bliżej końca płata	</item>
+        <item>	tym większą im większy kąt natarcia	</item>
+        <item>	12200 m.	</item>
+        <item>	0 m.	</item>
+        <item>	6700 m.	</item>
+        <item>	5500 m.	</item>
+        <item>	- odchylają się w stronę środka płata na górnej powierzchni - odchylają się w stronę końca płata na dolnej powierzchni	</item>
+        <item>	grubość profilu	</item>
+        <item>	V<sub>NE</sub>	</item>
+        <item>	momentem oporowym lotek	</item>
+        <item>	dynamicznej bocznej	</item>
+        <item>	dynamicznej bocznej	</item>
+        <item>	zwiększanie ‘C<sub>x</sub>’ oraz ‘C<sub>z</sub>’	</item>
+        <item>	zwiększenie prędkości minimalnej	</item>
+        <item>	lotek	</item>
+        <item>	usterzenia wysokości	</item>
+        <item>	usterzenia kierunku	</item>
+        <item>	współczynnika oporu, powierzchni odniesienia, gęstości powietrza kwadratu prędkości lotu	</item>
+        <item>	maleje wydłużenie płata	</item>
+        <item>	wzajemnego zaburzania opływu przez części sąsiadujące ze sobą	</item>
+        <item>	fałsz, opór kształtu zależy również od ustawienia ciała	</item>
+        <item>	laminarnego	</item>
+        <item>	mniejszy	</item>
+        <item>	oporu indukowanego	</item>
+        <item>	PRAWDA	</item>
+        <item>	ukręcenie skrzydła	</item>
+        <item>	moment skręcający skrzydło, który powoduje wzrost kąta natarcia skrzydła	</item>
+        <item>	wytwarza mniejszą siłę nośną od skrzydła na mniejszym kącie natarcia	</item>
+        <item>	przesuwa się do przodu	</item>
+        <item>	przesuwa się do tyłu	</item>
+        <item>	zmniejszenia V<sub>min</sub>	</item>
+        <item>	powierzchnia ograniczona obrysem skrzydła	</item>
+        <item>	za małe przechylenie lub za duża prędkość kątowa zakrętu	</item>
+        <item>	za duże przechylenie lub za mała prędkość kątowa zakrętu	</item>
+        <item>	maksymalna prędkość, przy której można jeszcze użyć pełnych wychyleń sterów bez przekroczenia maksymalnego przeciążenia	</item>
+        <item>	maksymalna prędkość lotu w atmosferze, w której dochodzi do gwałtownych zmian prędkości pionowej otaczającego powietrza	</item>
+        <item>	maksymalna grubość profilu znajduje się w przedziale 50%-70% cięciwy	</item>
+        <item>	cięciwa geometryczna profilu	</item>
+        <item>	następuje szybka zmiana kąta natarcia skrzydła	</item>
+        <item>	powolną zmianą kąta natarcia skrzydła	</item>
+        <item>	są tym większe im większa jest siła nośna na skrzydle	</item>
+        <item>	zmniejsza szansę korkociągu płaskiego	</item>
+        <item>	ułatwia wprowadzenie w korkociąg	</item>
+        <item>	wzrasta różnica sił nośnych wytwarzanych na obu skrzydłach podczas ślizgu	</item>
+        <item>	wzrasta	</item>
+        <item>	rezonansu pomiędzy drganiami zaburzonych strug zaskrzydłowych z drganiami własnymi powierzchni sterowych	</item>
+        <item>	dodatnią gdy oddamy drążek „od siebie”	</item>
+        <item>	ostrze (spływ) profilu	</item>
+        <item>	nosek profilu	</item>
+        <item>	środek parcia	</item>
+        <item>	środek aerodynamiczny	</item>
+        <item>	niekorzystnego momentu odchylającego	</item>
+        <item>	zniwelowania momentu oporowego lotek	</item>
+        <item>	trzech osi współrzędnych OX›, OY›, OZ›	</item>
+        <item>	większa od siły oporu na skrzydle przeciwnym	</item>
+        <item>	siła oporu kształtu	</item>
+        <item>	maleją proporcjonalnie do malejącej gęstości	</item>
+        <item>	zwiększenia CZmax	</item>
+        <item>	kierunkową	</item>
+        <item>	podłużną	</item>
+        <item>	odchylania i przechylania	</item>
+        <item>	pochylania	</item>
+        <item>	statecznością holendrowania	</item>
+        <item>	odchylania	</item>
+        <item>	pochylania	</item>
+        <item>	przechylania	</item>
+        <item>	prędkość średnia	</item>
+        <item>	średnia cięciwa geometryczna	</item>
+        <item>	przyspieszenie średnie	</item>
+        <item>	największa odległość między linią szkieletową i cięciwą profilu	</item>
+        <item>	linia łącząca środki okręgów wpisanych w obrys profilu lotniczego	</item>
+        <item>	-wprost proporcjonalne do przyrostu prędkości kątowej w czasie pomiaru - odwrotnie proporcjonalne do czasu pomiaru	</item>
+        <item>	względem którego moment aerodynamiczny nie zależy od kąta natarcia (w dużym przedziale zmian kąta natarcia)	</item>
+        <item>	w dużym zakresie zmian kąta natarcia nie zmienia swojego położenia	</item>
+        <item>	w którym linia działania wypadkowej siły aerodynamicznej przecina cięciwę profilu	</item>
+        <item>	równowagę dynamiczną	</item>
+        <item>	buffeting	</item>
+        <item>	zmniejszenie stateczności statycznej podłużnej	</item>
+        <item>	ośi OZ›	</item>
+        <item>	ośi OY›	</item>
+        <item>	różnicowe wychylenie lotek	</item>
+        <item>	- stałej ;  - obojętnej;  - chwiejnej	</item>
+        <item>	W warunkach zgodnych z tabelą Międzynarodowej Atmosfery Wzorcowej ISA.	</item>
+        <item>	Wprost proporcjonalnie.	</item>
+        <item>	- wyważenie masowe; - klapka wyważająca	</item>
+        <item>	zawsze odpowiednio proporcjonalne do zmian ruchu lub zmian stanu lotu	</item>
+        <item>	przesuwa się wzdłuż cięciwy do przodu	</item>
+        <item>	przesuwa się wzdłuż cięciwy do tyłu	</item>
+        <item>	cięciwa geometryczna profilu pokrywa się z cięciwą aerodynamiczną profilu	</item>
+        <item>	nie przesuwa się wzdłuż cięciwy	</item>
+        <item>	-statecznika pionowego stanowiącego przednią, nieruchomą część-steru kierunku stanowiącego tylną ruchomą część	</item>
+        <item>	-statecznika poziomego stanowiącego przednią, nieruchomą część-steru wysokości stanowiącego tylną ruchomą część	</item>
+        <item>	osią podłużną	</item>
+        <item>	osią poprzeczną	</item>
+        <item>	osią pionową	</item>
+        <item>	siła oporu na lotce wychylonej w dół będzie większa od siły oporu na drugiej lotce	</item>
+        <item>	niekorzystny moment oporowy lotek	</item>
+        <item>	indukowany	</item>
+        <item>	prędkość cząsteczek powietrza jest mniejsza od prędkości przepływu	</item>
+        <item>	zawsze prawda	</item>
+        <item>	zawsze fałsz	</item>
+        <item>	przepony, która jednocześnie zmniejsza opór szczelinowy	</item>
+        <item>	zawsze maleje	</item>
+        <item>	n=0	</item>
+        <item>	Kąta przechylenia i prędkości lotu	</item>
+        <item>	klapki wywarzającej	</item>
+        <item>	symetryczny względem osi "Cx"	</item>
+        <item>	symetryczny względem osi "Cx"	</item>
+        <item>	biegunową szybowca	</item>
+        <item>	symetryczny względem środka układu współrzędnych	</item>
+        <item>	Cz = f(alpha), Cm = f(alpha)	</item>
+        <item>	Cx = f(alpha), Cz = f(Cx)	</item>
+        <item>	zwiększenia stateczności poprzecznej szybowca	</item>
+        <item>	zmniejszenie gęstości powietrza	</item>
+        <item>	Z „oporu kształtu” bryły statku powietrznego i z „oporu tarcia” powietrza o powierzchnię tej bryły.	</item>
+        <item>	jeżeli przekrój poprzeczny tunelu dwukrotnie się zwiększy, to prędkość powietrza zmaleje dwukrotnie	</item>
+        <item>	zmniejszenie momentu zawiasowego	</item>
+        <item>	statecznością statyczną	</item>
+        <item>	sterownością	</item>
+        <item>	dodatkowej powierzchni sterowej przed osią obrotu steru	</item>
+        <item>	skręceniu skrzydła spowodowanym wychyleniem lotki	</item>
+        <item>	Malenie statycznego ciśnienia w strudze i wzrost prędkości (+)	</item>
+        <item>	na końcówkach skrzydeł stosuje się profile, na których oderwanie strug dla alpha kryt jest mniej intensywne	</item>
+        <item>	cięciwy profili geometrycznych w kolejnych przekrojach nie leżą w jednej płaszczyźnie	</item>
+        <item>	większy	</item>
+        <item>	zwiększanie "Cx" oraz zmniejszanie "Cz"	</item>
+        <item>	zasada ciągłości ruchu	</item>
+        <item>	prawo Bernouli’ego	</item>
+        <item>	z	</item>
+        <item>	x	</item>
+        <item>	y	</item>
+        <item>	zmniejsza się przy zmniejszaniu powierzchni przekroju	</item>
+        <item>	Obiekt wykonuje ruch, najczęściej harmoniczny, o rosnącej amplitudzie.	</item>
+        <item>	Obiekt wykonuje ruch, najczęściej harmoniczny, o malejącej amplitudzie.	</item>
+        <item>	Wzrasta z kwadratem prędkości.	</item>
+        <item>	Opór wzrasta z kwadratem prędkości.	</item>
+        <item>	Zwiększy się.	</item>
+        <item>	Siła odśrodkowa zwiększy się.	</item>
+        <item>	pozostaje niezmieniony	</item>
+        <item>	stosunek Cz/Cx wzrośnie	</item>
+        <item>	doskonałość płatowca wzrośnie	</item>
+        <item>	-położenie środka ciężkości szybowca; -rozłożenie mas na szybowcu; -usytuowanie i wielkość usterzeń	</item>
+        <item>	zwiększyć przechylenie lub zmniejszyć prędkość kątową zakrętu	</item>
+        <item>	zmniejszyć przechylenie lub zwiększyć prędkość kątową zakrętu	</item>
+        <item>	zasada ciągłości ruchu	</item>
+        <item>	prawo Bernouli’ego	</item>
+        <item>	Działają przeciw sobie	</item>
+        <item>	- śmigło się obraca, a samolot ma prędkość=0; - na prędkości lotu tak dużej, że śmigło nie daje już ciągu	</item>
+        <item>	zmniejsza się przy maleniu powierzchni przekroju	</item>
+        <item>	Obiekt wykonuje ruch, najczęściej harmoniczny, o rosnącej amplitudzie.	</item>
+        <item>	Obiekt wykonuje ruch, najczęściej harmoniczny, o malejącej amplitudzie.	</item>
+        <item>	Wzrasta z kwadratem prędkości.	</item>
+        <item>	Opór wzrasta z kwadratem prędkości.	</item>
+        <item>	Zwiększy się.	</item>
+        <item>	Siła odśrodkowa zwiększy się.	</item>
+        <item>	min rośnie, max maleje	</item>
+        <item>	- pochylanie; - odchylanie	</item>
+        <item>	samolot samoczynnie przejdzie w fazę lotu zwaną korkociągiem	</item>
+        <item>	kąty natarcia poszczególnych przekrojów śmigła maleją	</item>
+        <item>	samolot nie jest stateczny i nie jest niestateczny	</item>
+        <item>	samolot jest stateczny	</item>
+        <item>	samolot jest niestateczny	</item>
+        <item>	kąt natarcia łopat śmigła zmaleje	</item>
+        <item>	kąt natarcia łopat śmigła wzrośnie	</item>
+        <item>	jeżeli posuw będzie odpowiednio duży	</item>
+        <item>	wtedy, kiedy poślizg śmigła S=0	</item>
+        <item>	wtedy, kiedy prędkość samolotu =0	</item>
+        <item>	wtedy, kiedy kąt natarcia śmigła =0°	</item>
+        <item>	wtedy, kiedy kąt natarcia śmigła =0°	</item>
+        <item>	nigdy	</item>
+        <item>	wtedy, kiedy prędkość samolotu =0	</item>
+        <item>	zmiana momentu zawiasowego lotek	</item>
+        <item>	kompensacja aerodynamiczna steru kierunku	</item>
+        <item>	- stosunek ilości wykonanej pracy do czasu jej wykonywania- jednostka wat [W]	</item>
+        <item>	- iloczyn siły i drogi- jednostka dżul [J]	</item>
+        <item>	stosunek Cz/Cx wzrośnie	</item>
+        <item>	doskonałość płatowca wzrośnie	</item>
+        <item>	Dodatni (+)	</item>
+        <item>	oś wektora ciągu śmigła nie przechodzi przez środek ciężkości samolotu	</item>
+        <item>	powoduje zmiany momentów odchylających i/lub pochylających samolot	</item>
+        <item>	prędkość kątowa zmian	</item>
+        <item>	kierunkowym momentem zaśmigłowym	</item>
+        <item>	o małym skoku geometrycznym	</item>
+        <item>	"-położenie środka ciężkości samolotu; -rozłożenie mas na samolocie; - usytuowanie i wielkość usterzeń"	</item>
+        <item>	ekonomiczną	</item>
+        <item>	optymalną	</item>
+        <item>	stosunek mocy silnika do ciężaru samolotu	</item>
+        <item>	-występowanie drgań samolotu lub sterów; -samoczynne zwiększanie pochylenia	</item>
+        <item>	wzajemnego zaburzania opływu przez części sąsiadujące ze sobą	</item>
+        <item>	wzrost współczynnika obciążenia samolotu "n"	</item>
+        <item>	równowagi sił i momentów działających na samolot	</item>
+        <item>	powoduje pochylanie	</item>
+        <item>	powoduje odchylanie	</item>
+        <item>	po zmniejszeniu ciśnienia ładowania należy przestawić śmigło na mały skok	</item>
+        <item>	równy zero	</item>
+        <item>	nie powoduje istotnych zmian	</item>
+        <item>	momentem oporowym	</item>
+        <item>	Sygnały toru lotu i sygnały położenia.	</item>
+        <item>	jest stałe	</item>
+        <item>	różnica między skokiem geometrycznym i rzeczywistym	</item>
+        <item>	następuje szybka zmiana kąta natarcia skrzydła	</item>
+        <item>	lot odbywa się na nadkrytycznym kącie natarcia	</item>
+        <item>	lH – odległość między środkiem ciężkości samolotu i środkiem aerodynamicznym usterzenia poziomego; PZH – przyrost siły nośnej na usterzeniu wysokości	</item>
+        <item>	środek ciężkości samolotu	</item>
+        <item>	#NAZWA?	</item>
+        <item>	niestateczny statycznie poprzecznie i podłużnie	</item>
+        <item>	niestatecznością statyczną poprzeczną	</item>
+        <item>	po wejściu w korkociąg, był to korkociąg stromy	</item>
+        <item>	odległość jaką przebędzie samolot podczas jednego obrotu śmigła ustawionego na kącie natarcia =0°	</item>
+        <item>	odległość jaką przebędzie samolot podczas jednego obrotu śmigła	</item>
+        <item>	ciąg śmigła T=0 lub posuw śmigła =0	</item>
+        <item>	równowagą stałą	</item>
+        <item>	- kąta wzniosu skrzydeł; - powierzchni usterzenia pionowego; - odległości środka aerodynamicznego usterzenia pionowego od środka ciężkości samolotu	</item>
+        <item>	- rozkładu mas na samolocie;- wielkości statecznika poziomego;- odległości środka aerodynamicznego usterzenia poziomego od środka ciężkości samolotu	</item>
+        <item>	zdolność do samoczynnego powrotu samolotu do położenia równowagi, gdy przestaną działać zakłócenia	</item>
+        <item>	- wielkości usterzenia pionowego; - odległości usterzenia od środka ciężkości	</item>
+        <item>	- położenia środka ciężkości samolotu; - wielkości statecznika poziomego; - odległości środka aerodynamicznego usterzenia poziomego od środka ciężkości samolotu	</item>
+        <item>	- kąta wzniosu skrzydła; - wielkości usterzenia pionowego; - układu grzbietopłata lub dolnopłata	</item>
+        <item>	zdolność do zachowania stanu równowagi i przeciwdziałania jego zmianom	</item>
+        <item>	zdolność do zmiany stanu ustalonego lotu pod wpływem wychylenia odpowiedniego steru	</item>
+        <item>	sprawnością śmigła	</item>
+        <item>	posuwem	</item>
+        <item>	być zwichrzone geometrycznie tak, aby kąt natarcia poszczególnych przekrojów w czasie lotu był podobny	</item>
+        <item>	-wychylić ster kierunku w stronę przeciwną do kierunku przechylania; - odepchnąć drążek sterowy	</item>
+        <item>	zwiększyć siłę nośną na skrzydle poprzez oddanie drążka sterowego	</item>
+        <item>	-wychylić ster kierunku w stronę przeciwną do kierunku przechylania; - odepchnąć drążek sterowy; -po ustaniu obrotów rozpędzić samolot i wyprowadzić z lotu nurkowego	</item>
+        <item>	należy wychylić drążek sterowy na siebie	</item>
+        <item>	przyrost momentu pochylającego samolot musi mieć wartość do ujemną	</item>
+        <item>	należy wychylić ster wysokości w górę	</item>
+        <item>	"wektor przyrostu siły nośnej na usterzeniu poziomym musi mieć zwrot „w dół”"	</item>
+        <item>	należy wychylić drążek sterowy od siebie	</item>
+        <item>	należy wychylić ster wysokości w dół	</item>
+        <item>	"wektor przyrostu siły nośnej na usterzeniu poziomym musi mieć zwrot „w górę”"	</item>
+        <item>	wszystkie odpowiedzi są poprawne	</item>
+        <item>	W instrukcji użytkowania w locie.	</item>
+        <item>	- posuw śmigła ;=0; -skok rzeczywisty śmigła Hrz=0	</item>
+        <item>	pozostaje niezmieniony	</item>
+        <item>	n=1	</item>
+        <item>	n&gt;1	</item>
+        <item>	procentowe zwiększenie Cx będzie większe od procentowego zwiększenia Cz	</item>
+        <item>	stosunek Cz/Cx zmaleje	</item>
+        <item>	doskonałość profilu zmaleje	</item>
+        <item>	przechylenie się samolotu w prawo i rozpoczęcie autorotacji	</item>
+        <item>	- wzrost Cz; - wzrost Cx; - spadek doskonałości samolotu	</item>
+        <item>	biegunową samolotu	</item>
+        <item>	lepkością powietrza	</item>
+        <item>	zmniejszenie skoku śmigła, a później zwiększenie ciśnienia ładowania	</item>
+        <item>	zmniejszenie ciśnienia ładowania, a później zwiększenie skoku śmigła	</item>
+        <item>	odległość pomiędzy środkiem ciężkości samolotu i środkiem równowagi obojętnej	</item>
+        <item>	statecznością dynamiczną	</item>
+        <item>	na końcówkach płata stosuje się profile, na których oderwanie strug dla alpha kryt jest mniej intensywne	</item>
+        <item>	cięciwy profili geometrycznych w kolejnych przekrojach nie leżą w jednej płaszczyźnie	</item>
+        <item>	#NAZWA?	</item>
+        <item>	Przygotowanie treści , wciśnięcie przycisku nadawania i (po chwili) rozpoczęcie transmisji, zakończenie transmisji i ( po chwili) zwolnienie przycisku nadawania	</item>
+        <item>	Otrzymał polecenie organu kontroli ruchu lotniczego lub służby informacji powietrznej.	</item>
+        <item>	Ponowić wywołanie nie wcześniej niż po 10 sekundach i jeśli wtedy brak odpowiedzi upewnić się czy wybrano właściwą częstotliwość.	</item>
+        <item>	Oscar	</item>
+        <item>	Foxtrot	</item>
+        <item>	Romeo	</item>
+        <item>	Nie opóźnia  to znacznie tempa prowadzonej korespondencji i jest istotne ze względu na zrozumienie treści nazw lub skrótów	</item>
+        <item>	Wzajemnego komunikowania się personelu latającego i naziemnego	</item>
+        <item>	Utrzymywać stałe natężenie głosu i właściwą odległość ust od mikrofonu	</item>
+        <item>	Nawiązaniu dwustronnej łączności na określonej  częstotliwości i wymianie raportów o czytelności transmisji	</item>
+        <item>	Upewnić się czy częstotliwość nie jest zajęta przez inną transmisje	</item>
+        <item>	Stacja lotnicza znajduje się w niebezpieczeństwie lub sytuacji naglącej	</item>
+        <item>	System Simplex	</item>
+        <item>	Transmisje zbędne, anonimowe, o charakterze prywatnym, zakłócające prowadzenie innej korespondencji	</item>
+        <item>	Potwierdzona przez pilota poprzez powtórzenie całości korespondencji i podanie swojego znaku wywoławczego	</item>
+        <item>	Trzykrotne wywołanie MAYDAY, trzykrotne podanie swojego znaku wywoławczego,rodzaj niebezpieczeństwa, pozycję i parametry lotu, zamiary dowódcy statku powietrznego, rodzaj oczekiwanej pomocy na częstotliwości, na której prowadzono korespondencję lub jeśli niemożliwe, na 121,500 MHz	</item>
+        <item>	SHN	</item>
+        <item>	Procedura specjalna w przypadku braku odbioru ze stacji, z którą chcemy się skomunikować  polegająca na dwukrotnym przekazaniu treści depeszy na częstotliwości podstawowej i zapasowej z użyciem słów „Nadaję na ślepo”	</item>
+        <item>	Organ kontroli zbliżania Gdańsk	</item>
+        <item>	Wyjaśnienie okoliczności i przyczyn oraz wypracowanie zaleceń profilaktycznych.	</item>
+        <item>	Czy wszystkie przełączniki, dźwignie i urządzenia kontroli i sterowania znajdują się w położeniu określonym instrukcja użytkowania w locie.	</item>
+        <item>	Stan techniczny statku powietrznego wykonując przegląd przedlotowy.	</item>
+        <item>	lotniczej łączności radiotelefonicznej w niebezpieczeństwie	</item>
+        <item>	123.1 MHz	</item>
+        <item>	24 godzin przed lotem	</item>
+        <item>	Tak	</item>
+        <item>	Tak, ale pod warunkiem wykonywania lotu na wysokości określonej przez państwowy organ zarządzania ruchem lotniczym	</item>
+        <item>	Tak, ale po decyzji PKBWL i pod jej nadzorem	</item>
+        <item>	Nie	</item>
+        <item>	Tak, bez względu na konsekwencje	</item>
+        <item>	156,3 MHz	</item>
+        <item>	świadectwa radiooperatora w służbie lotniczej	</item>
+        <item>	podręcznik pierwszej pomocy i zestaw sygnałów zgodny z Aneksem 12 ICAO („ground-air visual signal code for use by survivors”)	</item>
+        <item>	Właściwą stację naziemną, tak szybko jak to jest możliwe.	</item>
+        <item>	Dzienniku Urzędowym Urzędu Lotnictwa Cywilnego	</item>
+        <item>	zgłosić sytuację awaryjną	</item>
+        <item>	Z wiatrem	</item>
+        <item>	Uchwytu wyzwalającego	</item>
+        <item>	że posiada lotniczy nadajnik ratowniczy SARSAT	</item>
+        <item>	Osobie wskazanej w instrukcji operacyjnej	</item>
+        <item>	bezpośredniego zagrożenia życia załogi i pasażerów	</item>
+        <item>	Zgasić czaszę za pomocą ściągania dolnych linek	</item>
+        <item>	121,5 MHz	</item>
+        <item>	120 dni jeżeli jego instrukcja nie stanowi inaczej	</item>
+        <item>	Ważności ułożenia spadochronu	</item>
+        <item>	Najpóźniej przed startem statku powietrznego natomiast zapięcie taśm uprzęży przed zajęciem miejsca i zapięciem pasów	</item>
+        <item>	Tak – sprawdzamy kartę spadochronu, plombę, właściwe zapięcie ściągaczy, położenie zawleczek zamykających oraz uchwytu	</item>
+        <item>	Tak- szczególnie istotne informacje to minimalna wysokość skoku przy różnych prędkościach i różnych konfiguracjach lotu,maksymalne prędkości użycia i dopuszczalny ciężar pilota	</item>
+        <item>	Tak- spadochrony zawsze napełniają się zawsze na podobnym odcinku, niezależnie od prędkości. Przy większej prędkości poziomej napełnienie następuje w krótszym czasie - ma to bezpośredni związek z mniejszą utratą wysokości	</item>
+        <item>	Aneks 13	</item>
+        <item>	zielonożółty lub czerwony	</item>
+        <item>	nie można zezwolić	</item>
+        <item>	właściwą stację naziemną tak szybko, jak jest to praktycznie możliwe	</item>
+        <item>	Dowódca załogi	</item>
+        <item>	Dowódca załogi	</item>
+        <item>	że substancje te są niezbędne do działania istotnych systemów statku powietrznego	</item>
+        <item>	Prawie lotniczym	</item>
+        <item>	przewoźniku	</item>
+        <item>	grzywny	</item>
+        <item>	Organom Policji lub Straży Granicznej	</item>
+        <item>	dowódcy statku powietrznego	</item>
+        <item>	niezwłocznie zneutralizowane i usunięte	</item>
+        <item>	Ugaszenie pożaru	</item>
+        <item>	Ratowanie życia załogi i pasażerów	</item>
+        <item>	samolot nie będzie certyfikowany i wyposażony do zwalczenia takich warunków	</item>
+        <item>	palenie tytoniu nie jest dozwolone	</item>
+        <item>	Horyzont	</item>
+        <item>	Pisemne sprawozdanie o zdarzeniu w ciągu 10 dni	</item>
+        <item>	pisemny.	</item>
+        <item>	rośnie z wysokością lotu	</item>
+        <item>	przed płaszczyzną obrotu śmigła	</item>
+        <item>	Akrobacyjnych	</item>
+        <item>	500 kHz	</item>
+        <item>	jest pierwszą czynnością w celu opuszczenia pokładu	</item>
+        <item>	pilot nie może przyjmować środków psychotropowych	</item>
+        <item>	"kilkakrotne włączenie i wyłączenie świateł lądowania lub nawigacyjnych"	</item>
+        <item>	kilkakrotne przechylenie samolotu na boki	</item>
+        <item>	około 3-7 m/s	</item>
+        <item>	gaśnicą śniegową lub BCE	</item>
+        <item>	nie wpłyną ujemnie na bezpieczeństwo startu i odlotu	</item>
+        <item>	MAYDAY RELAY	</item>
+        <item>	Aneksie 12 ICAO	</item>
+        <item>	sobie	</item>
+        <item>	przy drugim zestawie urządzeń sterowych statku powietrznego	</item>
+        <item>	Złoży go jeden członek załogi.	</item>
+        <item>	Napisem SAR	</item>
+        <item>	okrążyć statek morski co najmniej raz i przeciąć przedłużenie jego linii drogi na możliwie małej wysokości	</item>
+        <item>	żądanie pomocy medycznej	</item>
+        <item>	nie są dozwolone	</item>
+        <item>	Instrukcji Operacyjnej	</item>
+        <item>	nie	</item>
+        <item>	dowódca statku powietrznego jest przekonany, że zapis powinien być zachowany jako materiał do dochodzenia w razie zdarzenia lub wypadku	</item>
+        <item>	dowódca statku powietrznego	</item>
+        <item>	pokładowym dzienniku technicznym statku powietrznego.	</item>
+        <item>	że jest niezbędne dla ratowania zdrowia lub życia	</item>
+        <item>	72 godziny	</item>
+        <item>	Można naruszyć przepisy lotnicze	</item>
+        <item>	110 V / 400 Hz	</item>
+        <item>	Kiedy należy zapewnić bezpieczeństwo lotu oraz bezpieczeństwo i porządek na pokładzie statku powietrznego..	</item>
+        <item>	powiadomić o tym fakcie służby ruchu lotniczego	</item>
+        <item>	Zameldować do najbliższego organu ruchu lotniczego lub stanowiska kierowania lotami o miejscu opuszczenia	</item>
+        <item>	dowódca statku powietrznego	</item>
+        <item>	nie informuje o podejrzeniu za pośrednictwem łączności radiowej	</item>
+        <item>	Udzielić poszkodowanym lub znajdującym się w niebezpieczeństwie pomocy w zakresie, w jakim może to uczynić bez narażania na niebezpieczeństwo powierzonego mu statku powietrznego, pasażerów, załogi.	</item>
+        <item>	nadać wywołanie w niebezpieczeństwie wszystkimi dostępnymi środkami	</item>
+        <item>	niezwłocznie wyłączyć ELT i powiadomić o tym fakcie właściwe RCC lub służbę informacji lotniczej	</item>
+        <item>	60 dni lub do czasu otrzymania innych poleceń od władzy prowadzącej dochodzenie	</item>
+        <item>	podczas startu i lądowania oraz zawsze, kiedy dowódca uzna to za konieczne	</item>
+        <item>	Dowódca załogi	</item>
+        <item>	dowódca statku powietrznego	</item>
+        <item>	dowódca statku powietrznego	</item>
+        <item>	Dowódca załogi	</item>
+        <item>	przewoźnik lub dysponent statku powietrznego	</item>
+        <item>	wodą z mydłem lub detergentem	</item>
+        <item>	Do startu i lądowania oraz w sytuacjach, kiedy dowódca statku powietrznego uzna to za konieczne.	</item>
+        <item>	tak, by były łatwo dostępne dla wszystkich członków załogi i pasażerów	</item>
+        <item>	Zabroniony	</item>
+        <item>	podjęcia działań, zapewniających zabezpieczenie życia osób i mienia w rejonie zrzutu	</item>
+    </string-array>
+
+</resources>

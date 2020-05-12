@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lacznosc_questions">
+        <item>	Kolejność czynności podczas nadawania korespondencji to:	</item>
+        <item>	Pilot zmienia ustawienie częstotliwości radiostacji gdy:	</item>
+        <item>	Gdy na pierwsze wywołanie stacji naziemnej przez pilota nie ma odpowiedzi od tej stacji to należy:	</item>
+        <item>	Literę “O” wymawia się jako:	</item>
+        <item>	Literę „F” wymawia się jako:	</item>
+        <item>	Literę „R” wymawia się jako:	</item>
+        <item>	Literowanie  stosuje się wyłącznie gdy:	</item>
+        <item>	Łączność radiotelefoniczna w lotnictwie służy do:	</item>
+        <item>	Mówiąc do mikrofonu należy:	</item>
+        <item>	Procedura sprawdzenia łączności polega na:	</item>
+        <item>	Przed rozpoczęciem każdego nadawania należy:	</item>
+        <item>	Przerwanie innej korespondencji jest dozwolone jedynie gdy:	</item>
+        <item>	System pracy sieci radiotelefonicznej w lotnictwie to:	</item>
+        <item>	Transmisje niedozwolone to:	</item>
+        <item>	Treść korespondencji od stacji naziemnej zawierająca zezwolenia, instrukcje, parametry lotu i inne ważne informacje winna być:	</item>
+        <item>	Wywołanie w niebezpieczeństwie powinno zawierać co najmniej:	</item>
+        <item>	Znak wywoławczy SP-AHN można skrócić do:	</item>
+        <item>	Nadawanie „ na ślepo” to:	</item>
+        <item>	Znak wywoławczy „Gdańsk Zbliżanie” oznacza:	</item>
+    </string-array>
+</resources>

@@ -1,0 +1,2057 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prawo_answers">
+        <item>	Do startu i lądowania oraz w sytuacjach kiedy dowódca statku powietrznego uzna to za konieczne.	</item>
+        <item>	Stan techniczny statku powietrznego wykonując przegląd przedstartowy	</item>
+        <item>	Jeżeli czas pozwala zameldować do najbliższego organu ruchu lotniczego lub stanowiska kierowania lotami o miejscu opuszczenia	</item>
+        <item>	Kiedy należy zapewnić bezpieczeństwo lotu oraz bezpieczeństwo i porządek na pokładzie statku powietrznego.	</item>
+        <item>	Napisem SAR	</item>
+        <item>	Tak, ale pod warunkiem wykonywania lotu na wysokości określonej przez państwowy organ zarządzania ruchem lotniczym	</item>
+        <item>	Właściwą stację naziemną, tak szybko jak to jest możliwe.	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	serię błysków czerwonych	</item>
+        <item>	Wszystkie odpowiedzi są poprawne	</item>
+        <item>	Gdy dowódca wie, że ktoś inny udziela pomocy w podobnych lub lepszych warunkach, niż on sam mógłby udzielić	</item>
+        <item>	Gdy dowódca wie, że ktoś inny udziela pomocy w podobnych lub lepszych warunkach, niż on sam mógłby udzielić	</item>
+        <item>	Minister właściwy do spraw transportu w porozumieniu z Ministrem Obrony Narodowej ministrami właściwymi do spraw wewnętrznych oraz środowiska	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	W celu zapobiegania kolizjom podczas lotu statków powietrznych z innymi  statkami powietrznymi oraz utrzymywania uporządkowanego przepływu ruchu lotniczego	</item>
+        <item>	W celu udzielania wskazówek i informacji użytecznych dla bezpiecznego i sprawnego wykonywania lotów	</item>
+        <item>	300 m	</item>
+        <item>	strefa identyfikacji obrony powietrznej	</item>
+        <item>	Ośrodek Zarządzania Przestrzenią Powietrzną	</item>
+        <item>	Punkt odniesienia lotniska	</item>
+        <item>	zarządzanie ruchem lotniczym	</item>
+        <item>	strefa ruchu lotniskowego	</item>
+        <item>	plan użytkowania przestrzeni powietrznej	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	rejon lotów po obu stronach granicy państwa będący rejonem czasowo wydzielonym, ustanowionym ze względu na szczególne wymogi operacyjne	</item>
+        <item>	obszar kontrolowany	</item>
+        <item>	strefa kontrolowana lotniska	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Instrukcji wykonawczych organów służb ruchu lotniczego	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Nie ma takiej możliwości	</item>
+        <item>	Tak, ale tylko w zakresie, w jakim może to uczynić  bez narażenia na niebezpieczeństwo powierzonego mu statku powietrznego, pasażerów, załogi lub innych osób	</item>
+        <item>	Tak, ale tylko w zakresie, w jakim może to uczynić  bez narażenia na niebezpieczeństwo powierzonego mu statku powietrznego, pasażerów, załogi lub innych osób	</item>
+        <item>	Tak, ale tylko w zakresie, w jakim może to uczynić  bez narażenia na niebezpieczeństwo powierzonego mu statku powietrznego, pasażerów, załogi lub innych osób	</item>
+        <item>	Tak, ale tylko w zakresie, w jakim może to uczynić  bez narażenia na niebezpieczeństwo powierzonego mu statku powietrznego, pasażerów, załogi lub innych osób	</item>
+        <item>	Tak	</item>
+        <item>	Tak	</item>
+        <item>	Tak jeżeli wynika to z umowy międzynarodowej	</item>
+        <item>	Jeżeli wymagania stawiane przy jej wydaniu nie były łagodniejsze od stawianych w Rzeczypospolitej Polskiej.	</item>
+        <item>	Tak, zawsze	</item>
+        <item>	Tak	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Tak	</item>
+        <item>	Tak, ale bez narażania na niebezpieczeństwo osób będących na pokładzie tego statku powietrznego	</item>
+        <item>	Tak, ale bez narażania na niebezpieczeństwo osób będących na pokładzie tego statku powietrznego	</item>
+        <item>	Nie jest to niemożliwe	</item>
+        <item>	Jest świadectwem stwierdzającym posiadanie określonych kwalifikacji oraz dowodem upoważnienia do wykonywania określonych czynności lotniczych	</item>
+        <item>	Przynależnością państwową statku powietrznego oraz poddaniem go nadzorowi organów lotniczych państwa przynależności	</item>
+        <item>	Do natychmiastowego poddania się badaniom lotniczo-lekarskim	</item>
+        <item>	Do Naczelnego Lekarza, a w szczególnych przypadkach do Prezesa ULC	</item>
+        <item>	Do Naczelnego Lekarza, a w szczególnych przypadkach do Prezesa ULC	</item>
+        <item>	ciągły sygnał zielony	</item>
+        <item>	lotnisko nie jest bezpieczne, nie lądować	</item>
+        <item>	zezwala się lądować	</item>
+        <item>	200m	</item>
+        <item>	na powierzchni terenu	</item>
+        <item>	nie niżej niż 200m AGL	</item>
+        <item>	wzniesienie nad średni poziom morza najwyższego punktu terenowego na polu wzlotów	</item>
+        <item>	Na konferencji chicagowskiej	</item>
+        <item>	Licencję wydaną przez Prezesa ULC lub licencja wydana przez właściwy organ obcego państwa i uznana przez Prezesa ULC	</item>
+        <item>	Ma charakter okresowy	</item>
+        <item>	W ruchu lotniczym kontrolowanym i niekontrolowanym - czas UTC.	</item>
+        <item>	Status wyspecjalizowanej organizacji Organizacji Narodów Zjednoczonej	</item>
+        <item>	Powołuje komisję w skład której wchodzą lekarze specjaliści w szczególności z zakresu medycyny lotniczej	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Służba alarmowa i służba informacji powietrznej	</item>
+        <item>	Cywilne statki powietrzne wpisane do polskiego lub obcego rejestru cywilnych statków powietrznych,	</item>
+        <item>	Cywilne statki powietrzne mające wymagane znaki rozpoznawcze,	</item>
+        <item>	Posiadającą zdolność do lotów potwierdzoną odpowiednimi dokumentami,	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Prawu polskiemu , chyba że to prawo stanowi inaczej	</item>
+        <item>	Prawu polskiemu chyba, że prawo to stanowi inaczej	</item>
+        <item>	poza granicą strefy kontrolowanej lub rejonu kontrolowanego tego lotniska (CTR lub TMA)	</item>
+        <item>	poza granicą strefy ruchu lotniskowego tego lotniska (ATZ)	</item>
+        <item>	poza granicą strefy ruchu lotniskowego tego lotniska (MATZ)	</item>
+        <item>	Członek personelu lotniczego musi posiadać zapasowe okulary korekcyjne	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	W okresie jego ważności, jednak nie wcześniej niż 3 miesiące przed jego upływem	</item>
+        <item>	W okresie jego ważności, jednak nie wcześniej niż 3 miesiące przed jego upływem	</item>
+        <item>	W okresie jego ważności, jednak nie wcześniej niż 12 miesięcy przed jego upływem	</item>
+        <item>	Na wniosek złożony do Prezesa ULC	</item>
+        <item>	Kiedy zostały spełnione warunki przywrócenia licencji, określone w decyzji o zawieszeniu licencji	</item>
+        <item>	Gdy dowódca wie, że ktoś inny udziela pomocy w podobnych lub lepszych warunkach, niż on sam mógłby udzielić	</item>
+        <item>	Gdy dowódca wie, że ktoś inny udziela pomocy w podobnych lub lepszych warunkach, niż on sam mógłby udzielić	</item>
+        <item>	W trakcie badań lotniczo-lekarskich	</item>
+        <item>	W trakcie badań lotniczo-lekarskich	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Osobie która korzysta z pełni praw publicznych	</item>
+        <item>	Osobie która ma pełną zdolność do czynności prawnych	</item>
+        <item>	Osobie która nie była skazana prawomocnym wyrokiem za popełnienie przestępstwa	</item>
+        <item>	Osobie która spełnia wymogi w zakresie wieku i wykształcenia	</item>
+        <item>	Osobie która odpowiada wymaganiom w zakresie sprawności psychicznej i fizycznej, potwierdzonym orzeczeniem o braku przeciwwskazań do wykonywania funkcji członka personelu lotniczego	</item>
+        <item>	Osobie która spełnia wymagania i warunki dotyczące ukończenia szkolenia lotniczego, praktyki lotniczej oraz posiadania wiedzy i  umiejętności, potwierdzone zdaniem egzaminu państwowego	</item>
+        <item>	Żadna z odpowiedzi nie jest prawidłowa	</item>
+        <item>	Żadna z odpowiedzi nie jest prawidłowa	</item>
+        <item>	przestępstw i niektórych innych czynów dokonywanych na pokładzie statków powietrznych	</item>
+        <item>	Komisja Egzaminacyjna	</item>
+        <item>	Komisja Egzaminacyjna	</item>
+        <item>	Komisja Egzaminacyjna	</item>
+        <item>	Lotnicza Komisja Egzaminacyjna	</item>
+        <item>	Lotnicza Komisja Egzaminacyjna	</item>
+        <item>	Lotnicza Komisja Egzaminacyjna	</item>
+        <item>	Lotnicza Komisja Egzaminacyjna	</item>
+        <item>	Jest to osoba posiadająca ważną licencję lub świadectwo kwalifikacji wpisana do państwowego rejestru personelu lotniczego lub innego odpowiedniego rejestru prowadzonego zgodnie z odrębnymi przepisami	</item>
+        <item>	Jest to osoba posiadająca ważne świadectwo kwalifikacji i jest wpisana do właściwego rejestru prowadzonego zgodnie z odrębnymi przepisami	</item>
+        <item>	Organy Policji i Straży Granicznej	</item>
+        <item>	Organy Policji i Straży Granicznej	</item>
+        <item>	Organy Policji i Straży Granicznej	</item>
+        <item>	Wszystkie odpowiedzi są poprawne	</item>
+        <item>	Członkowie personelu lotniczego	</item>
+        <item>	Osoby uczestniczące w szkoleniu lotniczym prowadzonym zgodnie z przepisami wykonawczymi	</item>
+        <item>	Minister właściwy do spraw transportu w porozumieniu z Ministrem Obrony Narodowej ministrami właściwymi do spraw wewnętrznych oraz środowiska	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Centra medycyny lotniczej	</item>
+        <item>	Lekarze orzecznicy	</item>
+        <item>	Są to osoby wyznaczone przez użytkownika statku powietrznego do wykonania określonych czynności na statku powietrznym w czasie lotu	</item>
+        <item>	Komisja lekarska centrum medycyny lotniczej złożona z lekarzy orzeczników oraz specjalistów z zakresu medycyny transportu lub medycyny lotniczej	</item>
+        <item>	Prezes ULC	</item>
+        <item>	przy zmniejszeniu widzialności w locie do 1500 m – z prędkościami, przy których będzie wystarczająco zapewniona możliwość zauważenia we właściwym czasie innego ruchu lub jakichkolwiek przeszkód, aby uniknąć kolizji	</item>
+        <item>	z dala od chmur i z widocznością powierzchni ziemi	</item>
+        <item>	300 m	</item>
+        <item>	1500 m	</item>
+        <item>	5 km	</item>
+        <item>	300 m	</item>
+        <item>	1500 m	</item>
+        <item>	5 km	</item>
+        <item>	FL 100	</item>
+        <item>	dozwolone tylko wtedy, gdy strefa jest nieaktywna i po uzyskaniu zezwolenia właściwego organu wojskowych służb ruchu lotniczego,	</item>
+        <item>	dozwolone tylko wtedy, gdy lot nie narusza obowiązujących w tej strefie ograniczeń lub uzyska się zezwolenie od właściwego organu służby ruchu lotniczego	</item>
+        <item>	zabronione	</item>
+        <item>	wojskowa strefa ruchu lotniskowego	</item>
+        <item>	stała trasa lotnictwa wojskowego	</item>
+        <item>	Na optymalizacji natężenia ruchu lotniczego	</item>
+        <item>	Żadna z odpowiedzi nie jest prawidłowa	</item>
+        <item>	Na przydziale odpowiednich elementów przestrzeni powietrznej poszczególnym jej użytkownikom	</item>
+        <item>	Żadna z odpowiedzi nie jest prawidłowa	</item>
+        <item>	Na okres 5 lat	</item>
+        <item>	Na równych prawach dla jej wszystkich użytkowników	</item>
+        <item>	Od wyniku okresowego sprawdzenia sprawności psychicznej i fizycznej członka personelu lotniczego stwierdzonej w badaniach lotniczo- lekarskich	</item>
+        <item>	Od utrzymania w okresie ważności licencji wiadomości i umiejętności nie mniejszych niż wymagane do uzyskania	</item>
+        <item>	60 miesięcy	</item>
+        <item>	24 miesiące	</item>
+        <item>	24 miesiące	</item>
+        <item>	Niezwłocznie przekazać ją Prezesowi ULC za pokwitowaniem, chyba że licencja została już uprzednio zatrzymana	</item>
+        <item>	Niezwłocznie przekazać ją Prezesowi ULC za pokwitowaniem, chyba że licencja została już uprzednio zatrzymana	</item>
+        <item>	pola ruchu naziemnego lotniska	</item>
+        <item>	serię błysków zielonych	</item>
+        <item>	Przestrzeń kontrolowaną i przestrzeń niekontrolowaną	</item>
+        <item>	przestrzeń powietrzna o określonych wymiarach, w której zapewniona jest służba informacji powietrznej i służba alarmowa	</item>
+        <item>	1000 m	</item>
+        <item>	wydzieloną służbę ustanowioną w granicach określonego obszaru dla zapewniania danych i informacji lotniczych niezbędnych dla bezpieczeństwa, regularności i efektywności żeglugi powietrznej	</item>
+        <item>	wszystkie organy służby ruchu lotniczego w odniesieniu do statków powietrznych będących w ich kompetencji lub o których zainteresowany organ służby ruchu lotniczego został powiadomiony	</item>
+        <item>	należy wracać do lądowania	</item>
+        <item>	Wszystkie  odpowiedzi są prawidłowe	</item>
+        <item>	trasa lotnicza umożliwiająca przeloty pomiędzy TSA i lub TRA	</item>
+        <item>	rejon kontrolowany lotniska	</item>
+        <item>	strefa czasowo rezerwowana	</item>
+        <item>	strefa czasowo wydzielona	</item>
+        <item>	Oba stwierdzenia są prawdziwe	</item>
+        <item>	przestrzeń powietrzna klasy C, G oraz przestrzeń powietrzna niesklasyfikowana	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	W formie decyzji administracyjnej	</item>
+        <item>	W celu zawiadamiania organów systemu poszukiwania i ratownictwa o statkach powietrznych potrzebujących pomocy i współdziałania z tymi organami	</item>
+        <item>	W celu udzielania wskazówek i informacji użytecznych dla bezpiecznego i sprawnego wykonywania lotów	</item>
+        <item>	W celu zapobiegania zderzeniom statków powietrznych podczas lotu,	</item>
+        <item>	Zapewnienie bezpiecznego i prawidłowego rozwoju międzynarodowego lotnictwa cywilnego na całym świecie	</item>
+        <item>	W celu zbierania i publikowania informacji lub danych lotniczych mających zasadnicze znaczenie dla bezpieczeństwa i regularności żeglugi powietrznej	</item>
+        <item>	W celu zapewnienia załogom statków powietrznych niezbędnych danych meteorologicznych	</item>
+        <item>	W celu zapewnienia organom służb ruchu lotniczego, organom systemu poszukiwania i ratownictwa oraz innym organom prowadzącym lub obsługującym żeglugę powietrzną niezbędnych danych meteorologicznych	</item>
+        <item>	Żadna z odpowiedzi nie jest prawidłowa	</item>
+        <item>	W celu zapewnienia pomocy statkom powietrznym w niebezpieczeństwie oraz uczestnikom wypadku lotniczego	</item>
+        <item>	Żadna z odpowiedzi nie jest prawidłowa	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	W terminie 14 dni od dnia otrzymania orzeczenia	</item>
+        <item>	W terminie 14 dni od dnia otrzymania orzeczenia	</item>
+        <item>	Przed upływem 2 lat	</item>
+        <item>	jest niższy niż minimalny określony dla danego rodzaju statku powietrznego na danym lotnisku	</item>
+        <item>	jest mniejsza niż minimalna określona dla danego rodzaju statku powietrznego na danym lotnisku	</item>
+        <item>	serię błysków białych	</item>
+        <item>	ciągły sygnał czerwony	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Zastosować wszelkie niezbędne środki w celu ratowania pasażerów i załogi	</item>
+        <item>	Od dnia upływu poprzedniego okresu ważności przedłużanych uprawnień lotniczych	</item>
+        <item>	Po odbyciu szkolenia wznawiającego w zakresie określonym w programie szkolenia	</item>
+        <item>	Po złożeniu egzaminu przed Lotniczą Komisją Egzaminacyjną	</item>
+        <item>	Od dnia upływu poprzedniego okresu ważności wznawianych uprawnień lotniczych	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Niezwłocznego zwrotu licencji Prezesowi ULC w celu dokonania wpisu o zawieszeniu uprawnienia lotniczego	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Drogi lotnicze i rejony kontrolowane lotnisk (węzłów lotnisk)	</item>
+        <item>	Zgodnie z przepisami międzynarodowymi	</item>
+        <item>	Zgodnie z przepisami obowiązującymi w granicach danego terytorium	</item>
+        <item>	Według prawa państwa przynależności danego statku powietrznego	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	1000 m AGL	</item>
+        <item>	500 m	</item>
+        <item>	1000 m AGL	</item>
+        <item>	poziomu terenu danego miasta	</item>
+        <item>	1500 m AGL	</item>
+        <item>	FL 70	</item>
+        <item>	Najbliższy organ Policji lub administracji publicznej	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	pogorszenia się sprawności psychicznej lub fizycznej, w takim stopniu, że może mieć to wpływ na jego zdolność do bezpiecznego wykonywania czynności lotniczych	</item>
+        <item>	Tak	</item>
+        <item>	Tak.	</item>
+        <item>	Tak	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Kiedy upłynął okres zawieszenia licencji	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Gdy statek powietrzny przekroczył granicę państwową bez wymaganego zezwolenia lub niezgodnie z warunkami zezwolenia	</item>
+        <item>	Gdy statek powietrzny wykonuje lot wbrew zakazom ustalonym w danej przestrzeni powietrznej	</item>
+        <item>	Gdy istnieją uzasadnione obawy, aby sądzić, że statek powietrzny jest użyty do działań sprzecznych z prawem	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Osoba która bezprawnie używa statku powietrznego i solidarnie osoba wpisana do rejestru statków powietrznych jako użytkownik chyba że udowodni że w danym czasie osobą eksploatującą była inna osoba lub że użycie statku  powietrznego nastąpiło bez jej winy	</item>
+        <item>	Osoba która bezprawnie używa statku powietrznego i solidarnie osoba która przekazała prawo używania statku powietrznego jeżeli zachowała prawo decydowania w sprawach wykonywania lotu, chyba  że użycie statku  powietrznego nastąpiło bez jej winy	</item>
+        <item>	Prezes ULC	</item>
+        <item>	Prezes ULC	</item>
+        <item>	W drodze rozporządzenia wprowadzić częściowy lub całkowity zakaz lotów dla statków powietrznych niespełniających wymogów ochrony środowiska w zakresie ochrony przed hałasem	</item>
+        <item>	Na czas dłuższy niż 3 miesiące	</item>
+        <item>	Wszystkie odpowiedzi są poprawne	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Żadna z odpowiedzi nie jest poprawna	</item>
+        <item>	Służby bezpieczeństwa i porządku publicznego, mogące udzielić pomocy	</item>
+        <item>	Jednostki ochrony przeciwpożarowej, mogące udzielić pomocy	</item>
+        <item>	Najbliższy organ Policji lub administracji publicznej	</item>
+        <item>	Służby bezpieczeństwa i porządku publicznego, mogące udzielić pomocy	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Najbliższy organ Policji lub administracji publicznej	</item>
+        <item>	Służby bezpieczeństwa i porządku publicznego, mogące udzielić pomocy	</item>
+        <item>	Jednostki ochrony przeciwpożarowej, mogące udzielić pomocy	</item>
+        <item>	Przy Ministrze właściwym do spraw transportu,	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Prezes ULC zawiesza ważność uprawnienia przez dokonanie odpowiedniego wpisu do licencji	</item>
+        <item>	W protokole sprawdzenia wiadomości i umiejętności lotniczych wskazuje się zakres dodatkowego szkolenia niezbędnego do przywrócenia uprawnienia	</item>
+        <item>	Prezes ULC zawiesza ważność uprawnienia przez dokonanie odpowiedniego wpisu do licencji	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Nie, jeżeli przelot statku powietrznego odbywał się zgodnie z przepisami	</item>
+        <item>	Tak, ale tylko po okazaniu legitymacji służbowej,	</item>
+        <item>	lokalny ruch zasadniczy	</item>
+        <item>	Międzynarodowe loty niehandlowe polskich cywilnych statków powietrznych	</item>
+        <item>	8 km	</item>
+        <item>	4 NM	</item>
+        <item>	2000	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	nie ma obowiązku zapewniania separacji między statkami powietrznymi	</item>
+        <item>	nie mniejsza niż 1500m	</item>
+        <item>	150 m AGL	</item>
+        <item>	plan lotu złożony z powietrza	</item>
+        <item>	CPL - Current flight plan	</item>
+        <item>	Jest to lotnisko użytku publicznego, wykorzystywane do lotów handlowych	</item>
+        <item>	Wykonywanie lotów statkami powietrznymi innymi niż zarobkowy przewóz lotniczy	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Tak	</item>
+        <item>	Tak	</item>
+        <item>	Tak	</item>
+        <item>	Tak	</item>
+        <item>	Tak, jeżeli pobiera naukę, po ukończeniu której spełni to wymaganie oraz po udokumentowanym stwierdzeniu, że posiada wiedzę wystarczającą do opanowania przedmiotów szkolenia teoretycznego	</item>
+        <item>	Nie	</item>
+        <item>	Nie	</item>
+        <item>	Tak, jeżeli pobiera naukę, po ukończeniu której spełni to wymaganie oraz po udokumentowanym stwierdzeniu, że posiada wiedzę wystarczającą do opanowania przedmiotów szkolenia teoretycznego	</item>
+        <item>	Nie	</item>
+        <item>	Nie	</item>
+        <item>	Tak, pod warunkiem posiadania orzeczenia lotniczo-lekarskiego klasy I, lub rozszerzonego klasy II	</item>
+        <item>	Tak, pod warunkiem posiadania orzeczenia lotniczo-lekarskiego klasy II ze stwierdzeniem braku przeciwwskazań do wykonywania lotów IFR	</item>
+        <item>	Tak, ale tylko po okazaniu legitymacji służbowej,	</item>
+        <item>	Tak, ale tylko po okazaniu legitymacji służbowej,	</item>
+        <item>	Tak, ale tylko po okazaniu legitymacji służbowej,	</item>
+        <item>	Tak, ale tylko po okazaniu legitymacji służbowej,	</item>
+        <item>	Tak, ale tylko po okazaniu legitymacji służbowej,	</item>
+        <item>	Tak	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Nauczaniem umiejętności praktycznych – dla pilotów wszystkich specjalności	</item>
+        <item>	Nauczaniem wiedzy lotniczej – dla wszystkich specjalności członków personelu lotniczego	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	należy lądować na tym lotnisku i kołować do płyty postojowej	</item>
+        <item>	należy dać pierwszeństwo drogi innym statkom powietrznym i kontynuować okrążenie	</item>
+        <item>	przymusowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Zmienić wysokość lotu o 500 ft  (1000 ft powyżej FL 410).	</item>
+        <item>	3 minuty	</item>
+        <item>	natychmiast zmienić kurs, aby możliwie jak najprędzej wejść ponownie na tę linie drogi	</item>
+        <item>	podać niezwłocznie zainteresowanemu organowi służb ruchu lotniczego poprawiony przewidywany czas	</item>
+        <item>	zawiadomić o tym właściwy organ służb kontroli ruchu lotniczego	</item>
+        <item>	W ośrodkach szkolenia lotniczego	</item>
+        <item>	W organizacjach lotniczych niebędących ośrodkami szkolenia lotniczego, prowadzących szkolenia lotnicze niezarobkowo	</item>
+        <item>	punkt, do którego ważne jest zezwolenie organu służby kontroli ruchu lotniczego, udzielone dowódcy statku powietrznego określony przez podanie nazwy odpowiedniego punktu meldowania lub lotniska albo granicy przestrzeni powietrznej kontrolowanej	</item>
+        <item>	3 godzin lotu szkoleniowego na dwusterze w tym co najmniej 1 godziny przelotu	</item>
+        <item>	2 godziny lotu w nocy	</item>
+        <item>	5 godzin lotu w nocy	</item>
+        <item>	Co najmniej 5	</item>
+        <item>	Ukończone 17 lat	</item>
+        <item>	Ukończone 17 lat	</item>
+        <item>	Kod, którego dwie ostatnie cyfry nie są zerami.	</item>
+        <item>	informacji powietrznej	</item>
+        <item>	30 min	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	operacyjnie ważne	</item>
+        <item>	węzły	</item>
+        <item>	Dotyczące samolotów jednosilnikowych tłokowych lądowych	</item>
+        <item>	Dotyczące samolotów jednosilnikowych tłokowych wodnych	</item>
+        <item>	Dotyczące samolotów wielosilnikowych tłokowych lądowych	</item>
+        <item>	Dotyczące samolotów wielosilnikowych tłokowych wodnych	</item>
+        <item>	Dotyczące każdej klasy samolotów	</item>
+        <item>	Dotyczące motoszybowców turystycznych	</item>
+        <item>	Na każdy typ samolotu, które może być ograniczone do wykonywania czynności drugiego pilota, jeżeli uprawnienie to dotyczy samolotu z załogą wieloosobową	</item>
+        <item>	Do lotów nocnych VFR	</item>
+        <item>	Dotyczące lotów wg wskazań przyrządów	</item>
+        <item>	Jest uprawniony do wykonywania bez wynagrodzenia czynności dowódcy i drugiego pilota każdego samolotu używanego w celach niezarobkowych	</item>
+        <item>	Co najmniej gimnazjalne lub równorzędne	</item>
+        <item>	Co najmniej gimnazjalne lub równorzędne	</item>
+        <item>	Przepisom prawa cywilnego o odpowiedzialności przy posługiwaniu się mechanicznymi środkami komunikacji poruszanymi za pomocą sił przyrody	</item>
+        <item>	60 min	</item>
+        <item>	10 min	</item>
+        <item>	10 min	</item>
+        <item>	w czasie określonym od przewidywanego czasu przybycia statku powietrznego do zamierzonego punktu przecięcia drogi lotniczej	</item>
+        <item>	w czasie określonym od przewidywanego czasu przybycia statku powietrznego do zamierzonego punktu wlotu do przestrzeni kontrolowanej	</item>
+        <item>	60 min	</item>
+        <item>	60 min	</item>
+        <item>	30 min	</item>
+        <item>	wysokości bezwzględnej 800 m	</item>
+        <item>	wysokości bezwzględnej 600 m	</item>
+        <item>	wysokości bezwzględnej 1350 m	</item>
+        <item>	wysokości bezwzględnej 800 m	</item>
+        <item>	wysokości bezwzględnej 600 m	</item>
+        <item>	wysokości bezwzględnej 800 m	</item>
+        <item>	wysokości bezwzględnej 650 m	</item>
+        <item>	wysokości bezwzględnej 1350 m	</item>
+        <item>	na FL 65	</item>
+        <item>	na FL 65	</item>
+        <item>	na FL 75	</item>
+        <item>	wysokości bezwzględnej 1350 m	</item>
+        <item>	na wysokości bezwzględnej 1700 m	</item>
+        <item>	na wysokości bezwzględnej 1350 m	</item>
+        <item>	FL 85	</item>
+        <item>	Według prawa państwa, na którego obszarze zdarzenie nastąpiło	</item>
+        <item>	Według prawa państwa, na którego obszarze zdarzenie nastąpiło	</item>
+        <item>	Według prawa państwa, na którego obszarze zdarzenie nastąpiło	</item>
+        <item>	Według prawa państwa, na którego obszarze zdarzenie nastąpiło	</item>
+        <item>	Według prawa sądu, który spór rozpoznaje	</item>
+        <item>	Według prawa sądu, który spór rozpoznaje	</item>
+        <item>	Według prawa sądu, który spór rozpoznaje	</item>
+        <item>	Według prawa sądu, który spór rozpoznaje	</item>
+        <item>	Nie więcej niż 5 godzin lotu, wykonanych przez niego na urządzeniu treningowym	</item>
+        <item>	Wykonał co najmniej 45 godzin lotu na samolotach zaliczonych do klasy samolotów jednosilnikowych tłokowych	</item>
+        <item>	Wykonał co najmniej 25 godzin lotu szkoleniowego na dwusterze z instruktorem, na samolotach zaliczonych do klasy samolotów jednosilnikowych tłokowych	</item>
+        <item>	Wykonał co najmniej 25 godzin lotu szkoleniowego na dwusterze z instruktorem, na samolotach zaliczonych do klasy samolotów wielosilnikowych tłokowych	</item>
+        <item>	Wykonał co najmniej 10 godzin lotu samodzielnego, w przypadku szkolenia na samolotach zaliczonych do klasy samolotów jednosilnikowych tłokowych	</item>
+        <item>	Wykonał co najmniej 5 godzin przelotu samodzielnego	</item>
+        <item>	Wykonał przelot na odległość nie mniejszą niż 270 km, podczas którego zostały wykonane dwa lądowania z całkowitym zatrzymaniem na dwu różnych lotniskach innych niż lotnisko startu	</item>
+        <item>	60 min	</item>
+        <item>	Jeśli nowy czas EOBT różni się o więcej niż 15 minut od pierwotnego czasu EOBT	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Gdy statek powietrzny przekroczył granicę państwową bez wymaganego zezwolenia lub niezgodnie z warunkami zezwolenia	</item>
+        <item>	Gdy statek powietrzny wykonuje lot wbrew zakazom ustalonym w danej przestrzeni powietrznej	</item>
+        <item>	Gdy istnieją uzasadnione obawy, aby sądzić, że statek powietrzny jest użyty do działań sprzecznych z prawem	</item>
+        <item>	Jeżeli zostanie wykazane, że wymagania przyjęte przy wydawaniu lub potwierdzaniu tych świadectw zdatności do lotu nie były niższe niż określone zgodnie z ustawą Prawo Lotnicze	</item>
+        <item>	Jeżeli zostanie wykazane, że wymagania przyjęte przy wydawaniu lub potwierdzaniu tych zezwoleń na lot statku powietrznego bez świadectwa zdatności do lotu nie były niższe niż określone zgodnie z ustawą Prawo Lotnicze	</item>
+        <item>	Jest to właściciel lub inna osoba wpisana jako użytkownik do rejestru statków powietrznych	</item>
+        <item>	Jest to podmiot, który został wpisany jako zarządzający do rejestru lotnisk cywilnych,	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Żadna z odpowiedzi nie jest prawidłowa	</item>
+        <item>	Żadna z odpowiedzi nie jest poprawna	</item>
+        <item>	informacji lotniczej	</item>
+        <item>	Prezes ULC	</item>
+        <item>	Prezes ULC	</item>
+        <item>	Prezes ULC	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Osoba eksploatująca statek powietrzny, czyli ta która go używała w czasie spowodowania szkody	</item>
+        <item>	Osoba wpisana do rejestru statków powietrznych jako użytkownik chyba że udowodni że w danym czasie osobą eksploatującą była inna osoba	</item>
+        <item>	Osoba która przekazała prawo używania statku powietrznego jeżeli zachowała prawo decydowania w sprawach wykonywania lotu	</item>
+        <item>	Osoba używająca sama statku powietrznego lub osoby działające za nią, choćby przekroczyły  udzielone im uprawnienia	</item>
+        <item>	Osoba która bezprawnie używa statku powietrznego	</item>
+        <item>	Osoba która bezprawnie używa statku powietrznego i solidarnie osoba eksploatująca statek powietrzny, czyli ta która go używała w czasie spowodowania szkody, chyba że użycie statku  powietrznego nastąpiło bez jej winy	</item>
+        <item>	Osoba która bezprawnie używa statku powietrznego i solidarnie osoba wpisana do rejestru statków powietrznych jako użytkownik chyba że udowodni że w danym czasie osobą eksploatującą była inna osoba lub że użycie statku  powietrznego nastąpiło bez jej winy	</item>
+        <item>	Osoba która bezprawnie używa statku powietrznego i solidarnie osoba która przekazała prawo używania statku powietrznego jeżeli zachowała prawo decydowania w sprawach wykonywania lotu, chyba  że użycie statku  powietrznego nastąpiło bez jej winy	</item>
+        <item>	Rzeczpospolita Polska	</item>
+        <item>	Ośrodek szkolenia lotniczego	</item>
+        <item>	Organizacja lotnicza nie będąca ośrodkiem szkolenia, wykonująca szkolenia niezarobkowo	</item>
+        <item>	Polski państwowy organ zarządzania ruchem lotniczym zgodnie z ustawą prawo lotnicze, innymi ustawami i przepisami wykonawczymi wydanymi na ich podstawie	</item>
+        <item>	W zakresie niezwiązanym z umacnianiem obronności państwa, minister właściwy do spraw transportu	</item>
+        <item>	Centrum Kontroli Obszaru (ACC) Warszawa	</item>
+        <item>	Każdy lot, na który wymaga się zezwolenia kontroli ruchu lotniczego	</item>
+        <item>	2 km	</item>
+        <item>	150 m	</item>
+        <item>	przy zmniejszeniu widzialności w locie do 1500 m	</item>
+        <item>	300 m	</item>
+        <item>	prędkość poddźwiękowa	</item>
+        <item>	nie mniejsza niż 1500 m	</item>
+        <item>	300 km/h TAS	</item>
+        <item>	z dala od chmur i z widocznością terenu lub świateł w terenie	</item>
+        <item>	300 m	</item>
+        <item>	15 km	</item>
+        <item>	7km	</item>
+        <item>	7km	</item>
+        <item>	4 NM	</item>
+        <item>	przeszkód	</item>
+        <item>	Minimum Sector Altitude – najniższą wysokość bezwzględną jaka może być stosowana, która zapewnia minimalne przewyższenie nad przeszkodami wynoszące 300m (1000 ft) nad wszystkimi obiektami znajdującymi się na wycinku koła o promieniu 46 km (25 NM), wychodzącym od pomocy radionawigacyjnej	</item>
+        <item>	Wszystkie odpowiedzi są poprawne	</item>
+        <item>	O czas lotu wynoszący 10% czasu lotu wykonanego przez kandydata w charakterze dowódcy tego statku powietrznego, jednak nie więcej niż 10 godzin pod warunkiem prowadzenia szkolenia według programu szkolenia zatwierdzonego dla tego typu kandydatów	</item>
+        <item>	O czas lotu wynoszący 10% czasu lotu wykonanego przez kandydata w charakterze dowódcy tego statku powietrznego, jednak nie więcej niż 10 godzin pod warunkiem prowadzenia szkolenia według programu szkolenia zatwierdzonego dla tego typu kandydatów	</item>
+        <item>	O czas lotu wynoszący 10% czasu lotu wykonanego przez kandydata w charakterze dowódcy tego statku powietrznego, jednak nie więcej niż 10 godzin pod warunkiem prowadzenia szkolenia według programu szkolenia zatwierdzonego dla tego typu kandydatów	</item>
+        <item>	O nie więcej niż 10	</item>
+        <item>	O nie więcej niż 10 godzin	</item>
+        <item>	O nie więcej niż 10 godzin	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Żadna z odpowiedzi nie jest poprawna	</item>
+        <item>	12 miesięcy	</item>
+        <item>	6 miesięcy	</item>
+        <item>	Samodzielna organizacja lotnicza lub część składowa innego podmiotu	</item>
+        <item>	I	</item>
+        <item>	X	</item>
+        <item>	G	</item>
+        <item>	N	</item>
+        <item>	S	</item>
+        <item>	V	</item>
+        <item>	Y	</item>
+        <item>	Z	</item>
+        <item>	Mający uszkodzony zespół napędowy	</item>
+        <item>	nie	</item>
+        <item>	AIP -  Zbiór Informacji Lotniczych	</item>
+        <item>	wyrażenie ogólne odnoszące się do pozycji statku powietrznego w locie w płaszczyźnie pionowej i oznaczające zarówno wysokość względną, wysokość bezwzględną lub poziom lotu.	</item>
+        <item>	powierzchnia o stałym ciśnieniu odniesiona do szczególnej wartości ciśnienia 1013,2 hPa i oddzielona od innych takich powierzchni określonymi różnicami ciśnienia	</item>
+        <item>	najniższy poziom lotu jaki można wykorzystać powyżej wysokości przejściowej	</item>
+        <item>	poziom utrzymywany podczas znacznej części lotu	</item>
+        <item>	podczas lotu na najniższym dostępnym poziomie lotu lub powyżej tego poziomu albo odpowiednio powyżej wysokości bezwzględnej przejściowej	</item>
+        <item>	podczas lotu poniżej najniższego dostępnego poziomu lotu albo odpowiednio na lub poniżej wysokości bezwzględnej przejściowej	</item>
+        <item>	ciągłe światło czerwone	</item>
+        <item>	seria błysków czerwonych	</item>
+        <item>	seria błysków białych	</item>
+        <item>	seria błysków zielonych	</item>
+        <item>	ciągłe światło zielone	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	ciśnienie atmosferyczne na poziomie lotniska lub progu drogi startowej w użyciu	</item>
+        <item>	nastawienie ruchomej skali wysokościomierza tak, aby wskazywał elewację miejsca, kiedy jest na ziemi	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	nie ma obowiązku zapewniania separacji między statkami powietrznymi	</item>
+        <item>	IFR od IFR	</item>
+        <item>	VFR od IFR	</item>
+        <item>	IFR od IFR	</item>
+        <item>	IFR od IFR	</item>
+        <item>	dowódcy statków powietrznych oraz użytkownicy statków powietrznych lub ich wyznaczeni przedstawiciele	</item>
+        <item>	Awaryjne	</item>
+        <item>	należy wracać do punktu wyjściowego na lotnisku	</item>
+        <item>	należy kołować poza polem wzlotów będącym w użytku	</item>
+        <item>	zezwala się kołować	</item>
+        <item>	należy zatrzymać się	</item>
+        <item>	zezwala się startować	</item>
+        <item>	złożył plan lotu i uzyskał na jego podstawie zezwolenie organu kontroli ruchu lotniczego na wlot w przestrzeń	</item>
+        <item>	QNH	</item>
+        <item>	15 km	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	250 kt IAS	</item>
+        <item>	nie mniejsza niż 300 m	</item>
+        <item>	5 km	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	większą od zera	</item>
+        <item>	W formie rozporządzenia	</item>
+        <item>	Przed upływem 1 roku w przypadku licencji uprawniającej do  zarobkowego wykonywania czynności lotniczych	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	A	</item>
+        <item>	skręcić w prawo	</item>
+        <item>	w odległości nieokreślonej -  takiej, żeby nie zaistniało niebezpieczeństwo kolizji	</item>
+        <item>	niebezpieczne	</item>
+        <item>	7700	</item>
+        <item>	7500	</item>
+        <item>	Prezes ULC zawiesza ważność uprawnienia przez dokonanie odpowiedniego wpisu do licencji	</item>
+        <item>	W protokole sprawdzenia wiadomości i umiejętności lotniczych wskazuje się zakres dodatkowego szkolenia niezbędnego do przywrócenia uprawnienia	</item>
+        <item>	7600	</item>
+        <item>	7700	</item>
+        <item>	Do obywateli polskich i cudzoziemców	</item>
+        <item>	VFR	</item>
+        <item>	przestrzeń powietrzna zawarta między wysokością przejściową a poziomem przejściowym	</item>
+        <item>	Według prawa państwa przynależności zainteresowanych stron i statku powietrznego, bez względu na miejsce zdarzenia, chyba że strony skorzystają z możliwości wyboru innego prawa	</item>
+        <item>	Według prawa państwa przynależności statków powietrznych, bez względu na miejsce zdarzenia, chyba że strony skorzystają z możliwości wyboru innego prawa	</item>
+        <item>	Według prawa państwa przynależności statków powietrznych, bez względu na miejsce zdarzenia, chyba że strony skorzystają z możliwości wyboru innego prawa	</item>
+        <item>	7000	</item>
+        <item>	wysokość, na i poniżej której pozycja statku powietrznego w płaszczyźnie pionowej określana jest jako wysokość względna lub bezwzględna	</item>
+        <item>	wysokość, na i poniżej której pozycja statku powietrznego w płaszczyźnie pionowej określana jest jako wysokość bezwzględna	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	wysokości bezwzględnej 600 m	</item>
+    </string-array>
+
+    <string-array name="prawo_odp_b" >
+        <item>	Tylko na polecenie dowódcy załogi statku powietrznego.	</item>
+        <item>	Warunki meteorologiczne do planowanego lotu.	</item>
+        <item>	Nadać sygnał SOS i opuścić statek powietrzny	</item>
+        <item>	Kiedy z różnych powodów nie może wykonywać swoich obowiązków.	</item>
+        <item>	Napisem SOS	</item>
+        <item>	Tak, ale pod warunkiem wykonywania lotu na małej wysokości.	</item>
+        <item>	Właściwą stację naziemną, telefonicznie po lądowaniu.	</item>
+        <item>	Broni palnej i gazowej	</item>
+        <item>	Do wykonywania lotu zgodnie z przepisami	</item>
+        <item>	serię błysków białych	</item>
+        <item>	Obronność państwa	</item>
+        <item>	Tego rodzaju obowiązek nigdy nie ustaje	</item>
+        <item>	Tego rodzaju obowiązek nigdy nie ustaje	</item>
+        <item>	Prezes ULC	</item>
+        <item>	Ochrony ludności	</item>
+        <item>	W celu udzielania wskazówek i informacji użytecznych dla bezpiecznego i sprawnego wykonywania lotów	</item>
+        <item>	W celu zapewnienia załogom statków powietrznych niezbędnych danych meteorologicznych	</item>
+        <item>	150 m	</item>
+        <item>	trasa lotnicza umożliwiająca przeloty pomiędzy TSA i lub TRA	</item>
+        <item>	Ośrodek Zarządzania Przepływem Ruchu Lotniczego	</item>
+        <item>	Najwyższe wzniesienie lotniska	</item>
+        <item>	Ośrodek Zarządzania Przepływem Ruchu Lotniczego	</item>
+        <item>	strefa identyfikacji obrony powietrznej	</item>
+        <item>	stała trasa lotnictwa wojskowego	</item>
+        <item>	Osoby ubiegające się o wydanie licencji członka personelu lotniczego	</item>
+        <item>	trasa lotnicza umożliwiająca przeloty pomiędzy TSA i lub TRA	</item>
+        <item>	strefa identyfikacji obrony powietrznej	</item>
+        <item>	strefa identyfikacji obrony powietrznej	</item>
+        <item>	Znajduje się pod wpływem narkotyków albo innych środków odurzających	</item>
+        <item>	Instrukcji użytkowania w locie oraz odpowiednio instrukcji obsługi statków powietrznych oraz równoważnych im lub uzupełniających te instrukcję dokumentów	</item>
+        <item>	Instrukcji użytkowania w locie oraz odpowiednio instrukcji obsługi statków powietrznych oraz równoważnych im lub uzupełniających te instrukcję dokumentów	</item>
+        <item>	Mogą stosować wyłącznie środki przymusu odpowiadające potrzebom wynikającym z istniejącej sytuacji	</item>
+        <item>	Tak, ale tylko do miesiąca od utraty sprawności psychicznej i fizycznej	</item>
+        <item>	Nie, dowódca statku powietrznego nie ma takiego obowiązku	</item>
+        <item>	Nie, dowódca statku powietrznego nie ma takiego obowiązku	</item>
+        <item>	Nie, dowódca statku powietrznego nie ma takiego obowiązku	</item>
+        <item>	Nie, dowódca statku powietrznego nie ma takiego obowiązku	</item>
+        <item>	Tak ale tylko w przypadku kiedy odbywa się poza Warszawą	</item>
+        <item>	Tak ale tylko w przypadku kiedy odbywa się poza Warszawą	</item>
+        <item>	Nie ma takiej możliwości	</item>
+        <item>	Nie ma takiej możliwości	</item>
+        <item>	Nie, nie ma takiej potrzeby	</item>
+        <item>	Tak ale tylko za zgodą ministra właściwego do spraw transportu	</item>
+        <item>	Niezłwocznego wykonywania poleceń państwowego organu zarządzania ruchem lotniczym	</item>
+        <item>	Nie	</item>
+        <item>	Tak, w każdym przypadku bez względu na konsekwencje	</item>
+        <item>	Tak, w każdym przypadku bez względu na konsekwencje	</item>
+        <item>	Żadna z odpowiedzi nie jest poprawna	</item>
+        <item>	Jest to dokument określający możliwość wykonywania lotów statkiem powietrznym	</item>
+        <item>	Skutkuje nadaniem znaku rejestracyjnego,	</item>
+        <item>	Do poinformowania o tym Prezesa ULC	</item>
+        <item>	Tylko do Prezesa ULC	</item>
+        <item>	Tylko do Prezesa ULC	</item>
+        <item>	serię błysków czerwonych	</item>
+        <item>	zezwala się lądować	</item>
+        <item>	lotnisko nie jest bezpieczne, nie lądować	</item>
+        <item>	900m	</item>
+        <item>	na elewacji lotniska	</item>
+        <item>	na powierzchni terenu	</item>
+        <item>	średnie wzniesienie lotniska n.p.m.	</item>
+        <item>	Na konferencji warszawskiej	</item>
+        <item>	Licencję w której znajduje się zdjęcie jej posiadacza	</item>
+        <item>	Ma charakter stały	</item>
+        <item>	W ruchu lotniczym kontrolowanym i w niekontrolowanym czas LMT	</item>
+        <item>	Status agendy rządowej Rządu Stanów Zjednoczonych Ameryki	</item>
+        <item>	Sam rozpatruje zasadność odwołania	</item>
+        <item>	Służbę kontroli ruchu lotniczego	</item>
+        <item>	Służba kontroli ruchu lotniczego	</item>
+        <item>	Wszystkie statki  powietrzne, których właściciele lub użytkownicy udowodnią, że dany statek powietrzny w stanie oderwać się od powierzchni ziemi	</item>
+        <item>	Wszystkie statki  powietrzne, których właściciele lub użytkownicy udowodnią, że dany statek powietrzny w stanie oderwać się od powierzchni ziemi,	</item>
+        <item>	Wszystkie statki  powietrzne, których właściciele lub użytkownicy udowodnią, że dany statek powietrzny w stanie oderwać się od powierzchni ziemi,	</item>
+        <item>	Posiadać wykształcenie określone w ustawie dla danej licencji	</item>
+        <item>	Posiadać wykształcenie określone w ustawie dla danej licencji	</item>
+        <item>	Prawu państwa w którym ma nastąpić lądowanie	</item>
+        <item>	Prawu państwa w którym jest zarejestrowany dany statek powietrzny	</item>
+        <item>	w odległości  min. 2 km	</item>
+        <item>	w odległości min. 10 km	</item>
+        <item>	w odległości  min. 5 km;	</item>
+        <item>	Członek personelu lotniczego musi posiadać dodatkowe okulary przeciwsłoneczne	</item>
+        <item>	Odczuwa dolegliwość fizyczną lub psychiczną, która utrudnia mu wykonywanie tych czynności w sposób bezpieczny	</item>
+        <item>	Znajduje się pod wpływem narkotyków albo innych środków odurzających	</item>
+        <item>	Po minięciu okresu jego ważności	</item>
+        <item>	Po minięciu okresu jego ważności	</item>
+        <item>	Po minięciu okresu jego ważności	</item>
+        <item>	Na wniosek złożony do rejestru personelu lotniczego	</item>
+        <item>	Kiedy zgodę wyrazi Prezes ULC	</item>
+        <item>	Tego rodzaju obowiązek nigdy nie ustaje	</item>
+        <item>	Tego rodzaju obowiązek nigdy nie ustaje	</item>
+        <item>	W trakcie rozmowy kwalifikacyjnej przeprowadzonej w Inspektoracie Personelu Lotniczego	</item>
+        <item>	W trakcie rozmowy kwalifikacyjnej przeprowadzonej w Inspektoracie Personelu Lotniczego	</item>
+        <item>	Osobie korzystającej w pełni z praw publicznych	</item>
+        <item>	Osobie która ma pełną zdolność do czynności prawnych	</item>
+        <item>	Osobie która posiada ograniczoną zdolność do czynności prawnych	</item>
+        <item>	Osobie która ma ograniczone prawa publiczne	</item>
+        <item>	Osobie która posiada ograniczoną zdolność do czynności prawnych	</item>
+        <item>	Osobie która ma ograniczone prawa publiczne	</item>
+        <item>	Osobie która ma ograniczone prawa publiczne	</item>
+        <item>	Osobie która ma ograniczone prawa publiczne	</item>
+        <item>	Osobie która ma ograniczone prawa publiczne	</item>
+        <item>	Osobie która ma ograniczone prawa publiczne	</item>
+        <item>	ubezpieczeń lotniczych,	</item>
+        <item>	Prezes ULC	</item>
+        <item>	Prezes ULC	</item>
+        <item>	Prezes ULC	</item>
+        <item>	Prezes ULC	</item>
+        <item>	Prezes ULC	</item>
+        <item>	Prezes ULC	</item>
+        <item>	Prezes ULC	</item>
+        <item>	Jest to osoba posiadająca umiejętność wykonywania lotu statkiem powietrznym	</item>
+        <item>	Jest to osoba posiadająca umiejętność wykonywania lotu statkiem powietrznym	</item>
+        <item>	Zarządzający lotniskiem	</item>
+        <item>	Zarządzający lotniskiem	</item>
+        <item>	Zarządzający lotniskiem	</item>
+        <item>	Użytkownik statku powietrznego	</item>
+        <item>	Osoby znajdujące się na pokładzie statku powietrznego	</item>
+        <item>	Osoby znajdujące się na pokładzie statku powietrznego	</item>
+        <item>	Prezes ULC	</item>
+        <item>	Państwowy organ zarządzania ruchem lotniczym	</item>
+        <item>	Prezes ULC	</item>
+        <item>	Prezes ULC	</item>
+        <item>	Są to osoby, które posiadają odpowiednie uprawnienia	</item>
+        <item>	Naczelny Lekarz	</item>
+        <item>	Minister właściwy do spraw transportu	</item>
+        <item>	przy widzialności większej niż 5 km	</item>
+        <item>	przy widzialności większej niż 5 km	</item>
+        <item>	100 m	</item>
+        <item>	2 km	</item>
+        <item>	1500 m	</item>
+        <item>	100 m	</item>
+        <item>	2 km	</item>
+        <item>	1500 m	</item>
+        <item>	wysokości bezwzględnej 1500 m	</item>
+        <item>	zabronione	</item>
+        <item>	zabronione	</item>
+        <item>	dozwolone tylko wtedy, gdy strefa jest nieaktywna i po uzyskaniu zezwolenia właściwego organu     wojskowych służb ruchu lotniczego,	</item>
+        <item>	strefa identyfikacji obrony powietrznej	</item>
+        <item>	trasa lotnicza umożliwiająca przeloty pomiędzy TSA i lub TRA	</item>
+        <item>	Na przydziale odpowiednich elementów przestrzeni powietrznej poszczególnym jej użytkownikom	</item>
+        <item>	Na przydziale odpowiednich elementów przestrzeni powietrznej poszczególnym jej użytkownikom	</item>
+        <item>	Na optymalizacji natężenia ruchu lotniczego	</item>
+        <item>	Na optymalizacji natężenia ruchu lotniczego	</item>
+        <item>	Na okres 2 lat	</item>
+        <item>	Na równych prawach ale tylko dla polskich użytkowników	</item>
+        <item>	Od opłacenia sładek członkowskich w organizacji lotniczej do której się należy	</item>
+        <item>	Od opłacenia sładek członkowskich w organizacji lotniczej do której się należy	</item>
+        <item>	12 miesięcy	</item>
+        <item>	12 miesięcy	</item>
+        <item>	12 miesięcy	</item>
+        <item>	Nie ma żadnego obowiązku	</item>
+        <item>	Nie ma żadnego obowiązku	</item>
+        <item>	pola manewrowego lotniska	</item>
+        <item>	serię błysków czerwony	</item>
+        <item>	Przestrzeń wojskową i przestrzeń cywilną	</item>
+        <item>	przestrzeń powietrzna o określonych wymiarach, w której zapewniona jest służba informacji lotniczej i służba alarmowa	</item>
+        <item>	500 m	</item>
+        <item>	organ służby kontroli ruchu lotniczego w odniesieniu do wszystkich statków powietrznych	</item>
+        <item>	organ służby kontroli ruchu lotniczego w odniesieniu do wszystkich statków powietrznych	</item>
+        <item>	zezwala się lądować	</item>
+        <item>	Na podstawie wyraźnego upoważnienia Prawa lotniczego przy zachowaniu przepisów innych ustaw	</item>
+        <item>	stała trasa lotnictwa wojskowego	</item>
+        <item>	strefa identyfikacji obrony powietrznej	</item>
+        <item>	strefa czasowo wydzielona	</item>
+        <item>	strefa czasowo rezerwowana	</item>
+        <item>	Zobowiązania, w razie konieczności innych członków załogi do wykonywania czynności nienależących do ich normalnego zakresu	</item>
+        <item>	przestrzeń powietrzna klasy A, B, C, E, G.	</item>
+        <item>	Przez zapewnienie odpowiednio do charakteru , natężenia i warunków ruchu lotniczego służby alarmowej, służby kontroli ruchu lotniczego i służby informacji powietrznej	</item>
+        <item>	Po upływie terminu 5 lat od dnia jej wydania	</item>
+        <item>	W razie zmiany danych osobowych wpisywanych do licencji	</item>
+        <item>	Po wznowieniu ważności uprawnienia lotniczego	</item>
+        <item>	W formie zarządzenia	</item>
+        <item>	W celu zapobiegania zderzeniom statków powietrznych podczas lotu	</item>
+        <item>	W celu usprawnienia i utrzymywania uporządkowanego przepływu ruchu lotniczego	</item>
+        <item>	W celu udzielania wskazówek i informacji użytecznych dla bezpiecznego i sprawnego wykonywania lotów	</item>
+        <item>	W celu porozumienia się przewoźników lotniczych na świecie	</item>
+        <item>	W celu zapewnienia załogom statków powietrznych niezbędnych danych meteorologicznych	</item>
+        <item>	W celu zbierania i publikowania informacji lub danych lotniczych mających zasadnicze znaczenie dla bezpieczeństwa i regularności żeglugi powietrznej	</item>
+        <item>	W celu zbierania i publikowania informacji lub danych lotniczych mających zasadnicze znaczenie dla bezpieczeństwa i regularności żeglugi powietrznej	</item>
+        <item>	W celu zapewnienia pomocy statkom powietrznym w niebezpieczeństwie	</item>
+        <item>	W celu zbierania i publikowania informacji lub danych lotniczych mających zasadnicze znaczenie dla bezpieczeństwa i regularności żeglugi powietrznej	</item>
+        <item>	W celu zbierania i publikowania informacji lub danych lotniczych mających zasadnicze znaczenie dla bezpieczeństwa i regularności żeglugi powietrznej	</item>
+        <item>	W przypadku stwierdzenia że członek personelu lotniczego utracił kwalifikacje do wykonywania określonych czynności lotniczych	</item>
+        <item>	W przypadku stwierdzenia że członek personelu lotniczego utracił kwalifikacje do wykonywania określonych czynności lotniczych	</item>
+        <item>	W przypadku stwierdzenia że członek personelu lotniczego nie spełnia wymagań w zakresie wieku	</item>
+        <item>	W przypadku stwierdzenia że członek personelu lotniczego nie odpowiada wymaganiom w zakresie sprawności psychicznej i fizycznej potwierdzonym orzeczeniem o braku przeciwwskazań do wykonywania funkcji członka personelu lotniczego	</item>
+        <item>	W przypadku stwierdzenia że członek personelu lotniczego utracił kwalifikacje do wykonywania określonych czynności lotniczych	</item>
+        <item>	W przypadku stwierdzenia że członek personelu lotniczego wykonując czynności lotnicze, do których uprawnia go licencja, zagraża bezpieczeństwu ruchu lotniczego	</item>
+        <item>	W terminie 7 dni od dnia otrzymania orzeczenia	</item>
+        <item>	W terminie 7 dni od dnia otrzymania orzeczenia	</item>
+        <item>	Przed upływem 3 lat	</item>
+        <item>	jest poniżej 150 m	</item>
+        <item>	jest mniejsza niż minimalna określona dla danego lotniska, lecz nie mniejsza niż 1500 m	</item>
+        <item>	serię błysków czerwonych	</item>
+        <item>	serię błysków czerwonych	</item>
+        <item>	Państwowy organ zarządzania ruchem lotniczym	</item>
+        <item>	Zastosować wszelkie niezbędne środki w celu ratowania statku powietrznego	</item>
+        <item>	Od dnia kiedy nastąpiło sprawdzenie wiadomości i umiejętności w celu przedłużenia ważności uprawnień lotniczych, nawet jeżeli odbywało się ono w momencie kiedy te uprawnienia były ważne	</item>
+        <item>	Po wyrażeniu zgody przez Prezesa ULC	</item>
+        <item>	Po wyrażeniu zgody przez Prezesa ULC	</item>
+        <item>	Od dnia kiedy nastąpiło sprawdzenie wiadomości i umiejętności w celu wznowienia ważności uprawnień lotniczych, nawet jeżeli odbywało się ono w momencie kiedy te uprawnienia były ważne	</item>
+        <item>	W przypadku stwierdzenia że członek personelu lotniczego utracił kwalifikacje do wykonywania określonych czynności lotniczych	</item>
+        <item>	W przypadku stwierdzenia że członek personelu lotniczego utracił kwalifikacje do wykonywania określonych czynności lotniczych	</item>
+        <item>	Nie ma żadnego obowiązku	</item>
+        <item>	Wykonuje w imieniu właściciela statku powietrznego wszelkie czynności , jakie uzna za konieczne dla zabezpieczenia jego interesów	</item>
+        <item>	Wykonuje w imieniu właściciela statku powietrznego wszelkie czynności , jakie uzna za konieczne dla zabezpieczenia jego interesów	</item>
+        <item>	Drogi lotnicze, rejony kontrolowane lotnisk (węzłów lotnisk) i strefy kontrolowane lotnisk	</item>
+        <item>	Zgodnie z przepisami polskimi	</item>
+        <item>	Zgodnie z przepisami międzynarodowymi	</item>
+        <item>	Według prawa państwa z którego terytorium wystartował dany statek powietrzny	</item>
+        <item>	Wykonywania czynności lotniczych przez osobę nieposiadającą licencji lub świadectwa kwalifikacji	</item>
+        <item>	600 m AGL	</item>
+        <item>	600 m	</item>
+        <item>	600 m AGL	</item>
+        <item>	wierzchołka najwyższej przeszkody w promieniu 600 m od statku powietrznego	</item>
+        <item>	600 m AGL	</item>
+        <item>	600 m	</item>
+        <item>	Prezesa ULC	</item>
+        <item>	Osoby ubiegające się o wydanie licencji członka personelu lotniczego	</item>
+        <item>	pogorszenia się sprawności psychicznej w stopniu nie mającym wpływu na jego zdolność do bezpiecznego wykonywania czynności lotniczych	</item>
+        <item>	Nie	</item>
+        <item>	Nie, użytkownik nie ma takiego obowiązku	</item>
+        <item>	Nie	</item>
+        <item>	Zastosowaniu niezbędnych środków, łącznie ze środkami przymusu w stosunku do osób nie wykonujących jego poleceń	</item>
+        <item>	Zatrzymaniu osoby zagrażającej porządkowi na pokładzie statku powietrznego do czasu przekazania jej właściwym organom	</item>
+        <item>	W razie śmierci albo uznania za zmarłego	</item>
+        <item>	W razie śmierci albo uznania za zmarłego	</item>
+        <item>	Kiedy zgodę wyrazi Prezes ULC	</item>
+        <item>	Gdy statek powietrzny przekroczył granicę państwową bez wymaganego zezwolenia lub niezgodnie z warunkami zezwolenia	</item>
+        <item>	Gdy warunki meteorologiczne uległy pogorszeniu poniżej minimów pilota	</item>
+        <item>	Gdy warunki meteorologiczne uległy pogorszeniu poniżej minimów pilota	</item>
+        <item>	Gdy warunki meteorologiczne uległy pogorszeniu poniżej minimów pilota	</item>
+        <item>	Pilot szybowcowy	</item>
+        <item>	Żołnierze Wojskowych Służb Informacyjnych podczas wykonywania czynności służbowych	</item>
+        <item>	Funkcjonariusze Policji podczas wykonywania czynności służbowych	</item>
+        <item>	Osoba która przekazała prawo używania statku powietrznego nawet jeżeli nie zachowała prawa decydowania w sprawach wykonywania lotu	</item>
+        <item>	Osoba wpisana do rejestru statków powietrznych jako użytkownik nawet jeżeli udowodni że w danym czasie osobą eksploatującą była inna osoba	</item>
+        <item>	Minister właściwy do spraw transportu	</item>
+        <item>	Minister właściwy do spraw transportu	</item>
+        <item>	W drodze uchwały wprowadzić częściowy zakaz lotów dla statków powietrznych	</item>
+        <item>	Na czas dłuższy niż 6 miesięcy	</item>
+        <item>	Na statkach powietrznych mających wymagane znaki rozpoznawcze	</item>
+        <item>	Służbę informacji lotniczej	</item>
+        <item>	Służbę alarmową	</item>
+        <item>	Prezesa ULC	</item>
+        <item>	Prezesa ULC	</item>
+        <item>	Prezesa ULC	</item>
+        <item>	Prezesa ULC	</item>
+        <item>	Najbliższy organ Policji lub administracji publicznej	</item>
+        <item>	Prezesa ULC	</item>
+        <item>	Prezesa ULC	</item>
+        <item>	Prezesa ULC	</item>
+        <item>	Przy Prezesie Urzędu lotnictwa Cywilnego,	</item>
+        <item>	Poszukiwań i ratownictwa	</item>
+        <item>	Gospodarki rolnej i leśnej	</item>
+        <item>	Prezes ULC zabiera licencję w której jest wpisane uprawnienie	</item>
+        <item>	Prezes ULC zabiera licencję w której jest wpisane uprawnienie	</item>
+        <item>	Prezes ULC zabiera licencję w której jest wpisane uprawnienie	</item>
+        <item>	Dokumenty potwierdzające spełnienie wymagań dotyczących sprawności psychicznej i fizycznej	</item>
+        <item>	Tak.	</item>
+        <item>	Nie,	</item>
+        <item>	lotniczy ruch zasadniczy	</item>
+        <item>	Międzynarodowe loty handlowe obcych przewoźników z lądowaniem handlowym na terytorium RP	</item>
+        <item>	1500 m	</item>
+        <item>	4 km	</item>
+        <item>	7000	</item>
+        <item>	Przepisów ruchu lotniczego właściwych dla obszaru, w którym ruch się odbywa	</item>
+        <item>	ma obowiązek zapewnić separacje między statkami powietrznymi wykonującymi loty IFR i loty VFR	</item>
+        <item>	nie mniejsza niż 3 km	</item>
+        <item>	100 m AGL	</item>
+        <item>	rodzaj ograniczenia ATFM	</item>
+        <item>	FPL - Filled flight plan	</item>
+        <item>	Jest to lotnisko użytku niepublicznego, posiadające czasowe przejście graniczne	</item>
+        <item>	Świadczenie usług lotniczych przy użyciu statków powietrznych innych niż przewóz lotniczy	</item>
+        <item>	Odczuwa dolegliwość fizyczną lub psychiczną, która utrudnia mu wykonywanie tych czynności w sposób bezpieczny	</item>
+        <item>	Nie	</item>
+        <item>	Nie	</item>
+        <item>	Nie	</item>
+        <item>	Nie	</item>
+        <item>	Nie, nie ma takiej możliwości	</item>
+        <item>	Tak, ale musi otrzymać zgodę Prezesa ULC	</item>
+        <item>	Tak, ale musi otrzymać zgodę Prezesa ULC	</item>
+        <item>	Nie, nie ma takiej możliwości	</item>
+        <item>	Tak, ale musi otrzymać zgodę Prezesa ULC	</item>
+        <item>	Tak, ale musi otrzymać zgodę Prezesa ULC	</item>
+        <item>	Nie, nie ma takiej możliwości	</item>
+        <item>	Nie, nie ma takiej możliwości	</item>
+        <item>	Nie,	</item>
+        <item>	Nie,	</item>
+        <item>	Nie,	</item>
+        <item>	Nie,	</item>
+        <item>	Nie,	</item>
+        <item>	Nie	</item>
+        <item>	Prowadzi szkolenie niezarobkowo	</item>
+        <item>	Nauczaniem wiedzy lotniczej – dla wszystkich specjalności członków personelu lotniczego	</item>
+        <item>	Nauczaniem umiejętności praktycznych – dla pilotów wszystkich specjalności	</item>
+        <item>	Personel wchodzący w skład załóg statków powietrznych	</item>
+        <item>	Kontroler ruchu lotniczego	</item>
+        <item>	zezwala się lądować;	</item>
+        <item>	lotnisko nie jest bezpieczne, nie lądować	</item>
+        <item>	techniczne	</item>
+        <item>	Zastosowaniu niezbędnych środków, łącznie ze środkami przymusu w stosunku do osób nie wykonujących jego poleceń	</item>
+        <item>	Zatrzymaniu osoby zagrażającej porządkowi na pokładzie statku powietrznego do czasu przekazania jej właściwym organom	</item>
+        <item>	Wykonywać skręty o 360 stopni w regularnych odstępach czasu	</item>
+        <item>	1 minuta	</item>
+        <item>	kontynuować przez siedem minut lot na  aktualnej linii drogi a następnie zmienić kurs, aby wejść ponownie na nakazaną linię drogi	</item>
+        <item>	dostosować prędkość tak, aby czasy przelotu były zgodne z podanymi w planie lotu	</item>
+        <item>	kontynuować przez siedem minut lot na z aktualną prędkością a następnie dostosować prędkość do rzeczywistej prędkości powietrznej podanej w zgłoszonym planie lotu	</item>
+        <item>	W każdej organizacji, która zgłosi taką chęć do Prezesa ULC	</item>
+        <item>	W każdej organizacji, która zgłosi taką chęć do Prezesa ULC	</item>
+        <item>	punkt, do którego ważne jest zezwolenie organu służby kontroli ruchu lotniczego, udzielone dowódcy statku powietrznego określony przez podanie nazwy i częstotliwości kolejnego organu ruchu lotniczego, który wyda dalsze zezwolenie	</item>
+        <item>	5 godzin lotu szkoleniowego na dwusterze w tym co najmniej 2 godziny przelotu	</item>
+        <item>	5 godzin lotu szkoleniowego samodzielnego w tym co najmniej 2 godziny przelotu	</item>
+        <item>	7 godzin lotu w nocy	</item>
+        <item>	Co najmniej 3	</item>
+        <item>	Ukończone 15 lat	</item>
+        <item>	Ukończone 15 lat	</item>
+        <item>	Kod dla statku powietrznego otrzymany podczas przekazywania meldunku pozycyjnego	</item>
+        <item>	informacji lotniczej	</item>
+        <item>	60 min	</item>
+        <item>	Orzeczenie lotniczo-lekarskie, jeżeli jest ono wymagane	</item>
+        <item>	wszystkie, które zostały dostarczone do AIS najpóźniej 70 dni przed datą wejścia w  życie	</item>
+        <item>	kilometry na godzinę	</item>
+        <item>	Dotyczące wykonywania lotów AGRO	</item>
+        <item>	Dotyczące wykonywania lotów AGRO	</item>
+        <item>	Dotyczące wykonywania lotów AGRO	</item>
+        <item>	Dotyczące wykonywania lotów AGRO	</item>
+        <item>	Dotyczące wykonywania lotów AGRO	</item>
+        <item>	Dotyczące wykonywania lotów AGRO	</item>
+        <item>	Dotyczące wykonywania lotów AGRO	</item>
+        <item>	Dotyczące wykonywania lotów AGRO	</item>
+        <item>	Dotyczące wykonywania lotów AGRO	</item>
+        <item>	Jest uprawniony do wykonywania za wynagrodzeniem czynności dowódcy i drugiego pilota każdego samolotu używanego nieodpłatnie	</item>
+        <item>	Co najmniej podstawowe	</item>
+        <item>	Co najmniej podstawowe	</item>
+        <item>	Przepisom prawa karnego	</item>
+        <item>	30 min	</item>
+        <item>	30 min	</item>
+        <item>	30 min	</item>
+        <item>	w czasie określonym od planowanego czasu odblokowania	</item>
+        <item>	w czasie określonym od planowanego czasu startu	</item>
+        <item>	30 min	</item>
+        <item>	30 min	</item>
+        <item>	60 min	</item>
+        <item>	wysokości bezwzględnej 1250 m	</item>
+        <item>	wysokości bezwzględnej 1250 m	</item>
+        <item>	wysokości bezwzględnej 1250 m	</item>
+        <item>	wysokości bezwzględnej 1250 m	</item>
+        <item>	wysokości bezwzględnej 1250 m	</item>
+        <item>	wysokości bezwzględnej 900 m	</item>
+        <item>	wysokości bezwzględnej 1200 m	</item>
+        <item>	wysokości bezwzględnej 1250 m	</item>
+        <item>	wysokości bezwzględnej 1200 m	</item>
+        <item>	wysokości bezwzględnej 1300 m	</item>
+        <item>	wysokości bezwzględnej 1550 m	</item>
+        <item>	wysokości bezwzględnej 1250 m	</item>
+        <item>	wysokości bezwzględnej 2300 m	</item>
+        <item>	wysokości bezwzględnej 2300 m	</item>
+        <item>	wysokości bezwzględnej 2150 m	</item>
+        <item>	Według prawa państwa, w którym jest zarejestrowany dany statek powietrzny	</item>
+        <item>	Według prawa państwa, w którym jest zarejestrowany statek powietrzny ponoszący winę za zderzenie	</item>
+        <item>	Według prawa państwa, w którym jest zarejestrowany dany statek powietrzny	</item>
+        <item>	Według prawa państwa, w którym jest zarejestrowany dany statek powietrzny	</item>
+        <item>	Według prawa państwa, w którym jest zarejestrowany dany statek powietrzny	</item>
+        <item>	Według prawa państwa, w którym jest zarejestrowany dany statek powietrzny	</item>
+        <item>	Według prawa państwa, w którym jest zarejestrowany statek powietrzny ponoszący winę za zderzenie	</item>
+        <item>	Według prawa państwa, w którym jest zarejestrowany dany statek powietrzny	</item>
+        <item>	Nie więcej niż 15 godzin lotu, wykonanych przez niego na urządzeniu treningowym	</item>
+        <item>	Wykonał co najmniej 50 godzin lotu na samolotach zaliczonych do klasy samolotów jednosilnikowych tłokowych	</item>
+        <item>	Wykonał co najmniej 30 godzin lotu szkoleniowego na dwusterze z instruktorem,	</item>
+        <item>	Wykonał co najmniej 30 godzin lotu szkoleniowego na dwusterze z instruktorem,	</item>
+        <item>	Wykonał co najmniej 10 godzin lotu samodzielnego, w przypadku szkolenia na samolotach zaliczonych do klasy samolotów wielosilnikowych tłokowych	</item>
+        <item>	Wykonał co najmniej 15 godzin przelotu samodzielnego	</item>
+        <item>	Wykonał przelot na odległość nie mniejszą niż 540 km, podczas którego zostały wykonane dwa lądowania z całkowitym zatrzymaniem na dwu różnych lotniskach	</item>
+        <item>	15 min	</item>
+        <item>	Jeśli nowy czas EOBT różni się o więcej niż 10 minut od pierwotnego czasu EOBT	</item>
+        <item>	Gdy statek powietrzny przekroczył granicę państwową bez wymaganego zezwolenia lub niezgodnie z warunkami zezwolenia	</item>
+        <item>	Gdy warunki meteorologiczne uległy pogorszeniu poniżej minimów pilota	</item>
+        <item>	Gdy warunki meteorologiczne uległy pogorszeniu poniżej minimów pilota	</item>
+        <item>	Gdy warunki meteorologiczne uległy pogorszeniu poniżej minimów pilota	</item>
+        <item>	Prezes ULC nie ma takiego prawa	</item>
+        <item>	Prezes ULC nie ma takiego prawa	</item>
+        <item>	Jest to tylko osoba lub firma posiadająca prawo własności do danego statku powietrznego	</item>
+        <item>	Jest to podmiot zarządzający danym lotniskiem,	</item>
+        <item>	Pilot samolotowy turystyczny	</item>
+        <item>	Pilot samolotowy zawodowy	</item>
+        <item>	Dyspozytor lotniczy	</item>
+        <item>	Informator służby informacji powietrznej	</item>
+        <item>	informacji powietrznej	</item>
+        <item>	Minister właściwy do spraw transportu	</item>
+        <item>	Minister właściwy do spraw transportu	</item>
+        <item>	Minister właściwy do spraw transportu	</item>
+        <item>	Funkcjonariusze Policji podczas wykonywania czynności służbowych	</item>
+        <item>	Osoba wpisana do rejestru statków powietrznych jako użytkownik nawet jeżeli udowodni że w danym czasie osobą eksploatującą była inna osoba	</item>
+        <item>	Osoba która przekazała prawo używania statku powietrznego nawet jeżeli nie zachowała prawa decydowania w sprawach wykonywania lotu	</item>
+        <item>	Osoba wpisana do rejestru statków powietrznych jako użytkownik nawet jeżeli udowodni że w danym czasie osobą eksploatującą była inna osoba	</item>
+        <item>	Osoba która przekazała prawo używania statku powietrznego nawet jeżeli nie zachowała prawa decydowania w sprawach wykonywania lotu	</item>
+        <item>	Osoba wpisana do rejestru statków powietrznych jako użytkownik nawet jeżeli udowodni że w danym czasie osobą eksploatującą była inna osoba	</item>
+        <item>	Osoba wpisana do rejestru statków powietrznych jako użytkownik nawet jeżeli udowodni że w danym czasie osobą eksploatującą była inna osoba	</item>
+        <item>	Osoba która przekazała prawo używania statku powietrznego nawet jeżeli nie zachowała prawa decydowania w sprawach wykonywania lotu	</item>
+        <item>	Osoba wpisana do rejestru statków powietrznych jako użytkownik nawet jeżeli udowodni że w danym czasie osobą eksploatującą była inna osoba	</item>
+        <item>	Europejska Organizacja do Spraw Bezpieczeństwa Żeglugi Powietrznej (Eurocontrol)	</item>
+        <item>	Prezes ULC	</item>
+        <item>	Prezes ULC	</item>
+        <item>	Europejska Organizacja do Spraw Bezpieczeństwa Żeglugi Powietrznej (EUROCONTROL) zgodnie z umowami międzynarodowymi ratyfikowanymi przez RP	</item>
+        <item>	Prezydent RP	</item>
+        <item>	Centralny Ośrodek Koordynacji Ruchu Lotniczego	</item>
+        <item>	Każdy lot, wykonywany według przepisów IFR	</item>
+        <item>	1,5 km	</item>
+        <item>	100 m	</item>
+        <item>	przy widzialności większej niż 5 km	</item>
+        <item>	100 m	</item>
+        <item>	250 kt TAS	</item>
+        <item>	nie mniejsza niż   2 km	</item>
+        <item>	463 km/h TAS	</item>
+        <item>	nie niżej niż 300 m pod pułapem chmur	</item>
+        <item>	100 m	</item>
+        <item>	8 km	</item>
+        <item>	15km	</item>
+        <item>	15 km	</item>
+        <item>	15 km	</item>
+        <item>	terenu	</item>
+        <item>	Minimum Sector Altitude - Minimalną, sektorową wysokość względną lotu dla lotu IFR poza CTR	</item>
+        <item>	Na statkach powietrznych wpisanych do polskiego lub obcego rejestru cywilnych statków powietrznych	</item>
+        <item>	O 20 godzin pod warunkiem prowadzenia szkolenia według programu szkolenia zatwierdzonego dla tego typu kandydatów	</item>
+        <item>	O 20 godzin pod warunkiem prowadzenia szkolenia według programu szkolenia zatwierdzonego dla tego typu kandydatów	</item>
+        <item>	O 20 godzin pod warunkiem prowadzenia szkolenia według programu szkolenia zatwierdzonego dla tego typu kandydatów	</item>
+        <item>	O 15 godzin	</item>
+        <item>	O 15 godzin	</item>
+        <item>	O 15 godzin	</item>
+        <item>	Służbę informacji lotniczej	</item>
+        <item>	Służbę alarmową	</item>
+        <item>	6 miesięcy	</item>
+        <item>	12 miesięcy	</item>
+        <item>	Organizacja lotnicza prowadząca działalność niezarobkową dla swoich członków	</item>
+        <item>	V	</item>
+        <item>	I	</item>
+        <item>	O	</item>
+        <item>	X	</item>
+        <item>	X	</item>
+        <item>	N	</item>
+        <item>	X	</item>
+        <item>	Y	</item>
+        <item>	Mający status VIP	</item>
+        <item>	tak, pod warunkiem utrzymania kontaktu wzrokowego z terenem	</item>
+        <item>	Dokumentacja  JEPPESEN	</item>
+        <item>	powierzchnia izobaryczna odniesiona do wartości ciśnienia 1013,2 hPa oddzielona od innych takich powierzchni o określone różnice wysokości	</item>
+        <item>	powierzchnia izobaryczna odniesiona do wartości ciśnienia 1013,2 hPa oddzielona od innych takich powierzchni o określone różnice wysokości	</item>
+        <item>	poziom lotu, na którym przestawia się wysokościomierz z QNH na STD	</item>
+        <item>	wyrażenie ogólne odnoszące się do pozycji statku powietrznego w locie w płaszczyźnie pionowej i oznaczające zarówno wysokość względną, wysokość bezwzględną lub poziom lotu.	</item>
+        <item>	podczas lotu poniżej najniższego dostępnego poziomu lotu albo odpowiednio na lub poniżej wysokości bezwzględnej przejściowej	</item>
+        <item>	podczas lotu na najniższym dostępnym poziomie lotu lub powyżej tego poziomu	</item>
+        <item>	seria błysków zielonych	</item>
+        <item>	seria błysków zielonych	</item>
+        <item>	ciągłe światło czerwone	</item>
+        <item>	ciągłe światło zielone	</item>
+        <item>	seria błysków zielonych	</item>
+        <item>	Przepisów ruchu lotniczego właściwych dla obszaru, w którym ruch się odbywa	</item>
+        <item>	ciśnienie atmosferyczne odniesione do średniego poziomu morza	</item>
+        <item>	ciśnienie atmosferyczne na poziomie morza odniesione do elewacji progu drogi startowej w użyciu	</item>
+        <item>	Ważny interes polityki zagranicznej RP	</item>
+        <item>	Zobowiązania RP wynikające z umów międzynarodowych	</item>
+        <item>	ma obowiązek zapewnić separacje między statkami powietrznymi wykonującymi loty VFR – spec i loty IFR	</item>
+        <item>	IFR od VFR	</item>
+        <item>	VFR od VFR	</item>
+        <item>	IFR od VFR	</item>
+        <item>	IFR od VFR	</item>
+        <item>	służby portowe /Dyżurny Operacyjny Lotniska/	</item>
+        <item>	Techniczne	</item>
+        <item>	należy zatrzymać się	</item>
+        <item>	płyta postojowa zajęta	</item>
+        <item>	należy wracać do punktu wyjściowego na lotnisku	</item>
+        <item>	należy kołować poza polem wzlotów będącym w użytku	</item>
+        <item>	płyta postojowa zajęta	</item>
+        <item>	pozostaje w VMC i zapewnia sobie własną separację	</item>
+        <item>	STD	</item>
+        <item>	2,5 km	</item>
+        <item>	Zgodnie z zatwierdzonymi przez Prezesa ULC i wprowadzonymi w życie instrukcjami oraz dokumentami regulaminowymi	</item>
+        <item>	Przy wykorzystaniu odpowiednich do rodzaju szkolenia statków powietrznych oraz urządzeń treningowych	</item>
+        <item>	Zgodnie z zatwierdzonymi przez Prezesa ULC i wprowadzonymi w życie instrukcjami oraz dokumentami regulaminowymi	</item>
+        <item>	Przy wykorzystaniu odpowiednich do rodzaju szkolenia statków powietrznych oraz urządzeń treningowych	</item>
+        <item>	250 kt TAS	</item>
+        <item>	nie mniejsza niż 150 m	</item>
+        <item>	2 km	</item>
+        <item>	Poszukiwań i ratownictwa	</item>
+        <item>	Gospodarki rolnej i leśnej	</item>
+        <item>	nie mniej niż 150 m	</item>
+        <item>	W formie zarządzenia	</item>
+        <item>	Przed upływem 4 lat	</item>
+        <item>	Teoretycznie i praktycznie do licencji pilota turystycznego samolotowego	</item>
+        <item>	M	</item>
+        <item>	skręcić w lewo	</item>
+        <item>	w odległości co najmniej 500 m;	</item>
+        <item>	zakazane	</item>
+        <item>	7500	</item>
+        <item>	7600	</item>
+        <item>	Prezes ULC zabiera licencję w której jest wpisane uprawnienie	</item>
+        <item>	Prezes ULC zabiera licencję w której jest wpisane uprawnienie	</item>
+        <item>	7500	</item>
+        <item>	7600	</item>
+        <item>	Tylko do obywateli polskich	</item>
+        <item>	IFR	</item>
+        <item>	przestrzeń powietrzna zawarta między wysokością przejściową a poziomem lotniska lub progu drogi startowej	</item>
+        <item>	Według prawa państwa, na którego obszarze zdarzenie nastąpiło	</item>
+        <item>	Według prawa państwa, na którego obszarze zdarzenie nastąpiło	</item>
+        <item>	Według prawa państwa, na którego obszarze zdarzenie nastąpiło	</item>
+        <item>	2000	</item>
+        <item>	wysokość, na której pilot przestawia wysokościomierz z QNH na STD	</item>
+        <item>	wysokość bezwzględna, na której pilot przestawia wysokościomierz ze STD na QNH	</item>
+        <item>	Szkolenie teoretyczne	</item>
+        <item>	Szkolenie teoretyczne	</item>
+        <item>	wysokości bezwzględnej 1250 m	</item>
+    </string-array>
+
+    <string-array name="prawo_odp_c" >
+        <item>	Do startu i do lądowania.	</item>
+        <item>	Zgodność listy pasażerów.	</item>
+        <item>	Opuścić statek powietrzny niezwłocznie.	</item>
+        <item>	W sytuacjach  zagrażających bezpieczeństwu lotu.	</item>
+        <item>	Krzyżem maltańskim	</item>
+        <item>	Zabrania się.	</item>
+        <item>	Właściwą stację naziemną, pisemnie po lądowaniu	</item>
+        <item>	Urządzeń i środków oraz substancji mogących stanowić zagrożenie dla bezpieczeńśtwa lotu lub pasażerów	</item>
+        <item>	Do zapewnienia bezpieczeństwa statkowi powietrznemu	</item>
+        <item>	ciągły sygnał czerwony	</item>
+        <item>	Bezpieczeństwo publiczne	</item>
+        <item>	Gdy zgodę wyrazi Prezes ULC	</item>
+        <item>	Gdy zgodę wyrazi Prezes ULC	</item>
+        <item>	Minister właściwy do spraw transportu	</item>
+        <item>	Ochrony przeciwpożarowej	</item>
+        <item>	W celu zapewniania załogom statków powietrznych niezbędnych  danych meteorologicznych	</item>
+        <item>	W celu zapewnienia pomocy statkom powietrznym w niebezpieczeństwie	</item>
+        <item>	600 m	</item>
+        <item>	wojskowa strefa kontrolowana lotniska	</item>
+        <item>	Zarządzanie ruchem lotniczym	</item>
+        <item>	Współrzędne drogi startowej	</item>
+        <item>	plan użytkowania przestrzeni powietrznej	</item>
+        <item>	wojskowa strefa ruchu lotniskowego	</item>
+        <item>	Ośrodek Zarządzania Przestrzenią Powietrzną Agencji ruchu Lotniczego	</item>
+        <item>	"Osoby ubiegające się o wydanie
+świadectwa kwalifikacji"	</item>
+        <item>	strefa identyfikacji obrony powietrznej	</item>
+        <item>	rejon lotów po obu stronach granicy państwa będący rejonem czasowo wydzielonym, ustanowionym ze względu na szczególne wymogi operacyjne	</item>
+        <item>	wojskowa strefa ruchu lotniskowego	</item>
+        <item>	Znajduje się pod wpływem leków ograniczających sprawność psychiczną lub fizyczną	</item>
+        <item>	Instrukcji wykonawczej ośrodka szkolenia lotniczego	</item>
+        <item>	Instrukcji wykonawczej organizacji prowadzącej szkolenia lotnicze niezarobkowo	</item>
+        <item>	Mogą stosować wyłącznie środki przymusu niezbędne do osiągnięcia podporządkowania wymaganiom bezpieczeństwa i porządku na pokładzie statku powietrznego	</item>
+        <item>	Tak, ale tylko za zezwoleniem Prezesa ULC	</item>
+        <item>	Tak, ma obowiązek udzielić pomocy	</item>
+        <item>	Tak, ma obowiązek udzielić pomocy	</item>
+        <item>	Tak, ma obowiązek udzielić pomocy	</item>
+        <item>	Tak, ma obowiązek udzielić pomocy	</item>
+        <item>	Nie podlega opłacie	</item>
+        <item>	Nie podlega opłacie	</item>
+        <item>	Tak jeżeli obca licencja ma taki sam wygląd jak polska	</item>
+        <item>	Tak jeżeli obca licencja ma taki sam wygląd jak polska	</item>
+        <item>	Dowódcą jest członek załogi o najwyższych kwalifikacjach	</item>
+        <item>	Nie ma takiej możliwości	</item>
+        <item>	Niezwłocznego wykonywania poleceń cywilnych i wojskowych lotniskowych organów służby ruchu lotniczego i właściwych organów wojskowych	</item>
+        <item>	Tak, jeżeli okres zawieszenia jest dłuższy niż 3 miesiące	</item>
+        <item>	Nie, nie mogą	</item>
+        <item>	Tak, w każdym przypadku bez względu na konsekwencje	</item>
+        <item>	Jest to możliwe pod warunkiem złożenia uzasadnienia takiego stanu rzeczy przed Prezesem ULC	</item>
+        <item>	Jest to potwierdzenie, że posiadacz dokumentu może wykonywać loty statkiem powietrznym	</item>
+        <item>	Potwierdzeniem zdatności do lotu statku powietrznego	</item>
+        <item>	Do poinformowania o tym Ministra właściwego do spraw transportu	</item>
+        <item>	Wyłącznie do ministra właściwego do spraw transportu	</item>
+        <item>	Wyłącznie do ministra właściwego do spraw transportu	</item>
+        <item>	ciągły sygnał czerwony	</item>
+        <item>	należy lądować na tym lotnisku i kołować do płyty postojowej	</item>
+        <item>	należy dać pierwszeństwo drogi innym statkom powietrznym i kontynuować okrążenie	</item>
+        <item>	600m	</item>
+        <item>	nie niżej niż 560m AMSL	</item>
+        <item>	nie niżej niż 560m AMSL	</item>
+        <item>	elewacja najwyższego punktu na lotnisku	</item>
+        <item>	Na konferencji paryskiej	</item>
+        <item>	Licencję wydaną przez Inspektorat Personelu Lotniczego ULC	</item>
+        <item>	Ma charakter dożywotni	</item>
+        <item>	W ruchu lotniczym kontrolowanym – czas LMT, w niekontrolowanym - czas UTC.	</item>
+        <item>	Status jednostki budżetowej Paktu Północnoatlantyckiego	</item>
+        <item>	Współpracując z lekarzem orzecznikiem który wydał zaskarżone orzeczenie, rozpatruje zasadność odwołania	</item>
+        <item>	Służbę alarmową	</item>
+        <item>	Służba kontroli ruchu lotniczego i służba alarmowa	</item>
+        <item>	Wszystkie statki powietrzne których właścicielami lub użytkownikami są obywatele polscy,	</item>
+        <item>	Wszystkie statki powietrzne których właścicielami lub użytkownikami są obywatele polscy,	</item>
+        <item>	Wszystkie statki powietrzne których właścicielami lub użytkownikami są obywatele polscy,	</item>
+        <item>	Jeżeli nie uzyskał jeszcze pełnoletniości musi posiadać pisemną zgodę przedstawiciela ustawowego	</item>
+        <item>	Posiadać odpowiednie orzeczenie lotniczo-lekarskie	</item>
+        <item>	Prawu państwa z którego pochodzi większość pasażerów	</item>
+        <item>	Prawu państwa z którego pochodzi większość pasażerów podróżujących danym statkiem powietrznym	</item>
+        <item>	w odległości min. 5 km	</item>
+        <item>	w odległości  min. 2 km	</item>
+        <item>	w odległości min. 15 km	</item>
+        <item>	Członek personelu lotniczego musi posiadać aktualne badanie wzroku	</item>
+        <item>	Znajduje się pod wpływem leków ograniczających sprawność psychiczną lub fizyczną	</item>
+        <item>	Znajduje się pod wpływem leków ograniczających sprawność psychiczną lub fizyczną	</item>
+        <item>	W okresie jego ważności, jednak nie wcześniej niż 4 miesiące przed jego upływem	</item>
+        <item>	W okresie jego ważności, jednak nie wcześniej niż 4 miesiące przed jego upływem	</item>
+        <item>	W okresie jego ważności, jednak nie wcześniej niż 14 miesięcy przed jego upływem	</item>
+        <item>	Z mocy prawa po 5 latach od chwili wydania	</item>
+        <item>	Kiedy zgodę wyrazi Minister właściwy do spraw transportu	</item>
+        <item>	Gdy zgodę wyrazi Prezes ULC	</item>
+        <item>	Gdy zgodę wyrazi Prezes ULC	</item>
+        <item>	W trakcie rozmowy kwalifikacyjnej prowadzonej przez organizację do której przynależy dany członek personelu lotniczego	</item>
+        <item>	W trakcie rozmowy kwalifikacyjnej prowadzonej przez organizację która ma szkolić danego kandydata	</item>
+        <item>	Osobie która spełnia wymagania i warunki dotyczące szkolenia lotniczego, praktyki lotniczej oraz posiada wiedzę i umiejętności potwierdzone zdaniem egzaminu państwowego	</item>
+        <item>	Osobie która spełnia wymogi w zakresie wieku i wykształcenia	</item>
+        <item>	Żadna z odpowiedzi nie jest prawidłowa	</item>
+        <item>	Osobie która nie posiada orzeczenia o braku przeciwwskazań do wykonywania funkcji członka personelu lotniczego	</item>
+        <item>	Osobie która nie spełnia wymagań i warunków dotyczących ukończenia szkolenia lotniczego	</item>
+        <item>	Osobie która nie posiada orzeczenia o braku przeciwwskazań do wykonywania funkcji członka personelu lotniczego	</item>
+        <item>	Osobie która nie spełnia wymagań i warunków dotyczących ukończenia szkolenia lotniczego	</item>
+        <item>	Osobie która nie posiada orzeczenia o braku przeciwwskazań do wykonywania funkcji członka personelu lotniczego	</item>
+        <item>	Osobie która nie posiada orzeczenia o braku przeciwwskazań do wykonywania funkcji członka personelu lotniczego	</item>
+        <item>	Osobie która nie spełnia wymagań i warunków dotyczących ukończenia szkolenia lotniczego	</item>
+        <item>	ścigania sprawców uprowadzenia statków powietrznych,	</item>
+        <item>	Minister właściwy do spraw transportu	</item>
+        <item>	Minister właściwy do spraw transportu	</item>
+        <item>	Minister właściwy do spraw transportu	</item>
+        <item>	Minister właściwy do spraw transportu	</item>
+        <item>	Minister właściwy do spraw transportu	</item>
+        <item>	Minister właściwy do spraw transportu	</item>
+        <item>	Minister właściwy do spraw transportu	</item>
+        <item>	Jest to właściciel lub użytkownik statku powietrznego	</item>
+        <item>	Jest to właściciel lub użytkownik statku powietrznego	</item>
+        <item>	Właściciel statku powietrznego na pokładzie którego miało miejsce dane zdarzenie	</item>
+        <item>	Właściciel statku powietrznego na pokładzie którego miało miejsce dane zdarzenie	</item>
+        <item>	Właściciel statku powietrznego na pokładzie którego miało miejsce dane zdarzenie	</item>
+        <item>	Dowódca statku powietrznego	</item>
+        <item>	Osoby znajdujące się w cockpicie statku powietrznego	</item>
+        <item>	Osoby znajdujące się w cockpicie statku powietrznego	</item>
+        <item>	Minister właściwy do spraw transportu	</item>
+        <item>	Cywilne lotniskowe organy służby ruchu lotniczego	</item>
+        <item>	Minister właściwy do spraw transportu	</item>
+        <item>	Minister właściwy do spraw transportu	</item>
+        <item>	Są to osoby, które posiadają ważne licencje członków personelu lotniczego	</item>
+        <item>	Osoba delegowana przez Prezesa ULC	</item>
+        <item>	Żadna z odpowiedzi nie jest poprawna	</item>
+        <item>	przy pułapie chmur większym niż 300 m	</item>
+        <item>	przy pułapie chmur większym niż 300 m	</item>
+        <item>	500 m	</item>
+        <item>	5 km	</item>
+        <item>	8 km	</item>
+        <item>	500 m	</item>
+        <item>	5 km	</item>
+        <item>	8 km	</item>
+        <item>	FL 195	</item>
+        <item>	dozwolone tylko wtedy, gdy lot odbywa się w VMC i w strefie nie ma innych statków powietrznych	</item>
+        <item>	dozwolone tylko wtedy, gdy lot odbywa się w VMC i w strefie nie ma innych statków powietrznych	</item>
+        <item>	dozwolone tylko wtedy, gdy lot odbywa się w VMC i w strefie nie ma innych statków powietrznych	</item>
+        <item>	wojskowy obszar kontrolowany	</item>
+        <item>	rejon kontrolowany lotniska	</item>
+        <item>	Na zapewnieniu alarmowej służby ruchu lotniczego	</item>
+        <item>	Na zapewnieniu alarmowej służby ruchu lotniczego	</item>
+        <item>	Na zapewnieniu alarmowej służby ruchu lotniczego	</item>
+        <item>	Na zapewnieniu alarmowej służby ruchu lotniczego	</item>
+        <item>	Na okres 1 roku	</item>
+        <item>	Pierwszeństwo mają wojskowe statki powietrzne	</item>
+        <item>	Od korzystania z pełni praw publicznych	</item>
+        <item>	Od korzystania z pełni praw publicznych	</item>
+        <item>	24 miesiące	</item>
+        <item>	60 miesięcy	</item>
+        <item>	18 miesięcy	</item>
+        <item>	Niezwłocznie zniszczyć druk licencji	</item>
+        <item>	Niezwłocznie zniszczyć druk licencji	</item>
+        <item>	pola wzlotów	</item>
+        <item>	ciągły sygnał zielony	</item>
+        <item>	Przestrzeń operacyjną i przestrzeń niekontrolowaną	</item>
+        <item>	przestrzeń powietrzna o określonych wymiarach, w której zapewniona jest służba informacji powietrznej, służba alarmowa i służba kontroli ruchu lotniczego	</item>
+        <item>	1500 m	</item>
+        <item>	organ wojskowej służby ruchu lotniczego w odniesieniu do wszystkich statków powietrznych	</item>
+        <item>	organ wojskowej służby ruchu lotniczego w odniesieniu do wszystkich statków powietrznych	</item>
+        <item>	lotnisko nie jest bezpieczne, nie lądować	</item>
+        <item>	Na podstawie wiążących RP umów międzynarodowych	</item>
+        <item>	strefa ruchu lotniskowego	</item>
+        <item>	wojskowa strefa kontrolowana lotniska	</item>
+        <item>	trasa lotnicza umożliwiająca przeloty pomiędzy TSA i lub TRA	</item>
+        <item>	trasa lotnicza umożliwiająca przeloty pomiędzy TSA i lub TRA	</item>
+        <item>	Wydawania poleceń wszystkim osobom znajdującym się na pokładzie statku powietrznego	</item>
+        <item>	przestrzeń powietrzna klasy C, F, G.	</item>
+        <item>	Przez zarządzenie przestrzenią powietrzną	</item>
+        <item>	Po uzyskaniu uprawnienia lotniczego wpisywanego do licencji	</item>
+        <item>	W razie sprostowania błędu	</item>
+        <item>	W razie zmiany danych osobowych wpisywanych do licencji	</item>
+        <item>	W formie rozporządzenia	</item>
+        <item>	W celu udzielania wskazówek i informacji użytecznych dla bezpiecznego i sprawnego wykonywania lotów	</item>
+        <item>	W celu zapewniania załogom statków powietrznych niezbędnych  danych meteorologicznych	</item>
+        <item>	W celu zapewniania załogom statków powietrznych niezbędnych  danych meteorologicznych	</item>
+        <item>	W celu ujednolicenia opłat nawigacyjnych za korzystanie z przestrzeni powietrznej	</item>
+        <item>	W celu zapewnienia pomocy statkom powietrznym w niebezpieczeństwie	</item>
+        <item>	W celu zapewnienia pomocy statkom powietrznym w niebezpieczeństwie	</item>
+        <item>	W celu zapewnienia pomocy statkom powietrznym w niebezpieczeństwie	</item>
+        <item>	W celu optymalizacji natężenia ruchu lotniczego	</item>
+        <item>	W celu zapewnienia załogom statków powietrznych niezbędnych danych meteorologicznych	</item>
+        <item>	W celu zapewnienia załogom statków powietrznych niezbędnych danych meteorologicznych	</item>
+        <item>	W przypadku stwierdzenia że członek personelu lotniczego nie korzysta w pełni z praw publicznych	</item>
+        <item>	W przypadku stwierdzenia że członek personelu lotniczego wykonując czynności lotnicze, do których uprawnia go licencja, zagraża bezpieczeństwu ruchu lotniczego	</item>
+        <item>	W przypadku stwierdzenia że członek personelu lotniczego nie spełnia wymagań w zakresie wykształcenia	</item>
+        <item>	W przypadku stwierdzenia że członek personelu lotniczego był skazany prawomocnym wyrokiem  za popełnienie przestępstwa	</item>
+        <item>	W przypadku stwierdzenia że członek personelu lotniczego nie spełnia wymagań w zakresie wieku	</item>
+        <item>	W przypadku stwierdzenia że członek personelu lotniczego nie spełnia wymagań w zakresie wieku	</item>
+        <item>	W terminie 21 dni od dnia otrzymania orzeczenia	</item>
+        <item>	W terminie 21 dni od dnia otrzymania orzeczenia	</item>
+        <item>	Przed upływem 5 lat	</item>
+        <item>	jest niższy niż minimalny określony dla danego lotniska, lecz nie niższy niż 200 m	</item>
+        <item>	jest mniejsza niż 3 km	</item>
+        <item>	ciągły sygnał zielony	</item>
+        <item>	ciągły sygnał zielony	</item>
+        <item>	W wydzielonych jej częściach cywilne lotniskowe organy służb ruchu lotniczego	</item>
+        <item>	Zastosować wszelkie niezbędne środki w celu ratowania przewożonej poczty	</item>
+        <item>	Od dnia kiedy nastąpiło sprawdzenie wiadomości i umiejętności w celu przedłużenia ważności uprawnień lotniczych, nawet jeżeli odbywało się ono w momencie kiedy te uprawnienia już nie były ważne	</item>
+        <item>	Po wyrażeniu zgody przez ministra właściwego do spraw transportu	</item>
+        <item>	Po wyrażeniu zgody przez ministra właściwego do spraw transportu	</item>
+        <item>	Od dnia kiedy nastąpiło sprawdzenie wiadomości i umiejętności w celu wznowienia ważności uprawnień lotniczych, nawet jeżeli odbywało się ono w momencie kiedy te uprawnienia już nie były ważne	</item>
+        <item>	W przypadku stwierdzenia że członek personelu lotniczego nie korzysta w pełni z praw publicznych	</item>
+        <item>	W przypadku stwierdzenia że członek personelu lotniczego wykonując czynności lotnicze, do których uprawnia go licencja, zagraża bezpieczeństwu ruchu lotniczego	</item>
+        <item>	Niezwłocznie zniszczyć druk licencji	</item>
+        <item>	Wykonuje w imieniu użytkownika statku powietrznego wszelkie czynności , jakie uzna za konieczne dla zabezpieczenia jego interesów	</item>
+        <item>	Wykonuje w imieniu użytkownika statku powietrznego wszelkie czynności , jakie uzna za konieczne dla zabezpieczenia jego interesów	</item>
+        <item>	Drogi lotnicze, strefy kontrolowane lotnisk	</item>
+        <item>	Zgodnie z przepisami kraju rejestracji danego statku powietrznego	</item>
+        <item>	Zgodnie z przepisami polskimi	</item>
+        <item>	Według prawa państwa na którego terytorium ląduje dany statek powietrzny	</item>
+        <item>	Wykonywania przecz członka personelu lotniczego czynności lotniczych nieobjętych jego licencją lub świadectwem kwalifikacji	</item>
+        <item>	1500 m AGL	</item>
+        <item>	1000m	</item>
+        <item>	1500 m AGL	</item>
+        <item>	wierzchołka najwyższej przeszkody na terenie tego miasta	</item>
+        <item>	1000 m AGL	</item>
+        <item>	1000m	</item>
+        <item>	Ministra właściwego do spraw transportu	</item>
+        <item>	"Osoby ubiegające się o wydanie
+świadectwa kwalifikacji"	</item>
+        <item>	doznania urazu nie związanego z ograniczeniem sprawności, umożliwiającego wykonywanie czynności członka personelu lotniczego	</item>
+        <item>	Tak, ale tylko w przypadku, kiedy odbywają się poza Warszawą	</item>
+        <item>	Tak, ale tylko jeżeli statek powietrzny jest używany w przewozie	</item>
+        <item>	Tak, jeśli nie zawiera granicy zezwolenia	</item>
+        <item>	Zastosowani niezbędnych środków, łącznie ze środkami przymusu w stosunku do osób zagrażających bezpieczeństwu lotu lub porządkowi na pokładzie statku powietrznego	</item>
+        <item>	Zatrzymaniu osoby zagrażającej bezpieczeństwu lotu do czasu przekazania jej właściwym organom	</item>
+        <item>	W razie cofnięcia wszystkich licencji	</item>
+        <item>	"W razie cofnięcia wszystkich
+świadectw kwalifikacji"	</item>
+        <item>	Kiedy zgodę wyrazi Minister właściwy do spraw transportu	</item>
+        <item>	Gdy statek powietrzny wykonuje lot wbrew zakazom ustalonym w danej przestrzeni powietrznej	</item>
+        <item>	Wszystkie odpowiedzi są poprawne	</item>
+        <item>	Żadna z odpowiedzi nie jest poprawna	</item>
+        <item>	Żadna z odpowiedzi nie jest poprawna	</item>
+        <item>	Pilot balonu wolnego	</item>
+        <item>	Funkcjonariusze Agencji Bezpieczeństwa Wewnętrznego podczas wykonywania czynności służbowych	</item>
+        <item>	Funkcjonariusze Straży Granicznej podczas wykonywania czynności służbowych	</item>
+        <item>	Osoba eksploatująca statek powietrzny, nawet jeżeli nie używała go w czasie spowodowania szkody	</item>
+        <item>	Osoba eksploatująca statek powietrzny, nawet jeżeli nie używała go w czasie spowodowania szkody	</item>
+        <item>	Naczelny Lekarz	</item>
+        <item>	Naczelny Lekarz	</item>
+        <item>	W drodze uchwały wprowadzić częściowy lub całkowity zakaz lotów dla statków powietrznych niespełniających wymogów ochrony środowiska w zakresie ochrony przed hałasem	</item>
+        <item>	Na czas krótszy niż 3 miesiące	</item>
+        <item>	Na państwowych statkach powietrznych	</item>
+        <item>	Służbę meteorologiczną	</item>
+        <item>	Służbę kontroli ruchu lotniczego	</item>
+        <item>	Ministra właściwego do spraw transportu	</item>
+        <item>	Ministra właściwego do spraw transportu	</item>
+        <item>	Ministra właściwego do spraw transportu	</item>
+        <item>	Ministra właściwego do spraw transportu	</item>
+        <item>	Służby bezpieczeństwa i porządku publicznego, mogące udzielić pomocy	</item>
+        <item>	Ministra właściwego do spraw transportu	</item>
+        <item>	Ministra właściwego do spraw transportu	</item>
+        <item>	Ministra właściwego do spraw transportu	</item>
+        <item>	Przy Radzie Ministrów,	</item>
+        <item>	Sportu i obsługi imprez masowych	</item>
+        <item>	Doświadczeń i szkoleń	</item>
+        <item>	Prezes ULC dokonuje wykreślenie członka personelu lotniczego z rejestru członków personelu lotniczego	</item>
+        <item>	Prezes ULC dokonuje wykreślenie członka personelu lotniczego z rejestru członków personelu lotniczego	</item>
+        <item>	Prezes ULC dokonuje wykreślenie członka personelu lotniczego z rejestru członków personelu lotniczego	</item>
+        <item>	Dokumenty potwierdzające spełnienie odpowiednich wymagań dotyczących praktyki lotniczej	</item>
+        <item>	Nie, nawet jeżeli przelot statku powietrznego odbywał się niezgodnie z przepisami	</item>
+        <item>	Tak, ale tylko za potwierdzoną zgodą Prezesa Urzędu Lotnictwa Cywilnego,	</item>
+        <item>	lotniskowy ruch zasadniczy	</item>
+        <item>	Międzynarodowe nieregularne niehandlowe statków powietrznych państw które nie są stronami Konwencji o międzynarodowym lotnictwie cywilnym	</item>
+        <item>	5 km	</item>
+        <item>	15 km	</item>
+        <item>	7600	</item>
+        <item>	Poleceń otrzymanych od państwowego statku powietrznego państwa nad, którego terytorium lot się odbywa, nakazujących lądowania na wskazanym lotnisku lub inne postępowanie załogi	</item>
+        <item>	ma obowiązek zapewnić separacje między statkami powietrznymi wykonującymi loty VFR – spec i loty IFR	</item>
+        <item>	nie mniejsza niż 5 km	</item>
+        <item>	300 m AGL	</item>
+        <item>	procedura składania powtarzalnego planu lotu	</item>
+        <item>	AFIL - Flight plan filled in the air	</item>
+        <item>	Jest to lotnisko posiadające zarządzającego lotniskiem	</item>
+        <item>	Przewóz pasażerów, bagażu, poczty	</item>
+        <item>	Znajduje się pod wpływem leków ograniczających sprawność psychiczną lub fizyczną	</item>
+        <item>	Tak, ale tylko w przypadku kiedy organizacja ma zamiar szkolić w zakresie szerszym niż określony w rozporządzeniu w sprawie licencjonowania personelu lotniczego	</item>
+        <item>	Tak, ale tylko w przypadku kiedy ośrodek chce wykonywać szkolenia na statkach powietrznych o masie powyżej 5700 kg	</item>
+        <item>	tak, jeśli są na nim warunki meteorologiczne wystarczające do startu	</item>
+        <item>	Tak, ale tylko jeżeli użytkownik statku powietrznego wyrazi na to zgodę	</item>
+        <item>	Tak, jest to dopuszczalne za zgodą Prezesa ULC	</item>
+        <item>	Tak, ale musi otrzymać zgodę Ministra właściwego do spraw transportu	</item>
+        <item>	Tak, ale musi otrzymać zgodę Ministra właściwego do spraw transportu	</item>
+        <item>	Tak, jest to dopuszczalne za zgodą Prezesa ULC	</item>
+        <item>	Tak, ale musi otrzymać zgodę Ministra właściwego do spraw transportu	</item>
+        <item>	Tak, ale musi otrzymać zgodę Ministra właściwego do spraw transportu	</item>
+        <item>	Tak	</item>
+        <item>	Tak	</item>
+        <item>	Tak, ale tylko za potwierdzoną zgodą Prezesa Urzędu Lotnictwa Cywilnego,	</item>
+        <item>	Tak, ale tylko za potwierdzoną zgodą Prezesa Urzędu Lotnictwa Cywilnego,	</item>
+        <item>	Tak, ale tylko za potwierdzoną zgodą Prezesa Urzędu Lotnictwa Cywilnego,	</item>
+        <item>	Tak, ale tylko za potwierdzoną zgodą Prezesa Urzędu Lotnictwa Cywilnego,	</item>
+        <item>	Tak, ale tylko za potwierdzoną zgodą Prezesa Urzędu Lotnictwa Cywilnego,	</item>
+        <item>	Tak, ale tylko w stosunku do podmiotów zagranicznych	</item>
+        <item>	Prowadzi szkolenie wyłącznie dla swoich członków	</item>
+        <item>	Nauczaniem naziemnym kontrolerów ruchu lotniczego	</item>
+        <item>	Nauczaniem umiejętności praktycznych – dla mechaników pokładowych	</item>
+        <item>	Skoczek spadochronowy zawodowy	</item>
+        <item>	Dyspozytor lotniczy	</item>
+        <item>	należy dać pierwszeństwo drogi innym statkom powietrznym i kontynuować okrążenie	</item>
+        <item>	zezwala się lądować	</item>
+        <item>	awaryjne	</item>
+        <item>	Zastosowani niezbędnych środków, łącznie ze środkami przymusu w stosunku do osób zagrażających bezpieczeństwu lotu lub porządkowi na pokładzie statku powietrznego	</item>
+        <item>	Zatrzymaniu osoby zagrażającej bezpieczeństwu lotu do czasu przekazania jej właściwym organom	</item>
+        <item>	Zmienić wysokość lotu o 1000 ft (2000 ft powyżej FL410).	</item>
+        <item>	5 minut	</item>
+        <item>	kontynuować przez trzy minuty lot na aktualnej linii drogi a następnie zmienić kurs, aby wejść ponownie na nakazaną linie drogi	</item>
+        <item>	kontynuować przez trzy minuty lot z aktualną prędkością a następnie poprosić właściwy organ służby kontroli ruchu lotniczego o zezwolenie na zmianę trasy lotu tak, aby przejść znaczące punkty nawigacyjne w granicach tolerancji czasu	</item>
+        <item>	kontynuować przez trzy minuty lot z aktualną prędkością a następnie dostosować prędkość do rzeczywistej prędkości powietrznej podanej w zgłoszonym planie lotu	</item>
+        <item>	W szkołach lotniczych	</item>
+        <item>	W szkołach lotniczych	</item>
+        <item>	punkt, do którego ważne jest zezwolenie organu służby kontroli ruchu lotniczego powietrznego określony przez udzielone dowódcy statku podanie pośredniego poziomu lotu innego niż poziom lotu na trasę zawarty w bieżącym planie lotu dla danego statku powietrznego	</item>
+        <item>	7 godzin lotu szkoleniowego na dwusterze w tym co najmniej 3 godziny przelotu	</item>
+        <item>	7 godzin lotu szkoleniowego samodzielnego w tym co najmniej 3 godziny przelotu	</item>
+        <item>	15 godzin lotu w nocy	</item>
+        <item>	Co najmniej 7	</item>
+        <item>	Ukończone 21 lat	</item>
+        <item>	Ukończone 21 lat	</item>
+        <item>	Każda czterocyfrowa kombinacja cyfr od 0 - 7	</item>
+        <item>	kontroli ruchu lotniczego	</item>
+        <item>	do końca doby	</item>
+        <item>	Dokument tożsamości ze zdjęciem	</item>
+        <item>	tylko dotyczące rozdziału Tomu I-go	</item>
+        <item>	liczba Macha	</item>
+        <item>	Dotyczące wykonywania lotów gaśniczych	</item>
+        <item>	Dotyczące wykonywania lotów gaśniczych	</item>
+        <item>	Dotyczące wykonywania lotów gaśniczych	</item>
+        <item>	Dotyczące wykonywania lotów gaśniczych	</item>
+        <item>	Dotyczące wykonywania lotów gaśniczych	</item>
+        <item>	Dotyczące wykonywania lotów gaśniczych	</item>
+        <item>	Dotyczące wykonywania lotów gaśniczych	</item>
+        <item>	Dotyczące wykonywania lotów gaśniczych	</item>
+        <item>	Dotyczące wykonywania lotów gaśniczych	</item>
+        <item>	Jest uprawniony do wykonywania bez wynagrodzenia czynności dowódcy i drugiego pilota każdego samolotu używanego odpłatnie	</item>
+        <item>	Co najmniej wyższe	</item>
+        <item>	Co najmniej wyższe	</item>
+        <item>	Przepisom prawa administracyjnego	</item>
+        <item>	10 min	</item>
+        <item>	60 min	</item>
+        <item>	60 min	</item>
+        <item>	w czasie określonym od planowanego czasu startu	</item>
+        <item>	w czasie określonym od planowanego czasu odblokowania	</item>
+        <item>	10 min	</item>
+        <item>	10 min	</item>
+        <item>	10 min	</item>
+        <item>	wysokości bezwzględnej 1450 m	</item>
+        <item>	wysokości bezwzględnej 1450 m	</item>
+        <item>	wysokości bezwzględnej 1450 m	</item>
+        <item>	wysokości bezwzględnej 1450 m	</item>
+        <item>	wysokości bezwzględnej 1450 m	</item>
+        <item>	wysokości bezwzględnej 1450 m	</item>
+        <item>	wysokości bezwzględnej 1450 m	</item>
+        <item>	wysokości bezwzględnej 1450 m	</item>
+        <item>	wysokości bezwzględnej 1500 m	</item>
+        <item>	FL 55	</item>
+        <item>	FL 55	</item>
+        <item>	wysokości bezwzględnej 1450 m	</item>
+        <item>	FL 60	</item>
+        <item>	FL 65	</item>
+        <item>	FL 70	</item>
+        <item>	Według prawa państwa , w którym miał lądować dany statek powietrzny	</item>
+        <item>	Według prawa państwa , w którym jest zarejestrowany statek powietrzny nie ponoszący winy za zderzenie	</item>
+        <item>	Według prawa państwa , w którym miał lądować dany statek powietrzny	</item>
+        <item>	Według prawa państwa , w którym miał lądować dany statek powietrzny	</item>
+        <item>	Według prawa państwa , w którym miał lądować dany statek powietrzny	</item>
+        <item>	Według prawa państwa , w którym miał lądować dany statek powietrzny	</item>
+        <item>	Według prawa państwa , w którym jest zarejestrowany statek powietrzny nie ponoszący winy za zderzenie	</item>
+        <item>	Według prawa państwa , w którym miał lądować dany statek powietrzny	</item>
+        <item>	Nie więcej niż 10 godzin lotu, wykonanych przez niego na urządzeniu treningowym	</item>
+        <item>	Wykonał co najmniej 30 godzin lotu na samolotach zaliczonych do klasy samolotów wielosilnikowych tłokowych	</item>
+        <item>	Wykonał co najmniej 15 godzin lotu szkoleniowego na dwusterze z instruktorem, w przypadku szkolenia na samolotach zaliczonych do klasy samolotów jednosilnikowych tłokowych	</item>
+        <item>	Wykonał co najmniej 15 godzin lotu szkoleniowego na dwusterze z instruktorem, w przypadku szkolenia na samolotach zaliczonych do klasy samolotów wielosilnikowych tłokowych	</item>
+        <item>	Wykonał co najmniej 30 godzin lotu samodzielnego, w przypadku szkolenia na samolotach zaliczonych do klasy samolotów jednosilnikowych tłokowych	</item>
+        <item>	Wykonał co najmniej 10 godzin przelotu samodzielnego	</item>
+        <item>	Wykonał przelot na odległość nie mniejszą niż  300 NM podczas którego zostały wykonane dwa lądowania z całkowitym zatrzymaniem na dwu różnych lotniskach	</item>
+        <item>	30 min	</item>
+        <item>	Jeśli nowy czas EOBT różni się o więcej niż 5 minut od pierwotnego czasu EOBT	</item>
+        <item>	Gdy statek powietrzny wykonuje lot wbrew zakazom ustalonym w danej przestrzeni powietrznej	</item>
+        <item>	Wszystkie odpowiedzi są poprawne	</item>
+        <item>	Żadna z odpowiedzi nie jest poprawna	</item>
+        <item>	Żadna z odpowiedzi nie jest poprawna	</item>
+        <item>	Tylko w przypadku wydania zgody na taką czynność przez ministra właściwego do spraw transportu	</item>
+        <item>	Tylko w przypadku wydania zgody na taką czynność przez ministra właściwego do spraw transportu	</item>
+        <item>	Jest to osoba wpisana w świadectwo zdatności do lotu danego statku powietrznego	</item>
+        <item>	Jest to podmiot który sprawuje nadzór nad funkcjonowaniem danego lotniska,	</item>
+        <item>	Pilot wiatrakowcowy zawodowy	</item>
+        <item>	Pilot śmigłowcowy liniowy	</item>
+        <item>	Skoczek spadochronowy zawodowy	</item>
+        <item>	Skoczek spadochronowy zawodowy	</item>
+        <item>	kontroli ruchu lotniczego	</item>
+        <item>	Organizacja obsługująca dany statek powietrzny	</item>
+        <item>	Organizacja obsługująca dany statek powietrzny	</item>
+        <item>	Organizacja obsługująca dany statek powietrzny	</item>
+        <item>	Funkcjonariusze Straży Granicznej podczas wykonywania czynności służbowych	</item>
+        <item>	Osoba która przekazała prawo używania statku powietrznego nawet jeżeli nie zachowała prawa decydowania w sprawach wykonywania lotu	</item>
+        <item>	Osoba eksploatująca statek powietrzny, nawet jeżeli nie używała go w czasie spowodowania szkody	</item>
+        <item>	Osoba eksploatująca statek powietrzny, nawet jeżeli nie używała go w czasie spowodowania szkody	</item>
+        <item>	Co do zasady osoba eksploatująca statek powietrzny solidarnie z pasażerami	</item>
+        <item>	Osoba eksploatująca statek powietrzny, nawet jeżeli nie używała go w czasie spowodowania szkody	</item>
+        <item>	Osoba która przekazała prawo używania statku powietrznego nawet jeżeli nie zachowała prawa decydowania w sprawach wykonywania lotu	</item>
+        <item>	Osoba eksploatująca statek powietrzny, nawet jeżeli nie używała go w czasie spowodowania szkody	</item>
+        <item>	Osoba eksploatująca statek powietrzny, nawet jeżeli nie używała go w czasie spowodowania szkody	</item>
+        <item>	Organizacja Międzynarodowego Lotnictwa Cywilnego (ICAO)	</item>
+        <item>	Minister właściwy do spraw transportu	</item>
+        <item>	Minister właściwy do spraw transportu	</item>
+        <item>	Organizacja Międzynarodowego Lotnictwa Cywilnego (ICAO) zgodnie z Aneksem Nr 2 oraz Aneksem Nr 11	</item>
+        <item>	Rada Ministrów	</item>
+        <item>	Centralne Stanowisko Dowodzenia	</item>
+        <item>	Każdy lot, wykonywany w przestrzeni kontrolowanej	</item>
+        <item>	3 km	</item>
+        <item>	50 m	</item>
+        <item>	przy pułapie chmur większym niż 300 m	</item>
+        <item>	500 m	</item>
+        <item>	463 km/h TAS	</item>
+        <item>	nie mniejsza niż   5 km	</item>
+        <item>	300 km/h IAS	</item>
+        <item>	nie niżej niż 200 m pod pułapem chmur	</item>
+        <item>	200 m	</item>
+        <item>	15 NM	</item>
+        <item>	10km	</item>
+        <item>	10 km	</item>
+        <item>	10 km	</item>
+        <item>	od najwyższego wzniesienia terenu na trasie	</item>
+        <item>	Minimum Safe Altitude – Minimalną bezpieczną  wysokość bezwzględną lotu dla lotów IFR i VFR poza CTA	</item>
+        <item>	Na statkach powietrznych mających wymagane znaki rozpoznawcze	</item>
+        <item>	O 10 godzin	</item>
+        <item>	O 10 godzin	</item>
+        <item>	O 10 godzin	</item>
+        <item>	Nie ma takiej możliwości	</item>
+        <item>	Nie ma takiej możliwości	</item>
+        <item>	Nie ma takiej możliwości	</item>
+        <item>	Służbę meteorologiczną	</item>
+        <item>	Służbę kontroli ruchu lotniczego	</item>
+        <item>	24 miesiące	</item>
+        <item>	24 miesiące	</item>
+        <item>	Organizacja lotnicza prowadząca szkolenia lotnicze jako działalność statutową	</item>
+        <item>	X	</item>
+        <item>	N	</item>
+        <item>	W	</item>
+        <item>	S	</item>
+        <item>	N	</item>
+        <item>	S	</item>
+        <item>	I	</item>
+        <item>	V	</item>
+        <item>	Mający uszkodzone podwozie	</item>
+        <item>	tak	</item>
+        <item>	Podręcznik pilota	</item>
+        <item>	płaszczyzna izobaryczna odniesiona do wartości ciśnienia 1013,2 hPa oddzielona od innych takich płaszczyzn o stałą różnicę ciśnienia	</item>
+        <item>	płaszczyzna izobaryczna odniesiona do wartości ciśnienia 1013,2 hPa oddzielona od innych takich płaszczyzn o stałą różnicę ciśnienia	</item>
+        <item>	najwyższy poziom lotu jaki można wykorzystać poniżej wysokości przejściowej	</item>
+        <item>	płaszczyzna izobaryczna odniesiona do wartości ciśnienia 1013,2 hPa oddzielona od innych takich płaszczyzn o stałą różnicę ciśnienia	</item>
+        <item>	podczas wykonywania prac agrolotniczych na małych wysokościach	</item>
+        <item>	podczas wykonywania prac agrolotniczych na małych wysokościach	</item>
+        <item>	seria błysków białych	</item>
+        <item>	seria błysków białych	</item>
+        <item>	seria błysków zielonych	</item>
+        <item>	seria błysków białych	</item>
+        <item>	seria błysków białych	</item>
+        <item>	Zakazu przekraczania granic jakiegokolwiek państwa bez wymaganego zezwolenia	</item>
+        <item>	ciśnienie atmosferyczne zmierzone na progu drogi startowej odniesione do lotniska	</item>
+        <item>	ciśnienie atmosferyczne zmierzone na średnim poziomie morza	</item>
+        <item>	Obronność i bezpieczeństwo RP	</item>
+        <item>	Zobowiązania RP wynikające z wiążących uchwał Rady Bezpieczeństwa ONZ	</item>
+        <item>	ma obowiązek zapewnić separacje między statkami powietrznymi wykonującymi loty IFR i loty VFR	</item>
+        <item>	VFR - spec od VFR - spec	</item>
+        <item>	VFR - spec od VFR	</item>
+        <item>	VFR od  IFR	</item>
+        <item>	VFR od  IFR	</item>
+        <item>	kontrola ruchu lotniczego  w przestrzeni odpowiedzialności tego lotniska	</item>
+        <item>	Przymusowe	</item>
+        <item>	zezwala się kołować	</item>
+        <item>	należy wracać do punktu wyjściowego na lotnisku	</item>
+        <item>	należy zatrzymać się	</item>
+        <item>	należy wracać do punktu wyjściowego na lotnisku	</item>
+        <item>	należy wracać do punktu wyjściowego na lotnisku	</item>
+        <item>	przejdzie do lotu IFR	</item>
+        <item>	QFE	</item>
+        <item>	10 km	</item>
+        <item>	Przez kadrę dydaktyczną posiadającą kwalifikacje i uprawnienia odpowiednie do rodzaju i zakresu szkolenia oraz kierowania nimi	</item>
+        <item>	Zgodnie z przepisami ustawy w zakresie ochrony lotnictwa cywilnego	</item>
+        <item>	Przez kadrę dydaktyczną posiadającą kwalifikacje i uprawnienia odpowiednie do rodzaju i zakresu szkolenia oraz kierowania nimi	</item>
+        <item>	Zgodnie z przepisami ustawy w zakresie ochrony lotnictwa cywilnego	</item>
+        <item>	463 km/h TAS	</item>
+        <item>	nie mniejsza niż 500 m	</item>
+        <item>	8 km	</item>
+        <item>	Sportu i obsługi imprez masowych	</item>
+        <item>	Doświadczeń i szkoleń	</item>
+        <item>	nie mniej niż 300 m	</item>
+        <item>	W formie publikacji w Dzienniku Urzędowym ULC	</item>
+        <item>	Przed upływem 3 lat	</item>
+        <item>	Na samolotach jednosilnikowych tłokowych z maksymalną certyfikowaną liczbą miejsc nie większą niż 4	</item>
+        <item>	Z	</item>
+        <item>	samolot odejść w górę	</item>
+        <item>	z różnicą wysokości co najmniej 150 m	</item>
+        <item>	ograniczone	</item>
+        <item>	7600	</item>
+        <item>	7700	</item>
+        <item>	Prezes ULC dokonuje wykreślenie członka personelu lotniczego z rejestru członków personelu lotniczego	</item>
+        <item>	Prezes ULC dokonuje wykreślenie członka personelu lotniczego z rejestru członków personelu lotniczego	</item>
+        <item>	7700	</item>
+        <item>	7500	</item>
+        <item>	Tylko do cudzoziemców	</item>
+        <item>	VFR - specjalny	</item>
+        <item>	przestrzeń powietrzna zawarta między wysokością przejściową a średnim poziomem morza	</item>
+        <item>	Według prawa państwa , w którym miał lądować dany statek powietrzny	</item>
+        <item>	Według prawa państwa, którego sąd rozpoznaje spór	</item>
+        <item>	Według prawa państwa , w którym miał lądować dany statek powietrzny	</item>
+        <item>	7500	</item>
+        <item>	wysokość, na której pilot przestawia wysokościomierz ze STD na QNH	</item>
+        <item>	wysokość względna, na której pilot przestawia wysokościomierz z QNH na STD	</item>
+        <item>	Szkolenie praktyczne na ziemi i w locie	</item>
+        <item>	Szkolenie praktyczne na ziemi i w locie	</item>
+        <item>	wysokości bezwzględnej 1450 m	</item>
+    </string-array>
+
+    <string-array name="prawo_odp_d" >
+        <item>	Tylko do lądowania.	</item>
+        <item>	Czy otrzymał zgodę na lot.	</item>
+        <item>	Wszystkie pozostałe odpowiedzi są nieprawidłowe	</item>
+        <item>	W sytuacjach szczególnych.	</item>
+        <item>	Czerwonym krzyżem na białym tle.	</item>
+        <item>	Tak, po otrzymaniu zgody od właściwego organu ruchu lotniczego.	</item>
+        <item>	Przełożonego lub najbliższy organ ruchu lotniczego	</item>
+        <item>	Materiałów wybuchowych	</item>
+        <item>	Do zapewnienia bezpieczeństwa osób i rzeczy znajdujących się na pokładzie statku powietrznego	</item>
+        <item>	serią błysków zielonych	</item>
+        <item>	Bezpieczeństwo ruchu lotniczego i ochronę środowiska	</item>
+        <item>	Gdy zgodzę wyrazi minister właściwy do spraw transportu	</item>
+        <item>	Gdy zgodzę wyrazi minister właściwy do spraw transportu	</item>
+        <item>	Minister właściwy do spraw transportu w porozumieniu z Prezesem ULC	</item>
+        <item>	Służby zdrowia	</item>
+        <item>	W celu zawiadamiania organów systemu poszukiwania i ratownictwa o statkach powietrznych potrzebujących pomocy i współdziałania z tymi organami	</item>
+        <item>	W celu optymalizacji natężenia ruchu lotniczego	</item>
+        <item>	2000 m	</item>
+        <item>	rejon lotów po obu stronach granicy państwa będący rejonem czasowo wydzielonym, ustanowionym ze względu na szczególne wymogi operacyjne	</item>
+        <item>	Plan użytkowania przestrzeni powietrznej	</item>
+        <item>	Wysokość elewacji progu pasa startowego	</item>
+        <item>	rejon kontrolowany lotniska	</item>
+        <item>	obszar kontrolowany	</item>
+        <item>	Ośrodek Zarządzania Przepływem Ruchu Lotniczego	</item>
+        <item>	Osoby posiadające świadectwo kwalifikacji	</item>
+        <item>	wojskowa strefa ruchu lotniskowego	</item>
+        <item>	strefa kontrolowana lotniska	</item>
+        <item>	rejon kontrolowany lotniska	</item>
+        <item>	Znajduje się pod wpływem alkoholu	</item>
+        <item>	Instrukcji wykonawczych organizacji obsługi statków powietrznych	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Mogą stosować wyłącznie środki przymusu niezbędne do osiągnięcia podporządkowania poleceniom i decyzjom dowódcy	</item>
+        <item>	Tak, ale tylko za zezwoleniem ministra właściwego do spraw transportu	</item>
+        <item>	Tak, ma obowiązek udzielić pomocy ale tylko jeżeli sygnał pochodzi z terytorium nie objętego żadną zwierzchnością państwową.	</item>
+        <item>	Tak, ma obowiązek udzielić pomocy ale tylko jeżeli sygnał pochodzi z terytorium nie objętego żadną zwierzchnością państwową.	</item>
+        <item>	Tak, ma obowiązek udzielić pomocy ale tylko jeżeli sygnał pochodzi z terytorium nie objętego żadną zwierzchnością państwową.	</item>
+        <item>	Tak, ma obowiązek udzielić pomocy ale tylko jeżeli sygnał pochodzi z terytorium nie objętego żadną zwierzchnością państwową.	</item>
+        <item>	Tak, ale tylko kiedy jest to egzamin poprawkowy	</item>
+        <item>	Tak, ale tylko kiedy jest to egzamin poprawkowy	</item>
+        <item>	Tak jeżeli zezwoli na to minister właściwy do spraw transportu	</item>
+        <item>	Tak jeżeli zezwoli na to minister właściwy do spraw transportu	</item>
+        <item>	Tak, ale tylko w przypadku lotów komercyjnych	</item>
+        <item>	Tak ale tylko w przypadku własnej choroby	</item>
+        <item>	Niezwłocznego wykonywania poleceń przekazanych przez wojskowe statki powietrzne	</item>
+        <item>	Tak, jeżeli okres zawieszenia jest dłuższy niż 6 miesięcy	</item>
+        <item>	Mogą ale tylko po zezwoleniu dzielonym przez Prezesa ULC	</item>
+        <item>	Mogą ale tylko po zezwoleniu dzielonym przez Prezesa ULC	</item>
+        <item>	Jest to dopuszczalne	</item>
+        <item>	Jest to dokument określający możliwość posiadania określonych kwalifikacji i określający możliwość wykonywania lotów statkiem powietrznym	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Do przewodniczącego danej komisji lekarskiej centrum medycyny lotniczej	</item>
+        <item>	Do przełożonego danego lekarza orzecznika	</item>
+        <item>	serią błysków zielonych	</item>
+        <item>	płyta postojowa zajęta	</item>
+        <item>	należy lądować na tym lotnisku i kołować do płyty postojowej	</item>
+        <item>	FL55	</item>
+        <item>	nie niżej niż 200m AGL	</item>
+        <item>	nie niżej niż 900m AGL	</item>
+        <item>	Elewacja najniższego progu drogi startowej	</item>
+        <item>	Na konferencji montrealskiej	</item>
+        <item>	Żadna z odpowiedzi nie jest poprawna	</item>
+        <item>	Żadna z odpowiedzi nie jest poprawna	</item>
+        <item>	W ruchu lotniczym kontrolowanym – czas UTC, w niekontrolowanym – czas LMT	</item>
+        <item>	Żadna z odpowiedzi nie jest poprawna	</item>
+        <item>	Współpracując z centrum medycyny lotniczej które wydało zaskarżone orzeczenie, rozpatruje zasadność odwołania	</item>
+        <item>	Służbę informacji powietrznej	</item>
+        <item>	Służba kontroli ruchu lotniczego i służba informacji powietrznej	</item>
+        <item>	Statki powietrzne posiadające malowanie powierzchni zgodne z wymogami ICAO,	</item>
+        <item>	Statki powietrzne posiadające malowanie powierzchni zgodne z wymogami ICAO,	</item>
+        <item>	Statki powietrzne posiadające malowanie powierzchni zgodne z wymogami ICAO,	</item>
+        <item>	Posiadać odpowiednie orzeczenie lotniczo-lekarskie	</item>
+        <item>	Jeżeli nie uzyskał jeszcze pełnoletniości musi posiadać pisemną zgodę przedstawiciela ustawowego	</item>
+        <item>	Prawu państwa z którego nastąpił start	</item>
+        <item>	Prawu państwa z którego nastąpił start danego statku powietrznego	</item>
+        <item>	w odległości min. 20 km;	</item>
+        <item>	w odległości min. 20 km	</item>
+        <item>	w odległości min. 25 km;	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Znajduje się pod wpływem alkoholu	</item>
+        <item>	Znajduje się pod wpływem alkoholu	</item>
+        <item>	Żadna z odpowiedzi nie jest prawidłowa	</item>
+        <item>	Żadna z odpowiedzi nie jest prawidłowa	</item>
+        <item>	Żadna z odpowiedzi nie jest prawidłowa	</item>
+        <item>	Na wniosek złożony do ministra właściwego do spraw transportu	</item>
+        <item>	Kiedy upłynie termin ważności licencji	</item>
+        <item>	Gdy zgodzę wyrazi minister właściwy do spraw transportu	</item>
+        <item>	Gdy zgodzę wyrazi minister właściwy do spraw transportu	</item>
+        <item>	Żadna z odpowiedzi nie jest poprawna	</item>
+        <item>	Żadna z odpowiedzi nie jest poprawna	</item>
+        <item>	Nie była skazana prawomocnym wyrokiem za popełnienie przestępstwa	</item>
+        <item>	Osobie która odpowiada wymaganiom w zakresie sprawności psychicznej i fizycznej, potwierdzonym orzeczeniem o braku przeciwwskazań do wykonywania funkcji członka personelu lotniczego	</item>
+        <item>	Osobie która została skazana prawomocnym wyrokiem	</item>
+        <item>	Osobie która nie spełnia wymogu w zakresie wieku	</item>
+        <item>	Osobie która nie spełnia wymogu wieku	</item>
+        <item>	Osobie która została skazana prawomocnym wyrokiem	</item>
+        <item>	Osobie która nie spełnia wymogu wieku	</item>
+        <item>	Osobie która została skazana prawomocnym wyrokiem	</item>
+        <item>	Osobie która została skazana prawomocnym wyrokiem	</item>
+        <item>	Osobie która nie spełnia wymogu wieku	</item>
+        <item>	technicznych aspektów projektowania silników lotniczych	</item>
+        <item>	Wszystkie odpowiedzi są poprawne	</item>
+        <item>	Wszystkie odpowiedzi są poprawne	</item>
+        <item>	Wszystkie odpowiedzi są poprawne	</item>
+        <item>	Wszystkie odpowiedzi są poprawne	</item>
+        <item>	Wszystkie odpowiedzi są poprawne	</item>
+        <item>	Wszystkie odpowiedzi są poprawne	</item>
+        <item>	Wszystkie odpowiedzi są poprawne	</item>
+        <item>	Jest to osoba będąca w trakcie szkolenia lotniczego odbywającego się zgodnie z przepisami wykonawczymi	</item>
+        <item>	Jest to osoba będąca w trakcie szkolenia lotniczego odbywającego się zgodnie z przepisami wykonawczymi	</item>
+        <item>	Użytkownik statku powietrznego na pokładzie którego miało miejsce dane zdarzenie	</item>
+        <item>	Użytkownik statku powietrznego na pokładzie którego miało miejsce dane zdarzenie	</item>
+        <item>	Użytkownik statku powietrznego na pokładzie którego miało miejsce dane zdarzenie	</item>
+        <item>	Członkowie załogi statku powietrznego	</item>
+        <item>	Żadna z odpowiedzi nie jest poprawna	</item>
+        <item>	Żadna z odpowiedzi nie jest poprawna	</item>
+        <item>	Minister właściwy do spraw transportu w porozumieniu z Prezesem ULC	</item>
+        <item>	właściwe wojskowe organy służby ruchu lotniczego	</item>
+        <item>	Naczelny Lekarz	</item>
+        <item>	Naczelny Lekarz	</item>
+        <item>	Są to osoby, które znajdują się w cockpicie statku powietrznego	</item>
+        <item>	Osoba delegowana przez ministra właściwego do spraw transportu	</item>
+        <item>	Przewodniczący Lotniczej Komisji Egzaminacyjnej	</item>
+        <item>	przy widzialności mniejszej niż 1500 m – po spełnieniu określonych warunków	</item>
+        <item>	z prędkością maksymalną 300 kt TAS	</item>
+        <item>	nieokreślona – z dala od chmur	</item>
+        <item>	nieokreślona – z dala od chmur	</item>
+        <item>	10 km	</item>
+        <item>	nieokreślona – z dala od chmur	</item>
+        <item>	nieokreślona – z dala od chmur	</item>
+        <item>	mniejsza niż 5 km, ale nie mniejsza niż 1500 m	</item>
+        <item>	FL 290	</item>
+        <item>	dozwolone tylko wtedy, gdy pilot może utrzymać kontakt wzrokowy z terenem	</item>
+        <item>	dozwolone tylko wtedy, gdy strefa jest nieaktywna	</item>
+        <item>	dozwolone tylko wtedy, gdy pilot może utrzymać kontakt wzrokowy z terenem	</item>
+        <item>	wojskowa strefa kontrolowana lotniska	</item>
+        <item>	wojskowa strefa ruchu lotniskowego	</item>
+        <item>	Na zapewnieniu służby kontroli ruchu lotniczego oraz służby informacji powietrznej	</item>
+        <item>	Na zapewnieniu służby kontroli ruchu lotniczego oraz służby informacji powietrznej	</item>
+        <item>	Na zapewnieniu służby kontroli ruchu lotniczego oraz służby informacji powietrznej	</item>
+        <item>	Na zapewnieniu służby kontroli ruchu lotniczego oraz służby informacji powietrznej	</item>
+        <item>	Na okres 3 lat	</item>
+        <item>	Żadna z odpowiedzi nie jest prawidłowa	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	18 miesięcy	</item>
+        <item>	18 miesięcy	</item>
+        <item>	6 miesięcy	</item>
+        <item>	Nie używać licencji	</item>
+        <item>	Nie używać licencji	</item>
+        <item>	żadnego z tych elementów	</item>
+        <item>	ciągły sygnał czerwony	</item>
+        <item>	Przestrzeń swobodną i przestrzeń kontrolowaną	</item>
+        <item>	przestrzeń powietrzna o określonych wymiarach, w której wszystkim statkom powietrznym zapewniona jest służba kontroli ruchu lotniczego i służba alarmowa	</item>
+        <item>	2000 m	</item>
+        <item>	wszystkie organy służby ruchu lotniczego w odniesieniu do statków powietrznych będących w ich kompetencji lub o których zainteresowany organ służby ruchu lotniczego został powiadomiony	</item>
+        <item>	wydzieloną służbę ustanowioną w granicach określonego obszaru dla zapewniania danych i informacji lotniczych niezbędnych dla bezpieczeństwa, regularności i sprawności żeglugi powietrznej	</item>
+        <item>	zabrania się lądować	</item>
+        <item>	Na podstawie wiążących RP uchwał organizacji międzynarodowych	</item>
+        <item>	rejon kontrolowany lotniska	</item>
+        <item>	strefa kontrolowana lotniska	</item>
+        <item>	rejon kontrolowany lotniska	</item>
+        <item>	rejon kontrolowany lotniska	</item>
+        <item>	Oba stwierdzenia są fałszywe	</item>
+        <item>	B, C, G i przestrzeń powietrzna niesklasyfikowana	</item>
+        <item>	Przez zarządzanie przepływem ruchu lotniczego	</item>
+        <item>	W razie zniszczenia druku licencji	</item>
+        <item>	W razie uszkodzenia druku licencji	</item>
+        <item>	W razie utraty druku licencji	</item>
+        <item>	W formie publikacji w dzienniku urzędowym ULC	</item>
+        <item>	W celu zapewniania załogom statków powietrznych niezbędnych  danych meteorologicznych	</item>
+        <item>	W celu zawiadamiania organów systemu poszukiwania i ratownictwa o statkach powietrznych potrzebujących pomocy i współdziałania z tymi organami	</item>
+        <item>	W celu zawiadamiania organów systemu poszukiwania i ratownictwa o statkach powietrznych potrzebujących pomocy i współdziałania z tymi organami	</item>
+        <item>	Żadna z odpowiedzi nie jest prawidłowa	</item>
+        <item>	W celu optymalizacji natężenia ruchu lotniczego	</item>
+        <item>	W celu optymalizacji natężenia ruchu lotniczego	</item>
+        <item>	W celu optymalizacji natężenia ruchu lotniczego	</item>
+        <item>	W celu zbierania i publikowania informacji lub danych lotniczych mających zasadnicze znaczenie dla bezpieczeństwa i regularności żeglugi powietrznej	</item>
+        <item>	Wszystkie z odpowiedzi są poprawne	</item>
+        <item>	W celu optymalizacji natężenia ruchu lotniczego	</item>
+        <item>	W przypadku stwierdzenia że członek personelu lotniczego nie posiada pełnej zdolności do czynności prawnych	</item>
+        <item>	W przypadku stwierdzenia że członek personelu lotniczego nie posiada pełnej zdolności do czynności prawnych	</item>
+        <item>	W przypadku stwierdzenia że członek personelu lotniczego nie korzysta w pełni z praw publicznych	</item>
+        <item>	W przypadku stwierdzenia że członek personelu lotniczego nie posiada pełnej zdolności do czynności prawnych	</item>
+        <item>	W przypadku stwierdzenia że członek personelu lotniczego nie spełnia wymagań w zakresie wykształcenia	</item>
+        <item>	W przypadku stwierdzenia że członek personelu lotniczego nie spełnia wymagań w zakresie wykształcenia	</item>
+        <item>	W terminie 10 dni od dnia otrzymania orzeczenia	</item>
+        <item>	W terminie 10 dni od dnia otrzymania orzeczenia	</item>
+        <item>	Przed upływem 4 lat	</item>
+        <item>	jest poniżej 450 m	</item>
+        <item>	jest mniejsza niż 5 km	</item>
+        <item>	serią błysków zielonych	</item>
+        <item>	serią błysków zielonych	</item>
+        <item>	W wydzielonych jej częściach wojskowe lotniskowe organy służb ruchu lotniczego lub właściwe organy wojskowe	</item>
+        <item>	Żadna z odpowiedzi nie jest prawidłowa	</item>
+        <item>	Żadna z odpowiedzi nie jest prawidłowa	</item>
+        <item>	Żadna z odpowiedzi nie jest prawidłowa	</item>
+        <item>	Żadna z odpowiedzi nie jest prawidłowa	</item>
+        <item>	Żadna z odpowiedzi nie jest prawidłowa	</item>
+        <item>	W przypadku stwierdzenia że członek personelu lotniczego nie posiada pełnej zdolności do czynności prawnych	</item>
+        <item>	W przypadku stwierdzenia że członek personelu lotniczego nie posiada pełnej zdolności do czynności prawnych	</item>
+        <item>	Nie używać licencji	</item>
+        <item>	Wykonuje w imieniu właściciela przewożonych rzeczy wszelkie czynności , jakie uzna za konieczne dla zabezpieczenia jego interesów	</item>
+        <item>	Wykonuje w imieniu właściciela przewożonych rzeczy wszelkie czynności , jakie uzna za konieczne dla zabezpieczenia jego interesów	</item>
+        <item>	Drogi lotnicze, rejony kontrolowane lotnisk (węzłów lotnisk),  strefy kontrolowane lotnisk oraz   przestrzeń powietrzna poza ich strukturą od FL 95 do FL 460	</item>
+        <item>	Zgodnie z przepisami kraju z którego nastąpił start danego statku powietrznego	</item>
+        <item>	Zgodnie z przepisami kraju rejestracji danego statku powietrznego	</item>
+        <item>	Według prawa państwa nad którego terytorium przelatuje dany statek powietrzny	</item>
+        <item>	Wykonywania przez członka personelu lotniczego czynności lotniczych niezgodnie z warunkami określonymi w licencji lub w świadectwach kwalifikacji	</item>
+        <item>	2000 m AGL	</item>
+        <item>	2000 m	</item>
+        <item>	2000 m AGL	</item>
+        <item>	wierzchołka przeszkody, nad którą statek powietrzny aktualnie przelatuje	</item>
+        <item>	2000 m AGL	</item>
+        <item>	1500 m	</item>
+        <item>	Właściwą delegaturę ULC	</item>
+        <item>	Osoby posiadające licencję członka personelu lotniczego	</item>
+        <item>	pogorszenia się sprawności fizycznej w stopniu nie mającym wpływu na jego zdolność do bezpiecznego wykonywania czynności lotniczych	</item>
+        <item>	Tak, ale tylko w przypadku, kiedy są przeprowadzane dla osób powyżej 30 roku życia	</item>
+        <item>	Tak, ale tylko jeżeli statek powietrzny jest używany w szkoleniu lotniczym	</item>
+        <item>	Nie, jeśli jest określona granica zezwolenia	</item>
+        <item>	Zatrzymaniu osoby podejrzanej o popełnienie przestępstwa na statku powietrznym do czasu przekazania jej właściwym organom	</item>
+        <item>	Zastosowaniu niezbędnych środków, łącznie ze środkami przymusu w stosunku do osób nie wykonujących jego poleceń	</item>
+        <item>	W razie upływu terminu 3 lat od dnia upływu terminu ważności licencji	</item>
+        <item>	W razie upływu terminu 3 lat od dnia upływu terminu ważności świadectw kwalifikacji	</item>
+        <item>	Kiedy upłynie termin ważności licencji	</item>
+        <item>	Gdy istnieją uzasadnione obawy, aby sądzić, że statek powietrzny jest użyty do działań sprzecznych z prawem	</item>
+        <item>	Gdy na pokładzie statku powietrznego znajduje się osoba obłożnie chora	</item>
+        <item>	Gdy warunki meteorologiczne uległy pogorszeniu poniżej minimów dla danej klasy przestrzeni powietrznej	</item>
+        <item>	Gdy warunki meteorologiczne uległy pogorszeniu poniżej minimów dla danej klasy przestrzeni powietrznej	</item>
+        <item>	Pilot wiatrakowcowy turystyczny	</item>
+        <item>	Funkcjonariusze Agencji Wywiadu podczas wykonywania czynności służbowych	</item>
+        <item>	Funcjonariusze Biura Ochrony Rządu podczas wykonywania czynności służbowych	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Kasa chorych na terenie której centrum medycyny lotniczej działa	</item>
+        <item>	Kasa chorych na terenie której dany lekarz orzecznik działa	</item>
+        <item>	W drodze rozporządzenia wprowadzić częściowy zakaz lotów dla statków powietrznych	</item>
+        <item>	Na czas krótszy niż 1 miesiąc	</item>
+        <item>	Na statkach powietrznych wpisanych do polskiego lub obcego rejestru cywilnych statków powietrznych	</item>
+        <item>	Służbę poszukiwania i ratownictwa	</item>
+        <item>	Służbę informacji powietrznej	</item>
+        <item>	Właściwą delegaturę ULC	</item>
+        <item>	Właściwą delegaturę ULC	</item>
+        <item>	Właściwą delegaturę ULC	</item>
+        <item>	Właściwą delegaturę ULC	</item>
+        <item>	Jednostki ochrony przeciwpożarowej, mogące udzielić pomocy	</item>
+        <item>	Właściwą delegaturę ULC	</item>
+        <item>	Właściwą delegaturę ULC	</item>
+        <item>	Właściwą delegaturę ULC	</item>
+        <item>	Przy Prezydencie RP,	</item>
+        <item>	reklamy	</item>
+        <item>	Służby zdrowia	</item>
+        <item>	Minister właściwy do spraw transportu zawiesza ważność uprawnienia przez dokonanie odpowiedniego wpisu do licencji	</item>
+        <item>	Minister właściwy do spraw transportu zawiesza ważność uprawnienia przez dokonanie odpowiedniego wpisu do licencji	</item>
+        <item>	Minister właściwy do spraw transportu zawiesza ważność uprawnienia przez dokonanie odpowiedniego wpisu do licencji	</item>
+        <item>	Dokumenty potwierdzające spełnienie odpowiednich wymagań dotyczących szkolenia lotniczego teoretycznego i praktycznego	</item>
+        <item>	Żadna z odpowiedzi nie jest poprawna	</item>
+        <item>	Tak, ale tylko na terenie międzynarodowych portów lotniczych,	</item>
+        <item>	lotniskowy ruch kolizyjny	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	10 km	</item>
+        <item>	8 NM	</item>
+        <item>	każdy dowolny kod w modzie A	</item>
+        <item>	Poleceń organów państwa, nad którego terytorium lot się odbywa,	</item>
+        <item>	ma obowiązek zapewnić separacje między statkami powietrznymi wykonującymi loty IFR i loty  IFR	</item>
+        <item>	nieokreślona - z dala od chmur	</item>
+        <item>	600 m AGL	</item>
+        <item>	skrót oznaczający "aerodrome  flight information  facility  location"	</item>
+        <item>	SPL – Supplementary Flight Plan	</item>
+        <item>	Jest to lotnisko użytku publicznego posiadające ustanowioną procedurę podejścia wg przepisów IFR	</item>
+        <item>	Żadna z odpowiedzi nie jest prawidłowa	</item>
+        <item>	Znajduje się pod wpływem alkoholu	</item>
+        <item>	Tak, ale tylko w przypadku kiedy organizacja ma zamiar przeprowadzić szkolenie na statkach powietrznych o masie przekraczającej 5700 kg.	</item>
+        <item>	Tak, ale tylko w przypadku kiedy ośrodek chce wykonywać szkolenia na śmigłowcach	</item>
+        <item>	tak, jeśli są na nim warunki VMC	</item>
+        <item>	Tak, ale tylko jeżeli właściciel statku powietrznego wyrazi na to zgodę	</item>
+        <item>	Jest, to dopuszczalne za zgodą kierownictwa szkoły do której uczęszcza kandydat	</item>
+        <item>	Tak, ale jeżeli od utraty ważności certyfikatu nie minął okres dłuższy niż 14 dni	</item>
+        <item>	Tak, ale jeżeli uzyska certyfikat w ciągu 14 dni od chwili rozpoczęcia takiego szkolenia	</item>
+        <item>	Jest, to dopuszczalne za zgodą kierownictwa szkoły do której uczęszcza kandydat	</item>
+        <item>	Tak, ale jeżeli od utraty ważności certyfikatu nie minął okres dłuższy niż 14 dni	</item>
+        <item>	Tak, ale jeżeli uzyska certyfikat w ciągu 14 dni od chwili rozpoczęcia takiego szkolenia	</item>
+        <item>	Tak, pod warunkiem posiadania orzeczenia lotniczo-lekarskiego klasy III	</item>
+        <item>	Tak, pod warunkiem posiadania orzeczenia lotniczo-lekarskiego klasy III	</item>
+        <item>	Tak, ale bez prawa sporządzania kopii tych dokumentów,	</item>
+        <item>	Tak, ale tylko na terenie międzynarodowych portów lotniczych,	</item>
+        <item>	Tak, ale tylko na terenie międzynarodowych portów lotniczych,	</item>
+        <item>	Tak, ale tylko na terenie międzynarodowych portów lotniczych,	</item>
+        <item>	Tak, ale tylko na terenie międzynarodowych portów lotniczych,	</item>
+        <item>	Nie, ale tylko w stosunku do podmiotów polskich	</item>
+        <item>	Prowadzi szkolenie jako działalność statutową	</item>
+        <item>	Odbyciem nadzorowanej praktyki lotniczej	</item>
+        <item>	Nauczaniem naziemnym kontrolerów ruchu lotniczego	</item>
+        <item>	Mechanik poświadczania obsługi statku powietrznego	</item>
+        <item>	Informator służby informacji powietrznej	</item>
+        <item>	lotnisko nie jest bezpieczne, nie lądować	</item>
+        <item>	należy lądować na tym lotnisku i kołować do płyty postojowej	</item>
+        <item>	zwykłe	</item>
+        <item>	Zatrzymaniu osoby podejrzanej o popełnienie przestępstwa na statku powietrznym do czasu przekazania jej właściwym organom	</item>
+        <item>	Zastosowaniu niezbędnych środków, łącznie ze środkami przymusu w stosunku do osób nie wykonujących jego poleceń	</item>
+        <item>	Wykonywać regularne skręty o 180 stopni w lewo i prawo co 3 minuty	</item>
+        <item>	10 minut	</item>
+        <item>	kontynuować przez siedem minut lot na aktualnej linii drogi a następnie poprosić właściwy organ służby kontroli ruchu lotniczego o zezwolenie na zmianę trasy lotu	</item>
+        <item>	kontynuować lot do najbliższego punktu meldowania, a po jego przejściu podać właściwemu organowi służb ruchu lotniczego rzeczywisty czas przejścia tego punktu	</item>
+        <item>	poprosić właściwy organ służb ruchu lotniczego o zezwolenie na zmianę poziomu lotu na taki, który pozwoli dostosować prędkość do rzeczywistej prędkości powietrznej podanej w zgłoszonym planie lotu	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	określony czas, w którym statek powietrzny powinien rozpocząć lot, aby osiągnąć lotnisko docelowe w przewidywanym czasie	</item>
+        <item>	Określa to program szkolenia	</item>
+        <item>	Określa to program szkolenia	</item>
+        <item>	Jest to uzależnione od programu szkolenia	</item>
+        <item>	Określa to program szkolenia lotniczego	</item>
+        <item>	Ukończone 18 lat	</item>
+        <item>	Ukończone 18 lat	</item>
+        <item>	Każda czterocyfrowa kombinacja cyfr od 0 - 9	</item>
+        <item>	kontroli ruchu lotniskowego	</item>
+        <item>	24 godz	</item>
+        <item>	Aktualnie wypełniony osobisty dokument praktyki lotniczej, do której uprawnia licencja	</item>
+        <item>	tylko dotyczące tomu II-go	</item>
+        <item>	metry na sekundę	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Żadna z odpowiedzi nie jest poprawna	</item>
+        <item>	Co najmniej średnie	</item>
+        <item>	Co najmniej średnie	</item>
+        <item>	Przepisom prawa karnego i administracyjnego	</item>
+        <item>	3 godz.	</item>
+        <item>	2 godz.	</item>
+        <item>	2 godz.	</item>
+        <item>	nie później niż przed wlotem w przestrzeń kontrolowaną	</item>
+        <item>	nie później niż przed wlotem w przestrzeń kontrolowaną	</item>
+        <item>	3 godz.	</item>
+        <item>	3 godz.	</item>
+        <item>	3 godz.	</item>
+        <item>	wysokości bezwzględnej 1750 m	</item>
+        <item>	wysokości bezwzględnej 1750 m	</item>
+        <item>	wysokości bezwzględnej 1750 m	</item>
+        <item>	wysokości bezwzględnej 1550 m	</item>
+        <item>	wysokości bezwzględnej 1550 m	</item>
+        <item>	wysokości bezwzględnej 1650 m	</item>
+        <item>	wysokości bezwzględnej 1650 m	</item>
+        <item>	wysokości bezwzględnej 1550 m	</item>
+        <item>	wysokości bezwzględnej 1850 m	</item>
+        <item>	FL 190	</item>
+        <item>	FL 180	</item>
+        <item>	wysokości bezwzględnej 1650 m	</item>
+        <item>	FL 190	</item>
+        <item>	FL 170	</item>
+        <item>	FL 200	</item>
+        <item>	Według prawa państwa, z którego startował dany statek powietrzny	</item>
+        <item>	Według prawa państwa, którego sąd rozpoznaje spór	</item>
+        <item>	Według prawa państwa, z którego startował dany statek powietrzny	</item>
+        <item>	Według prawa państwa, z którego startował dany statek powietrzny	</item>
+        <item>	Według prawa państwa, z którego startował dany statek powietrzny	</item>
+        <item>	Według prawa państwa, z którego startował dany statek powietrzny	</item>
+        <item>	Według prawa państwa, którego sąd rozpoznaje spór	</item>
+        <item>	Według prawa państwa, z którego startował dany statek powietrzny	</item>
+        <item>	Nie więcej niż 7 godzin lotu, wykonanych przez niego na urządzeniu treningowym	</item>
+        <item>	Wykonał co najmniej 55 godzin lotu na samolotach zaliczonych do klasy samolotów jednosilnikowych tłokowych	</item>
+        <item>	Wykonał co najmniej 10 godzin lotu szkoleniowego na dwusterze z instruktorem, w przypadku szkolenia na samolotach zaliczonych do klasy samolotów wielosilnikowych tłokowych	</item>
+        <item>	Wykonał co najmniej 10 godzin lotu szkoleniowego na dwusterze z instruktorem, w przypadku szkolenia na samolotach zaliczonych do klasy samolotów jednosilnikowych tłokowych	</item>
+        <item>	Wykonał co najmniej 30 godzin lotu samodzielnego, w przypadku szkolenia na samolotach zaliczonych do klasy samolotów wielosilnikowych tłokowych	</item>
+        <item>	Wykonał co najmniej 7 godzin przelotu samodzielnego	</item>
+        <item>	Wykonał przelot na odległość nie mniejszą niż 270 km (150 NM), podczas którego zostało wykonane lądowanie z całkowitym zatrzymaniem na jednym lotnisku	</item>
+        <item>	120 min	</item>
+        <item>	Przy każdej, nawet jednominutowej zmianie	</item>
+        <item>	Gdy istnieją uzasadnione obawy, aby sądzić, że statek powietrzny jest użyty do działań sprzecznych z prawem	</item>
+        <item>	Gdy na pokładzie statku powietrznego znajduje się osoba obłożnie chora	</item>
+        <item>	Gdy warunki meteorologiczne uległy pogorszeniu poniżej minimów dla danej klasy przestrzeni powietrznej	</item>
+        <item>	Gdy warunki meteorologiczne uległy pogorszeniu poniżej minimów dla danej klasy przestrzeni powietrznej	</item>
+        <item>	Tylko jeżeli właściwy organ innego państwa zwrócił się z oficjalną prośbą o taką czynność	</item>
+        <item>	Tylko jeżeli właściwy organ innego państwa zwrócił się z oficjalną prośbą o taką czynność	</item>
+        <item>	Jest to osoba wpisana w świadectwo oględzin danego statku powietrznego	</item>
+        <item>	Jest to podmiot przyjmujący opłaty za start i lądowanie na danym lotnisku	</item>
+        <item>	Radiooperator pokładowy	</item>
+        <item>	Pilot sterowcowy zawodowy	</item>
+        <item>	Kontroler ruchu lotniczego	</item>
+        <item>	Kontroler ruchu lotniczego	</item>
+        <item>	alarmowej	</item>
+        <item>	Żadna z odpowiedzi nie jest poprawna, nie ma takiej możliwości	</item>
+        <item>	Żadna z odpowiedzi nie jest poprawna, nie ma takiej możliwości	</item>
+        <item>	Żadna z odpowiedzi nie jest poprawna, nie ma takiej możliwości	</item>
+        <item>	Funcjonariusze Biura Ochrony Rządu podczas wykonywania czynności służbowych	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Osoba która przekazała prawo używania statku powietrznego nawet jeżeli nie zachowała prawa decydowania w sprawach wykonywania lotu	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	Europejska Konferencja Lotnictwa Cywilnego (ECAC)	</item>
+        <item>	Każda odpowiedź jest prawidłowa	</item>
+        <item>	Każda odpowiedź jest prawidłowa	</item>
+        <item>	Europejska Konferencja Lotnictwa Cywilnego (ECAC), zgodnie z zaleceniami Wspólnych Władz Lotniczych (JAA) (EASA)	</item>
+        <item>	Prezes ULC	</item>
+        <item>	Stanowisko Dowodzenia Lotniskowej Straży Pożarnej	</item>
+        <item>	Każdy lot, wykonywany według przepisów VFR w przestrzeni kontrolowanej	</item>
+        <item>	5 km	</item>
+        <item>	450 m	</item>
+        <item>	przy widzialności mniejszej niż 5 km - nieokreślonej – po spełnieniu określonych warunków	</item>
+        <item>	nieokreślona – z dala od chmur	</item>
+        <item>	250 kt IAS	</item>
+        <item>	nieokreślona –      z dala od chmur	</item>
+        <item>	250 kt IAS	</item>
+        <item>	nie niżej niż 500 m nad przeszkodami	</item>
+        <item>	500 m	</item>
+        <item>	4km	</item>
+        <item>	4km	</item>
+        <item>	4 km	</item>
+        <item>	4 km	</item>
+        <item>	elewacji lotniska	</item>
+        <item>	Minimum Safe Altitude - wysokość bezwzględną dla danego obszaru zapewniającą minimalne przewyższenie nad przeszkodami dla lotu IFR	</item>
+        <item>	Na statkach powietrznych posiadających zdatność do lotów, potwierdzoną odpowiednimi dokumentami	</item>
+        <item>	Nie ma takiej możliwości	</item>
+        <item>	Nie ma takiej możliwości	</item>
+        <item>	Nie ma takiej możliwości	</item>
+        <item>	O 20 godzin	</item>
+        <item>	O 20 godzin	</item>
+        <item>	O 20 godzin	</item>
+        <item>	Służbę poszukiwania i ratownictwa	</item>
+        <item>	Służbę informacji powietrznej	</item>
+        <item>	18 miesięcy	</item>
+        <item>	18 miesięcy	</item>
+        <item>	Wszystkie odpowiedzi są prawidłowe	</item>
+        <item>	N	</item>
+        <item>	R	</item>
+        <item>	X	</item>
+        <item>	V	</item>
+        <item>	R	</item>
+        <item>	I	</item>
+        <item>	Z	</item>
+        <item>	I	</item>
+        <item>	Mający status HUM	</item>
+        <item>	tak, jeśli nie przekroczy prędkości 300 km/h;	</item>
+        <item>	Instrukcja wykonywania lotów / skoków	</item>
+        <item>	płaszczyzna izobaryczna odniesiona do wartości ciśnienia 1013,2 hPa oddzielona od innych takich płaszczyzn o stałą różnicę wysokości	</item>
+        <item>	płaszczyzna izobaryczna odniesiona do wartości ciśnienia 1013,2 hPa oddzielona od innych takich płaszczyzn o stałą różnicę wysokości	</item>
+        <item>	poziom lotu, na i poniżej którego położenie statku powietrznego w płaszczyźnie pionowej określane jest jako wysokość względna lub bezwzględna	</item>
+        <item>	płaszczyzna izobaryczna odniesiona do wartości ciśnienia 1013,2 hPa oddzielona od innych takich płaszczyzn o stałą różnicę wysokości	</item>
+        <item>	podczas lotu poniżej minimalnej wysokości lotu nad terenem zabudowanym	</item>
+        <item>	podczas przelotu nad lotniskiem powyżej poziomu przejściowego tego lotniska	</item>
+        <item>	seria błysków czerwonych	</item>
+        <item>	ciągłe światło czerwone	</item>
+        <item>	seria błysków czerwonych	</item>
+        <item>	ciągłe światło czerwone	</item>
+        <item>	ciągłe światło czerwone	</item>
+        <item>	Zakazu używania statków powietrznych do działań bezprawnych	</item>
+        <item>	ciśnienie atmosferyczne zmierzone na poziomie morza odniesione do elewacji lotniska	</item>
+        <item>	ciśnienie atmosferyczne zmierzone na poziomie morza odniesione do elewacji lotniska	</item>
+        <item>	Ważny interes gospodarczy RP	</item>
+        <item>	Ważny interes gospodarczy RP	</item>
+        <item>	ma obowiązek zapewnić separacje między statkami powietrznymi wykonującymi loty IFR i loty  IFR	</item>
+        <item>	nie zapewnia żadnemu z nich	</item>
+        <item>	VFR- nocny od VFR - nocny	</item>
+        <item>	nie zapewnia żadnemu z lotów	</item>
+        <item>	nie zapewnia żadnemu lotów	</item>
+        <item>	wojskowa służba ruchu lotniczego w rejonie tego lotniska	</item>
+        <item>	Zwykłe	</item>
+        <item>	należy kołować poza polem wzlotów będącym w użytku	</item>
+        <item>	należy kołować do płyty postojowej	</item>
+        <item>	zezwala się startować	</item>
+        <item>	zezwala się kołować ze zwiększoną ostrożnością	</item>
+        <item>	należy kołować poza polem wzlotów będącym w użytku	</item>
+        <item>	przejdzie do lotu IFR pozostając w warunkach VMC	</item>
+        <item>	ciśnienie na powierzchni terenu, nad którym przelatuje	</item>
+        <item>	6 km	</item>
+        <item>	Przy wykorzystaniu bazy  dydaktycznej odpowiedniej do rodzaju szkolenia lotniczego	</item>
+        <item>	Zgodnie z zatwierdzonymi przez Prezesa ULC i wprowadzonymi w życie instrukcjami oraz dokumentami regulaminowymi	</item>
+        <item>	Przy wykorzystaniu bazy  dydaktycznej odpowiedniej do rodzaju szkolenia lotniczego	</item>
+        <item>	Zgodnie z zatwierdzonymi przez Prezesa ULC i wprowadzonymi w życie instrukcjami oraz dokumentami regulaminowymi	</item>
+        <item>	250 km/h IAS	</item>
+        <item>	nieokreślona - z widocznością ziemi lub wody	</item>
+        <item>	10 km	</item>
+        <item>	reklamy	</item>
+        <item>	Służby zdrowia	</item>
+        <item>	większą od zera, lecz nie większą niż 150 m	</item>
+        <item>	W formie decyzji administracyjnej	</item>
+        <item>	Przed upływem 5 lat	</item>
+        <item>	Do wpisywanych do licencji pilota samolotowego turystycznego uprawnień do lotów nocnych VFR	</item>
+        <item>	S	</item>
+        <item>	śmigłowiec odejść w górę	</item>
+        <item>	w odległości co najmniej 150 m i z różnicą wysokości co najmniej 500 m	</item>
+        <item>	RCA	</item>
+        <item>	7000	</item>
+        <item>	7000	</item>
+        <item>	Minister właściwy do spraw transportu zawiesza ważność uprawnienia przez dokonanie odpowiedniego wpisu do licencji	</item>
+        <item>	Minister właściwy do spraw transportu zawiesza ważność uprawnienia przez dokonanie odpowiedniego wpisu do licencji	</item>
+        <item>	7000	</item>
+        <item>	7000	</item>
+        <item>	Tylko do obywateli polskich jeżeli wyrażą na to zgodę	</item>
+        <item>	IFR w warunkach VMC	</item>
+        <item>	przestrzeń powietrzna zawarta między poziomem przejściowym a średnim poziomem morza	</item>
+        <item>	Według prawa państwa, z którego startował dany statek powietrzny	</item>
+        <item>	Według prawa państwa , z którego startował statek powietrzny nie ponoszący winy za zderzenie	</item>
+        <item>	Według prawa państwa, z którego startował dany statek powietrzny	</item>
+        <item>	każdy inny dowolny kod w modzie A	</item>
+        <item>	wysokość, powyżej której wszystkich obowiązuje nastawienie wysokościomierzy	</item>
+        <item>	wysokość, powyżej której wszystkich obowiązuje nastawienie wysokościomierzy na STD	</item>
+        <item>	Szkolenie praktyczne na ziemi	</item>
+        <item>	Szkolenie uzupełniające szkolenia praktycznego	</item>
+        <item>	wysokości bezwzględnej 1550 m	</item>
+    </string-array>
+</resources>

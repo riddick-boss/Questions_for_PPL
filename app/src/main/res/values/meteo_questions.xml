@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="meteo_questions">
+        <item>	‘Deszcz przechłodzony” występuje, gdy:	</item>
+        <item>	Burze występują głównie na frontach:	</item>
+        <item>	Chmury Ac lub Sc Castellanus występujące o poranku zapowiadają:	</item>
+        <item>	Chmury Ci unc zapowiadają:	</item>
+        <item>	Chmury Cs zapowiadają zbliżanie:	</item>
+        <item>	Chmury Cu są oznaką występowania równowagi:	</item>
+        <item>	Chmury Cu zaliczamy do:	</item>
+        <item>	Chmury o budowie warstwowej to:	</item>
+        <item>	Chmury pięknej pogody to:	</item>
+        <item>	Chmury piętra średniego to:	</item>
+        <item>	Chmury St fra są to chmury:	</item>
+        <item>	Chmury warstwowe to:	</item>
+        <item>	Chwilowy wzrost prędkości wiatru występuje przy przechodzeniu chmur:	</item>
+        <item>	Ciśnienie na wysokości 1,5 km wynosi około:	</item>
+        <item>	Ciśnienie przed frontem ciepłym:	</item>
+        <item>	Ciśnienie w warstwie przyziemnej zmienia się o 1 hPa przy zmianie wysokości o:	</item>
+        <item>	Ciśnienie wraz z wysokością:	</item>
+        <item>	Ciśnienie za frontem chłodnym:	</item>
+        <item>	Cu hum to chmura:	</item>
+        <item>	Cyrkulacja powietrza w wyżu na półkuli północnej jest:	</item>
+        <item>	Długotrwała jest mgła:	</item>
+        <item>	Front chłodny II rodzaju można zauważyć (będąc w powietrzu, przy dobrej widzialności) wzrokowo z odległości:	</item>
+        <item>	Front chłodny przyspieszony przemieszcza się z prędkością:	</item>
+        <item>	Front ciepły przemieszcza się z prędkością:	</item>
+        <item>	Front okluzji powstaje:	</item>
+        <item>	Gdy temperatura powietrza obniża się do temperatury punktu rosy to:	</item>
+        <item>	Inwersja z osiadania powstaje w:	</item>
+        <item>	Izobary przedstawiają rozkład:	</item>
+        <item>	Izobary to linie jednakowego ciśnienia na poziomie:	</item>
+        <item>	Izobary to linie łączące punkty o jednakowym:	</item>
+        <item>	Kierunek wiatru względem izobar jest:	</item>
+        <item>	Masy powietrza polarno-kontynentalne najczęściej obejmują swym wpływem obszar Polski w okresie:	</item>
+        <item>	Mgła adwekcyjna powstaje:	</item>
+        <item>	Mgła powstaje w wyniku:	</item>
+        <item>	Mgła radiacyjna powstaje:	</item>
+        <item>	Mgły o największym zasięgu obszarowym występują:	</item>
+        <item>	Mgły w niżu powstają:	</item>
+        <item>	Na wysokości 400 m nad ziemią ciśnienie jest:	</item>
+        <item>	Na wysokości około 1,5 km ciśnienie wynosi:	</item>
+        <item>	Nagrzane suche powietrze wznosząc się do podstawy chmur Cu:	</item>
+        <item>	Najbardziej gwałtowne zmiany pogody występują:	</item>
+        <item>	Najdłużej utrzymuje się mgła:	</item>
+        <item>	Najgroźniejsze oblodzenie występuje w chmurach przy temperaturze:	</item>
+        <item>	Najgroźniejsze oblodzenie występuje w chmurach:	</item>
+        <item>	Najniższa warstwa atmosfery to:	</item>
+        <item>	Najniższe podstawy ma chmura:	</item>
+        <item>	Najwięcej mgieł występuje:	</item>
+        <item>	Największa turbulencja występuje:	</item>
+        <item>	Nocna inwersja przyziemna temperatury powstaje z powodu:	</item>
+        <item>	O mgle mówimy, gdy widzialność jest mniejsza od:	</item>
+        <item>	Okluzja o charakterze frontu chłodnego występuje w Polsce głównie w:	</item>
+        <item>	Opady gradu występują z chmur:	</item>
+        <item>	Opady marznące powodują powstanie na powierzchni ziemi:	</item>
+        <item>	Opady mżawki występują z chmur:	</item>
+        <item>	Oznaką termiki są chmury:	</item>
+        <item>	Oznaką turbulencji na małych wysokościach są:	</item>
+        <item>	Podczas termiki z chmurami:	</item>
+        <item>	Podstawa chmur to odległość:	</item>
+        <item>	Pomiary za pomocą radiosond są wykonywane w głównych terminach w godz.:	</item>
+        <item>	Poryw wiatru jest to nagły wzrost prędkości wiatru przewyższający prędkość średnią o:	</item>
+        <item>	Powietrze nagrzane wznosząc się do góry od powierzchni ziemi (suchoadiabatyczny gradient temp.):	</item>
+        <item>	Prędkość wiatru jest większa w:	</item>
+        <item>	Prędkość wiatru w prądach strumieniowych przekracza:	</item>
+        <item>	Prędkość wiatru wraz z wysokością najczęściej:	</item>
+        <item>	Przed ciepłym frontem ciśnienie:	</item>
+        <item>	Przy froncie ciepłym występują głównie chmury:	</item>
+        <item>	Przy froncie ciepłym występują:	</item>
+        <item>	Przy przechodzeniu frontu chłodnego:	</item>
+        <item>	Przyziemna inwersja temperatury z wypromieniowania powstaje:	</item>
+        <item>	Rozkład temperatury z wysokością w troposferze jest mierzony za pomocą:	</item>
+        <item>	Równowaga chwiejna występuje, gdy gradient rzeczywisty jest:	</item>
+        <item>	Spadek ciśnienia oznacza zbliżanie się:	</item>
+        <item>	Spokojny wślizg powietrza występuje przy froncie:	</item>
+        <item>	Strefa opadów związanych z frontem ciepłym występuje:	</item>
+        <item>	Symbol graficzny ,, oznacza:	</item>
+        <item>	Temperatura powietrza jest mierzona na wysokości:	</item>
+        <item>	Temperatura punktu rosy jest to temperatura:	</item>
+        <item>	Temperatura punktu rosy to temperatura:	</item>
+        <item>	Dla atmosfery wzorcowej (ISA), temperatura w najniższej warstwie wraz z wysokością:	</item>
+        <item>	Temperatura, przy której skrapla się para wodna to:	</item>
+        <item>	Termika powstaje:	</item>
+        <item>	Tropopauza jest najwyższa:	</item>
+        <item>	Tropopauza w umiarkowanych szerokościach geograficznych jest w pobliżu powierzchni izobarycznej:	</item>
+        <item>	Uskok wiatru towarzyszy chmurze:	</item>
+        <item>	Warstwa od ziemi do wysokości około 11 km to:	</item>
+        <item>	Wiatr dolny jest mierzony na wysokości:	</item>
+        <item>	Wiatr porywisty podaje się, gdy:	</item>
+        <item>	Wiatr w niżu na półkuli północnej wieje:	</item>
+        <item>	Na półkuli północnej wiatr w niżu wieje	</item>
+        <item>	Wiatr z kierunku zachodniego to w stopniach:	</item>
+        <item>	Wiatry górne dla FL050 są wyznaczone z mapy:	</item>
+        <item>	Wiatry górne i temperatura na wyższych wysokościach są mierzone:	</item>
+        <item>	Widzialność poprawia się przy napływie powietrza:	</item>
+        <item>	Wilgotność względna powietrza jest wyrażana w:	</item>
+        <item>	Wycinek ciepły niżu to obszar:	</item>
+        <item>	Wypiętrzone chmury Cu to:	</item>
+        <item>	Wysokość izotermy 0°C jest wyznaczona z pomiarów:	</item>
+        <item>	Wzrost ciśnienia oznacza zbliżanie:	</item>
+        <item>	Z okluzją ciepłą związane są układy chmur towarzyszące frontowi:	</item>
+        <item>	Za frontem chłodnym w okresie lata napływają masy:	</item>
+        <item>	Zbliżanie frontu ciepłego zapowiadają chmury wysokie o wyglądzie:	</item>
+        <item>	Zjawisko „Bryza” powstaje:	</item>
+        <item>	Zjawisko halo występujące na chmurach warstwowych zapowiada zbliżanie:	</item>
+        <item>	Źródłem mas powietrza arktycznego jest:	</item>
+        <item>	Opady ciągłe występują z chmur:	</item>
+        <item>	Opady ciągłe występują z chmur:	</item>
+        <item>	Opady ciągłe występują:	</item>
+        <item>	Podstawy chmur St nie przekraczają:	</item>
+        <item>	Przy ruchach falowych powstają chmury:	</item>
+        <item>	Szlaki chmur Cu są charakterystyczne dla termiki:	</item>
+        <item>	Temperatura na wysokości 500 m może być wyższa od przyziemnej, gdy występuje:	</item>
+        <item>	Termika naniesiona powstaje przy napływie:	</item>
+        <item>	Termika naniesiona powstaje:	</item>
+        <item>	Termika wypracowana powstaje:	</item>
+        <item>	Ciągły opad deszczu ze śniegiem wskazuje na występowanie:	</item>
+        <item>	Depesza TAF zawiera:	</item>
+        <item>	EMBD odnosi się do chmur:	</item>
+        <item>	Izohipsy są to linie:	</item>
+        <item>	JET-STREAM jest to:	</item>
+        <item>	JET-STREAM osiąga maksymalnie:	</item>
+        <item>	JET-STREAM występuje:	</item>
+        <item>	Mapa dla FL 180 to powierzchnia izobaryczna:	</item>
+        <item>	METAR podaje:	</item>
+        <item>	NOSIG oznacza:	</item>
+        <item>	Opady ciągłe występują z chmur:	</item>
+        <item>	Opady ciągłe występują:	</item>
+        <item>	Opady ciągłe występują:	</item>
+        <item>	Pionowy gradient temperatury w troposferze wynosi:	</item>
+        <item>	Podczas mgły widzialność nie przekracza:	</item>
+        <item>	Podstawy chmur St nie przekraczają:	</item>
+        <item>	Przy deszczu ciągłym umiarkowanym grupa chmurowa ma postać:	</item>
+        <item>	RVR należy podawać, gdy widzialność jest:	</item>
+        <item>	SIGMET należy opracowywać o następujących burzach:	</item>
+        <item>	SIGMET to:	</item>
+        <item>	Temperatura na wysokości 500 m może być wyższa od przyziemnej, gdy występuje:	</item>
+        <item>	TEMPO oznacza zmiany:	</item>
+        <item>	W grupie OVC070 zaszyfrowane są chmury:	</item>
+        <item>	W przypadku bezchmurnego nieba z oblodzeniem można się spotkać w przypadku:	</item>
+        <item>	Wiatr wieje względem izohips:	</item>
+    </string-array>
+</resources>

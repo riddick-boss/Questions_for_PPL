@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="osiagi_questions">
+        <item>	Błąd barometryczny wysokościomierza pojawia się, gdy:	</item>
+        <item>	Błąd temperaturowy wysokościomierza pojawia się, gdy:	</item>
+        <item>	Ciężar elementu 55 kg, ramie 2.3 m. Moment = [kgm]	</item>
+        <item>	Jeśli środek ciężkości znajduje się blisko skrajnego przedniego położenia to nastąpi:	</item>
+        <item>	Międzynarodowa Atmosfera Wzorcowa (International Standard Atmosphere) definiuje następujące warunki na poziomie morza: temperatura / ciśnienie  / gęstość / gradient temperatury:	</item>
+        <item>	Środek ciężkości jest wyrażony w:	</item>
+        <item>	Środek ciężkości można zdefiniować jako:	</item>
+        <item>	"Ważenie statku powietrznego (SP): odczyt na wadze pod przednim podwoziem 155 kg, odczyt – suma na głównym 320 kg. Odległość przód SP – przednie podwozie 0.8m, przód SP - główne 2.4 m. Jaka jest odległość przód SP – środek ciężkości?"	</item>
+        <item>	"Ważenie statku powietrznego (SP): odczyt na wadze pod przednim podwoziem 205 kg, odczyt – suma na głównym 420 kg. Odległość przód SP – przednie podwozie 0.9m, przód SP - główne 2.6 m. Jaka jest odległość przód SP – środek ciężkości?"	</item>
+        <item>	Wyrażenie (wzór) na moment (siły): Moment =	</item>
+        <item>	Wysokość ciśnieniową lotniska danego dnia możemy ustalić:	</item>
+        <item>	„Wpływ ziemi” pozwala na:.	</item>
+        <item>	„Wpływ ziemi” to zjawisko polegające na:.	</item>
+        <item>	Aby przy rozbiegu / dobiegu samolotu wystąpiło zjawisko „hydroplanning’” (dynamiczne) muszą wystąpić nastepujące czynniki:.	</item>
+        <item>	Co to jest V<sub>X</sub>:.	</item>
+        <item>	Co to jest V<sub>Y</sub>:.	</item>
+        <item>	Czy wysoka wilgotność przyczynia się do spadku osiągów samolotu:.	</item>
+        <item>	Dla każdej kombinacji wysokości lotu i masy samolotu, w zakresie prędkości minimalnej do maksymalnej istnieje:.	</item>
+        <item>	Duża wysokość gęstościowa oznacza (w stosunku do małej wysokości gęstościowej):.	</item>
+        <item>	Jak wpłynie na długość rozbiegu samolotu (na danym lotnisku) wysoka temperatura otoczenia w porównaniu z przypadkiem, gdy temperatura otoczenia jest niska:.	</item>
+        <item>	Jak wpłynie na długość rozbiegu samolotu start z lotniska położonego wysoko w górach, w stosunku do startu w takich samych warunkach temperatury, masy samolotu, wiatru i ustawiania klap z lotniska na 0 m npm:.	</item>
+        <item>	Jak wpłynie użycie większego wychylenia klap ( niż zwykle) na długość rozbiegu samolotu:.	</item>
+        <item>	Jak wpłynie zwiększenie masy samolotu na długość rozbiegu:.	</item>
+        <item>	Jakie będą efekty zmiany temperatury otoczenia na osiągi samolotu jeśli wszystkie inne parametry pozostaną niezmnienione:.	</item>
+        <item>	Jakie będą efekty zmiany temperatury otoczenia na osiągi samolotu jeśli wszystkie inne parametry pozostaną niezmnienione:.	</item>
+        <item>	Jeśli środek ciężkości znajduje się blisko skrajnego przedniego położenia to:	</item>
+        <item>	Jeśli środek ciężkości znajduje się przed skrajnym przednim położeniem to samolot będzie między innymi:.	</item>
+        <item>	Kierunek pasa 040°, wiatr 270 / 18 kt (ATIS). Jakie są składowe wiatru:.	</item>
+        <item>	Kierunek pasa 150°, wiatr 220 / 22 kt (ATIS). Jakie są składowe wiatru:.	</item>
+        <item>	Kierunek pasa 200°, wiatr 080 / 13 kt (ATIS). Jakie są składowe wiatru:.	</item>
+        <item>	Kierunek pasa 220°, wiatr 160 / 26 kt (ATIS). Jakie są składowe wiatru:.	</item>
+        <item>	Kierunek pasa 330°, wiatr 250 / 15 kt (ATIS). Jakie są składowe wiatru:.	</item>
+        <item>	Które, z podanych kombinacji warunków pogodowych panujących na lotnisku podczas startu, przyczynią się największego spadku osiągów samolotu:.	</item>
+        <item>	Które, z podanych kombinacji warunków pogodowych panujących na lotnisku podczas startu, przyczynią się największego spadku osiągów samolotu:.	</item>
+        <item>	Liczba Macha to stosunek:.	</item>
+        <item>	Maksymalna konstrukcyjna masa do lądowania (Maximum Structural Landing Mass) to:.	</item>
+        <item>	Mała wysokość gęstościowa oznacza, że:.	</item>
+        <item>	Najbardziej ekonomiczny z punktu widzenia zużycia paliwa / zasięgu kąt natarcia to taki, który wytwarza:.	</item>
+        <item>	Odnośnie efektu „wpływu ziemi” prawdą jest, że:.	</item>
+        <item>	"Odnośnie wpływu oblodzenia na osiągi statków powietrznych prawdą jest, że:."	</item>
+        <item>	Podczas wykonywania prawidłowego zakrętu z przechyleniem 60 stopni:.	</item>
+        <item>	Podczas zakrętu:.	</item>
+        <item>	Przeciążenie wystepujące w zakręcie (load factor) to:.	</item>
+        <item>	Przy starcie z pasa nachylonego - pod górę – przyspieszenie podczas rozbiegu samolotu będzie … ,a długość rozbiegu … :.	</item>
+        <item>	Przy starcie z pasa o nachyleniu dodatnim – z góry długość rozbiegu samolotu:.	</item>
+        <item>	Pułap praktyczny to wysokość ciśnieniowa, na której:.	</item>
+        <item>	Rozbieg z pasa o jakiej nawierzchni będzie najdłuższy:.	</item>
+        <item>	Samolot musi być wyważony ze względu na zachowanie stateczności:.	</item>
+        <item>	Samolot musi być wyważony ze względu na:	</item>
+        <item>	Skutki przeciążenia to między innymi:.	</item>
+        <item>	Użycie (wysunięcie) klap zmniejsza:.	</item>
+        <item>	W danym samolocie mamy dwa położenia klap: 0 i 10 stopni. Aby uzyskać krótszą długość rozbiegu użyjemy klap:.	</item>
+        <item>	W standardowym układzie (klasycznym) środek ciężkości samolotu jest (licząc od przodu):.	</item>
+        <item>	Ważenie samolotu: przednie kółko 1000kg, lewe i prawe koła główne po 5000kg. Odległość między kółkiem przednim i głównymi wynosi 10 m. Ile przed kołami głównego podwozia znajduje się środek masy:	</item>
+        <item>	Zjawisko polegajce na oblodzeniu statecznika poziomego:.	</item>
+    </string-array>
+</resources>

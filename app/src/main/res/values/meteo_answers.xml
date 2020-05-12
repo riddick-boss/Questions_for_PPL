@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="meteo_answers">
+        <item>	Temperatura cząsteczek wody jest niższa od 0°C z zachowaniem stanu ciekłego	</item>
+        <item>	Chłodnych II rodzaju	</item>
+        <item>	Popołudniowe burze	</item>
+        <item>	Zbliżanie frontu ciepłego	</item>
+        <item>	Frontu ciepłego	</item>
+        <item>	Chwiejnej	</item>
+        <item>	Grupy chmur o budowie pionowej	</item>
+        <item>	St, Cs	</item>
+        <item>	Cu hum	</item>
+        <item>	Ac, As	</item>
+        <item>	Postrzępione	</item>
+        <item>	Ns As	</item>
+        <item>	Cb	</item>
+        <item>	850 hPa	</item>
+        <item>	Spada	</item>
+        <item>	około 8 m	</item>
+        <item>	Maleje o około 1 hPa/8 m	</item>
+        <item>	Rośnie	</item>
+        <item>	Pięknej pogody	</item>
+        <item>	Zgodna z ruchem wskazówek zegara z odchyleniem ku ciśnieniu niższemu	</item>
+        <item>	Adwekcyjna	</item>
+        <item>	Ok. 50 km	</item>
+        <item>	Około 60 - 80 km/h	</item>
+        <item>	20 – 40 km/h	</item>
+        <item>	Z połączenia frontu chłodnego z ciepłym	</item>
+        <item>	Widzialność zmniejsza się	</item>
+        <item>	Wyżach	</item>
+        <item>	Poziomy rozkład zmian ciśnienia atmosferycznego zredukowanego do średniego poziomu morza	</item>
+        <item>	Morza	</item>
+        <item>	"Ciśnieniu zredukowanym do średniego poziomu morza"	</item>
+        <item>	Odchylony pod kątem około 30° ze skrętem ku ciśnieniu niższemu	</item>
+        <item>	Zimowym	</item>
+        <item>	Przy napływie ciepłego powietrza	</item>
+        <item>	Kondensacji pary wodnej	</item>
+        <item>	W godzinach nocnych	</item>
+        <item>	W wyżach	</item>
+        <item>	Po przejściu frontu ciepłego	</item>
+        <item>	niższe o 50 hPa	</item>
+        <item>	850 hPa	</item>
+        <item>	Ochładza się o 1°C/100 m	</item>
+        <item>	Przy przechodzeniu frontu chłodnego II rodzaju	</item>
+        <item>	Adwekcyjna	</item>
+        <item>	0°C do - 10°C	</item>
+        <item>	Cb, Ns	</item>
+        <item>	Troposfera	</item>
+        <item>	St	</item>
+        <item>	Późną jesienią i podczas ciepłej zimy	</item>
+        <item>	Podczas przechodzenia frontu chłodnego II rodzaju	</item>
+        <item>	Wypromieniowania ciepła z podłoża	</item>
+        <item>	1000 m	</item>
+        <item>	Ciepłej porze roku	</item>
+        <item>	Cb	</item>
+        <item>	Gołoledzi	</item>
+        <item>	St	</item>
+        <item>	Cu, Cb	</item>
+        <item>	Wiatry porywiste	</item>
+        <item>	Turbulencja występuje	</item>
+        <item>	Od ziemi do dolnej granicy chmur	</item>
+        <item>	00 i 12 UTC	</item>
+        <item>	5 m/s	</item>
+        <item>	Ochładza się o 1&lt;sup&gt;°&lt;/sup&gt;C/100 m	</item>
+        <item>	Niżu	</item>
+        <item>	80 kt	</item>
+        <item>	Wzrasta	</item>
+        <item>	maleje	</item>
+        <item>	Warstwowe	</item>
+        <item>	długotrwałe opady ciągłe	</item>
+        <item>	Kierunek wiatru gwałtownie skręca w prawo a prędkość wzrasta	</item>
+        <item>	W godzinach nocnych	</item>
+        <item>	Radiosond	</item>
+        <item>	Większy od adiabatycznego	</item>
+        <item>	niżu	</item>
+        <item>	Ciepłym	</item>
+        <item>	Przed frontem w odległości 300-400 km	</item>
+        <item>	Opad mżawki	</item>
+        <item>	2 m	</item>
+        <item>	W której powietrze osiąga stan nasycenia	</item>
+        <item>	Przy której następuje kondensacja pary wodnej	</item>
+        <item>	Maleje o 0,65°C/100 m	</item>
+        <item>	Temperatura punktu rosy	</item>
+        <item>	W ciągu słonecznego dnia	</item>
+        <item>	Nad równikiem	</item>
+        <item>	250 hPa	</item>
+        <item>	Cb	</item>
+        <item>	troposfera	</item>
+        <item>	10 m	</item>
+        <item>	"prędkość maksymalna przekracza średnią o 5 m/s"	</item>
+        <item>	Przeciwnie do ruchu wskazówek zegara ze skrętem ku środkowi niżu	</item>
+        <item>	Przeciwnie do ruchu wskazówek zegara ze skrętem ku ciśnieniu niższemu	</item>
+        <item>	270	</item>
+        <item>	850 hPa	</item>
+        <item>	W pomiarach radiosondażowych	</item>
+        <item>	Chłodnego	</item>
+        <item>	Procentach	</item>
+        <item>	Między frontem ciepłym a chłodnym	</item>
+        <item>	Congestus	</item>
+        <item>	Radiosondażowych	</item>
+        <item>	Wyżu	</item>
+        <item>	Ciepłemu	</item>
+        <item>	PPm	</item>
+        <item>	Haczykowatym	</item>
+        <item>	W rejonie brzegu morskiego	</item>
+        <item>	Frontu ciepłego	</item>
+        <item>	Arktyka	</item>
+        <item>	St, Ns, As	</item>
+        <item>	Ns	</item>
+        <item>	Przed frontem ciepłym	</item>
+        <item>	300 m	</item>
+        <item>	Lenticularis	</item>
+        <item>	Naniesionej	</item>
+        <item>	Inwersja	</item>
+        <item>	Powietrza arktycznego lub polarno- morskiego	</item>
+        <item>	Po przejściu frontu chłodnego	</item>
+        <item>	W wyżach	</item>
+        <item>	Oblodzenia	</item>
+        <item>	Prognozę pogody dla lotniska	</item>
+        <item>	Cb	</item>
+        <item>	Jednakowej wysokości powierzchni izobarycznej	</item>
+        <item>	Niezbyt gruba ok. 2 km i wąska strefa bardzo silnych wiatrów występująca na poziomie 9 – 12 km	</item>
+        <item>	Ok. 500 km/h	</item>
+        <item>	W strefie frontu polarnego	</item>
+        <item>	500 hPa	</item>
+        <item>	Obserwacje regularne	</item>
+        <item>	Brak istotnych zmian warunków na lądowanie	</item>
+        <item>	Warstwowych	</item>
+        <item>	Przed frontem ciepłym	</item>
+        <item>	Przed frontem ciepłym	</item>
+        <item>	0,65°C/100 m	</item>
+        <item>	1000 m	</item>
+        <item>	300 m	</item>
+        <item>	OVC010	</item>
+        <item>	mniejsza równa 1500 m	</item>
+        <item>	FRA TS	</item>
+        <item>	Ostrzeżenie dla przestrzeni powietrznej lub trasy	</item>
+        <item>	Inwersja	</item>
+        <item>	Krótkotrwałe trwające krócej niż 1 godz.	</item>
+        <item>	As	</item>
+        <item>	Gdy temperatura powierzchni samolotu jest niższa od temperatury powietrza otaczającego	</item>
+        <item>	Równolegle	</item>
+    </string-array>
+
+    <string-array name="meteo_odp_b" >
+        <item>	Temperatura cząsteczek wody jest wyższa od 0°C	</item>
+        <item>	Chłodnych I rodzaju	</item>
+        <item>	Opady ciągłe w godzinach wieczornych	</item>
+        <item>	Zbliżanie frontu chłodnego	</item>
+        <item>	Frontu chłodnego I rodzaju	</item>
+        <item>	Stałej	</item>
+        <item>	Piętra średniego	</item>
+        <item>	Ci, Cc	</item>
+        <item>	St fra	</item>
+        <item>	Cc, Ci	</item>
+        <item>	Soczewkowate	</item>
+        <item>	Cu Ci	</item>
+        <item>	Ci	</item>
+        <item>	1050 hPa	</item>
+        <item>	Rośnie	</item>
+        <item>	100 m	</item>
+        <item>	Maleje o 1 hPa/100 m	</item>
+        <item>	Spada	</item>
+        <item>	Wypiętrzona	</item>
+        <item>	Od niżu do wyżu	</item>
+        <item>	Radiacyjna	</item>
+        <item>	400 km	</item>
+        <item>	90 – 100 km/h	</item>
+        <item>	10 – 15 km/h	</item>
+        <item>	Z rozmycia frontu ciepłego	</item>
+        <item>	Widzialność nie zmienia się	</item>
+        <item>	Niżach	</item>
+        <item>	Rozkład ciśnienia atmosferycznego	</item>
+        <item>	Ziemi	</item>
+        <item>	Ciśnieniu na poziomie ziemi	</item>
+        <item>	Równoległy do izobar	</item>
+        <item>	Późnej jesieni	</item>
+        <item>	Przy napływie chłodnego powietrza	</item>
+        <item>	Wzrostu zapylenia	</item>
+        <item>	Przed południem	</item>
+        <item>	W niżach	</item>
+        <item>	Przed frontem ciepłym	</item>
+        <item>	niższe o 4 hPa	</item>
+        <item>	700 hPa	</item>
+        <item>	Ogrzewa się o 1°C/100 m	</item>
+        <item>	Przy przechodzeniu klina wyżowego	</item>
+        <item>	Radiacyjna	</item>
+        <item>	- 10°C do - 20°C	</item>
+        <item>	St, Sc	</item>
+        <item>	Stratosfera	</item>
+        <item>	Cu	</item>
+        <item>	Wiosną	</item>
+        <item>	Po przejściu frontu chłodnego I rodzaju	</item>
+        <item>	Wyparowania	</item>
+        <item>	100 m	</item>
+        <item>	Chłodnej porze roku	</item>
+        <item>	Ns	</item>
+        <item>	Szronu	</item>
+        <item>	Ns	</item>
+        <item>	Sc, Ac	</item>
+        <item>	Wiatry spokojne bez porywów	</item>
+        <item>	Turbulencja nie występuje	</item>
+        <item>	Od ziemi do górnej granicy chmur	</item>
+        <item>	03 i 15 UTC	</item>
+        <item>	10 m/s	</item>
+        <item>	Ochładza się o 0,5°C/ 100 m	</item>
+        <item>	Obszarze bezgradientowym	</item>
+        <item>	100 kt	</item>
+        <item>	Maleje	</item>
+        <item>	nie zmienia się	</item>
+        <item>	Kłębiaste	</item>
+        <item>	krótkotrwałe opady przelotne	</item>
+        <item>	Kierunek wiatru gwałtownie skręca w lewo a prędkość wzrasta	</item>
+        <item>	W godzinach popołudniowych	</item>
+        <item>	Balonów na uwięzi	</item>
+        <item>	Mniejszy od adiabatycznego	</item>
+        <item>	wyżu	</item>
+        <item>	Chłodnym II rodzaju	</item>
+        <item>	Za frontem	</item>
+        <item>	Opad deszczu przelotnego	</item>
+        <item>	10 m	</item>
+        <item>	W której powstaje rosa	</item>
+        <item>	Przy której parowanie jest największe	</item>
+        <item>	Rośnie o 0,5°C/100 m	</item>
+        <item>	Temperatura parowania	</item>
+        <item>	Podczas mglistego poranka	</item>
+        <item>	Nad biegunem	</item>
+        <item>	500 hPa	</item>
+        <item>	St	</item>
+        <item>	tropopauza	</item>
+        <item>	2 m	</item>
+        <item>	prędkość wiatru przekracza 10 m/s	</item>
+        <item>	Przeciwnie do ruchu wskazówek zegara wzdłuż izobar	</item>
+        <item>	Przeciwnie do ruchu wskazówek zegara, wzdłuż izobar	</item>
+        <item>	360	</item>
+        <item>	700 hPa	</item>
+        <item>	W pomiarach aktynometrycznych	</item>
+        <item>	Ciepłego i wilgotnego	</item>
+        <item>	Stopniach C	</item>
+        <item>	Przed frontem ciepłym	</item>
+        <item>	Mediocris	</item>
+        <item>	Aktynometrycznych	</item>
+        <item>	Niżu	</item>
+        <item>	Chłodnemu I rodzaju	</item>
+        <item>	PAm	</item>
+        <item>	Poplątanych włókien	</item>
+        <item>	W rejonie jezior mazurskich	</item>
+        <item>	Frontu chłodnego II rodzaju	</item>
+        <item>	Północno-wschodnia część Atlantyku	</item>
+        <item>	Cu, Cb	</item>
+        <item>	Ac	</item>
+        <item>	Po przejściu frontu ciepłego	</item>
+        <item>	100 m	</item>
+        <item>	Castellanus	</item>
+        <item>	Wypracowanej z chmurami Cu	</item>
+        <item>	Izoterma	</item>
+        <item>	Powietrza polarno-kontynentalnego	</item>
+        <item>	Przed frontem chłodnym	</item>
+        <item>	W niżach	</item>
+        <item>	Turbulencji	</item>
+        <item>	Prognozę pogody dla rejony lotniska	</item>
+        <item>	Ns	</item>
+        <item>	Jednakowej grubości warstwy	</item>
+        <item>	Wiatr lokalny występujący na terenach gór	</item>
+        <item>	400 – 450 km/h	</item>
+        <item>	W strefie dwóch mas powietrza o dużych różnicach wilgotności	</item>
+        <item>	700 hPa	</item>
+        <item>	Obserwacje specjalne	</item>
+        <item>	Brak depeszy TAF	</item>
+        <item>	Kłębiastych	</item>
+        <item>	Po przejściu frontu ciepłego	</item>
+        <item>	Po przejściu frontu ciepłego	</item>
+        <item>	1°C/100 m	</item>
+        <item>	100 m	</item>
+        <item>	1000 m	</item>
+        <item>	BKN013CB	</item>
+        <item>	mniejsza równa 2000 m	</item>
+        <item>	ISOL TS	</item>
+        <item>	Ostrzeżenie dla lotniska	</item>
+        <item>	Izoterma	</item>
+        <item>	Krótkotrwałe trwające krócej niż pół godz.	</item>
+        <item>	Ac	</item>
+        <item>	Gdy temperatura powierzchni samolotu jest wyższa od temperatury powietrza otaczającego	</item>
+        <item>	Prostopadle	</item>
+    </string-array>
+
+    <string-array name="meteo_odp_c" >
+        <item>	Temperatura cząsteczek wody jest wyższa od temperatury powietrza otaczającego	</item>
+        <item>	Ciepłych	</item>
+        <item>	Pogodę bez opadów	</item>
+        <item>	Ładną pogodę	</item>
+        <item>	Frontu chłodnego II rodzaju	</item>
+        <item>	Obojętnej	</item>
+        <item>	Piętra wysokiego	</item>
+        <item>	Sc, Ac	</item>
+        <item>	Cb	</item>
+        <item>	St, Sc	</item>
+        <item>	Wypiętrzone	</item>
+        <item>	Sc Ac	</item>
+        <item>	St	</item>
+        <item>	700 hPa	</item>
+        <item>	Nie zmienia się	</item>
+        <item>	20m	</item>
+        <item>	Nie zmienia się	</item>
+        <item>	Nie zmienia się	</item>
+        <item>	Średnio rozbudowana	</item>
+        <item>	Od wyżu do niżu	</item>
+        <item>	Konwekcyjna	</item>
+        <item>	1000 km	</item>
+        <item>	5 – 10 km/h	</item>
+        <item>	5 – 10 km/h	</item>
+        <item>	Z rozmycia frontu chłodnego	</item>
+        <item>	Widzialność rośnie	</item>
+        <item>	Zatokach niżowych	</item>
+        <item>	Rozkład wysokości powierzchni jednakowego ciśnienia	</item>
+        <item>	1km	</item>
+        <item>	Spadku ciśnienia	</item>
+        <item>	Prostopadły do izobar	</item>
+        <item>	Lata	</item>
+        <item>	Wskutek wypromieniowania ciepła	</item>
+        <item>	Wzrostu zmętnienia	</item>
+        <item>	Po południu	</item>
+        <item>	W siodłach barycznych	</item>
+        <item>	Po przejściu frontu chłodnego	</item>
+        <item>	wyższe o 40 hPa	</item>
+        <item>	500 hPa	</item>
+        <item>	Ochładza się o 0,65°C/100 m	</item>
+        <item>	W siodłach barycznych	</item>
+        <item>	Z wyparowania	</item>
+        <item>	0°C do +10°C	</item>
+        <item>	Ac, Cc	</item>
+        <item>	Tropopauza	</item>
+        <item>	Sc	</item>
+        <item>	Latem	</item>
+        <item>	Przed frontem ciepłym	</item>
+        <item>	Napływu chłodnego powietrza	</item>
+        <item>	500 m	</item>
+        <item>	W pierwszym kwartale roku	</item>
+        <item>	St	</item>
+        <item>	Rosy	</item>
+        <item>	Cs	</item>
+        <item>	St, Ns	</item>
+        <item>	Wiatry słabe	</item>
+        <item>	Turbulencja występuje tylko ponad chmurami	</item>
+        <item>	Od poziomu morza do dolnej granicy chmur	</item>
+        <item>	09 i 18 UTC	</item>
+        <item>	3 m/s	</item>
+        <item>	Ogrzewa się o 1°C/100 m	</item>
+        <item>	Siodle barycznym	</item>
+        <item>	100 m/s	</item>
+        <item>	Nie zmienia się	</item>
+        <item>	wzrasta	</item>
+        <item>	Kłębiasto - warstwowe	</item>
+        <item>	opady nie występują	</item>
+        <item>	Kierunek wiatru się nie zmienia a prędkość wiatru wzrasta	</item>
+        <item>	W godzinach przedpołudniowych	</item>
+        <item>	Termometru	</item>
+        <item>	Równy adiabatycznemu	</item>
+        <item>	wału wyżowego	</item>
+        <item>	Okluzji chłodnej	</item>
+        <item>	Wzdłuż linii frontu	</item>
+        <item>	Opad śniegu	</item>
+        <item>	5 cm	</item>
+        <item>	W której występują przymrozki	</item>
+        <item>	Przy której rosa zamienia się w szadź	</item>
+        <item>	Maleje o 1°/100 m	</item>
+        <item>	0<sup>°</sup>C	</item>
+        <item>	W godzinach przedwieczornych	</item>
+        <item>	W umiarkowanych szerokościach geograficznych	</item>
+        <item>	100 hPa	</item>
+        <item>	Ns	</item>
+        <item>	stratosfera	</item>
+        <item>	100 m	</item>
+        <item>	"prędkość maksymalna przekracza
+średnią barycznego 10 m/s"	</item>
+        <item>	Od ciśnienia wyższego do niższego	</item>
+        <item>	Od wyżu do niżu	</item>
+        <item>	90	</item>
+        <item>	900 hPa	</item>
+        <item>	W pomiarach radarowych	</item>
+        <item>	Upalnego	</item>
+        <item>	Gramach pary wodnej	</item>
+        <item>	Przed frontem okluzji	</item>
+        <item>	Humilis	</item>
+        <item>	Radarowych	</item>
+        <item>	Klina wyżowego	</item>
+        <item>	Chłodnemu II rodzaju	</item>
+        <item>	PZm	</item>
+        <item>	Skłębionych włókien	</item>
+        <item>	W rejonie Górnego Śląska	</item>
+        <item>	Frontu chłodnego I rodzaju	</item>
+        <item>	Północna Afryka	</item>
+        <item>	Ac, Cc, Cs	</item>
+        <item>	Cb	</item>
+        <item>	Przy froncie chłodnym przyspieszonych	</item>
+        <item>	1000 m	</item>
+        <item>	Uncinus	</item>
+        <item>	Wypracowanej bezchmurnej	</item>
+        <item>	Spadek temperatury mniejszy od 0,2<sup>°</sup>C/100m	</item>
+        <item>	Powietrza zwrotnikowo- kontynentalnego	</item>
+        <item>	Przed frontem ciepłym	</item>
+        <item>	W zatokach niżowych	</item>
+        <item>	Zjawiska halo	</item>
+        <item>	Prognozę pogody dla trasy lotniczej	</item>
+        <item>	Cc	</item>
+        <item>	Jednakowego ciśnienia	</item>
+        <item>	Wiatr wiejący z prędkością przewyższającą 120 km/h	</item>
+        <item>	600 – 700 km/h	</item>
+        <item>	W strefie dwóch mas powietrza o małych różnicach wilgotności i temperatury	</item>
+        <item>	850 hPa	</item>
+        <item>	Prognozy pogody	</item>
+        <item>	Brak depeszy METAR	</item>
+        <item>	Warstwowo - kłębiastych	</item>
+        <item>	Przy froncie chłodnym przyspieszonych	</item>
+        <item>	Przy froncie chłodnym przyspieszonym	</item>
+        <item>	1,2°C/100 m	</item>
+        <item>	3000 m	</item>
+        <item>	2000 m	</item>
+        <item>	SCT100	</item>
+        <item>	mniejsza równa 3000 m	</item>
+        <item>	OCAL TS	</item>
+        <item>	Ostrzeżenie dla stacji radarowej	</item>
+        <item>	Spadek temperatury mniejszy od 0,2°C/100m	</item>
+        <item>	Stopniowe	</item>
+        <item>	Sc	</item>
+        <item>	Gdy temperatura powierzchni samolotu jest taka sama jak temperatura powietrza wilgotnego	</item>
+        <item>	Pod kątem 30°	</item>
+    </string-array>
+
+    <string-array name="meteo_odp_d" >
+        <item>	Temperatura cząsteczek jest taka sama jak temperatura powietrza otaczającego	</item>
+        <item>	Okluzji ciepłej	</item>
+        <item>	Nocne mgły	</item>
+        <item>	Pogodę burzową	</item>
+        <item>	Słonecznej pogody	</item>
+        <item>	Nieustalonej	</item>
+        <item>	Piętra niskiego	</item>
+        <item>	Cu, Cb	</item>
+        <item>	Cs	</item>
+        <item>	Cb, Cu	</item>
+        <item>	Ładnej pogody	</item>
+        <item>	Cb Cu	</item>
+        <item>	Sc	</item>
+        <item>	500 hPa	</item>
+        <item>	Wykazuje nieregularny wzrost	</item>
+        <item>	2m	</item>
+        <item>	Maleje liniowo	</item>
+        <item>	Maleje nieregularnie	</item>
+        <item>	Postrzępiona	</item>
+        <item>	Zgodna z ruchem wskazówek zegara wzdłuż izobar	</item>
+        <item>	Z wyparowania	</item>
+        <item>	2 km	</item>
+        <item>	20 – 40 km/h	</item>
+        <item>	40 – 45 km/h	</item>
+        <item>	Ze zbliżania wyżu do niżu	</item>
+        <item>	Pogoda się poprawia	</item>
+        <item>	Siodłach barycznych	</item>
+        <item>	Rozkład jednakowej prędkości wiatru	</item>
+        <item>	2 m	</item>
+        <item>	Wzroście ciśnienia	</item>
+        <item>	Niezwiązany z izobarami	</item>
+        <item>	Wczesnej jesieni	</item>
+        <item>	Przy napływie powietrza kontynentalnego	</item>
+        <item>	Zadymienie	</item>
+        <item>	W dowolnej porze doby	</item>
+        <item>	W zatokach niżowych	</item>
+        <item>	Nie powstają	</item>
+        <item>	wyższe o 2,2 hPa	</item>
+        <item>	925 hPa	</item>
+        <item>	Ogrzewa się o 0,65°C/100 m	</item>
+        <item>	Przy przechodzeniu frontu ciepłego	</item>
+        <item>	Wieczorna	</item>
+        <item>	- 20°C do - 40°C	</item>
+        <item>	Ci, Cs	</item>
+        <item>	Stratopauza	</item>
+        <item>	As	</item>
+        <item>	Podczas mroźnej zimy	</item>
+        <item>	Po ustąpieniu mgły	</item>
+        <item>	Napływu ciepłego powietrza	</item>
+        <item>	3000 m	</item>
+        <item>	Wiosną	</item>
+        <item>	Ac	</item>
+        <item>	Mokrej nawierzchni	</item>
+        <item>	Cb	</item>
+        <item>	Ci, Cs	</item>
+        <item>	Cisze	</item>
+        <item>	Turbulencja występuje tylko poza chmurami	</item>
+        <item>	Od poziomu morza do górnej granicy chmur	</item>
+        <item>	Co godzinę o pełnej	</item>
+        <item>	5 węzłów	</item>
+        <item>	Ogrzewa się o 0,5°C/100 m	</item>
+        <item>	Wyżu	</item>
+        <item>	200 km/h	</item>
+        <item>	Nie wykazuje żadnego związku	</item>
+        <item>	początkowo spada a następnie wzrasta	</item>
+        <item>	Tylko pierzaste	</item>
+        <item>	opady chwilowe	</item>
+        <item>	Kierunek wiatru gwałtownie skręca w prawo a prędkość nie zmienia się	</item>
+        <item>	W południe	</item>
+        <item>	Radaru	</item>
+        <item>	Niezależny od gradientu adiabatycznego	</item>
+        <item>	siodła barycznego	</item>
+        <item>	Wtórnym chłodnym	</item>
+        <item>	Przed frontem w odległości 50-100 km	</item>
+        <item>	Opad gradu	</item>
+        <item>	100 m	</item>
+        <item>	Zamarza woda	</item>
+        <item>	Przy której powstaje szron	</item>
+        <item>	Maleje o 1,2°/100 m	</item>
+        <item>	Temperatura powietrza suchego	</item>
+        <item>	W godzinach nocnych	</item>
+        <item>	Nad Polską	</item>
+        <item>	700 hPa	</item>
+        <item>	Cu	</item>
+        <item>	warstwa tarcia	</item>
+        <item>	Przy gruncie	</item>
+        <item>	prędkość wiatru jest duża	</item>
+        <item>	Od ciśnienia niższego do wyższego	</item>
+        <item>	Prostopadle do izobar	</item>
+        <item>	315	</item>
+        <item>	Dolnej	</item>
+        <item>	W klatkach meteorologicznych i wiatromierzach	</item>
+        <item>	Zapylonego	</item>
+        <item>	Gramach wody/m3	</item>
+        <item>	Za frontem chłodnym	</item>
+        <item>	Fractus	</item>
+        <item>	Temperatury w klatkach meteorologicznych	</item>
+        <item>	Bruzdy niskiego ciśnienia	</item>
+        <item>	Zokludowanemu o charakterze frontu chłodnego	</item>
+        <item>	PAk	</item>
+        <item>	Nieokreślonym	</item>
+        <item>	W rejonie Jury Częstochowskiej	</item>
+        <item>	Słonecznej pogody	</item>
+        <item>	Północna Kanada	</item>
+        <item>	Sc, Ci	</item>
+        <item>	Sc	</item>
+        <item>	Przed frontem chłodnym opóźnionym	</item>
+        <item>	2000 m	</item>
+        <item>	Fractus	</item>
+        <item>	Wieczornej	</item>
+        <item>	Spadek temperatury 0,65<sup>°</sup>/100m	</item>
+        <item>	Powietrza równikowego	</item>
+        <item>	Po przejściu frontu ciepłego	</item>
+        <item>	W bruzdach niskiego ciśnienia	</item>
+        <item>	Dobrej widzialności	</item>
+        <item>	Ostrzeżenie o zjawiskach groźnych	</item>
+        <item>	Sc	</item>
+        <item>	Jednakowej prędkości wiatru	</item>
+        <item>	Wiatr towarzyszący silnemu wyładowaniu atmosferycznemu	</item>
+        <item>	650 – 700 km/h	</item>
+        <item>	W strefie niskiego ciśnienia	</item>
+        <item>	100 hPa	</item>
+        <item>	Ostrzeżenia	</item>
+        <item>	Brak ostrzeżenia	</item>
+        <item>	Pierzastych	</item>
+        <item>	Przed frontem chłodnym opóźnionym	</item>
+        <item>	Za frontem chłodnym przyspieszonym	</item>
+        <item>	0,4°C/100 m	</item>
+        <item>	500 m	</item>
+        <item>	6000 m	</item>
+        <item>	FEW010	</item>
+        <item>	mniejsza równa 1000 m	</item>
+        <item>	RISK TS	</item>
+        <item>	Ostrzeżenie dla stacji meteo	</item>
+        <item>	Spadek temperatury 0,65°/100m	</item>
+        <item>	Zmiany w okresie ważności prognozy	</item>
+        <item>	St	</item>
+        <item>	Gdy temperatura powierzchni samolotu przemieszcza się w masie powietrza suchego	</item>
+        <item>	Pod kątem 60°	</item>
+    </string-array>
+</resources>

@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="navi_questions">
+        <item>	762 metry to po przeliczeniu:	</item>
+        <item>	Ciśnienie panujące na progu drogi startowej w użyciu oznaczamy jako:	</item>
+        <item>	Deklinacja to:	</item>
+        <item>	Dewiacja busoli to:	</item>
+        <item>	Długość geograficzna to:	</item>
+        <item>	Do określenia trójwymiarowej pozycji obiektu według GPS potrzeba:	</item>
+        <item>	Funkcjonowanie którego urządzenia opiera się na oddziaływaniu pola magnetycznego Ziemi?	</item>
+        <item>	Godzina 0100 czasu lokalnego latem w Polsce odpowiada godzinie:	</item>
+        <item>	Godzina 0300 czasu lokalnego latem w Polsce odpowiada godzinie:	</item>
+        <item>	Godzina 0300 czasu lokalnego zimą w Polsce odpowiada godzinie:	</item>
+        <item>	Godzina 1300 czasu lokalnego zimą w Polsce odpowiada godzinie:	</item>
+        <item>	Godzina 2300 czasu lokalnego latem w Polsce odpowiada godzinie:	</item>
+        <item>	Ile centymetrów na mapie lotniczej w skali 1:500 000 ma odcinek odpowiadający odległości 105 km w terenie:	</item>
+        <item>	Ile wynosi wartość inklinacji na magnetycznym biegunie północnym?	</item>
+        <item>	Inklinacja magnetyczna to:	</item>
+        <item>	Izogona to:	</item>
+        <item>	Jaka jest wartość inklinacji na magnetycznym biegunie południowym?	</item>
+        <item>	Jaki kierunek określamy jako NE?	</item>
+        <item>	Jaki kierunek określamy jako NW?	</item>
+        <item>	Jaki kierunek określamy jako SE?	</item>
+        <item>	Jaki kierunek określamy jako SW?	</item>
+        <item>	Jeden stopień łuku wielkiego koła Ziemi odpowiada odległości:	</item>
+        <item>	Jedna mila morska [1 NM] to:	</item>
+        <item>	Jedna minuta łuku wielkiego koła Ziemi odpowiada odległości:	</item>
+        <item>	Jest godzina 1200 UTC. Kierownik lotów na lotnisku Łódź-Lublinek patrzy prosto na południe. Widzi on tarczę słońca:	</item>
+        <item>	Jeśli w okienku nastaw wysokościomierza wybrana będzie wartość ciśnienia QNH, to wysokościomierz będzie wskazywał:	</item>
+        <item>	Jeżeli deklinacja magnetyczna i dewiacja busoli jest dodatnia, to kurs busoli jest:	</item>
+        <item>	Jeżeli deklinacja magnetyczna i dewiacja busoli jest ujemna, to kurs busoli jest:	</item>
+        <item>	Jeżeli wektor wiatru jest prostopadły do nakazanej linii drogi i wieje z lewej strony to kąt znoszenia jest:	</item>
+        <item>	Kąt dwuścienny, zawarty między płaszczyzną południka zerowego a płaszczyzną południka przechodzącego przez dany punkt na powierzchni Ziemi, to:	</item>
+        <item>	Kąt zawarty między kierunkiem wektora magnetycznego Ziemi a płaszczyzną styczną do jej powierzchni to:	</item>
+        <item>	Kąt zawarty między płaszczyzną równika a pionem (promieniem) danego punktu, to:	</item>
+        <item>	Kąt zawarty między południkiem geograficznym a południkiem magnetycznym to:	</item>
+        <item>	Kąt zawarty między południkiem magnetycznym a południkiem busoli, mierzony zgodnie z połówkowym systemem pomiaru kierunku to:	</item>
+        <item>	Kąt znoszenia to:	</item>
+        <item>	Kierunek 045° określamy jako	</item>
+        <item>	Kierunek 135° określamy jako	</item>
+        <item>	Kierunek 225° określamy jako	</item>
+        <item>	Kierunek 315° określamy jako	</item>
+        <item>	Kody specjalne modu A transpondera to:	</item>
+        <item>	Krótszy łuk wielkiego koła wyznaczający najmniejszą odległość między dwoma punktami na powierzchni Ziemi to:	</item>
+        <item>	Kurs statku powietrznego to mierzony w prawo od 0 do 360 &lt; sup &gt;°&lt; /sup &gt; kąt zawarty między:	</item>
+        <item>	Latem w Polsce Uniwersalny Czas Skoordynowany (UTC) obliczymy poprzez:	</item>
+        <item>	Linia łącząca punkty o jednakowej wartości deklinacji to:	</item>
+        <item>	Linia na powierzchni Ziemi przecinająca południki pod tymi samymi kątami to:	</item>
+        <item>	Łuk łączący oba bieguny geograficzne Ziemi, będący przecięciem powierzchni Ziemi płaszczyzną przechodzącą przez oś obrotu Ziemi, to:	</item>
+        <item>	Łuk powstały w wyniku przecięcia powierzchni Ziemi płaszczyzną prostopadłą do osi Ziemi przechodzącą przez jej środek, to:	</item>
+        <item>	Mając następujące dane: kurs geograficzny 200 stopni, deklinacja 10 stopni W, dewiacja -4 stopni, podaj kurs busoli	</item>
+        <item>	Na mapie lotniczej w skali 1:1 000 000 odcinek 20 cm odpowiada rzeczywistej odległości w terenie:	</item>
+        <item>	Na mapie lotniczej w skali 1:200 000 odcinek 20 cm odpowiada rzeczywistej odległości w terenie:	</item>
+        <item>	Na mapie lotniczej w skali 1:500 000 odcinek 20 cm odpowiada rzeczywistej odległości w terenie:	</item>
+        <item>	Na mapie lotniczej w skali 1:500 000 odległość między punktami wynosi 27 cm. Jaki jest faktyczny dystans pomiędzy nimi?	</item>
+        <item>	Nastawienie ruchomej skali wysokościomierza tak, aby wskazał wzniesienie terenu, gdy jest na ziemi (na lotnisku) oznaczamy jako:	</item>
+        <item>	NKDG = 259°, NKDM = 255°,B = +2°. Wartości M i KB wynoszą odpowiednio:	</item>
+        <item>	NKDG = 358°, M = 5°W, B = +4°. Wartości NKDM i KB wynoszą odpowiednio:	</item>
+        <item>	Odległość pomiędzy 10 a 11° długości geograficznej zachodniej na równiku wynosi:	</item>
+        <item>	Odległość pomiędzy 29 a 30° długości geograficznej wschodniej na równiku wynosi:	</item>
+        <item>	Odległość pomiędzy 45 a 46° szerokości geograficznej północnej wynosi:	</item>
+        <item>	Pod określeniem “węzeł” [kt] rozumiemy:	</item>
+        <item>	Podaj długość równika Ziemi:	</item>
+        <item>	Południk ziemski to:	</item>
+        <item>	Prędkość 15 m/s przeliczona na węzły to:	</item>
+        <item>	Prędkość 180 km/h przeliczona na m/s to:	</item>
+        <item>	Prędkość 20 m/s przeliczona na km/h to:	</item>
+        <item>	Prędkość podróżna GS to:	</item>
+        <item>	Przy pomiarze azymutów (kątów drogi) na mapie odwzorowania międzynarodowego ICAO najmniejszy błąd pomiaru uzyskuje się, gdy:	</item>
+        <item>	Punkty A i B są oddalone od siebie o 15 km. Na mapie odcinek między nimi ma długość 6 cm. Jaka jest skala tej mapy?	</item>
+        <item>	Punkty A i B są oddalone od siebie o 25 km. Na mapie odcinek między nimi ma długość 10 cm. Jaka jest skala tej mapy?	</item>
+        <item>	Punkty A i B są oddalone od siebie o 45 km. Na mapie odcinek między nimi ma długość 9 cm. Jaka jest skala tej mapy?	</item>
+        <item>	QFE jest to:	</item>
+        <item>	QNH jest to:	</item>
+        <item>	Równik ziemski to:	</item>
+        <item>	Równik ziemski tworzy z wszystkimi południkami geograficznymi kąt:	</item>
+        <item>	Szerokość geograficzna to:	</item>
+        <item>	Średnia prędkość podróżna statku powietrznego wynosi 60 km/h. W czasie 18 minut zostanie przebyta odległość	</item>
+        <item>	Wariometr pokazuje wartość 500 ft/min. Po przeliczeniu to:	</item>
+        <item>	Wariometr pokazuje wartość 750 ft/min. Po przeliczeniu to:	</item>
+        <item>	Wysokość bezwzględna to:	</item>
+        <item>	Wysokość rzeczywista to:	</item>
+        <item>	Wysokość względna to:	</item>
+        <item>	Z poniższej listy wybierz obiekt orientacyjny liniowy:	</item>
+        <item>	Z poniższej listy wybierz obiekt orientacyjny powierzchniowy:	</item>
+        <item>	Z poniższej listy wybierz obiekt orientacyjny punktowy:	</item>
+        <item>	Zimą w Polsce Uniwersalny Czas Skoordynowany (UTC) obliczymy poprzez:	</item>
+        <item>	M = 2°E, B = -3°, KB = 127°. Wartości NKDM i NKDG wynoszą odpowiednio:	</item>
+        <item>	M = 3°E, NKDM = 188°, KB = 190°. Wartości NKDG i B wynoszą odpowiednio:	</item>
+        <item>	Aby przeliczyć odległość podaną w kilometrach na mile morskie, stosujemy następującą regułę:	</item>
+        <item>	Aby przeliczyć odległość podaną w metrach na stopy, stosujemy następującą regułę:	</item>
+        <item>	ADF (Automatic Direction Finder) jest to:	</item>
+        <item>	Bezwładnościowy system nawigacyjny działa na zasadzie:	</item>
+        <item>	Ciśnienie standardowe oznaczamy jako:	</item>
+        <item>	Ciśnienie standardowe wyrażone w calach słupa rtęci wynosi:	</item>
+        <item>	Czas używany w systemie GPS to:	</item>
+        <item>	Dokąd doleci statek powietrzny, który wystartował z lotniska EPWA z kursem 300 stopni lecąc w warunkach bezwietrznych po loksodromie:	</item>
+        <item>	Dostrojenie pokładowego zestawu VOR/DME następuje przez:	</item>
+        <item>	Gdy samolot leci na półkuli północnej z kursem wschodnim i przyspiesza to powstający błąd przyspieszeniowy powoduje, że busola:	</item>
+        <item>	Gdy samolot leci na półkuli północnej z kursem zachodnim i przyspiesza to powstający błąd przyspieszeniowy powoduje, że busola:	</item>
+        <item>	Głównym powodem, dla którego odległościowy detektor pola magnetycznego dla busoli magnetycznej montuje się na końcówce skrzydła samolotu, jest:	</item>
+        <item>	Ile centymetrów na mapie w skali 1:10 000 ma odcinek odpowiadający odległości 2 km w terenie:	</item>
+        <item>	Jaką prędkość obserwujemy na wskaźniku DME?	</item>
+        <item>	Jakich częstotliwości używa system VOR?:	</item>
+        <item>	Jakie będzie wskazanie odległości DME w kabinie pilotów w chwili przelotu statku powietrznego bezpośrednio nad radiolatarnią VOR/DME?	</item>
+        <item>	Jedna mila morska [1 NM] to (w zaokrągleniu):	</item>
+        <item>	Jednemu hektopaskalowi zmiany ciśnienia przy ziemi odpowiada (w zaokrągleniu) zmiana wysokości:	</item>
+        <item>	Kąt pomiędzy kursem statku powietrznego a kierunkiem, pod jakim samolot przemieszcza się względem Ziemi, nazywamy:	</item>
+        <item>	Kąt zawarty między osią podłużną samolotu a kierunkiem do radiolatarni NDB to:	</item>
+        <item>	Kąt zawarty między osią podłużną statku powietrznego a nakazaną linią drogi to:	</item>
+        <item>	Kąt zawarty między północnym kierunkiem południka magnetycznego przechodzącego przez radiolatarnię bezkierunkową a kierunkiem na samolot to:	</item>
+        <item>	Kąt zawarty między północnym kierunkiem południka magnetycznego przechodzącego przez samolot a kierunkiem do radiolatarni bezkierunkowej to:	</item>
+        <item>	Liczba Macha to stosunek:	</item>
+        <item>	Liczba możliwych kodów modu A transpondera wynosi:	</item>
+        <item>	Mając następujące dane: elewacja lotniska wynosi 1000 ft oraz QNH = 988 hPa, jaka jest aktualna wysokość ciśnieniowa lotniska? (przy założeniu, że 1 hPa = 27 ft)	</item>
+        <item>	Model Ziemi dla systemu GPS to:	</item>
+        <item>	Na mapie lotniczej w skali 1:10 000 odcinek 2 cm odpowiada rzeczywistej odległości w terenie:	</item>
+        <item>	Na mapie lotniczej w skali 1:500 000 odcinek o długości 10.8 cm pokonano w czasie lotu 20 minut. W tym przypadku prędkość podróżna wynosi:	</item>
+        <item>	Na mapie w skali 1:10 000 odcinek 20 cm odpowiada rzeczywistej odległości w terenie:	</item>
+        <item>	Na wskaźniku odległości DME odczytujemy odległość od stacji naziemnej:	</item>
+        <item>	"Na wskaźniku VOR pełne wychylenie CDI oznacza odchylenie co najmniej … stopni od zadanego radialu."	</item>
+        <item>	Nadajniki VOR zorientowane są wobec północy:	</item>
+        <item>	Najbardziej dokładne określenie prędkości podróżnej jest możliwe przy użyciu:	</item>
+        <item>	O godzinie 0830 pilot odczytał KKR=315° z radiolatarni NDB. Lecąc dalej tym samym kursem południowym o 0840 był, na KKR=270°. Zakładając, że nie ma znoszenia przez wiatr oraz że jego prędkość podróżna wynosi 240 kt określ odległość od NDB o godzinie 0840.	</item>
+        <item>	Objętość 20 US gal odpowiada:	</item>
+        <item>	Objętość 27 US gal odpowiada:	</item>
+        <item>	Objętość 34 l odpowiada:	</item>
+        <item>	Objętość 65 l odpowiada:	</item>
+        <item>	Odbiornik DME podaje dane w jednostkach:	</item>
+        <item>	Odczyt wskazań odległości DME w samolocie przelatującym na poziomie FL120 pionowo nad stacją VOR / DME (MSL) będzie wynosił:	</item>
+        <item>	Odnośnie radaru prawdą jest, że:	</item>
+        <item>	Pilot aktywuje Special Position Identifier (SPI) w transponderze:	</item>
+        <item>	Pilot planuje przelot z lotniska w Jeleniej Górze (N50°53"57,8" E015°47" 7,8") na lotnisko w Zamościu (N50°42"6,5" E023°12"15,3") tak, żeby wylądować przed zachodem słońca. W czasie bezpośredniego przygotowania nawigacyjnego do lotu pilot uwzględnia:	</item>
+        <item>	Pilot planuje przelot z lotniska w Zamościu (N50°42"6,5" E023°12"15,3") na lotnisko w Jeleniej Górze (N50°53"57,8" E015°47"7,8") tak, żeby wylądować przed zachodem słońca. W czasie bezpośredniego przygotowania nawigacyjnego do lotu pilot uwzględnia:	</item>
+        <item>	Pilot uzyskał z TWR przed startem następującą informację o wietrze przy powierzchni Ziemi: 260 stopni/34kt. Jaka jest składowa poprzeczna wiatru do pasa 30?	</item>
+        <item>	Prędkość podróżna statku powietrznego wynosi 90 węzłów. W czasie 18 minut zostanie przebyta odległość	</item>
+        <item>	Prędkość TAS (True Air Speed) z uwzględnieniem wiatru to:	</item>
+        <item>	Przed lądowaniem pilot uzyskał z TWR następującą informację o wietrze przy powierzchni Ziemi: 260 stopni/34kt. Jaka jest składowa poprzeczna wiatru do pasa 22?	</item>
+        <item>	Przy założeniu, że magnetyczny kąt drogi od LDZ do JED wynosi 159° a od JED do LDZ 339° to statek powietrzny, który przeleciał LDZ w kierunku JED w warunkach bezwietrznych znajduje się:	</item>
+        <item>	Przy założeniu, że magnetyczny kąt drogi od RUDKA do SIE wynosi 233° a od SIE do RUDKA 053° to statek powietrzny, który przeleciał punkt RUDKA w kierunku SIE w warunkach bezwietrznych leci:	</item>
+        <item>	Punkt o współrzędnych geograficznych: lambda = 120°45’; phi = 23°15’ położony jest w ćwiartce:	</item>
+        <item>	Punkt o współrzędnych geograficznych: lambda = -120°45’; phi = 23°15’ położony jest w ćwiartce:	</item>
+        <item>	Punkt o współrzędnych geograficznych: lambda = 120°45’; phi = - 23°15’ położony jest w ćwiartce:	</item>
+        <item>	Punkt o współrzędnych geograficznych: lambda = -120°45’; phi = - 23°15’ położony jest w ćwiartce:	</item>
+        <item>	Punkty A i B są oddalone od siebie o 600 m. Na mapie odcinek między nimi ma długość 6 cm. Jaka jest skala tej mapy?	</item>
+        <item>	Radar pierwotny funkcjonuje najczęściej na zasadzie:	</item>
+        <item>	Radial w kodzie Q jest określany jako:	</item>
+        <item>	Radiokompas może odbierać częstotliwości w zakresie:	</item>
+        <item>	Radiolatarnia NDB emituje fale radiowe:	</item>
+        <item>	Radiolatarniami systemu GPS są:	</item>
+        <item>	Radiolatarnie NDB pracują w paśmie częstotliwości:	</item>
+        <item>	Radionamiernik VDF jest umieszczony na:	</item>
+        <item>	Radionamierniki VDF pracują na częstotliwościach:	</item>
+        <item>	Samolot po przelocie 20 NM znajduje się 2 NM na prawo od zaplanowanej trasy. O ile należy zmienić kurs samolotu w celu osiągnięcia zaplanowanej linii drogi po następnych 20 NM?	</item>
+        <item>	Samolot po przelocie 25 km znajduje się 5 km na lewo od zaplanowanej trasy. O ile należy zmienić kurs samolotu w celu osiągnięcia zaplanowanej linii drogi po następnych 25 km?	</item>
+        <item>	Samolot po przelocie 30 km znajduje się 4 km na lewo od zaplanowanej trasy. O ile należy zmienić kurs samolotu w celu osiągnięcia zaplanowanej linii drogi po następnych 30 km?	</item>
+        <item>	Samolot po przelocie 30 km znajduje się 4 km na prawo od zaplanowanej trasy. O ile należy zmienić kurs samolotu w celu osiągnięcia zaplanowanej linii drogi po następnych 30 km?	</item>
+        <item>	Samolot po przelocie 40 NM znajduje się 2 NM na prawo od zaplanowanej trasy. O ile należy zmienić kurs samolotu w celu osiągnięcia zaplanowanej linii drogi po następnych 40 NM?	</item>
+        <item>	Samolot wykonuje lot w kierunku radiolatarni metodą bierną (utrzymując KKR = 0). Jeśli kurs magnetyczny samolotu maleje, to znaczy, że samolot:	</item>
+        <item>	Skrót “RVR” oznacza:	</item>
+        <item>	Skrót “SSR” oznacza:	</item>
+        <item>	Stacja DME znajduje się na wysokości 1000 ft AMSL. QNH=1013.25 hPa. Samolot leci na poziomie FL370, 15 NM od stacji DME. Odczyt DME będzie wynosił:	</item>
+        <item>	Statek powietrzny lecący w warunkach bezwietrznych z kursem 320 przecina radial 195 od VOR-a JED. Statek powietrzny znajdzie się:	</item>
+        <item>	Statek powietrzny leci z kursem 330 stopni w warunkach bezwietrznych i przecina radial 120 od VOR/DME LIN w odległości 30 NM DME. Statek powietrzny przeleci:	</item>
+        <item>	Statek powietrzny planuje zniżanie ze stałą prędkością podróżną. W czasie 5 minut pilot planuje zniżenie z poziomu FL 100 do poziomu FL050. Z jaka prędkością opadania na wariometrze statek powietrzny powinien się zniżać?	</item>
+        <item>	Statek powietrzny porusza się z prędkością 120 km/h. Prędkość wiatru wynosi 30 km/h. Maksymalna wartość kąta znoszenia w tych warunkach wynosi:	</item>
+        <item>	Statek powietrzny porusza się z prędkością 150 km/h. Prędkość wiatru wynosi 30 km/h. Maksymalna wartość kąta znoszenia w tych warunkach wynosi:	</item>
+        <item>	Statek powietrzny porusza się z prędkością podróżną 150 km/h. W czasie 14 minut przebędzie on odległość	</item>
+        <item>	Statek powietrzny porusza się z prędkością podróżną 180 km/h. W czasie 18 minut przebędzie on odległość	</item>
+        <item>	Statek powietrzny startuje z lotniska o elewacji 1500 ft MSL i wznosi się z prędkością pionową 600 ft/min. Jego średnia prędkość podróżna wynosi 90 węzłów, a ciśnienie QNH = 1013.2 hPa. W jakiej odległości od lotniska osiągnięty zostanie FL 75?	</item>
+        <item>	Statek powietrzny startuje z lotniska o elewacji 500 ft MSL i wznosi się z prędkością pionową 500 ft/min. Jego średnia prędkość podróżna wynosi 100 węzłów, a ciśnienie QNH = 1013.2 hPa. W jakiej odległości od lotniska osiągnięty zostanie FL 80?	</item>
+        <item>	Statek powietrzny utrzymuje kurs magnetyczny 060 stopni. Deklinacja wynosi 8 stopni W. Kąt znoszenia +4 stopnie. Z jakim geograficznym kątem drogi przemieszcza się ten statek?	</item>
+        <item>	System GPS działa w paśmie … na zasadzie … .	</item>
+        <item>	Średnia prędkość podróżna statku powietrznego wynosi 150 km/h. W czasie 18 minut zostanie przebyta odległość	</item>
+        <item>	Tabele wschodów i zachodów słońca znajdują się w AIP Polska w rozdziale:	</item>
+        <item>	Urządzeniem pokładowym współpracującym z radiolatarnią NDB jest:	</item>
+        <item>	Urządzeniem pokładowym współpracującym z radionamiernikiem VDF jest:	</item>
+        <item>	VOR jest radionawigacyjnym systemem:	</item>
+        <item>	VOR podaje kąt namiaru na radiolatarnię:	</item>
+        <item>	W jakim celu stosuje się impuls SPI?	</item>
+        <item>	W jakim modzie wysyłane jest zapytanie o wysokość?	</item>
+        <item>	W przypadku, kiedy nadajnik i odbiornik poruszają się względem siebie (ruch względny) to zachodzi zjawisko:	</item>
+        <item>	W sytuacji COMMUNICATION  FAILURE pilot włącza transponder w modzie A na kod:	</item>
+        <item>	W sytuacji EMERGENCY pilot włącza transponder w modzie A na kod:	</item>
+        <item>	W sytuacji HIJACK pilot włącza transponder w modzie A na kod:	</item>
+        <item>	Wartość ciśnienia standardowego wynosi:	</item>
+        <item>	Wartość ciśnienia standardowego wynosi:	</item>
+        <item>	Współpraca części pokładowej DME z radiolatarnią naziemną wymaga:	</item>
+        <item>	Zakładając, że powietrze jest nieściśliwe i sposób umieszczenia nadajników ciśnienia na samolocie nie powoduje błędów wskazań prędkościomierza, to prędkość rzeczywista TAS jest równa:	</item>
+        <item>	Zakres częstotliwości pracy radiodalmierza DME wynosi:	</item>
+        <item>	Zasięg, z jakiego można odbierać sygnały ze stacji naziemnej NDB jest:	</item>
+        <item>	Zjawisko załamania fali na brzegu (morze/ląd):	</item>
+        <item>	Zniżanie jest planowane z wysokości 7000 ft w ten sposób, żeby osiągnąć 1000 ft AMSL w odległości 6 NM od stacji VOR/DME. Prędkość podróżna wynosi 180kt a prędkość opadania 1000ft/min. Odległość od stacji w chwili rozpoczęcia zniżania wynosi:	</item>
+        <item>	Źródłem czasu w systemie GPS są:	</item>
+    </string-array>
+</resources>

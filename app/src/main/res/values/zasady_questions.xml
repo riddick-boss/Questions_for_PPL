@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="zasady_questions">
+        <item>	Czy profile klasyczne są dużo bardziej „wrażliwe” na zabrudzenia od profili laminarnych?	</item>
+        <item>	Aby zapobiec zjawisku flatteru giętno-lotkowemu należy:	</item>
+        <item>	Aby zapobiec zjawisku flatteru giętno-skrętnemu należy:	</item>
+        <item>	Aby zapobiec zjawisku odwrotnego działania lotek należy	</item>
+        <item>	Aby zapobiec zjawisku trzepotania usterzeń należy:	</item>
+        <item>	Aerodynamiczna krawędź natarcia to linia łącząca punkty płata lotniczego w których:	</item>
+        <item>	Brak wyważenia masowego lotek na dużych prędkościach lotu jest bezpośrednią przyczyną występowania:	</item>
+        <item>	Buffeting to inaczej:	</item>
+        <item>	Ciało porusza się po okręgu z prędkością v. Jeżeli zwiększymy dwukrotnie prędkość ciała to:	</item>
+        <item>	Ciało porusza się po okręgu z prędkością ’. Jeżeli zwiększymy dwukrotnie promień okręgu  to:	</item>
+        <item>	Ciało porusza się ze stałą prędkością v po okręgu o promieniu ‘R’. Wypadkowy wektor przyśpieszenia działającego na to ciało jest zawsze skierowany:	</item>
+        <item>	Ciśnienie statyczne w punkcie przejścia z opływu laminarnego w turbulentny jest:	</item>
+        <item>	Co jest „równanie stanu powietrza” ?	</item>
+        <item>	"Co się rozumie pod pojęciem „sterowności” obiektu latającego (samolotu, śmigłowca, szybowca, lotni etc) ?"	</item>
+        <item>	Co to jest „ciśnienie spiętrzeniowe”?	</item>
+        <item>	Co to jest „opływ laminarny”?	</item>
+        <item>	Co to jest „pułap teoretyczny” statku powietrznego (śmigłowca, samolotu, szybowca etc)?	</item>
+        <item>	Co to jest „stateczność statyczna” obiektu (samolotu, śmigłowca, szybowca, lotni etc)?	</item>
+        <item>	Co to jest „środek parcia profilu” ?	</item>
+        <item>	Co to jest „warstwa przyścienna”?	</item>
+        <item>	Co to jest „wydłużenie” skrzydła samolotu lub szybowca albo łopaty nośnej?	</item>
+        <item>	Co to jest elewacja lotniska?	</item>
+        <item>	Co to jest gęstość powietrza?	</item>
+        <item>	Co to jest Międzynarodowa Atmosfera Wzorcowa ISA (International Standard Atmosphere)?	</item>
+        <item>	Co to jest wysokość ciśnieniowa nad poziomem lotniska?	</item>
+        <item>	Co to jest wysokość ciśnieniowa nad poziomem morza?   .	</item>
+        <item>	Co to jest wysokość gęstościowa?	</item>
+        <item>	Co to jest wysokość standardowa?	</item>
+        <item>	Czy między ciśnieniem statycznym powietrza p, jego temperaturą bezwzględną T i gęstością istnieje jakiś związek?	</item>
+        <item>	Czy obiekt (samolot, śmigłowiec, szybowiec, lotnia etc) niestateczny statycznie może być stateczny dynamicznie?	</item>
+        <item>	Czy wzrost stateczności powoduje zmianę sterowności?	</item>
+        <item>	Czym się różnią stateczność statyczna i stateczność dynamiczna obiektu (samolotu, śmigłowca, szybowca, lotni etc)?	</item>
+        <item>	Czym się wyraża „niestateczność statyczna” obiektu (samolotu, śmigłowca, szybowca, lotni etc)?	</item>
+        <item>	"Czym się wyraża „stateczność statyczna obojętna” obiektu (samolotu, śmigłowca, szybowca, lotni etc)?"	</item>
+        <item>	Dla płata o jakim profilu nie powstaje opór indukowany na zerowym kącie natarcia?	</item>
+        <item>	Dla ruchu jednostajnie przyśpieszonego dwukrotne zwiększenie czasu przy stałym przyspieszeniu powoduje:	</item>
+        <item>	Dla ruchu jednostajnie przyśpieszonego dwukrotne zwiększenie przyśpieszenia w stałym czasie t powoduje:	</item>
+        <item>	Dla skrzydła o obrysie prostokątnym prawdą jest, że:	</item>
+        <item>	Dla trzech skrzydeł o tej samej powierzchni i tej samej rozpiętości, ale różnym obrysie (prostokątnym, trapezowym i eliptycznym), wydłużenie jest:	</item>
+        <item>	Dla ustalonego lotu nurkowego prawdziwe jest równanie:	</item>
+        <item>	Do jakiego wykresu odnosi się potoczna nazwa „Krzywa Lilienthala”?	</item>
+        <item>	Do urządzeń powiększających powierzchnię skrzydła możemy zaliczyć:	</item>
+        <item>	Do urządzeń przeszkadzających odrywaniu się strug powietrza na grzbiecie skrzydła możemy zaliczyć:	</item>
+        <item>	Do urządzeń wysklepiających profil mało wysklepiony na mocno wysklepiony możemy zaliczyć:	</item>
+        <item>	Dodatni skos skrzydła powoduje:	</item>
+        <item>	Doskonałość profilu:	</item>
+        <item>	Dwukrotne zwiększenie prędkości przepływu w zamkniętym tunelu spowoduje:	</item>
+        <item>	Flatter jest to nazwa zjawiska związanego z:	</item>
+        <item>	Gdy powietrze wpada z prędkością V do kanału  o zmiennej powierzchni przekroju, zmianie ulega tej prędkości. Jak?	</item>
+        <item>	Grubość profilu to:	</item>
+        <item>	Im większa lepkość powietrza tym:	</item>
+        <item>	Istnienie na płatowcu niezbędnych powierzchni sterowych powoduje powstawanie głównie:	</item>
+        <item>	Jak inaczej nazywamy flettner?	</item>
+        <item>	Jak musi zmienić się prędkość lotu w zakręcie prawidłowym, aby przy tym samym przechyleniu promień zakrętu wzrósł czterokrotnie?	</item>
+        <item>	Jak nazywa się klapka wyważająca, której położenie można zmieniać podczas lotu niezależnie?	</item>
+        <item>	Jak nazywa się punkt, w którym przepływ powietrza zmienia charakter z laminarnego na turbulentny?	</item>
+        <item>	Jak nazywa się wykres przedstawiający zależność współczynnika siły nośnej Cz od współczynnika oporu Cx statku powietrznego?	</item>
+        <item>	Jak się nazywa prędkość statku powietrznego (śmigłowca, samolotu, szybowca etc) oznaczana V<sub>NE</sub>?	</item>
+        <item>	Jak się nazywają i jakie w układzie SI mają symbole jednostki masy, długości i czasu?	</item>
+        <item>	Jak się nazywają i jakie w układzie SI mają symbole jednostki siły, ciśnienia i temperatury?	</item>
+        <item>	Jak w jednostkach podstawowych układu SI można zapisać wielkość ciśnienia 1000 hPa ?	</item>
+        <item>	Jak zmieni się promień zakrętu prawidłowego, jeżeli przy stałym przechyleniu zwiększymy prędkość dwukrotnie?	</item>
+        <item>	Jak zmienia się wysokość gęstościowa w sytuacji, gdy temperatura powietrza jest wyższa od standardowej wartości ISA?	</item>
+        <item>	Jaka jest różnica pomiędzy korkociągiem płaskim i stromym?	</item>
+        <item>	Jaka wzorcowa wielkość ciśnienia powietrza na poziomie morza wyrażona w starych jednostkach „milimetrów słupa rtęci” odpowiada po = 1013,25 hPa?.	</item>
+        <item>	Jaką nazwę nosi stosunek ciśnienia statycznego na dowolnej wysokości do wzorcowego ciśnienia na poziomie morza =  p/ po ?	</item>
+        <item>	Jaką nazwę nosi stosunek gęstości powietrza na dowolnej wysokości do wzorcowej (standardowej) gęstości  na poziomie morza  σ =   ρ/  ρo?	</item>
+        <item>	Jaką nazwę nosi stosunek temperatury powietrza na dowolnej wysokości, wyrażonej w Kelwinach (K), do wzorcowej temperatury na poziomie morza, również wyrażonej w Kelwinach (K) = T/To?	</item>
+        <item>	Jaką wielkość ma wzorcowe (standardowe) ciśnienie statyczne na poziomie morza?	</item>
+        <item>	Jaką wielkość, wyrażoną w Kelwinach (K)  ma wzorcowa (standardowa) temperatura powietrza na poziomie morza?	</item>
+        <item>	Jaką wielkość, wyrażoną w kg/m?, ma wzorcowa (standardowa) gęstość powietrza na poziomie morza?	</item>
+        <item>	Jaką wielkość, wyrażoną w stopniach Celsiusza (?C)  ma wzorcowa (standardowa) temperatura powietrza na poziomie morza?	</item>
+        <item>	Jaki istnieje związek między wielkością temperatury powietrza t wyrażonej w stopniach Celsiusza (&lt; sup&gt;?&lt; / sup&gt; C) i temperatury T wyrażonej w Kelwinach (K)?	</item>
+        <item>	Jakie główne cechy ma gruby profil w porównaniu z cieńszym przy takiej samej prędkości opływu?	</item>
+        <item>	Jakie parametry służą określeniu fizycznego stanu powietrza?	</item>
+        <item>	Jakie przedrostki w symbolach jednostek miar SI oznaczają zwielokrotnienie o 10, 100 i 1000?	</item>
+        <item>	Jakie wielkości musimy znać w celu obliczenia przeciążenia "n" w prawidłowym zakręcie?	</item>
+        <item>	Jakiemu celowi służy tzw. „mechanizacja skrzydła” (klapy, sloty, interceptory etc)?	</item>
+        <item>	Jakim przyrządem mierzona jest wysokość rzeczywista, czyli oddalenie statku powietrznego od powierzchni ziemi?	</item>
+        <item>	Jedną z miar stateczności dynamicznej obiektu (samolotu, śmigłowca, szybowca, lotni etc)  jest „czas połówkowy”. Co to jest za wielkość?	</item>
+        <item>	Jeżeli ciało wytrącone ze stanu równowagi krótkotrwałym impulsem zewnętrznym porusza się ruchem jednostajnym, to mamy do czynienia z:	</item>
+        <item>	Jeżeli ciało wytrącone ze stanu równowagi krótkotrwałym impulsem zewnętrznym porusza się ruchem przyśpieszonym zwiększając odchylenie, to mamy do czynienia z:	</item>
+        <item>	Jeżeli dodamy do siebie opory wszystkich części płatowca (tj. skrzydeł, kadłuba, usterzenia, itd.), to otrzymana suma ta będzie:	</item>
+        <item>	Jeżeli dwukrotnie zwiększymy prędkość przepływu, to siła nośna:	</item>
+        <item>	Jeżeli dwukrotnie zwiększymy prędkość przepływu, to siła oporu:	</item>
+        <item>	Jeżeli zmniejszymy temperaturę przepływającego powietrza, nie zmieniając kąta natarcia, powierzchni skrzydła i prędkości przepływu to:	</item>
+        <item>	Jeżeli zwiększymy powierzchnię statecznika poziomego to:	</item>
+        <item>	Każde ciało ma swój własny, stały i niezmienny współczynnik oporu kształtu cx<sub>kszt</sub>	</item>
+        <item>	Kąt natarcia dla którego C&lt; sub &gt; x &lt; /sub &gt; = C &lt; sub &gt; xmin &lt; /sub &gt;  zawsze jest:	</item>
+        <item>	Kąt natarcia płata o profilu wklęsło-wypukłym, dla którego nie powstaje opór indukowany ma wartość:	</item>
+        <item>	Kąt natarcia profilu to kąt zawarty między:	</item>
+        <item>	Kąt zawarty między cięciwą geometryczną profilu i kierunkiem napływu strumienia niezaburzonego to:	</item>
+        <item>	Kiedy wysokość wskazywana na ziemi przez wysokościomierz ciśnieniowy jest wysokością standardową równą elewacji lotniska?	</item>
+        <item>	Klapy stosuje się w celu:	</item>
+        <item>	Kompensacja aerodynamiczna steru ma za zadanie:	</item>
+        <item>	Kompensacja aerodynamiczna steru nazywa się również wyważeniem aerodynamicznym steru.	</item>
+        <item>	Korkociąg płaski jest:	</item>
+        <item>	Krytyczna prędkość flatteru jest to prędkość, dla której:	</item>
+        <item>	Którą oś układu współrzędnych nazywamy osią pionową?	</item>
+        <item>	Którą oś układu współrzędnych nazywamy osią podłużną?	</item>
+        <item>	Którą oś układu współrzędnych nazywamy osią poprzeczną?	</item>
+        <item>	Które urządzenia nie są zaliczane do mechanizacji skrzydła?	</item>
+        <item>	Który opis wielkości fizycznej charakteryzuje energię potencjalną?	</item>
+        <item>	Linia krzywa przedstawiająca kształt skrzydeł widzianych z góry to:	</item>
+        <item>	Linia łącząca noski profili płata lotniczego to:	</item>
+        <item>	Linia łącząca ostrza (spływy)  profili płata lotniczego to:	</item>
+        <item>	Linia łącząca środki okręgów wpisanych w obrys profilu lotniczego nosi nazwę:	</item>
+        <item>	Lot odbywa się na kącie natarcia, dla którego współczynnik siły oporu ‘Cx’ ma wartość minimalną:Cxmin. W wyniku niewielkiego zwiększenia kąta natarcia:	</item>
+        <item>	Lotki typu „Fryze” stosuje się w celu:	</item>
+        <item>	Lotki zaprojektowane są w celu obracania płatowca względem:	</item>
+        <item>	Maksymalna dopuszczalna prędkość lotu ‘VNE’ to:	</item>
+        <item>	Maksymalna doskonałość profilu:	</item>
+        <item>	Maksymalna prędkość lotu w atmosferze, w której dochodzi do gwałtownych zmian prędkości pionowej otaczającego powietrza oznaczana jest:	</item>
+        <item>	Maksymalna prędkość, przy której można jeszcze użyć pełnych wychyleń sterów bez przekroczenia maksymalnego przeciążenia oznaczana jest:	</item>
+        <item>	Mechanizację skrzydła stosuje się w celu:	</item>
+        <item>	Minimalną wartość współczynnika siły oporu Cx otrzymujemy dla kąta natarcia = 0°	</item>
+        <item>	Moment aerodynamiczny mierzony względem środka aerodynamicznego w zakresie prędkości użytkowych:	</item>
+        <item>	Moment oporowy lotek powstaje ponieważ:	</item>
+        <item>	Na dolnej powierzchni płata o skończonym wydłużeniu strugi powietrza opływające go odchylają się w stronę końca płata o kąt, którego wartość jest:	</item>
+        <item>	Na górnej powierzchni płata o skończonym wydłużeniu strugi powietrza opływające go odchylają się w stronę środka płata o kąt, którego wartość jest:	</item>
+        <item>	Na jakiej wysokości nad poziomem morza względna gęstość powietrza jest w atmosferze wzorcowej równa jednej czwartej gęstości na poziomie morza, tj. = 0,25?	</item>
+        <item>	Na jakiej wysokości nad poziomem morza względna gęstość powietrza jest w atmosferze wzorcowej równa = 1?	</item>
+        <item>	Na jakiej wysokości nad poziomem morza względna gęstość powietrza w atmosferze wzorcowej jest połówkowa, tj. równa = 0,5?	</item>
+        <item>	Na jakiej wysokości statyczne ciśnienie względne jest równe połowie ciśnienia statycznego na poziomie morza ( =  0,5)?	</item>
+        <item>	Na płacie o skończonym wydłużeniu strugi powietrza opływające go:	</item>
+        <item>	Największa odległość między górnym i dolnym obrysem profilu (prostopadła do cięciwy) to:	</item>
+        <item>	Największa prędkość, z jaką można wykonywać lot w powietrzu spokojnym oznaczana jest:	</item>
+        <item>	Niekorzystny moment obrotowy względem osi OZ›, który powstaje w wyniku wychylenia lotek o ten sam kąt w przeciwne strony nazywamy:	</item>
+        <item>	Niestateczność holendrowania to jeden z rodzajów niestateczności:	</item>
+        <item>	Niestateczność spiralna to jeden z rodzajów niestateczności:	</item>
+        <item>	Niewielkie zwiększanie kąta natarcia alpha=alpha_optymalne powoduje:	</item>
+        <item>	Oblodzenie powierzchni nośnych powoduje:	</item>
+        <item>	Obrót płatowca względem osi OX realizowany jest za pomocą:	</item>
+        <item>	Obrót płatowca względem osi OY realizowany jest za pomocą:	</item>
+        <item>	Obrót płatowca względem osi OZ realizowany jest za pomocą:	</item>
+        <item>	Opór ciała poruszającego się w powietrzu zależy od:	</item>
+        <item>	Opór indukowany wzrasta, gdy:	</item>
+        <item>	Opór interferencyjny powstaje w wyniku:	</item>
+        <item>	Opór kształtu zależy tylko od kształtu opływanego ciała.	</item>
+        <item>	Opór tarci profilu lotniczego na użytkowych kątach natarcia jest najmniejszy w przypadku opływu:	</item>
+        <item>	Opór tarcia przepływu laminarnego w stosunku do oporu tarcia w przepływie turbulentnym jest:	</item>
+        <item>	Opór, który jest wynikiem zawirowań na końcach płata lotniczego spowodowanych wyrównywaniem ciśnienia na górnej i dolnej powierzchni nosi nazwę:	</item>
+        <item>	Płytowe usterzenie wysokości jednocześnie spełnia rolę statecznika poziomego i steru wysokości.	</item>
+        <item>	Po przekroczeniu krytycznej prędkości rozbieżności skrętnej skrzydła następuje:	</item>
+        <item>	Po wychyleniu lotki w górę podczas lotu z dużą prędkością powstaje:	</item>
+        <item>	Podczas zjawiska autorotacji, skrzydło, które opływane jest pod większym kątem natarcia:	</item>
+        <item>	Położenie środka parcia na profilu klasycznym niesymetrycznym wraz ze wzrostem kąta natarcia:	</item>
+        <item>	Położenie środka parcia na profilu samostatecznym wraz ze wzrostem kąta natarcia:	</item>
+        <item>	Poszerzacze stosuje się w celu:	</item>
+        <item>	Powierzchnia nośna skrzydła to:	</item>
+        <item>	Powodem wyślizgu w zakręcie może być:	</item>
+        <item>	Powodem ześlizgu w zakręcie może być:	</item>
+        <item>	Prędkość brutalnego sterowania ‘V<sub>A</sub>’ to:	</item>
+        <item>	Prędkość lotu w burzliwej atmosferze ‘V<sub>RA</sub>’ to:	</item>
+        <item>	Profile laminarne to profile, w których:	</item>
+        <item>	Prosta łącząca środek krzywizny noska profilu z ostrzem (spływem) profilu to:	</item>
+        <item>	Przeciągnięcie dynamiczne różni się od statycznego tym, że podczas przeciągnięcia dynamicznego:	</item>
+        <item>	Przeciągnięcie statyczne charakteryzuje się:	</item>
+        <item>	Przepływ powietrza wokół końcówek skrzydła spowodowany wyrównywaniem ciśnienia na górnej i dolnej powierzchni wytwarza wiry, które:	</item>
+        <item>	Przesunięcie środka ciężkości do przodu:	</item>
+        <item>	Przesunięcie środka ciężkości do tyłu:	</item>
+        <item>	Przy wzroście kąta wzniosu skrzydeł:	</item>
+        <item>	Przy wzroście przechylenia w zakręcie prawidłowym przeciążenie:	</item>
+        <item>	Przyczyną zjawiska trzepotania usterzeń jest wystąpienie:	</item>
+        <item>	Przyrost siły nośnej na usterzeniu wysokości PZH wywołany wychyleniem drążka ma wartość:	</item>
+        <item>	Punkt na obrysie profilu, który jest położony najdalej w kierunku przeciwnym do kierunku lotu to:	</item>
+        <item>	Punkt na obrysie profilu, który jest wysunięty najdalej w stronę napływających strug powietrza to:	</item>
+        <item>	Punkt, w którym linia działania wypadkowej siły aerodynamicznej przecina cięciwę profilu to:	</item>
+        <item>	Punkt, względem którego moment aerodynamiczny nie zależy od kąta natarcia (w dużym przedziale zmian kąta natarcia) to:	</item>
+        <item>	Różnica przyrostów sił oporu powstałych w wyniku wychylenia lotek o ten sam kąt, ale w przeciwne strony powoduje powstanie:	</item>
+        <item>	Różnicowe wychylenie lotek stosuje się w celu:	</item>
+        <item>	Ruch statku powietrznego podczas lotu opisywany jest za pomocą:	</item>
+        <item>	Siła oporu skrzydła przemieszczającego się w fazie autorotacji w dół jest:	</item>
+        <item>	Siła wytworzona w wyniku różnicy ciśnień przed i za opływanym przez powietrze ciałem nosi nazwę:	</item>
+        <item>	Siły aerodynamiczne zależą od gęstości powietrza. Jak się zmieniają, gdy gęstość maleje?	</item>
+        <item>	Sloty stosuje się w celu:	</item>
+        <item>	Statecznik pionowy odpowiada głównie za stateczność:	</item>
+        <item>	Statecznik poziomy odpowiada głównie za stateczność:	</item>
+        <item>	Stateczność dynamiczna boczna dotyczy:	</item>
+        <item>	Stateczność dynamiczna podłużna dotyczy:	</item>
+        <item>	Stateczność dynamiczną boczną można nazwać inaczej:	</item>
+        <item>	Stateczność statyczna kierunkowa dotyczy:	</item>
+        <item>	Stateczność statyczna podłużna dotyczy:	</item>
+        <item>	Stateczność statyczna poprzeczna dotyczy:	</item>
+        <item>	Stosunek drogi S przebytej w czasie t do czasu t  to:	</item>
+        <item>	Stosunek powierzchni nośnej skrzydła do jego rozpiętości S/b, jest to:	</item>
+        <item>	Stosunek zmiany wartości prędkości w czasie t do czasu t to:	</item>
+        <item>	Strzałka profilu to:	</item>
+        <item>	Szkieletowa profilu to:	</item>
+        <item>	Średnie przyśpieszenie kątowe w ruchu obrotowym jest:	</item>
+        <item>	Środek aerodynamiczny to punkt:	</item>
+        <item>	Środek aerodynamiczny wraz ze wzrostem kąta natarcia:	</item>
+        <item>	Środek parcia to punkt:	</item>
+        <item>	Tłumienie zmian parametrów lotu ma wpływ na:	</item>
+        <item>	Trzepotanie usterzeń to inaczej:	</item>
+        <item>	Ujemny skos skrzydła powoduje:	</item>
+        <item>	Usterzenie kierunku zaprojektowane jest w celu obracania płatowca względem:	</item>
+        <item>	Usterzenie wysokości zaprojektowane jest w celu obracania płatowca względem:	</item>
+        <item>	W celu zlikwidowania momentu oporowego lotek z reguły stosuje się:	</item>
+        <item>	W codziennym życiu spotykamy się ze stanem równowagi:	</item>
+        <item>	W jakich warunkach wysokość gęstościowa jest równa wysokości standardowej wg atmosfery ISA?	</item>
+        <item>	W jakiej proporcji do gęstości powietrza są zależne siły aerodynamiczne na profilu lotniczym?	</item>
+        <item>	W której grupie znajduje się urządzenie, które nie służy do zmniejszania sił, jakie pilot musi wywierać na drążek sterowy?	</item>
+        <item>	W normalnych warunkach lotu siły na sterownicach są :	</item>
+        <item>	W profilach o normalnym, łukowatym kształcie linii szkieletowej, przy wzroście kąta natarcia wypadkowa siła aerodynamiczna:	</item>
+        <item>	W profilach samostatecznych, przy wzroście kąta natarcia wypadkowa siła aerodynamiczna:	</item>
+        <item>	W profilach symetrycznych dla kąta natarcia =0°:	</item>
+        <item>	W profilach symetrycznych, przy wzroście kąta natarcia wypadkowa siła aerodynamiczna:	</item>
+        <item>	W rozwiązaniu konwencjonalnym usterzenie pionowe składa się ze:	</item>
+        <item>	W rozwiązaniu konwencjonalnym usterzenie wysokości składa się ze:	</item>
+        <item>	W układzie współrzędnych opisującym ruch statku powietrznego podczas lotu oś OX? nazywamy:	</item>
+        <item>	W układzie współrzędnych opisującym ruch statku powietrznego podczas lotu oś OY? nazywamy:	</item>
+        <item>	W układzie współrzędnych opisującym ruch statku powietrznego podczas lotu oś OZ? nazywamy:	</item>
+        <item>	W ustalonym locie pilot wychyla drążek sterowy w prawo. Zakładając, że lotki wychylą się o ten sam kąt, prawdziwe będzie stwierdzenie:	</item>
+        <item>	W wyniku wychylenia lotek w górę i w dół o ten sam kąt powstaje:	</item>
+        <item>	W wyniku zastosowania na końcówkach skrzydeł tak zwanych wingletów maleje opór:	</item>
+        <item>	Warstwa przyścienna profilu lotniczego to warstwa w której:	</item>
+        <item>	Wartość współczynnika siły nośnej Cz dla krytycznego kąta natarcia kr’ przyjmuje wartość maksymalną.	</item>
+        <item>	Wartość współczynnika siły oporu Cx dla krytycznego kąta natarcia kr’ przyjmuje wartość maksymalną.	</item>
+        <item>	Wewnętrzna kompensacja aerodynamiczna steru odbywa się poprzez zastosowanie:	</item>
+        <item>	Wraz ze wzrostem wysokości gęstość powietrza:	</item>
+        <item>	Współczynnik przeciążenia "n" w locie nurkowym wynosi:	</item>
+        <item>	Współczynnik przeciążenia w zakręcie zależy od:	</item>
+        <item>	Wychylenie którego urządzenia nie jest sprzężone mechanicznie z wychyleniami powierzchni sterowej?	</item>
+        <item>	Wykres zależności Cx = f(alpha) dla profilu symetrycznego jest:	</item>
+        <item>	Wykres zależności Cz = f(Cx) dla profilu symetrycznego jest:	</item>
+        <item>	Wykres zależności Cz = f(Cx) wykonany na podstawie pomiarów w czasie lotu nazywamy:	</item>
+        <item>	Wykres zależności Cz = f(alpha) dla profilu symetrycznego jest:	</item>
+        <item>	"Wykresy jakich zależności dla profilu symetrycznego przechodzą przez środek układu współrzędnych?"	</item>
+        <item>	Wykresy jakich zależności dla profilu symetrycznego są osiowosymetryczne?	</item>
+        <item>	Wznios skrzydeł stosowany jest w celu:	</item>
+        <item>	Wzrost temperatury powietrza na stałej wysokości powoduje:	</item>
+        <item>	"Z jakich głównych elementów powstaje opór statku powietrznego zwany „szkodliwym”?"	</item>
+        <item>	Zasada ciągłości ruchu powietrza przepływającego przez tunel o zmiennym przekroju mówi, że:	</item>
+        <item>	Zastosowanie kompensacji aerodynamicznej steru ma za zadanie:	</item>
+        <item>	Zdolność do zachowania stanu równowagi i przeciwdziałania jego zmianom nazywamy:	</item>
+        <item>	Zdolność do zmiany stanu ustalonego lotu pod wpływem wychylenia odpowiedniego steru nazywamy	</item>
+        <item>	Zewnętrzna kompensacja aerodynamiczna steru odbywa się poprzez zastosowanie:	</item>
+        <item>	Zjawisko odwrotnego działania lotek polega na:	</item>
+        <item>	Zwężenie przekroju strugi powietrza oznacza:	</item>
+        <item>	Zwichrzenie aerodynamiczne skrzydła charakteryzuje się tym, że:	</item>
+        <item>	Zwichrzenie geometryczne skrzydła charakteryzuje się tym, że:	</item>
+        <item>	Zwiększająca się siła nośna na skrzydle powoduje zmianę oporu indukowanego na:	</item>
+        <item>	Zwiększanie kąta natarcia alpha kr powoduje:	</item>
+        <item>	Co to za zasada?: „W tunelu przez który przepływa powietrze iloczyn pola przekroju i prędkości powietrza jest stały S*v=const"	</item>
+        <item>	Co to za zasada?: „W tunelu, przez który przepływa powietrze, suma ciśnienia statycznego i dynamicznego jest stała w każdym punkcie tego przepływu”	</item>
+        <item>	Dla opisania ruchów statku powietrznego (samolotu, śmigłowca, szybowca etc) w przestrzeni stosowany jest układ osi współrzędnych x-y-z.  Jakie oznaczenie nosi oś pionowa?	</item>
+        <item>	Dla opisania ruchów statku powietrznego (samolotu, śmigłowca, szybowca etc) w przestrzeni stosowany jest układ osi współrzędnych x-y-z.  Jakie oznaczenie nosi oś podłużna?	</item>
+        <item>	Dla opisania ruchów statku powietrznego (samolotu, śmigłowca, szybowca etc) w przestrzeni stosowany jest układ osi współrzędnych x-y-z.  Jakie oznaczenie nosi oś poprzeczna?	</item>
+        <item>	Gdy powietrze przepływa przez kanał o zmiennej powierzchni przekroju zmienia się w nim ciśnienie statyczne. Jak?	</item>
+        <item>	Jak się zachowuje obiekt (samolot, śmigłowiec, szybowiec, lotnia etc) niestateczny dynamicznie po wytrąceniu z  równowagi?	</item>
+        <item>	Jak się zachowuje obiekt (samolot, śmigłowiec, szybowiec, lotnia etc) stateczny dynamicznie po wytrąceniu z równowagi?	</item>
+        <item>	Jak zachowuje się szkodliwy opór przy wzroście prędkości lotu?	</item>
+        <item>	Jak zachowuje się szkodliwy opór przy wzroście prędkości lotu?	</item>
+        <item>	Jak zmieni się siła odśrodkowa przy tej samej prędkości lotu w zakręcie jeśli zmniejszy się jego promień?	</item>
+        <item>	Jak zmieni się siła odśrodkowa przy tej samej prędkości lotu w zakręcie jeśli zmniejszy się jego promień?	</item>
+        <item>	Kąt toru lotu na stałym kącie natarcia podczas wzrostu wysokości:	</item>
+        <item>	Lot odbywa się na kącie natarcia, dla którego współczynnik siły oporu Cx ma wartość minimalną: alpha=alphaCxmin. W wyniku niewielkiego zwiększenia kąta natarcia:	</item>
+        <item>	Lot odbywa się na kącie natarcia, dla którego współczynnik siły oporu Cx ma wartość minimalną: alpha=alphaCxmin. W wyniku niewielkiego zwiększenia kąta natarcia:	</item>
+        <item>	Na rodzaj korkociągu główny wpływ mają następujące czynniki:	</item>
+        <item>	Aby wyprowadzić samolot z wyślizgu w zakręcie i wykonać zakręt prawidłowy należy:	</item>
+        <item>	Aby wyprowadzić samolot z ześlizgu w zakręcie i wykonać zakręt prawidłowy należy:	</item>
+        <item>	Co to za zasada?:„W tunelu przez który przepływa powietrze iloczyn pola przekroju i prędkości powietrza jest stały S*v=const	</item>
+        <item>	Co to za zasada?:„W tunelu, przez który przepływa powietrze, suma ciśnienia statycznego i dynamicznego jest stała w każdym punkcie tego przepływu”	</item>
+        <item>	"Czy między sterownością i statecznością obiektu latającego (samolotu, śmigłowca, lotni etc) istnieją jakieś wzajemne relacje ?"	</item>
+        <item>	Czy sprawność "h" śmigła nieprzestawialnego może przyjmować wartość zerową? Jeżeli tak, to w jakim przypadku?	</item>
+        <item>	Gdy powietrze przepływa przez kanał o zmiennej powierzchni przekroju zmienia się w nim ciśnienie statyczne. Jak?	</item>
+        <item>	Jak się zachowuje obiekt (samolot, śmigłowiec, lotnia etc)  niestateczny dynamicznie po wytrąceniu z  równowagi?	</item>
+        <item>	Jak się zachowuje obiekt (samolot, śmigłowiec, lotnia etc) stateczny dynamicznie po wytrąceniu z równowagi?	</item>
+        <item>	Jak zachowuje się szkodliwy opór przy wzroście prędkości lotu?	</item>
+        <item>	Jak zachowuje się szkodliwy opór przy wzroście prędkości lotu?	</item>
+        <item>	Jak zmieni się siła odśrodkowa przy tej samej prędkości lotu w zakręcie jeśli zmniejszy się jego promień?	</item>
+        <item>	Jak zmieni się siła odśrodkowa przy tej samej prędkości lotu w zakręcie jeśli zmniejszy się jego promień?	</item>
+        <item>	Jak zmienia się prędkość minimalna i prędkość maksymalna lotu poziomego wraz ze wzrostem wysokości lotu?	</item>
+        <item>	Jakie zmiany położenia będą odpowiedzialne za wywoływanie momentu giroskopowego zespołu napędowego?	</item>
+        <item>	Jeżeli autorotacja skrzydła nie zostanie zahamowana przez pilota, to:	</item>
+        <item>	Jeżeli posuw wzrasta to:	</item>
+        <item>	Jeżeli środek ciężkości samolotu pokrywa się ze środkiem równowagi obojętnej to:	</item>
+        <item>	"Jeżeli środek ciężkości samolotu z profilem klasycznym znajduje się przed środkiem równowagi obojętnej to:"	</item>
+        <item>	"Jeżeli środek ciężkości samolotu z profilem klasycznym znajduje się za środkiem równowagi obojętnej to:"	</item>
+        <item>	"Jeżeli znacznie zwiększymy prędkość lotu przy stałej prędkości obrotowej śmigła nieprzestawialnego, to:"	</item>
+        <item>	Jeżeli znacznie zwiększymy prędkość obrotową śmigła nieprzestawialnego, przy stałej prędkości lotu, to:	</item>
+        <item>	Kąty natarcia poszczególnych przekrojów śmigła osiągną wartość ujemną:	</item>
+        <item>	Kiedy kąt natarcia śmigła =0° ?	</item>
+        <item>	Kiedy poślizg śmigła nieprzestawialnego w samolocie turystycznym jest równy skokowi geometrycznemu?	</item>
+        <item>	Kiedy poślizg śmigła nieprzestawialnego w samolocie turystycznym wynosi zero?	</item>
+        <item>	Kiedy skok geometryczny śmigła nieprzestawialnego w samolocie turystycznym jest równy skokowi rzeczywistemu?	</item>
+        <item>	Kiedy skok geometryczny śmigła nieprzestawialnego w samolocie turystycznym wynosi zero?	</item>
+        <item>	Kiedy skok rzeczywisty śmigła nieprzestawialnego w samolocie turystycznym wynosi zero?	</item>
+        <item>	Która z wymienionych zmian nie jest spowodowana zwiększeniem siły ciągu silnika?	</item>
+        <item>	Które rozwiązanie konstrukcyjne nie służy do kompensacji zaśmigłowego momentu kierunkowego?	</item>
+        <item>	Który opis wielkości fizycznej charakteryzuje moc, którą dysponujemy?	</item>
+        <item>	Który opis wielkości fizycznej charakteryzuje wykonaną pracę?	</item>
+        <item>	Lot odbywa się na kącie natarcia, dla którego współczynnik siły oporu Cx ma wartość minimalną: alpha=alphaCxmin. W wyniku niewielkiego zwiększenia kąta natarcia:	</item>
+        <item>	Lot odbywa się na kącie natarcia, dla którego współczynnik siły oporu Cx ma wartość minimalną: alpha=alphaCxmin. W wyniku niewielkiego zwiększenia kąta natarcia:	</item>
+        <item>	Miarą stateczności statycznej jest pochodna Mx = dM/dx, zwana „pochodną momentu M względem zmiennej x”. Jaki znak pochodnej określa niestateczność?	</item>
+        <item>	Mimośrodowość (decentracja) ciągu śmigła polega na tym, że:	</item>
+        <item>	Mimośrodowość (decentracja) ciągu śmigła:	</item>
+        <item>	Moment giroskopowy od zespołu napędowego zanika, gdy ustaje:	</item>
+        <item>	Moment odchylający samolot wywołany działaniem na usterzeniu siły aerodynamicznej wytworzonej przez niesymetryczny opływ zaśmigłowy nazywamy:	</item>
+        <item>	Na małych prędkościach lotu największą sprawność uzyska śmigło:	</item>
+        <item>	Na rodzaj korkociągu główny wpływ mają następujące czynniki:	</item>
+        <item>	Najmniejsze opadanie w locie ślizgowym ma samolot lecący z prędkością:	</item>
+        <item>	Największą doskonałość podczas lotu ślizgowego w powietrzu spokojnym ma samolot lecący z prędkością:	</item>
+        <item>	Obciążeniem mocy nazywamy:	</item>
+        <item>	Objawem przejścia samolotu do lotu w fazie przeciągnięcia jest zazwyczaj:	</item>
+        <item>	Opór interferencyjny powstaje w wyniku:	</item>
+        <item>	Pociągnięcie drążka na siebie powoduje:	</item>
+        <item>	Podczas analizy stateczności samolotu niezbędne jest uwzględnienie:	</item>
+        <item>	Podczas odchylania samolotu moment giroskopowy zespołu napędowego:	</item>
+        <item>	Podczas pochylania samolotu moment giroskopowy zespołu napędowego:	</item>
+        <item>	Podczas podchodzenia do lądowania na samolocie z przestawianym skokiem śmigła:	</item>
+        <item>	Podczas próby silnika przed startem posuw jest:	</item>
+        <item>	Podczas przechylania samolotu moment giroskopowy zespołu napędowego:	</item>
+        <item>	Podczas ustalonego lotu prostoliniowego, obracające się śmigło stara się obrócić samolot w kierunku przeciwnym do kierunku obrotu śmigła momentem, który nazywamy:	</item>
+        <item>	Podczas wykonywania manewrów pilot funkcjonuje w pętli sprzężenia zwrotnego, reagując na otrzymywane sygnały. Jakie to są główne sygnały?	</item>
+        <item>	Położenie środka parcia na profilu symetrycznym wraz ze wzrostem kąta natarcia:	</item>
+        <item>	Poślizg śmigła jest to:	</item>
+        <item>	Przeciągnięcie dynamiczne różni się od statycznego tym, że podczas przeciągnięcia dynamicznego:	</item>
+        <item>	Przeciągnięciem samolotu nazywamy stan w którym:	</item>
+        <item>	Przyrost momentu pochylającego samolot ‘M’ powstały w wyniku wychylenia drążka wynosi M = Pzh * 1h, gdzie:	</item>
+        <item>	Rozpatrując stateczność samolotu w układzie współrzędnych OXYZ zakładamy, że wszystkie trzy osie układu przechodzą przez:	</item>
+        <item>	Samolot leci w poziomie na prędkości ekonomicznej. W celu ustaleniu lotu poziomego z prędkością minimalną należy:	</item>
+        <item>	Samolot podczas lotu w fazie przeciągnięcia jest:	</item>
+        <item>	Samolot w fazie autorotacji charakteryzuje się:	</item>
+        <item>	Samoloty stosowane w lotnictwie sportowym są zazwyczaj konstruowane tak, aby:	</item>
+        <item>	Skok geometryczny śmigła to:	</item>
+        <item>	Skok rzeczywisty śmigła to:	</item>
+        <item>	Sprawność śmigła jest równa zeru tylko wtedy, kiedy:	</item>
+        <item>	Stan równowagi , w której ciało się zwykle znajduje i do której powraca zawsze po wytrąceniu go ze stanu równowagi nazywamy:	</item>
+        <item>	Stateczność dynamiczna boczna zależy głównie od:	</item>
+        <item>	Stateczność dynamiczna podłużna zależy głównie od:	</item>
+        <item>	Stateczność dynamiczna to:	</item>
+        <item>	Stateczność statyczna kierunkowa zależy głównie od:	</item>
+        <item>	Stateczność statyczna podłużna zależy głównie od:	</item>
+        <item>	Stateczność statyczna poprzeczna zależy głównie od:	</item>
+        <item>	Stateczność statyczna to:	</item>
+        <item>	Sterowność to:	</item>
+        <item>	Stosunek pracy wykonanej przez śmigło do mocy pobieranej przez śmigło od silnika nazywamy:	</item>
+        <item>	"Stosunek prędkości lotu do prędkości obwodowej danego przekroju śmigła ""u"" nazywamy:"	</item>
+        <item>	Śmigło samolotu, w celu uzyskania jak największej sprawności, powinno:	</item>
+        <item>	W celu wyprowadzenia samolotu z fazy autorotacji należy w kolejności:	</item>
+        <item>	W celu wyprowadzenia samolotu z fazy przeciągnięcia do lotu ustalonego należy:	</item>
+        <item>	W celu wyprowadzenia samolotu z korkociągu należy w kolejności:	</item>
+        <item>	W celu zmniejszenia pochylenia samolotu:	</item>
+        <item>	W celu zmniejszenia pochylenia samolotu:	</item>
+        <item>	W celu zmniejszenia pochylenia samolotu:	</item>
+        <item>	W celu zmniejszenia pochylenia samolotu:	</item>
+        <item>	W celu zwiększenia pochylenia samolotu:	</item>
+        <item>	W celu zwiększenia pochylenia samolotu:	</item>
+        <item>	W celu zwiększenia pochylenia samolotu:	</item>
+        <item>	W celu zwiększenia pochylenia samolotu:	</item>
+        <item>	W jakim dokumencie zawarte są informacje o osiągach statku powietrznego (śmigłowca, samolotu etc)?	</item>
+        <item>	W przypadku, gdy kąt natarcia śmigła jest równy kątowi nastawienia łopat śmigła, prawdą jest, że:	</item>
+        <item>	W spokojnym powietrzu, optymalny kąt toru lotu ślizgowego z wyłączonym silnikiem, podczas wzrostu ciężaru samolotu:	</item>
+        <item>	W ustalonym locie poziomym prostoliniowym współczynnik obciążenia samolotu n wynosi:	</item>
+        <item>	W ustalonym zakręcie współczynnik obciążenia samolotu n wynosi:	</item>
+        <item>	W wyniku niewielkiego zwiększania kąta natarcia alpha=alpha optymalne :	</item>
+        <item>	W wyniku niewielkiego zwiększania kąta natarcia alpha=alpha optymalne :	</item>
+        <item>	W wyniku niewielkiego zwiększania kąta natarcia alpha=alpha optymalne :	</item>
+        <item>	Wychylenie lotek w lewo podczas lotu w fazie przeciągnięcia spowoduje:	</item>
+        <item>	Wychyleniu klap towarzyszy zwykle:	</item>
+        <item>	Wykres zależności Cz = f(Cx) wykonany na podstawie pomiarów w czasie lotu nazywamy:	</item>
+        <item>	Z jaka właściwością związany jest spadek prędkości powietrza w warstwie przyściennej profilu lotniczego	</item>
+        <item>	Zaleca się, aby zmiana mocy z przelotowej na nominalną (śmigło o przestawianym skoku) odbywała się w następujący sposób:	</item>
+        <item>	Zaleca się, aby zmiana mocy ze startowej na nominalną (śmigło o przestawianym skoku) odbywała się w następujący sposób:	</item>
+        <item>	Zapas stateczności statycznej podłużnej samolotu to:	</item>
+        <item>	Zdolność do samoczynnego powrotu samolotu do położenia równowagi,  gdy przestaną działać zakłócenia, które tę równowagę naruszyły nazywamy:	</item>
+        <item>	Zwichrzenie aerodynamiczne płata charakteryzuje się tym, że:	</item>
+        <item>	Zwichrzenie geometryczne płata charakteryzuje się tym, że:	</item>
+        <item>	Zwiększenie obciążenia jednostkowego powierzchni powoduje:	</item>
+    </string-array>
+</resources>

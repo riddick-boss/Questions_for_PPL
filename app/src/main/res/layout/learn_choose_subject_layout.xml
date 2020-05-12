@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/Constraint_layout_learn_choose_subject"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/spit_lighter">
+
+    <ScrollView
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="1dp"
+        android:layout_marginEnd="1dp"
+        android:layout_marginBottom="10dp"
+        app:layout_constraintBottom_toTopOf="@+id/adView_learn_choose_subject"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/wszystkiepytaniaButton"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:onClick="onChooseSubjectButtonClicked"
+                android:text="@string/wszystko"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <Button
+                android:id="@+id/prawolotniczeButton"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:onClick="onChooseSubjectButtonClicked"
+                android:text="@string/prawo_lotnicze"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/bezpieczenstwoButton" />
+
+            <Button
+                android:id="@+id/wiedzaosamolocieButton"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:onClick="onChooseSubjectButtonClicked"
+                android:text="@string/wiedza_o_samolocie"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/prawolotniczeButton" />
+
+            <Button
+                android:id="@+id/osiagiButton"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:onClick="onChooseSubjectButtonClicked"
+                android:text="@string/osiagi"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/wiedzaosamolocieButton" />
+
+            <Button
+                android:id="@+id/czlowiekButton"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:onClick="onChooseSubjectButtonClicked"
+                android:text="@string/czlowiek"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/osiagiButton" />
+
+            <Button
+                android:id="@+id/meteoButton"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:onClick="onChooseSubjectButtonClicked"
+                android:text="@string/meteo"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/lacznoscButton" />
+
+            <Button
+                android:id="@+id/nawigacjaButton"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:onClick="onChooseSubjectButtonClicked"
+                android:text="@string/nawigacja"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/czlowiekButton" />
+
+            <Button
+                android:id="@+id/proceduryButton"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:onClick="onChooseSubjectButtonClicked"
+                android:text="@string/procedury_operacyjne"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/nawigacjaButton" />
+
+            <Button
+                android:id="@+id/zasadylotuButton"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:onClick="onChooseSubjectButtonClicked"
+                android:text="@string/zasady_lotu"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/proceduryButton" />
+
+            <Button
+                android:id="@+id/lacznoscButton"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:onClick="onChooseSubjectButtonClicked"
+                android:text="@string/lacznosc"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/zasadylotuButton" />
+
+            <Button
+                android:id="@+id/bezpieczenstwoButton"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:onClick="onChooseSubjectButtonClicked"
+                android:text="@string/bezpieczenstwo"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/wszystkiepytaniaButton" />
+
+        </LinearLayout>
+    </ScrollView>
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView_learn_choose_subject"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        app:adSize="BANNER"
+        app:adUnitId="@string/MY_ADMOB_ID"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

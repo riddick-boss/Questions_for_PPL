@@ -1,0 +1,1512 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="zasady_answers">
+        <item>	nie	</item>
+        <item>	- zwiększyć sztywność giętną skrzydła; - zastosować wyważenia masowe lotek	</item>
+        <item>	- zwiększyć sztywność skrętną skrzydła; - przesunąć środek ciężkości skrzydła jak najbliżej osi skrętnej	</item>
+        <item>	zwiększyć sztywność skrętną skrzydła	</item>
+        <item>	- zastosować usterzenia typu T; - starannie opracować przejście skrzydło-kadłub	</item>
+        <item>	prędkość strumienia jest równa zeru, a ciśnienie – ciśnieniu spiętrzenia	</item>
+        <item>	flatteru lotkowego	</item>
+        <item>	trzepotanie usterzeń	</item>
+        <item>	-prędkość kątowa wzrośnie dwukrotnie -przyśpieszenie dośrodkowe "ar" wzrośnie czterokrotnie	</item>
+        <item>	-prędkość kątowa zmaleje dwukrotnie -droga przebyta przez ciało w czasie okresu ‘T’ wzrośnie dwukrotnie -przyśpieszenie dośrodkowe ‘ar’ zmaleje dwukrotnie	</item>
+        <item>	w stronę środka okręgu	</item>
+        <item>	minimalne na górnej powierzchni i maksymalne  na dolnej powierzchni	</item>
+        <item>	Związek między ciśnieniem statycznym, gęstością, temperaturą i stałą gazową powietrza    p = rho.g.R.T  [Pa]	</item>
+        <item>	Zdolność do „odpowiadania” przez obiekt na zadawane przez pilota impulsy sterujące.	</item>
+        <item>	różnica ciśnienia dynamicznego i ciśnienia statycznego	</item>
+        <item>	niezaburzony opływ od krawędzi natarcia do punktu przejściowego	</item>
+        <item>	Największa wysokość na którą teoretycznie statek powietrzny może się wznieść.	</item>
+        <item>	Istnienie tendencji (w postaci działania siły lub momentu) do powrotu do równowagi po wytrąceniu z niej.	</item>
+        <item>	Wyobrażalny punkt na cięciwie profilu, w którym działa wypadkowa wszystkich sił aerodynamicznych występujących na profilu	</item>
+        <item>	Warstwa powietrza opływającego dowolny element statku powietrznego, w której prędkość zmienia się od zera do prędkości opływu	</item>
+        <item>	Stosunek rozpiętości do średniej cięciwy geometrycznej.	</item>
+        <item>	Fizyczne wzniesienie (wysokość) płyty lotniska nad umowny poziom morza wg. ISA.	</item>
+        <item>	Ilość masy powietrza  zawartej w 1 m? objętości.	</item>
+        <item>	Zbiór uznawanych za wzorcowe wielkości ciśnienia statycznego p, temperatur t i T oraz gęstości powietrza na różnych wysokościach.	</item>
+        <item>	Wysokość odczytywana na wysokościomierzu ciśnieniowym stawionym  na aktualne ciśnienie na poziomie lotniska QFE.	</item>
+        <item>	Wysokość odczytywana na wysokościomierzu ciśnieniowym ustawionym na aktualne ciśnienie na poziomie morza QNH	</item>
+        <item>	Wysokość pozorna, na której gęstość powietrza jest równa wartości standardowej wg. atmosfery ISA.	</item>
+        <item>	Wysokość odczytywana na wysokościomierzu ciśnieniowym ustawionym na standardową wartość na poziomie morza (QNH), tj. po = 1013,25 hPa  =  760 mm Hg.	</item>
+        <item>	Tak, wyrażony tzw. równaniem stanu p = rho.g.R.T  [Pa], w którym g oznacza przyspieszenie ziemskie g = 9,81 m/s? zaś R stałą gazową powietrza R = 29,2746 m/K.	</item>
+        <item>	Nie.	</item>
+        <item>	tak, sterowność maleje	</item>
+        <item>	Stateczność statyczna uwzględnia tylko tendencję do powrotu do równowagi, stateczność dynamiczna uwzględnia charakter ruchu obiektu.	</item>
+        <item>	Istnieniem tendencji (w postaci działania siły lub momentu) do pogłębiania odejścia od stanu równowagi po wytrąceniu z niej.	</item>
+        <item>	Brakiem jakiejkolwiek reakcji obiektu na wytrącenie go z równowagi.	</item>
+        <item>	dwuwypukłym symetrycznym	</item>
+        <item>	czterokrotne zwiększenie przebytej drogi	</item>
+        <item>	dwukrotne zwiększenie przebytej drogi	</item>
+        <item>	cięciwa geometryczna nie zmienia się wzdłuż rozpiętości	</item>
+        <item>	takie same dla wszystkich skrzydeł	</item>
+        <item>	Px=Q	</item>
+        <item>	Do krzywej biegunowej pokazującej zależność siły nośnej od oporu..	</item>
+        <item>	poszerzasz i klapę przednią	</item>
+        <item>	sloty (skrzela)	</item>
+        <item>	klapę przednią	</item>
+        <item>	zwiększenie stateczności statycznej podłużnej	</item>
+        <item>	zmienia się w zależności od kąta natarcia	</item>
+        <item>	czterokrotny spadek ciśnienia statycznego	</item>
+        <item>	powstawaniem drgań samowzbudnych	</item>
+        <item>	przy maleniu powierzchni przekroju prędkość V zwiększa się	</item>
+        <item>	największa odległość między górnym i dolnym obrysem profilu, prostopadła do jego cięciwy	</item>
+        <item>	opór tarcia większy, a warstwa przyścienna grubsza	</item>
+        <item>	oporu szczelinowego	</item>
+        <item>	klapka odciążająca	</item>
+        <item>	zwiększyć dwukrotnie	</item>
+        <item>	trymer	</item>
+        <item>	punkt przejściowy	</item>
+        <item>	Biegunowa.	</item>
+        <item>	Maksymalna prędkość dopuszczalna	</item>
+        <item>	Kilogram (kg), metr (m) i sekunda (sec)	</item>
+        <item>	Niuton (N), Paskal (Pa), Kelwin (K)	</item>
+        <item>	100000 N/m?	</item>
+        <item>	wzrośnie czterokrotnie	</item>
+        <item>	Wzrasta.	</item>
+        <item>	większa kątowa zmiana kierunku w korkociągu płaskim	</item>
+        <item>	760 mm Hg.	</item>
+        <item>	ciśnienie względne.	</item>
+        <item>	Gęstość powietrza względna.	</item>
+        <item>	Bezwymiarowa temperatura względna.	</item>
+        <item>	po = 101325  N/m?  =  1013,25 hPa	</item>
+        <item>	To  =  288  K.	</item>
+        <item>	=  1,2255 kg/m?.	</item>
+        <item>	t = +15 &lt; sup &gt; o&lt; /sup &gt; C	</item>
+        <item>	T = t + 273.	</item>
+        <item>	większy opór i większy współczynnik siły nośnej	</item>
+        <item>	Ciśnienie statyczne, temperatura i gęstość.	</item>
+        <item>	Deka- (da), hekto- (h), kilo- (k).	</item>
+        <item>	wystarczy znać przechylenie	</item>
+        <item>	Celem  jest zmienianie współczynników aerodynamicznych w celu wywierania wpływu na  osiągi (np. prędkość podejścia do lądowania)	</item>
+        <item>	Wysokościomierzem radiowym (radarowym).	</item>
+        <item>	Czas jaki upływa od odchylenia od równowagi o jakąś wielkość do chwili zmalenia tego odchylenia do połowy (50%).	</item>
+        <item>	równowagą obojętną	</item>
+        <item>	równowagą chwiejną	</item>
+        <item>	mniejsza od oporu płatowca zmontowanego z tych części	</item>
+        <item>	wzrośnie czterokrotnie	</item>
+        <item>	wzrośnie czterokrotnie	</item>
+        <item>	siły aerodynamiczne na skrzydle wzrosną	</item>
+        <item>	stateczność statyczna podłużna wzrośnie	</item>
+        <item>	fałsz, współczynnik oporu kształtu zależy również od ustawienia ciała	</item>
+        <item>	mniejszy od kąta natarcia dla(Cz/Cx)max	</item>
+        <item>	ujemną	</item>
+        <item>	cięciwą geometryczną profilu i kierunkiem napływu strumienia niezaburzonego	</item>
+        <item>	kąt natarcia profilu	</item>
+        <item>	W warunkach zgodnych z podanymi w tabeli Międzynarodowej Atmosfery Wzorcowej ISA.	</item>
+        <item>	zwiększenia CZmax	</item>
+        <item>	zmniejszenie sił używanych przez pilota	</item>
+        <item>	PRAWDA	</item>
+        <item>	bardziej niebezpieczny od stromego	</item>
+        <item>	siły wzbudzające drgania są równe siłom tłumiącym	</item>
+        <item>	oś OZ?	</item>
+        <item>	oś OX?	</item>
+        <item>	oś OY?	</item>
+        <item>	zwiększające CZmax poprzez zmniejszenie przepływu indukowanego, np. winglety	</item>
+        <item>	- iloczyn ciężaru i wysokości ciała- jednostka dżul [J]	</item>
+        <item>	obrys skrzydła	</item>
+        <item>	geometryczna krawędź natarcia	</item>
+        <item>	geometryczna krawędź spływu	</item>
+        <item>	szkieletowa	</item>
+        <item>	procentowe zwiększenie "Cz" będzie większe od procentowego zwiększenia "Cx"	</item>
+        <item>	zniwelowania momentu oporowego lotek	</item>
+        <item>	ośi OX›	</item>
+        <item>	największa prędkość, z jaką można wykonywać lot w powietrzu spokojnym	</item>
+        <item>	jest stałą charakterystyczną dla profilu i odpowiada wartości (Cz/Cx)max	</item>
+        <item>	V &lt;sub &gt; RAamp; &lt; /sub &gt;	</item>
+        <item>	V&lt;sub>A&lt;/sub>	</item>
+        <item>	zwiększenia CZmax	</item>
+        <item>	prawda tylko dla profili symetrycznych	</item>
+        <item>	prawie nie zależy od kata natarcia, ale jest proporcjonalny do kwadratu prędkości lotu	</item>
+        <item>	siła oporu na lotce wychylonej w dół jest większa od siły oporu na lotce wychylonej w górę	</item>
+        <item>	tym większa im bliżej końca płata	</item>
+        <item>	tym większą im większy kąt natarcia	</item>
+        <item>	12200 m.	</item>
+        <item>	0 m.	</item>
+        <item>	6700 m.	</item>
+        <item>	5500 m.	</item>
+        <item>	- odchylają się w stronę środka płata na górnej powierzchni - odchylają się w stronę końca płata na dolnej powierzchni	</item>
+        <item>	grubość profilu	</item>
+        <item>	V<sub>NE</sub>	</item>
+        <item>	momentem oporowym lotek	</item>
+        <item>	dynamicznej bocznej	</item>
+        <item>	dynamicznej bocznej	</item>
+        <item>	zwiększanie ‘C<sub>x</sub>’ oraz ‘C<sub>z</sub>’	</item>
+        <item>	zwiększenie prędkości minimalnej	</item>
+        <item>	lotek	</item>
+        <item>	usterzenia wysokości	</item>
+        <item>	usterzenia kierunku	</item>
+        <item>	współczynnika oporu, powierzchni odniesienia, gęstości powietrza kwadratu prędkości lotu	</item>
+        <item>	maleje wydłużenie płata	</item>
+        <item>	wzajemnego zaburzania opływu przez części sąsiadujące ze sobą	</item>
+        <item>	fałsz, opór kształtu zależy również od ustawienia ciała	</item>
+        <item>	laminarnego	</item>
+        <item>	mniejszy	</item>
+        <item>	oporu indukowanego	</item>
+        <item>	PRAWDA	</item>
+        <item>	ukręcenie skrzydła	</item>
+        <item>	moment skręcający skrzydło, który powoduje wzrost kąta natarcia skrzydła	</item>
+        <item>	wytwarza mniejszą siłę nośną od skrzydła na mniejszym kącie natarcia	</item>
+        <item>	przesuwa się do przodu	</item>
+        <item>	przesuwa się do tyłu	</item>
+        <item>	zmniejszenia V<sub>min</sub>	</item>
+        <item>	powierzchnia ograniczona obrysem skrzydła	</item>
+        <item>	za małe przechylenie lub za duża prędkość kątowa zakrętu	</item>
+        <item>	za duże przechylenie lub za mała prędkość kątowa zakrętu	</item>
+        <item>	maksymalna prędkość, przy której można jeszcze użyć pełnych wychyleń sterów bez przekroczenia maksymalnego przeciążenia	</item>
+        <item>	maksymalna prędkość lotu w atmosferze, w której dochodzi do gwałtownych zmian prędkości pionowej otaczającego powietrza	</item>
+        <item>	maksymalna grubość profilu znajduje się w przedziale 50%-70% cięciwy	</item>
+        <item>	cięciwa geometryczna profilu	</item>
+        <item>	następuje szybka zmiana kąta natarcia skrzydła	</item>
+        <item>	powolną zmianą kąta natarcia skrzydła	</item>
+        <item>	są tym większe im większa jest siła nośna na skrzydle	</item>
+        <item>	zmniejsza szansę korkociągu płaskiego	</item>
+        <item>	ułatwia wprowadzenie w korkociąg	</item>
+        <item>	wzrasta różnica sił nośnych wytwarzanych na obu skrzydłach podczas ślizgu	</item>
+        <item>	wzrasta	</item>
+        <item>	rezonansu pomiędzy drganiami zaburzonych strug zaskrzydłowych z drganiami własnymi powierzchni sterowych	</item>
+        <item>	dodatnią gdy oddamy drążek „od siebie”	</item>
+        <item>	ostrze (spływ) profilu	</item>
+        <item>	nosek profilu	</item>
+        <item>	środek parcia	</item>
+        <item>	środek aerodynamiczny	</item>
+        <item>	niekorzystnego momentu odchylającego	</item>
+        <item>	zniwelowania momentu oporowego lotek	</item>
+        <item>	trzech osi współrzędnych OX›, OY›, OZ›	</item>
+        <item>	większa od siły oporu na skrzydle przeciwnym	</item>
+        <item>	siła oporu kształtu	</item>
+        <item>	maleją proporcjonalnie do malejącej gęstości	</item>
+        <item>	zwiększenia CZmax	</item>
+        <item>	kierunkową	</item>
+        <item>	podłużną	</item>
+        <item>	odchylania i przechylania	</item>
+        <item>	pochylania	</item>
+        <item>	statecznością holendrowania	</item>
+        <item>	odchylania	</item>
+        <item>	pochylania	</item>
+        <item>	przechylania	</item>
+        <item>	prędkość średnia	</item>
+        <item>	średnia cięciwa geometryczna	</item>
+        <item>	przyspieszenie średnie	</item>
+        <item>	największa odległość między linią szkieletową i cięciwą profilu	</item>
+        <item>	linia łącząca środki okręgów wpisanych w obrys profilu lotniczego	</item>
+        <item>	-wprost proporcjonalne do przyrostu prędkości kątowej w czasie pomiaru - odwrotnie proporcjonalne do czasu pomiaru	</item>
+        <item>	względem którego moment aerodynamiczny nie zależy od kąta natarcia (w dużym przedziale zmian kąta natarcia)	</item>
+        <item>	w dużym zakresie zmian kąta natarcia nie zmienia swojego położenia	</item>
+        <item>	w którym linia działania wypadkowej siły aerodynamicznej przecina cięciwę profilu	</item>
+        <item>	równowagę dynamiczną	</item>
+        <item>	buffeting	</item>
+        <item>	zmniejszenie stateczności statycznej podłużnej	</item>
+        <item>	ośi OZ›	</item>
+        <item>	ośi OY›	</item>
+        <item>	różnicowe wychylenie lotek	</item>
+        <item>	- stałej ;  - obojętnej;  - chwiejnej	</item>
+        <item>	W warunkach zgodnych z tabelą Międzynarodowej Atmosfery Wzorcowej ISA.	</item>
+        <item>	Wprost proporcjonalnie.	</item>
+        <item>	- wyważenie masowe; - klapka wyważająca	</item>
+        <item>	zawsze odpowiednio proporcjonalne do zmian ruchu lub zmian stanu lotu	</item>
+        <item>	przesuwa się wzdłuż cięciwy do przodu	</item>
+        <item>	przesuwa się wzdłuż cięciwy do tyłu	</item>
+        <item>	cięciwa geometryczna profilu pokrywa się z cięciwą aerodynamiczną profilu	</item>
+        <item>	nie przesuwa się wzdłuż cięciwy	</item>
+        <item>	-statecznika pionowego stanowiącego przednią, nieruchomą część-steru kierunku stanowiącego tylną ruchomą część	</item>
+        <item>	-statecznika poziomego stanowiącego przednią, nieruchomą część-steru wysokości stanowiącego tylną ruchomą część	</item>
+        <item>	osią podłużną	</item>
+        <item>	osią poprzeczną	</item>
+        <item>	osią pionową	</item>
+        <item>	siła oporu na lotce wychylonej w dół będzie większa od siły oporu na drugiej lotce	</item>
+        <item>	niekorzystny moment oporowy lotek	</item>
+        <item>	indukowany	</item>
+        <item>	prędkość cząsteczek powietrza jest mniejsza od prędkości przepływu	</item>
+        <item>	zawsze prawda	</item>
+        <item>	zawsze fałsz	</item>
+        <item>	przepony, która jednocześnie zmniejsza opór szczelinowy	</item>
+        <item>	zawsze maleje	</item>
+        <item>	n=0	</item>
+        <item>	Kąta przechylenia i prędkości lotu	</item>
+        <item>	klapki wywarzającej	</item>
+        <item>	symetryczny względem osi "Cx"	</item>
+        <item>	symetryczny względem osi "Cx"	</item>
+        <item>	biegunową szybowca	</item>
+        <item>	symetryczny względem środka układu współrzędnych	</item>
+        <item>	Cz = f(alpha), Cm = f(alpha)	</item>
+        <item>	Cx = f(alpha), Cz = f(Cx)	</item>
+        <item>	zwiększenia stateczności poprzecznej szybowca	</item>
+        <item>	zmniejszenie gęstości powietrza	</item>
+        <item>	Z „oporu kształtu” bryły statku powietrznego i z „oporu tarcia” powietrza o powierzchnię tej bryły.	</item>
+        <item>	jeżeli przekrój poprzeczny tunelu dwukrotnie się zwiększy, to prędkość powietrza zmaleje dwukrotnie	</item>
+        <item>	zmniejszenie momentu zawiasowego	</item>
+        <item>	statecznością statyczną	</item>
+        <item>	sterownością	</item>
+        <item>	dodatkowej powierzchni sterowej przed osią obrotu steru	</item>
+        <item>	skręceniu skrzydła spowodowanym wychyleniem lotki	</item>
+        <item>	Malenie statycznego ciśnienia w strudze i wzrost prędkości (+)	</item>
+        <item>	na końcówkach skrzydeł stosuje się profile, na których oderwanie strug dla alpha kryt jest mniej intensywne	</item>
+        <item>	cięciwy profili geometrycznych w kolejnych przekrojach nie leżą w jednej płaszczyźnie	</item>
+        <item>	większy	</item>
+        <item>	zwiększanie "Cx" oraz zmniejszanie "Cz"	</item>
+        <item>	zasada ciągłości ruchu	</item>
+        <item>	prawo Bernouli’ego	</item>
+        <item>	z	</item>
+        <item>	x	</item>
+        <item>	y	</item>
+        <item>	zmniejsza się przy zmniejszaniu powierzchni przekroju	</item>
+        <item>	Obiekt wykonuje ruch, najczęściej harmoniczny, o rosnącej amplitudzie.	</item>
+        <item>	Obiekt wykonuje ruch, najczęściej harmoniczny, o malejącej amplitudzie.	</item>
+        <item>	Wzrasta z kwadratem prędkości.	</item>
+        <item>	Opór wzrasta z kwadratem prędkości.	</item>
+        <item>	Zwiększy się.	</item>
+        <item>	Siła odśrodkowa zwiększy się.	</item>
+        <item>	pozostaje niezmieniony	</item>
+        <item>	stosunek Cz/Cx wzrośnie	</item>
+        <item>	doskonałość płatowca wzrośnie	</item>
+        <item>	-położenie środka ciężkości szybowca; -rozłożenie mas na szybowcu; -usytuowanie i wielkość usterzeń	</item>
+        <item>	zwiększyć przechylenie lub zmniejszyć prędkość kątową zakrętu	</item>
+        <item>	zmniejszyć przechylenie lub zwiększyć prędkość kątową zakrętu	</item>
+        <item>	zasada ciągłości ruchu	</item>
+        <item>	prawo Bernouli’ego	</item>
+        <item>	Działają przeciw sobie	</item>
+        <item>	- śmigło się obraca, a samolot ma prędkość=0; - na prędkości lotu tak dużej, że śmigło nie daje już ciągu	</item>
+        <item>	zmniejsza się przy maleniu powierzchni przekroju	</item>
+        <item>	Obiekt wykonuje ruch, najczęściej harmoniczny, o rosnącej amplitudzie.	</item>
+        <item>	Obiekt wykonuje ruch, najczęściej harmoniczny, o malejącej amplitudzie.	</item>
+        <item>	Wzrasta z kwadratem prędkości.	</item>
+        <item>	Opór wzrasta z kwadratem prędkości.	</item>
+        <item>	Zwiększy się.	</item>
+        <item>	Siła odśrodkowa zwiększy się.	</item>
+        <item>	min rośnie, max maleje	</item>
+        <item>	- pochylanie; - odchylanie	</item>
+        <item>	samolot samoczynnie przejdzie w fazę lotu zwaną korkociągiem	</item>
+        <item>	kąty natarcia poszczególnych przekrojów śmigła maleją	</item>
+        <item>	samolot nie jest stateczny i nie jest niestateczny	</item>
+        <item>	samolot jest stateczny	</item>
+        <item>	samolot jest niestateczny	</item>
+        <item>	kąt natarcia łopat śmigła zmaleje	</item>
+        <item>	kąt natarcia łopat śmigła wzrośnie	</item>
+        <item>	jeżeli posuw będzie odpowiednio duży	</item>
+        <item>	wtedy, kiedy poślizg śmigła S=0	</item>
+        <item>	wtedy, kiedy prędkość samolotu =0	</item>
+        <item>	wtedy, kiedy kąt natarcia śmigła =0°	</item>
+        <item>	wtedy, kiedy kąt natarcia śmigła =0°	</item>
+        <item>	nigdy	</item>
+        <item>	wtedy, kiedy prędkość samolotu =0	</item>
+        <item>	zmiana momentu zawiasowego lotek	</item>
+        <item>	kompensacja aerodynamiczna steru kierunku	</item>
+        <item>	- stosunek ilości wykonanej pracy do czasu jej wykonywania- jednostka wat [W]	</item>
+        <item>	- iloczyn siły i drogi- jednostka dżul [J]	</item>
+        <item>	stosunek Cz/Cx wzrośnie	</item>
+        <item>	doskonałość płatowca wzrośnie	</item>
+        <item>	Dodatni (+)	</item>
+        <item>	oś wektora ciągu śmigła nie przechodzi przez środek ciężkości samolotu	</item>
+        <item>	powoduje zmiany momentów odchylających i/lub pochylających samolot	</item>
+        <item>	prędkość kątowa zmian	</item>
+        <item>	kierunkowym momentem zaśmigłowym	</item>
+        <item>	o małym skoku geometrycznym	</item>
+        <item>	"-położenie środka ciężkości samolotu; -rozłożenie mas na samolocie; - usytuowanie i wielkość usterzeń"	</item>
+        <item>	ekonomiczną	</item>
+        <item>	optymalną	</item>
+        <item>	stosunek mocy silnika do ciężaru samolotu	</item>
+        <item>	-występowanie drgań samolotu lub sterów; -samoczynne zwiększanie pochylenia	</item>
+        <item>	wzajemnego zaburzania opływu przez części sąsiadujące ze sobą	</item>
+        <item>	wzrost współczynnika obciążenia samolotu "n"	</item>
+        <item>	równowagi sił i momentów działających na samolot	</item>
+        <item>	powoduje pochylanie	</item>
+        <item>	powoduje odchylanie	</item>
+        <item>	po zmniejszeniu ciśnienia ładowania należy przestawić śmigło na mały skok	</item>
+        <item>	równy zero	</item>
+        <item>	nie powoduje istotnych zmian	</item>
+        <item>	momentem oporowym	</item>
+        <item>	Sygnały toru lotu i sygnały położenia.	</item>
+        <item>	jest stałe	</item>
+        <item>	różnica między skokiem geometrycznym i rzeczywistym	</item>
+        <item>	następuje szybka zmiana kąta natarcia skrzydła	</item>
+        <item>	lot odbywa się na nadkrytycznym kącie natarcia	</item>
+        <item>	lH – odległość między środkiem ciężkości samolotu i środkiem aerodynamicznym usterzenia poziomego; PZH – przyrost siły nośnej na usterzeniu wysokości	</item>
+        <item>	środek ciężkości samolotu	</item>
+        <item>	#NAZWA?	</item>
+        <item>	niestateczny statycznie poprzecznie i podłużnie	</item>
+        <item>	niestatecznością statyczną poprzeczną	</item>
+        <item>	po wejściu w korkociąg, był to korkociąg stromy	</item>
+        <item>	odległość jaką przebędzie samolot podczas jednego obrotu śmigła ustawionego na kącie natarcia =0°	</item>
+        <item>	odległość jaką przebędzie samolot podczas jednego obrotu śmigła	</item>
+        <item>	ciąg śmigła T=0 lub posuw śmigła =0	</item>
+        <item>	równowagą stałą	</item>
+        <item>	- kąta wzniosu skrzydeł; - powierzchni usterzenia pionowego; - odległości środka aerodynamicznego usterzenia pionowego od środka ciężkości samolotu	</item>
+        <item>	- rozkładu mas na samolocie;- wielkości statecznika poziomego;- odległości środka aerodynamicznego usterzenia poziomego od środka ciężkości samolotu	</item>
+        <item>	zdolność do samoczynnego powrotu samolotu do położenia równowagi, gdy przestaną działać zakłócenia	</item>
+        <item>	- wielkości usterzenia pionowego; - odległości usterzenia od środka ciężkości	</item>
+        <item>	- położenia środka ciężkości samolotu; - wielkości statecznika poziomego; - odległości środka aerodynamicznego usterzenia poziomego od środka ciężkości samolotu	</item>
+        <item>	- kąta wzniosu skrzydła; - wielkości usterzenia pionowego; - układu grzbietopłata lub dolnopłata	</item>
+        <item>	zdolność do zachowania stanu równowagi i przeciwdziałania jego zmianom	</item>
+        <item>	zdolność do zmiany stanu ustalonego lotu pod wpływem wychylenia odpowiedniego steru	</item>
+        <item>	sprawnością śmigła	</item>
+        <item>	posuwem	</item>
+        <item>	być zwichrzone geometrycznie tak, aby kąt natarcia poszczególnych przekrojów w czasie lotu był podobny	</item>
+        <item>	-wychylić ster kierunku w stronę przeciwną do kierunku przechylania; - odepchnąć drążek sterowy	</item>
+        <item>	zwiększyć siłę nośną na skrzydle poprzez oddanie drążka sterowego	</item>
+        <item>	-wychylić ster kierunku w stronę przeciwną do kierunku przechylania; - odepchnąć drążek sterowy; -po ustaniu obrotów rozpędzić samolot i wyprowadzić z lotu nurkowego	</item>
+        <item>	należy wychylić drążek sterowy na siebie	</item>
+        <item>	przyrost momentu pochylającego samolot musi mieć wartość do ujemną	</item>
+        <item>	należy wychylić ster wysokości w górę	</item>
+        <item>	"wektor przyrostu siły nośnej na usterzeniu poziomym musi mieć zwrot „w dół”"	</item>
+        <item>	należy wychylić drążek sterowy od siebie	</item>
+        <item>	należy wychylić ster wysokości w dół	</item>
+        <item>	"wektor przyrostu siły nośnej na usterzeniu poziomym musi mieć zwrot „w górę”"	</item>
+        <item>	wszystkie odpowiedzi są poprawne	</item>
+        <item>	W instrukcji użytkowania w locie.	</item>
+        <item>	- posuw śmigła ;=0; -skok rzeczywisty śmigła Hrz=0	</item>
+        <item>	pozostaje niezmieniony	</item>
+        <item>	n=1	</item>
+        <item>	n&gt;1	</item>
+        <item>	procentowe zwiększenie Cx będzie większe od procentowego zwiększenia Cz	</item>
+        <item>	stosunek Cz/Cx zmaleje	</item>
+        <item>	doskonałość profilu zmaleje	</item>
+        <item>	przechylenie się samolotu w prawo i rozpoczęcie autorotacji	</item>
+        <item>	- wzrost Cz; - wzrost Cx; - spadek doskonałości samolotu	</item>
+        <item>	biegunową samolotu	</item>
+        <item>	lepkością powietrza	</item>
+        <item>	zmniejszenie skoku śmigła, a później zwiększenie ciśnienia ładowania	</item>
+        <item>	zmniejszenie ciśnienia ładowania, a później zwiększenie skoku śmigła	</item>
+        <item>	odległość pomiędzy środkiem ciężkości samolotu i środkiem równowagi obojętnej	</item>
+        <item>	statecznością dynamiczną	</item>
+        <item>	na końcówkach płata stosuje się profile, na których oderwanie strug dla alpha kryt jest mniej intensywne	</item>
+        <item>	cięciwy profili geometrycznych w kolejnych przekrojach nie leżą w jednej płaszczyźnie	</item>
+        <item>	#NAZWA?	</item>
+    </string-array>
+
+    <string-array name="zasady_odp_b" >
+        <item>	tak	</item>
+        <item>	- zastosować kompensację aerodynamiczną; - przesunąć środek ciężkości skrzydła jak najbliżej osi skrętnej	</item>
+        <item>	- zastosować kompensację aerodynamiczną; - przesunąć środek ciężkości skrzydła jak najbliżej osi skrętnej	</item>
+        <item>	zastosować kompensację aerodynamiczną	</item>
+        <item>	- zastosować usterzenia typu T; - zastosować klapkę wyważającą	</item>
+        <item>	prędkość strumienia jest równa zeru	</item>
+        <item>	flatteru giętno-skrętnego	</item>
+        <item>	drgania giętno-skrętne	</item>
+        <item>	-prędkość kątowa wzrośnie dwukrotnie -przyśpieszenie dośrodkowe "ar" wzrośnie dwukrotnie	</item>
+        <item>	-prędkość kątowa zmaleje dwukrotnie -droga przebyta przez ciało w czasie okresu ‘T’ zmaleje dwukrotnie -przyśpieszenie dośrodkowe ‘ar’ zmaleje dwukrotnie	</item>
+        <item>	na zewnątrz okręgu	</item>
+        <item>	maksymalne na górnej powierzchni i minimalne na dolnej powierzchni	</item>
+        <item>	Związek istniejący pomiędzy ciśnieniem powietrza i jego temperaturą.	</item>
+        <item>	Zapewnianie możliwości wykonywania manewrów akrobatycznych.	</item>
+        <item>	najwyższe zmierzone ciśnienie	</item>
+        <item>	opływ niezaburzony wzdłuż całej cięciwy, ze strugami powietrza przylegającymi do profilu	</item>
+        <item>	Pułap obliczony w projekcie konstrukcyjnym statku powietrznego.	</item>
+        <item>	Stan równowagi spoczynkowej.	</item>
+        <item>	Punkt przyłożenia oporu.	</item>
+        <item>	Obszar zawirowań powstających w okolicy mocowania elementów struktury statku powietrznego do ściany kadłuba	</item>
+        <item>	Stosunek długości skrzydła lub łopaty do cięciwy u nasady.	</item>
+        <item>	Fasada budynku portowego lotniska.	</item>
+        <item>	Przeciwieństwo lepkości atmosferycznej.	</item>
+        <item>	Zbiór intormacji o parametrach atmosfery w siedzibie ONZ w Nowym Jorku.	</item>
+        <item>	Wysokość odczytywana na wysokościomierzu ciśnieniowym ustawionym na aktualne ciśnienie na poziomie morza QNH.	</item>
+        <item>	Wysokość elewacji lotniska.	</item>
+        <item>	Wysokość zgodna z Międzynarodową Atmosferą Wzorcową ISA (International Standard Atmosphere)	</item>
+        <item>	Wysokość odczytywana na standardowym wysokościomierzu radiowym	</item>
+        <item>	"Tak, związek ma postać Prawa Pałki p = f.n.R.g.   [Pa], gdzie g oznacza  przyspieszenie ziemskie g
+= 9,81 m/s? zaś R stałą gazową powietrza R = 29,2746 m/K."	</item>
+        <item>	Tak.	</item>
+        <item>	tak, sterowność rośnie	</item>
+        <item>	Nie ma żadnej różnicy, zjawisko jest to samo, tylko inne nazwy.	</item>
+        <item>	Brakiem jakiejkolwiek reakcji obiektu na wytrącenie go z równowagi.	</item>
+        <item>	Istnieniem tendencji (w postaci działania siły lub momentu) do powrotu do równowagi po wytrąceniu z niej.	</item>
+        <item>	płasko-wypukłym	</item>
+        <item>	dwukrotne zwiększenie przebytej drogi	</item>
+        <item>	czterokrotne zwiększenie przebytej drogi	</item>
+        <item>	cięciwa geometryczna maleje wzdłuż rozpiętości	</item>
+        <item>	największe dla obrysu eliptycznego, a najmniejsze dla prostokątnego	</item>
+        <item>	Pz=Q	</item>
+        <item>	Do biegunowej autorotacji.	</item>
+        <item>	winglet i klapę wysklepiającą	</item>
+        <item>	klapę wysklepiająca	</item>
+        <item>	winglet	</item>
+        <item>	zmniejszenie stateczności statycznej podłużnej	</item>
+        <item>	jest stałą charakterystyczną dla profilu i odpowiada wartości (Cz/Cx)max	</item>
+        <item>	czterokrotny wzrost ciśnienia statycznego	</item>
+        <item>	powstawaniem siły nośnej	</item>
+        <item>	prędkość V zmienia się tak samo jak ciśnienie statyczne	</item>
+        <item>	średnia odległość pomiędzy górnym i dolnym obrysem profilu	</item>
+        <item>	opór tarcia mniejszy, a warstwa przyścienna cieńsza	</item>
+        <item>	oporu indukcyjnego	</item>
+        <item>	klapka dociążająca	</item>
+        <item>	zwiększyć czterokrotnie	</item>
+        <item>	flettner	</item>
+        <item>	punkt oderwania strug	</item>
+        <item>	Krzywa doskonałości.	</item>
+        <item>	Prędkość przelotowa.	</item>
+        <item>	Kilogram (kg), kilometr (km) i sekunda (sec).	</item>
+        <item>	Dyna (D), Bar (b), stopień Celsiusza (°C)	</item>
+        <item>	1000000 N/m?	</item>
+        <item>	wzrośnie dwukrotnie	</item>
+        <item>	Nieznacznie maleje	</item>
+        <item>	większa kątowa zmiana kierunku w korkociągu stromym	</item>
+        <item>	800 mm Hg	</item>
+        <item>	ciśnienie standardowe	</item>
+        <item>	Stała Laplace’a	</item>
+        <item>	Temperatura absolutna.	</item>
+        <item>	po = 100000  N/m?  =  1000,00 hPa	</item>
+        <item>	To  =  258  K.	</item>
+        <item>	=  1,0000 kg/m?.	</item>
+        <item>	t = +10 &lt; sup &gt; o&lt; /sup &gt; C	</item>
+        <item>	T = t + 233	</item>
+        <item>	większy opór i mniejszy współczynnik siły nośnej	</item>
+        <item>	Wilgotność i ciśnienie dynamiczne	</item>
+        <item>	Kilo- (k), mega- (m), deka- (da)	</item>
+        <item>	musimy znać prędkość i przechylenie	</item>
+        <item>	Celem jest zwiększanie udźwigu statku powietrznego.	</item>
+        <item>	Wysokościomierzem ciśnieniowym.	</item>
+        <item>	Czas połowy okresu wahań fugoidalnych wywołanych odchyleniem.	</item>
+        <item>	równowagą dynamiczną	</item>
+        <item>	równowagą obojętną	</item>
+        <item>	większa od oporu płatowca zmontowanego z tych części	</item>
+        <item>	wzrośnie dwukrotnie	</item>
+        <item>	wzrośnie dwukrotnie	</item>
+        <item>	siły aerodynamiczne na skrzydle zmaleją	</item>
+        <item>	stateczność statyczna podłużna zmaleje	</item>
+        <item>	zawsze prawda	</item>
+        <item>	mniejszy od kąta natarcia dla optymalnego Cx	</item>
+        <item>	dodatnią	</item>
+        <item>	cięciwą aerodynamiczną profilu i kierunkiem wektora prędkości lotu	</item>
+        <item>	kąt zbieżności profilu	</item>
+        <item>	W warunkach tropikalnych	</item>
+        <item>	zmniejszenia siły oporu na małych prędkościach	</item>
+        <item>	wyważenie powierzchni sterowej w pozycji neutralnej	</item>
+        <item>	FAŁSZ	</item>
+        <item>	nieznacznie mniej niebezpieczny od stromego	</item>
+        <item>	siły wzbudzające drgania są większe od sił tłumiących	</item>
+        <item>	oś OX?	</item>
+        <item>	oś OY?	</item>
+        <item>	oś OZ?	</item>
+        <item>	przeszkadzające odrywaniu się strug powietrza na grzbiecie skrzydła na małych kątach natarcia	</item>
+        <item>	- iloczyn masy i wysokości ciała- jednostka dżul [J]	</item>
+        <item>	obrys profilu	</item>
+        <item>	geometryczna krawędź spływu	</item>
+        <item>	geometryczna krawędź natarcia	</item>
+        <item>	strzałka ugięcia	</item>
+        <item>	procentowe zwiększenie "Cx" będzie większe od procentowego zwiększenia "Cz"	</item>
+        <item>	zwiększenia momentu przechylającego	</item>
+        <item>	ośi OY›	</item>
+        <item>	prędkość, do jakiej nie przewiduje się ograniczeń użytkowania statku powietrznego zgodnie z jego przeznaczeniem	</item>
+        <item>	zmienia się w zależności od kąta natarcia	</item>
+        <item>	V &lt; sub &gt; NE &lt; /sub &gt;	</item>
+        <item>	V&lt;sub &gt; RA&lt;/sub &gt;	</item>
+        <item>	zmniejszenia siły oporu na małych prędkościach	</item>
+        <item>	zawsze prawda	</item>
+        <item>	jest proporcjonalny do kata natarcia i kwadratu prędkości lotu	</item>
+        <item>	siła oporu na lotce wychylonej w dół jest mniejsza od siły oporu na lotce wychylonej w górę	</item>
+        <item>	tym większa im bliżej środka płata	</item>
+        <item>	tym mniejszą im większy kąt natarcia	</item>
+        <item>	11000 m	</item>
+        <item>	100 m	</item>
+        <item>	10000 m	</item>
+        <item>	4000 m	</item>
+        <item>	- odchylają się w stronę środka płata na dolnej powierzchni - odchylają się w stronę końca płata na górnej powierzchni	</item>
+        <item>	wysokość profilu	</item>
+        <item>	V<sub>NO</sub>	</item>
+        <item>	moment przechylającym lotek	</item>
+        <item>	statycznej kierunkowej	</item>
+        <item>	statycznej podłużnej	</item>
+        <item>	zmniejszanie ‘C<sub>x</sub>’ oraz ‘C<sub>z</sub>’	</item>
+        <item>	zwiększenie siły nośnej	</item>
+        <item>	usterzenia wysokości	</item>
+        <item>	usterzenia kierunku	</item>
+        <item>	klap	</item>
+        <item>	współczynnika siły nośnej, oporu kształtu i powierzchni nośnej	</item>
+        <item>	wzrasta rozpiętość skrzydła	</item>
+        <item>	wzajemnego interferowania oporów szczelinowych powstających na płatowcu	</item>
+        <item>	zawsze prawda	</item>
+        <item>	burzliwego	</item>
+        <item>	zawsze większy	</item>
+        <item>	oporu interferencyjnego	</item>
+        <item>	FAŁSZ	</item>
+        <item>	flatter	</item>
+        <item>	moment skręcający skrzydło, który powoduje zmniejszenie kąta natarcia skrzydła	</item>
+        <item>	wytwarza większą siłę nośną od skrzydła na mniejszym kącie natarcia	</item>
+        <item>	przesuwa się do tyłu	</item>
+        <item>	jest stałe	</item>
+        <item>	zmniejszenia siły oporu na małych prędkościach	</item>
+        <item>	powierzchnia dolnej płaszczyzny skrzydła	</item>
+        <item>	za duże przechylenie lub za mała prędkość kątowa zakrętu	</item>
+        <item>	za duże przechylenie lub za duża prędkość kątowa zakrętu	</item>
+        <item>	maksymalna prędkość lotu w atmosferze, w której dochodzi do gwałtownych zmian prędkości pionowej otaczającego powietrza	</item>
+        <item>	największa prędkość, z jaką można wykonywać lot w powietrzu spokojnym	</item>
+        <item>	maksymalna grubość profilu znajduje się w przedziale 20%-40% cięciwy	</item>
+        <item>	cięciwa aerodynamiczna profilu	</item>
+        <item>	następuje powolna zmiana kąta natarcia skrzydła	</item>
+        <item>	gwałtowną zmianą kąta natarcia skrzydła	</item>
+        <item>	są tym większe im większa jest prędkość lotu	</item>
+        <item>	zwiększa szansę korkociągu płaskiego	</item>
+        <item>	utrudnia wprowadzenie w korkociąg	</item>
+        <item>	sterowność poprzeczna rośnie	</item>
+        <item>	maleje	</item>
+        <item>	drgań giętno-skrętnych usterzenia	</item>
+        <item>	ujemną gdy oddamy drążek „od siebie”	</item>
+        <item>	nosek profilu	</item>
+        <item>	ostrze (spływ) profilu	</item>
+        <item>	środek aerodynamiczny	</item>
+        <item>	środek parcia	</item>
+        <item>	korzystnego momentu wychylającego	</item>
+        <item>	zwiększenia momentu przechylającego	</item>
+        <item>	dwóch osi współrzędnych OX› oraz OY›	</item>
+        <item>	dużo mniejsza od siły oporu na skrzydle przeciwnym	</item>
+        <item>	siła oporu tarcia	</item>
+        <item>	rosną odwrotnie proporcjonalnie do malejącej gęstości	</item>
+        <item>	zmniejszenia siły oporu na małych prędkościach	</item>
+        <item>	podłużną	</item>
+        <item>	poprzeczną	</item>
+        <item>	tylko pochylania	</item>
+        <item>	przechylania	</item>
+        <item>	statecznością kierunkową	</item>
+        <item>	odchylania i przechylania	</item>
+        <item>	przechylania	</item>
+        <item>	odchylania	</item>
+        <item>	przyspieszenie średnie	</item>
+        <item>	wydłużenie skrzydła	</item>
+        <item>	droga przebyta przez ciało w czasie t	</item>
+        <item>	najmniejsza odległość między linią szkieletową i cięciwą profilu	</item>
+        <item>	linia prosta łącząca nosek profilu z ostrzem (spływem) profilu lotniczego	</item>
+        <item>	-wprost proporcjonalne do przyrostu prędkości kątowej w czasie pomiaru - wprost proporcjonalne do czasu pomiaru	</item>
+        <item>	w którym linia działania wypadkowej siły aerodynamicznej przecina cięciwę profilu	</item>
+        <item>	przesuwa się do przodu	</item>
+        <item>	względem którego moment aerodynamiczny nie zależy od kąta natarcia (w dużym przedziale zmian kąta natarcia)	</item>
+        <item>	równowagę statyczną stałą	</item>
+        <item>	drgania giętno-skrętne	</item>
+        <item>	zwiększenie stateczności statycznej podłużnej	</item>
+        <item>	ośi OX›	</item>
+        <item>	ośi OZ›	</item>
+        <item>	dodatkowe wychylenia klapo-lotek	</item>
+        <item>	- stałej ;  - chwiejnej;  - ruchomej	</item>
+        <item>	W warunkach tropikalnych.	</item>
+        <item>	Odwrotnie proporcjonalnie.	</item>
+        <item>	- fletner; - trymer	</item>
+        <item>	zawsze odpowiednio proporcjonalne do wysokości i prędkości lotu	</item>
+        <item>	przesuwa się wzdłuż cięciwy do tyłu	</item>
+        <item>	dla alpha>0 przesuwa się wzdłuż cięciwy do przodu, a dla alpha\0 przesuwa się wzdłuż cięciwy do tyłu	</item>
+        <item>	cięciwa geometryczna profilu nie pokrywa się z cięciwą aerodynamiczną profilu	</item>
+        <item>	przesuwa się wzdłuż cięciwy do przodu	</item>
+        <item>	-statecznika pionowego stanowiącego przednią, nieruchomą część-steru wysokości stanowiącego tylną ruchomą część	</item>
+        <item>	-statecznika pionowego stanowiącego przednią, nieruchomą część-steru wysokości stanowiącego tylną ruchomą część	</item>
+        <item>	osią poprzeczną	</item>
+        <item>	osią pionową	</item>
+        <item>	osią poziomą	</item>
+        <item>	siła oporu na lotce wychylonej w dół będzie mniejsza od siły oporu na drugiej lotce	</item>
+        <item>	korzystny moment oporowy lotek	</item>
+        <item>	interferencyjny	</item>
+        <item>	zachodzi przejście z opływu turbulentnego w laminarny	</item>
+        <item>	zawsze fałsz	</item>
+        <item>	zawsze prawda	</item>
+        <item>	dodatkowej powierzchni sterowej przed osią obrotu steru	</item>
+        <item>	zawsze rośnie	</item>
+        <item>	n&lt;0	</item>
+        <item>	Prędkości lotu	</item>
+        <item>	flettnera	</item>
+        <item>	symetryczny względem osi alpha	</item>
+        <item>	symetryczny względem osi "Cz"	</item>
+        <item>	biegunową prędkości szybowca	</item>
+        <item>	symetryczny względem osi alpha	</item>
+        <item>	Cz = f(alpha), Cx = f(alpha)	</item>
+        <item>	tylko Cx = f(alpha)	</item>
+        <item>	zwiększenia doskonałości szybowca	</item>
+        <item>	wzrost gęstości powietrza	</item>
+        <item>	Z lepkości powietrza i z oporów wirów powstających na bryle statku.	</item>
+        <item>	jeżeli przekrój poprzeczny tunelu dwukrotnie się zwiększy, to prędkość powietrza wzrośnie dwukrotnie	</item>
+        <item>	zwiększenie momentu zawiasowego	</item>
+        <item>	statecznością dynamiczną	</item>
+        <item>	statecznością statyczną	</item>
+        <item>	klapki dociążającej	</item>
+        <item>	powstawaniu drgań samowzbudnych	</item>
+        <item>	wzrost statycznego ciśnienia w strudze i malenie prędkości	</item>
+        <item>	cięciwy profilów geometrycznych w kolejnych przekrojach nie leżą w jednej płaszczyźnie	</item>
+        <item>	skrzydła wygięte są w dół podczas postoju szybowca na ziemi	</item>
+        <item>	mniejszy	</item>
+        <item>	zwiększanie "Cz" oraz zmniejszanie "Cx"	</item>
+        <item>	zasada Bernouli’ego	</item>
+        <item>	zasada ciągłości ruchu	</item>
+        <item>	x	</item>
+        <item>	y	</item>
+        <item>	x	</item>
+        <item>	zmniejsza się przy zwiększaniu powierzchni przekroju	</item>
+        <item>	Obiekt wykonuje ruch, najczęściej harmoniczny, o malejącej amplitudzie.	</item>
+        <item>	Obiekt zachowuje położenie, do którego doszedł po wytrąceniu z równowagi.	</item>
+        <item>	Pozostaje stały.	</item>
+        <item>	Opór pozostaje stały.	</item>
+        <item>	Zmniejszy się.	</item>
+        <item>	Siła odśrodkowa zmniejszy się.	</item>
+        <item>	wzrasta	</item>
+        <item>	stosunek Cz/Cx zmaleje	</item>
+        <item>	doskonałość płatowca zmaleje	</item>
+        <item>	-położenie środka ciężkości szybowca; -rozłożenie mas na szybowcu; -ustawienie klapki wyważającej	</item>
+        <item>	zmniejszyć przechylenie lub zwiększyć prędkość kątową zakrętu	</item>
+        <item>	zwiększyć przechylenie lub zwiększyć prędkość kątową zakrętu	</item>
+        <item>	zasada Bernouli’ego	</item>
+        <item>	zasada ciągłości ruchu	</item>
+        <item>	Współdziałają	</item>
+        <item>	tylko wtedy, gdy śmigło się obraca, a samolot ma prędkość =0	</item>
+        <item>	zmniejsza się przy wzroście powierzchni przekroju	</item>
+        <item>	Obiekt wykonuje ruch, najczęściej harmoniczny, o malejącej amplitudzie.	</item>
+        <item>	Obiekt zachowuje położenie, do którego doszedł po wytrąceniu z równowagi.	</item>
+        <item>	Pozostaje stały.	</item>
+        <item>	Opór pozostaje stały.	</item>
+        <item>	Zmniejszy się.	</item>
+        <item>	Siła odśrodkowa zmniejszy się.	</item>
+        <item>	min rośnie,max rośnie	</item>
+        <item>	- pochylanie; - przechylanie	</item>
+        <item>	samolot samoczynnie przejdzie w fazę lotu zwaną przeciągnięciem statycznym	</item>
+        <item>	kąty natarcia poszczególnych przekrojów śmigła rosną	</item>
+        <item>	samolot jest stateczny	</item>
+        <item>	samolot jest niestateczny	</item>
+        <item>	samolot jest niesterowny	</item>
+        <item>	kąt natarcia łopat śmigła nieznacznie wzrośnie	</item>
+        <item>	kąt natarcia łopat śmigła nieznacznie zmaleje	</item>
+        <item>	jeżeli posuw będzie ujemny	</item>
+        <item>	wtedy, kiedy prędkość samolotu =0	</item>
+        <item>	wtedy, kiedy kąt natarcia śmigła =0°	</item>
+        <item>	nigdy	</item>
+        <item>	wtedy, kiedy prędkość samolotu =0	</item>
+        <item>	wtedy, kiedy posuw =0	</item>
+        <item>	wtedy, kiedy kąt natarcia śmigła =0°	</item>
+        <item>	zmiana wypadkowego momentu pochylającego samolot	</item>
+        <item>	stała klapka wyważająca na sterze kierunku	</item>
+        <item>	- iloczyn ilości wykonanej pracy i czasu jej wykonywania- jednostka wat [W]	</item>
+        <item>	- iloraz siły i drogi- jednostka dżul [J]	</item>
+        <item>	stosunek Cz/Cx zmaleje	</item>
+        <item>	doskonałość płatowca zmaleje	</item>
+        <item>	Ujemny (-)	</item>
+        <item>	oś wektora ciągu śmigła nie przechodzi przez środek wału napędowego silnika	</item>
+        <item>	powoduje zmiany momentów przechylających samolot	</item>
+        <item>	przyśpieszenie kątowe zmian	</item>
+        <item>	momentem oporowym	</item>
+        <item>	o dużym skoku geometrycznym	</item>
+        <item>	"-położenie środka ciężkości samolotu;
+-rozłożenie mas na samolocie; - ustawienie klapki wyważającej"	</item>
+        <item>	optymalną	</item>
+        <item>	minimalną	</item>
+        <item>	stosunek mocy niezbędnej do ciężaru samolotu	</item>
+        <item>	-występowanie drgań samolotu lub sterów; -samoczynne zwiększanie prędkości postępowej	</item>
+        <item>	wzajemnego interferowania oporów szczelinowych powstających na płacie	</item>
+        <item>	zmniejszenie współczynnika obciążenia samolotu "n"	</item>
+        <item>	równowagi sił działających na samolot	</item>
+        <item>	powoduje dodatkowe odchylanie	</item>
+        <item>	powoduje przechylanie	</item>
+        <item>	po zmniejszeniu ciśnienia ładowania należy przestawić śmigło na duży skok	</item>
+        <item>	większy od zera	</item>
+        <item>	powoduje odchylanie	</item>
+        <item>	momentem giroskopowym	</item>
+        <item>	Drgania sterownic.	</item>
+        <item>	przesuwa się do tyłu	</item>
+        <item>	różnica między skokiem rzeczywistym i geometrycznym	</item>
+        <item>	następuje powolna zmiana kąta natarcia skrzydła	</item>
+        <item>	lot odbywa się na krytycznym kącie natarcia	</item>
+        <item>	lH – odległość między środkiem aerodynamicznym skrzydła i środkiem aerodynamicznym usterzenia poziomego; PZH – przyrost siły nośnej na usterzeniu wysokości	</item>
+        <item>	środek aerodynamiczny płata	</item>
+        <item>	#NAZWA?	</item>
+        <item>	niestateczny statycznie tylko podłużnie	</item>
+        <item>	zwiększoną statecznością statyczną poprzeczną	</item>
+        <item>	po wejściu w korkociąg, był to korkociąg płaski	</item>
+        <item>	odległość jaką przebędzie samolot podczas jednego obrotu śmigła ustawionego na kącie natarcia 0°	</item>
+        <item>	odległość jaką przebędzie samolot podczas jednego obrotu śmigła ustawionego na kącie natarcia α=0°, jeśli poślizg jest różny od zera	</item>
+        <item>	ciąg śmigła T=0 i posuw śmigła =0	</item>
+        <item>	równowagą chwiejną	</item>
+        <item>	- kąta wzniosu skrzydeł; - powierzchni usterzenia pionowego; - wielkości usterzenia poziomego	</item>
+        <item>	- rozkładu mas na samolocie; - wielkości statecznika poziomego; - wielkości usterzenia pionowego	</item>
+        <item>	zdolność do zachowania stanu równowagi i przeciwdziałania jego zmianom	</item>
+        <item>	- wielkości usterzenia pionowego;  - powierzchni skrzydła	</item>
+        <item>	- położenia środka ciężkości samolotu; - wielkości statecznika poziomego; - wielkości usterzenia pionowego	</item>
+        <item>	- kąta wzniosu skrzydła; - wielkości usterzenia pionowego; - położenia środka ciężkości samolotu	</item>
+        <item>	zdolność do zmiany stanu ustalonego lotu pod wpływem wychylenia odpowiedniego steru	</item>
+        <item>	zdolność do wykonywania obszernych ruchów drążkiem sterowym i orczykami	</item>
+        <item>	posuwem śmigła	</item>
+        <item>	poślizgiem geometrycznym	</item>
+        <item>	być zwichrzone geometrycznie tak, aby kąt natarcia poszczególnych przekrojów wzrastał w miarę oddalania się od osi obrotu	</item>
+        <item>	-wychylić ster kierunku w stronę przeciwną do kierunku przechylania; - pociągnąć drążek sterowy	</item>
+        <item>	zwiększyć siłę nośną na skrzydle poprzez pociągnięcie drążka sterowego	</item>
+        <item>	-wychylić ster kierunku w stronę przeciwną do kierunku przechylania; - pociągnąć drążek sterowy; -po ustaniu obrotów rozpędzić samolot i wyprowadzić z lotu nurkowego	</item>
+        <item>	należy wychylić ster wysokości w dół	</item>
+        <item>	należy wychylić ster wysokości w dół	</item>
+        <item>	przyrost momentu pochylającego samolot musi mieć wartość dodatnią	</item>
+        <item>	należy wychylić ster wysokości w dół	</item>
+        <item>	przyrost momentu pochylającego samolot musi mieć wartość do ujemną	</item>
+        <item>	należy wychylić drążek sterowy na siebie	</item>
+        <item>	należy wychylić drążek sterowy na siebie	</item>
+        <item>	przyrost momentu pochylającego samolot musi mieć wartość dodatnią	</item>
+        <item>	W technicznym opisie obsługi.	</item>
+        <item>	- posuw śmigła =0; -skok rzeczywisty i geometryczny śmigła są sobie równe Hrz=H	</item>
+        <item>	wzrasta	</item>
+        <item>	n=0	</item>
+        <item>	n=1	</item>
+        <item>	procentowe zwiększenie Cz będzie większe od procentowego zwiększenia Cx	</item>
+        <item>	stosunek Cz/Cx wzrośnie	</item>
+        <item>	doskonałość profilu wzrośnie	</item>
+        <item>	przechylenie się samolotu w lewo	</item>
+        <item>	- wzrost Cz; - wzrost Cx; - wzrost doskonałości samolotu	</item>
+        <item>	biegunową prędkości samolotu	</item>
+        <item>	gęstością powietrza	</item>
+        <item>	zmniejszenie ciśnienia ładowania, a później zwiększenie skoku śmigła	</item>
+        <item>	zwiększenie skoku śmigła, a później zmniejszenie ciśnienia ładowania	</item>
+        <item>	odległość pomiędzy środkiem ciężkości samolotu i środkiem aerodynamicznym płata	</item>
+        <item>	statecznością statyczną	</item>
+        <item>	cięciwy profilów geometrycznych w kolejnych przekrojach nie leżą w jednej płaszczyźnie	</item>
+        <item>	końcówki płata wygięte są w dół, jeżeli prędkość napływu strug =0	</item>
+        <item>	#NAZWA?	</item>
+    </string-array>
+
+    <string-array name="zasady_odp_c" >
+        <item>	nie, ale tylko na małych kątach natarcia	</item>
+        <item>	- zastosować klapkę odciążającą; - zwiększyć sztywność skrętną skrzydła	</item>
+        <item>	- zastosować klapkę odciążającą; - zwiększyć sztywność skrętną skrzydła	</item>
+        <item>	zastosować klapkę odciążającą	</item>
+        <item>	- zastosować klapkę wyważającą; - starannie opracować przejście skrzydło-kadłub	</item>
+        <item>	ciśnienie jest większe od ciśnienia spiętrzenia	</item>
+        <item>	odwrotnego działania lotek	</item>
+        <item>	flatter lotkowy	</item>
+        <item>	-prędkość kątowa wzrośnie czterokrotnie -przyśpieszenie dośrodkowe "ar" wzrośnie czterokrotnie	</item>
+        <item>	-prędkość kątowa zmaleje dwukrotnie -droga przebyta przez ciało w czasie okresu ‘T’ wzrośnie dwukrotnie -przyśpieszenie dośrodkowe ‘ar’ wzrośnie dwukrotnie	</item>
+        <item>	skoro prędkość jest stała, to na ciało nie działa żadne przyśpieszenie	</item>
+        <item>	minimalne na górnej powierzchni i minimalne na dolnej powierzchni	</item>
+        <item>	Równanie określające równowagę między ciśnieniem powietrza i jego wilgotnością.	</item>
+        <item>	Zapewnianie uzyskiwania osiągów przewidzianych projektem obiektu.	</item>
+        <item>	najniższe zmierzone ciśnienie	</item>
+        <item>	opływ zaburzony (turbulentny) wzdłuż całej cięciwy profilu	</item>
+        <item>	Wysokość, na której statek powietrzny dysponuje jeszcze prędkością wznoszenia 0,5 m/s.	</item>
+        <item>	Brak reakcji na zakłócenia równowagi.	</item>
+        <item>	Punkt, w którym wielkość ciśnienia jest średnia.	</item>
+        <item>	Część strumienia powietrza opływającego tę część statku powietrznego, na której występuje cyrkulacja	</item>
+        <item>	Stosunek rozpiętości skrzydeł (średnicy wirnika) do długości samolotu (śmigłowca)	</item>
+        <item>	Nawierzchnia płyty lotniska.	</item>
+        <item>	Liczba molekuł tlenu i azotu w 1 cm? objętości.	</item>
+        <item>	Zbiór intormacji o parametrach atmosfery w siedzibie ICAO  w Montrealu.	</item>
+        <item>	Wysokość wskazywana radiowysokościomierzem.	</item>
+        <item>	Wysokość odczytywana na wysokościomierzu ciśnieniowym ustawionym na aktualne ciśnienie na poziomie lotniska QFE	</item>
+        <item>	Wysokość elewacji lotniska z poprawką na aktualną gęstość powietrza	</item>
+        <item>	Wysokość elewacji lotniska.	</item>
+        <item>	Związek ma postać krakowiana  f [Aring, g, p,   rho, T]	</item>
+        <item>	Stateczność statyczna dla stateczności dynamicznej nie ma znaczenia.	</item>
+        <item>	nie, zamiany stateczności nie powodują zmian sterowności	</item>
+        <item>	Wymienione stateczności różnią się ważnością, ważniejsza jest stateczność dynamiczna..	</item>
+        <item>	Wykonywaniem przez obiekt statecznych wahań wokół osi poprzecznej.	</item>
+        <item>	Wykonywaniem przez obiekt statecznych wahań wokół osi poprzecznej.	</item>
+        <item>	wklęsło-wypukłym	</item>
+        <item>	dwukrotne zmniejszenie przebytej drogi	</item>
+        <item>	dwukrotne zmniejszenie przebytej drogi	</item>
+        <item>	cięciwa geometryczna zwiększa się wzdłuż rozpiętości	</item>
+        <item>	największe dla obrysu prostokątnego, a najmniejsze dla eliptycznego	</item>
+        <item>	Q=Q	</item>
+        <item>	Do wykresu mocy potrzebnej.	</item>
+        <item>	sloty (skrzela) i klapę krokodylową	</item>
+        <item>	klapę krokodylową	</item>
+        <item>	sloty (skrzela)	</item>
+        <item>	zmniejszenie stateczności statycznej podłużnej na dodatnich kątach natarcia, a zwiększenie na ujemnych	</item>
+        <item>	zawsze rośnie przy zwiększaniu kąta natarcia	</item>
+        <item>	dwukrotny wzrost ciśnienia statycznego	</item>
+        <item>	powstawaniem siły oporu	</item>
+        <item>	prędkość V nie zmienia się wcale	</item>
+        <item>	odległość pomiędzy górnym i dolnym obrysem profilu w 50% cięciwy aerodynamicznej	</item>
+        <item>	opór tarcia większy, a warstwa przyścienna cieńsza	</item>
+        <item>	oporu falowego	</item>
+        <item>	klapka wyważająca	</item>
+        <item>	zwiększyć ośmiokrotnie	</item>
+        <item>	klapka dociążająca	</item>
+        <item>	punkt ciśnieniowy	</item>
+        <item>	Biegunowa prędkości.	</item>
+        <item>	Prędkość ekonomiczna.	</item>
+        <item>	Kilogram (kg), mila morska (nm) i godzina (h).	</item>
+        <item>	Pond (Po), atmosfera (at), stopień Fahrenheita (°F)	</item>
+        <item>	1000 N/m?	</item>
+        <item>	wzrośnie ośmiokrotnie	</item>
+        <item>	Nie zmienia się.	</item>
+        <item>	większa prędkość opadania w korkociągu płaskim	</item>
+        <item>	750 mm Hg	</item>
+        <item>	ciśnienie modułowe	</item>
+        <item>	Współczynnik M&amp;S	</item>
+        <item>	Stała don Pedra.	</item>
+        <item>	po = 111325  N/m?  =  1113,25 hPa	</item>
+        <item>	To  =  277  K.	</item>
+        <item>	=  1,0255 kg/m?.	</item>
+        <item>	t = +20 &lt; sup &gt; o&lt; /sup &gt; C	</item>
+        <item>	T = t + 283	</item>
+        <item>	większy opór i taki sam współczynnik siły nośnej	</item>
+        <item>	Temperatura, gęstość i kinematyczna lepkość	</item>
+        <item>	Decy- (dc), hekto- (h), mega- (M)	</item>
+        <item>	musimy znać promień zakrętu i przechylenie	</item>
+        <item>	Celem jest zwiększanie prędkości statku powietrznego.	</item>
+        <item>	Dalmierzem optycznym.	</item>
+        <item>	Czas połowy okresu drgań flatterowych wywołanych wytrąceniem z równowagi.	</item>
+        <item>	równowagą stałą	</item>
+        <item>	równowagą dynamiczną	</item>
+        <item>	równa oporowi płatowca zmontowanego z tych części	</item>
+        <item>	zmaleje dwukrotnie	</item>
+        <item>	zmaleje czterokrotnie	</item>
+        <item>	siły aerodynamiczne na skrzydle nie zmienią się, bo nie zależą od temperatury	</item>
+        <item>	sterowność podłużna wzrośnie	</item>
+        <item>	fałsz, współczynnik oporu kształtu nie zależy od kształtu ciała	</item>
+        <item>	równy kątowi natarcia dla C &lt; sub &gt; z &lt;/sub &gt; = 0	</item>
+        <item>	zerową	</item>
+        <item>	cięciwą geometryczną profilu i kierunkiem wektora opadania	</item>
+        <item>	kąt wzniosu profilu	</item>
+        <item>	Gdy wysokościomierz radiowy wskazuje 0.	</item>
+        <item>	poprawienia sterowności w pełnym zakresie kątów natarcia	</item>
+        <item>	wyważenie masowe powierzchni sterowej	</item>
+        <item>	prawda, ale tylko wtedy, jeżeli nie zastosowano wyważenia masowego steru	</item>
+        <item>	tak samo niebezpieczny jak korkociąg stromy	</item>
+        <item>	siły wzbudzające drgania są mniejsze od sił tłumiących	</item>
+        <item>	oś OY?	</item>
+        <item>	oś OZ?	</item>
+        <item>	oś OX?	</item>
+        <item>	wysklepiające profil mało wysklepiony na mocno wysklepiony	</item>
+        <item>	- iloczyn ciężaru i wysokości ciała- jednostka wat [W]	</item>
+        <item>	szkieletowa skrzydła	</item>
+        <item>	geometryczna cięciwa aerodynamiczna	</item>
+        <item>	geometryczna cięciwa aerodynamiczna	</item>
+        <item>	cięciwa profilu	</item>
+        <item>	procentowe zwiększenie "Cx" będzie takie same jak procentowe zwiększenia "Cz"	</item>
+        <item>	zmniejszenia oporu szczelinowego	</item>
+        <item>	ośi OZ›	</item>
+        <item>	maksymalna prędkość, przy której można jeszcze użyć pełnych wychyleń sterów bez przekroczenia maksymalnego przeciążenia	</item>
+        <item>	zawsze rośnie przy zwiększaniu kąta natarcia	</item>
+        <item>	V &lt; sub &gt; NO &lt; /sub &gt;	</item>
+        <item>	V &lt;sub &gt; NE&lt;/sub &gt;	</item>
+        <item>	poprawienia sterowności w pełnym zakresie kątów natarcia	</item>
+        <item>	zawsze fałsz	</item>
+        <item>	prawie nie zależy od kata natarcia i prędkości lotu	</item>
+        <item>	wychyleniom lotek towarzyszy powstanie momentu zawiasowego, który powoduje moment oporowy lotek	</item>
+        <item>	stała w każdym punkcie rozpiętości, ale zależy od kąta natarcia	</item>
+        <item>	stałą, nie zależną od kąta natarcia	</item>
+        <item>	10000 m	</item>
+        <item>	-10 m	</item>
+        <item>	5500 m	</item>
+        <item>	4500 m	</item>
+        <item>	- odchylają się w stronę środka płata na górnej i dolnej powierzchni	</item>
+        <item>	grubość względna profilu	</item>
+        <item>	V<sub>A</sub>	</item>
+        <item>	momentem holendrowania	</item>
+        <item>	dynamicznej poprzecznej	</item>
+        <item>	dynamicznej poprzecznej	</item>
+        <item>	zwiększanie ‘C<sub>x</sub>’ oraz zmniejszanie ‘C<sub>z</sub>’	</item>
+        <item>	zmniejszenie prędkości opadania	</item>
+        <item>	usterzenia kierunku	</item>
+        <item>	klap	</item>
+        <item>	lotek	</item>
+        <item>	współczynnika oporu i ciśnienia całkowitego	</item>
+        <item>	maleje cięciwa profilu	</item>
+        <item>	powstawania wirów na końcach skrzydeł	</item>
+        <item>	fałsz, opór kształtu nie zależy od kształtu ciała	</item>
+        <item>	turbulentnego	</item>
+        <item>	taki sam dla idealnie czystych powierzchni, w innych przypadkach większy	</item>
+        <item>	oporu falowego	</item>
+        <item>	prawda, ale tylko w przypadku, gdy płatowiec jest niestateczny statycznie	</item>
+        <item>	buffeting	</item>
+        <item>	dodatkowa siła nośna, która powoduje tylko ugięcie skrzydła, bez wpływu na skręcenie	</item>
+        <item>	wytwarza taką samą siłę nośną jak skrzydło na mniejszym kącie natarcia	</item>
+        <item>	jest stałe i nie zależy od prędkości lotu	</item>
+        <item>	przesuwa się do przodu	</item>
+        <item>	poprawienia sterowności w pełnym zakresie kątów natarcia	</item>
+        <item>	iloczyn rozpiętości skrzydła i szerokości profilu S=b c	</item>
+        <item>	za duże przechylenie lub za duża prędkość kątowa zakrętu	</item>
+        <item>	za małe przechylenie lub za mała prędkość kątowa zakrętu	</item>
+        <item>	największa prędkość, z jaką można wykonywać lot w powietrzu spokojnym	</item>
+        <item>	prędkość, do jakiej nie przewiduje się ograniczeń użytkowania szybowca zgodnie z jego przeznaczeniem	</item>
+        <item>	dla średnich i dużych prędkości nie następuje przejście z opływu laminarnego w turbulentny	</item>
+        <item>	średnia cięciwa aerodynamiczna	</item>
+        <item>	szybowiec pozostaje stateczny dynamicznie	</item>
+        <item>	zachowywaniem statyczności statycznej	</item>
+        <item>	są tym większe im mniejsza jest siła nośna na skrzydle	</item>
+        <item>	ułatwia wprowadzenie w korkociąg	</item>
+        <item>	zmniejsza szansę korkociągu płaskiego	</item>
+        <item>	stateczność statyczna poprzeczna maleje	</item>
+        <item>	nie zmienia się	</item>
+        <item>	flatteru usterzenia	</item>
+        <item>	zawsze dodatnią	</item>
+        <item>	tył profilu	</item>
+        <item>	strzałka profilu	</item>
+        <item>	środek profilu	</item>
+        <item>	środek profilu	</item>
+        <item>	niekorzystnego momentu przechylającego	</item>
+        <item>	zmniejszenia momentu zawiasowego lotek	</item>
+        <item>	jednej osi współrzędnych OX›	</item>
+        <item>	taka sama jak siła oporu na skrzydle przeciwnym	</item>
+        <item>	siła oporu indukowanego	</item>
+        <item>	pozostają takie same, niezależnie od gęstości powietrza	</item>
+        <item>	poprawienia sterowności w pełnym zakresie kątów natarcia	</item>
+        <item>	poprzeczną	</item>
+        <item>	poziomą	</item>
+        <item>	tylko przechylania	</item>
+        <item>	odchylania	</item>
+        <item>	statecznością poprzeczną	</item>
+        <item>	pochylania	</item>
+        <item>	odchylania	</item>
+        <item>	odchylania i przechylania	</item>
+        <item>	prędkość chwilowa	</item>
+        <item>	zbieżność skrzydła	</item>
+        <item>	zmiana energii kinetycznej ciała	</item>
+        <item>	największa odległość między górnym i dolnym obrysem profilu	</item>
+        <item>	linia łącząca noski profili płata lotniczego	</item>
+        <item>	-odwrotnie proporcjonalne do przyrostu prędkości kątowej w czasie pomiaru -odwrotnie proporcjonalna do czasu pomiaru	</item>
+        <item>	równoodległy od noska i ostrza (spływu) profilu	</item>
+        <item>	przesuwa się do tyłu	</item>
+        <item>	równoodległy od noska i ostrza (spływu) profilu	</item>
+        <item>	równowagą statyczną chwiejną	</item>
+        <item>	flatter lotkowy	</item>
+        <item>	zmniejszenie stateczności statycznej podłużnej na dodatnich kątach natarcia, a zwiększenie na ujemnych	</item>
+        <item>	ośi OY›	</item>
+        <item>	ośi OX›	</item>
+        <item>	wychylenie lotek o dokładnie ten sam kąt	</item>
+        <item>	- stałej ;  - obojętnej;  - ruchomej	</item>
+        <item>	W warunkach arktycznych	</item>
+        <item>	W proporcji do kwadratu gęstości.	</item>
+        <item>	- wyważenie aerodynamiczne; - wyważenie sprężynowe	</item>
+        <item>	niezależne od prędkości lotu	</item>
+        <item>	dla alpha>0 przesuwa się wzdłuż cięciwy do przodu, a dla alpha\0 przesuwa się wzdłuż cięciwy do tyłu	</item>
+        <item>	nie przesuwa się wzdłuż cięciwy	</item>
+        <item>	cięciwa geometryczna profilu pokrywa się ze średnią cięciwą aerodynamiczną profilu	</item>
+        <item>	przesuwa się wzdłuż cięciwy do tyłu	</item>
+        <item>	-statecznika pionowego stanowiącego tylną, nieruchomą część-steru kierunku stanowiącego przednią ruchomą część	</item>
+        <item>	-statecznika poziomego stanowiącego tylną, nieruchomą część-steru wysokości stanowiącego przednią ruchomą część	</item>
+        <item>	osią pionową	</item>
+        <item>	osią poziomą	</item>
+        <item>	osią podłużną	</item>
+        <item>	siły oporu na obu lotkach wzrosną o tą samą wartość	</item>
+        <item>	niekorzystny moment przechylający	</item>
+        <item>	kształtu	</item>
+        <item>	przepływ ma charakter laminarny	</item>
+        <item>	prawda tylko dla profili symetrycznych	</item>
+        <item>	prawda tylko dla profili symetrycznych	</item>
+        <item>	klapki dociążającej	</item>
+        <item>	nie zmienia się	</item>
+        <item>	n&gt;0	</item>
+        <item>	Wielkości oporu	</item>
+        <item>	klapki dociążającej	</item>
+        <item>	symetryczny względem środka układu współrzędnych	</item>
+        <item>	symetryczny względem środka układu współrzędnych	</item>
+        <item>	biegunową profilu	</item>
+        <item>	symetryczny względem osi "Cz"	</item>
+        <item>	Cx = f(alpha), Cm = f(alpha)	</item>
+        <item>	Cz = f(alpha), Cx = f(alpha)	</item>
+        <item>	poprawienia sterowności poprzecznej szybowca	</item>
+        <item>	nie powoduje zmian gęstości i wilgotności względnej powietrza	</item>
+        <item>	Z „oporu kształtu” bryły statku powietrznego i z „oporu indukowanego” powstającego na powierzchni bryły statku.	</item>
+        <item>	jeżeli przekrój poprzeczny tunelu dwukrotnie się zwiększy, to prędkość powietrza zmaleje czterokrotnie	</item>
+        <item>	wyważenie powierzchni sterowej w pozycji neutralnej	</item>
+        <item>	stabilnością statyczną	</item>
+        <item>	statecznością dynamiczną	</item>
+        <item>	klapki odciążającej	</item>
+        <item>	powstawaniu buffetingu	</item>
+        <item>	wyhamowanie prędkości strugi	</item>
+        <item>	skrzydła wygięte są w dół podczas postoju szybowca na ziemi	</item>
+        <item>	skrzydła wygięte są w górę podczas lotu	</item>
+        <item>	nie ma wpływu na opór indukowany	</item>
+        <item>	zwiększanie "Cx" oraz "Cz"	</item>
+        <item>	prawo Bernouli’ego	</item>
+        <item>	zasada zachowania energii przepływu	</item>
+        <item>	y	</item>
+        <item>	z	</item>
+        <item>	z	</item>
+        <item>	nie zmienia się wcale	</item>
+        <item>	Obiekt zachowuje położenie po wytrąceniu z równowagi.	</item>
+        <item>	Wykonuje ruch, najczęściej harmoniczny, o rosnącej amplitudzie.	</item>
+        <item>	Maleje proporconalnie do odwrotności prędkości.	</item>
+        <item>	Opór maleje proporcjonalnie do odwrotności prędkości.	</item>
+        <item>	Pozostanie bez zmiany	</item>
+        <item>	Siła odśrodkowa pozostanie bez zmiany	</item>
+        <item>	maleje	</item>
+        <item>	stosunek Cz/Cx nie zmieni się	</item>
+        <item>	doskonałość płatowca nie zmieni się	</item>
+        <item>	-rozłożenie mas na szybowcu; - ustawienie klapki wyważającej ; - usytuowanie i wielkość usterzeń	</item>
+        <item>	zwiększyć przechylenie lub zwiększyć prędkość kątową zakrętu	</item>
+        <item>	zmniejszyć przechylenie lub zmniejszyć prędkość kątową zakrętu	</item>
+        <item>	prawo Bernouli’ego	</item>
+        <item>	zasada zachowania energii przepływu	</item>
+        <item>	Nie ma między nimi żadnych relacji.	</item>
+        <item>	"tylko na prędkości lotu tak dużej,
+że śmigło nie daje już ciągu"	</item>
+        <item>	nie zmienia się wcale	</item>
+        <item>	Obiekt zachowuje położenie po wytrąceniu z równowagi.	</item>
+        <item>	Wykonuje ruch, najczęściej harmoniczny, o rosnącej amplitudzie.	</item>
+        <item>	Maleje proporconalnie do odwrotności prędkości.	</item>
+        <item>	Opór maleje proporcjonalnie do odwrotności prędkości.	</item>
+        <item>	Pozostanie bez zmiany	</item>
+        <item>	Siła odśrodkowa pozostanie bez zmiany	</item>
+        <item>	min maleje, max maleje	</item>
+        <item>	- odchylanie; - przechylanie	</item>
+        <item>	samolot samoczynnie przejdzie w fazę lotu zwaną przeciągnięciem dynamicznym	</item>
+        <item>	kąty natarcia poszczególnych przekrojów śmigła nie zmieniają się	</item>
+        <item>	samolot jest niestateczny	</item>
+        <item>	samolot jest statycznie obojętny	</item>
+        <item>	samolot jest stateczny	</item>
+        <item>	kąt natarcia łopat śmigła nie zmieni się	</item>
+        <item>	kąt natarcia łopat śmigła nie zmieni się	</item>
+        <item>	jeżeli posuw będzie równy zero	</item>
+        <item>	wtedy, kiedy skok rzeczywisty śmigła Hrz=0	</item>
+        <item>	nigdy	</item>
+        <item>	wtedy, kiedy posuw =0	</item>
+        <item>	nigdy	</item>
+        <item>	wtedy, kiedy prędkość samolotu =0	</item>
+        <item>	nigdy	</item>
+        <item>	zmiana kąta natarcia na usterzeniu poziomym	</item>
+        <item>	odchylenie płaszczyzny usterzenia kierunku z płaszczyzny samolotu	</item>
+        <item>	- stosunek ilości wykonanej pracy do czasu jej wykonywania- jednostka dżul [J]	</item>
+        <item>	- iloczyn siły i drogi- jednostka wat [W]	</item>
+        <item>	stosunek Cz/Cx nie zmieni się	</item>
+        <item>	doskonałość płatowca nie zmieni się	</item>
+        <item>	Znak nie ma znaczenia.	</item>
+        <item>	oś wektora ciągu śmigła nie przechodzi przez środek aerodynamiczny samolotu	</item>
+        <item>	powoduje zmiany wyważenia poprzecznego samolotu	</item>
+        <item>	przyśpieszenie dośrodkowe zmian	</item>
+        <item>	momentem giroskopowym	</item>
+        <item>	o małym skoku rzeczywistym	</item>
+        <item>	-rozłożenie mas na samolocie; - ustawienie klapki wyważającej ; - usytuowanie i wielkość usterzeń	</item>
+        <item>	minimalną	</item>
+        <item>	Mc Credy’ego	</item>
+        <item>	stosunek ciężaru samolotu do mocy silnika	</item>
+        <item>	-zmniejszanie prędkości opadania; - samoczynne zwiększanie prędkości postępowej	</item>
+        <item>	powstawania wirów na końcach płata	</item>
+        <item>	wzrost współczynnika CZ , co powoduje spadek współczynnika obciążenia "n"	</item>
+        <item>	równowagi momentów działających na samolot	</item>
+        <item>	nie powoduje istotnych zmian	</item>
+        <item>	powoduje dodatkowe pochylanie	</item>
+        <item>	po przestawieniu śmigła na mały skok należy zmniejszyć ciśnienie ładowania	</item>
+        <item>	mniejszy od zera	</item>
+        <item>	powoduje pochylanie	</item>
+        <item>	momentem mimośrodowym	</item>
+        <item>	Wrażenia akustyczne.	</item>
+        <item>	przesuwa się do przodu	</item>
+        <item>	różnica między skokiem geometrycznym i posuwem śmigła	</item>
+        <item>	samolot jest stateczny dynamicznie	</item>
+        <item>	lot odbywa się na podkrytycznym kącie natarcia	</item>
+        <item>	lH – odległość między środkiem aerodynamicznym skrzydła i środkiem aerodynamicznym usterzenia poziomego; PZH – przyrost siły aerodynamicznej na usterzeniu wysokości	</item>
+        <item>	środek aerodynamiczny samolotu	</item>
+        <item>	#NAZWA?	</item>
+        <item>	niestateczny statycznie tylko poprzecznie	</item>
+        <item>	zmniejszoną statecznością statyczną poprzeczną	</item>
+        <item>	nie dało się ich wprowadzić w korkociąg	</item>
+        <item>	odległość jaką przebędzie samolot podczas jednego obrotu śmigła ustawionego na kącie natarcia 0°	</item>
+        <item>	odległość jaką przebędzie samolot podczas jednego obrotu śmigła ustawionego na kącie natarcia równym kącie nastawienia α=ß	</item>
+        <item>	ciąg śmigła T=0	</item>
+        <item>	równowagą obojętną	</item>
+        <item>	- powierzchni usterzenia pionowego; - wielkości usterzenia poziomego; - odległości środka aerodynamicznego usterzenia pionowego od środka ciężkości samolotu	</item>
+        <item>	- wielkości statecznika poziomego; - wielkości usterzenia pionowego; - odległości środka aerodynamicznego usterzenia poziomego od środka ciężkości samolotu	</item>
+        <item>	zdolność do zmiany stanu ustalonego lotu pod wpływem wychylenia odpowiedniego steru	</item>
+        <item>	- odległości usterzenia od środka ciężkości; - ciężaru samolotu	</item>
+        <item>	- wielkości statecznika poziomego; - wielkość usterzenia pionowego; - odległości środka aerodynamicznego usterzenia poziomego od środka ciężkości samolotu	</item>
+        <item>	- wielkości usterzenia pionowego; - położenia środka ciężkości samolotu; - układu grzbietopłata lub dolnopłata	</item>
+        <item>	zdolność do utrzymania kontroli nad samolotem na który działają zewnętrzne obciążenia dynamiczne	</item>
+        <item>	zdolność do samoczynnego powrotu samolotu do położenia równowagi, gdy przestaną działać zakłócenia	</item>
+        <item>	poślizgiem śmigła	</item>
+        <item>	poślizgiem aerodynamicznym	</item>
+        <item>	być zwichrzone geometrycznie tak, aby kąt natarcia poszczególnych przekrojów malał w miarę oddalania się od osi obrotu	</item>
+        <item>	-wychylić lotki w stronę przeciwną do kierunku przechylania; -pociągnąć drążek sterowy	</item>
+        <item>	zmniejszyć siłę nośną na skrzydle poprzez pociągnięcie drążka sterowego	</item>
+        <item>	-wychylić lotki w stronę przeciwną do kierunku przechylania; -pociągnąć drążek sterowy; -po ustaniu obrotów rozpędzić samolot i wyprowadzić z lotu nurkowego	</item>
+        <item>	"wektor przyrostu siły nośnej na usterzeniu poziomym musi mieć zwrot
+„w górę”"	</item>
+        <item>	"wektor przyrostu siły nośnej na usterzeniu poziomym musi mieć zwrot
+„w górę”"	</item>
+        <item>	"wektor przyrostu siły nośnej na usterzeniu poziomym musi mieć zwrot
+„w górę”"	</item>
+        <item>	przyrost momentu pochylającego samolot musi mieć wartość dodatnią	</item>
+        <item>	należy wychylić ster wysokości do góry	</item>
+        <item>	przyrost momentu pochylającego samolot musi mieć wartość do ujemną	</item>
+        <item>	należy wychylić ster wysokości do góry	</item>
+        <item>	"wektor przyrostu siły nośnej na usterzeniu poziomym musi mieć zwrot
+„do góry”"	</item>
+        <item>	W biuletynach bezpieczeństwa IKCSP.	</item>
+        <item>	"- posuw śmigła =0; - poślizg
+śmigła S=0"	</item>
+        <item>	maleje	</item>
+        <item>	0&lt;n&lt;1	</item>
+        <item>	n=0	</item>
+        <item>	procentowe zwiększenie Cx będzie takie same jak procentowe zwiększenia Cz	</item>
+        <item>	stosunek Cz/Cx nie zmieni się	</item>
+        <item>	doskonałość profilu nie zmieni się	</item>
+        <item>	przechylanie się samolotu w prawo do chwili powrotu drążka do neutrum	</item>
+        <item>	- wzrost Cz; - wzrost Cx; - nie zmieniona doskonałość samolotu	</item>
+        <item>	biegunową profilu	</item>
+        <item>	bezwładnością powietrza	</item>
+        <item>	zwiększenie skoku śmigła, a później zmniejszenie ciśnienia ładowania	</item>
+        <item>	zwiększenie ciśnienia ładowania, a później zmniejszenie skoku śmigła	</item>
+        <item>	odległość pomiędzy środkiem równowagi obojętnej i środkiem aerodynamicznym płata	</item>
+        <item>	stabilnością statyczną	</item>
+        <item>	końcówki płata wygięte są w dół, jeżeli prędkość napływu strug =0	</item>
+        <item>	końcówki płata wygięte są w górę podczas lotu	</item>
+        <item>	#NAZWA?	</item>
+    </string-array>
+
+    <string-array name="zasady_odp_d" >
+        <item>	tak, ale tylko na dużych kątach natarcia	</item>
+        <item>	- zastosować klapkę dociążającą; - zastosować wyważenia masowe lotek	</item>
+        <item>	- zastosować klapkę dociążającą; - zastosować wyważenia masowe lotek	</item>
+        <item>	zastosować klapkę dociążającą	</item>
+        <item>	- zwiększyć sztywność giętną usterzenia; - zwiększyć sztywność skrętną usterzenia	</item>
+        <item>	prędkość strumienia jest równa zeru, a ciśnienie osiąga wartość minimalną	</item>
+        <item>	dywergencji skrętnej skrzydła	</item>
+        <item>	flatter usterzenia	</item>
+        <item>	-prędkość kątowa wzrośnie czterokrotnie -przyśpieszenie dośrodkowe "ar" wzrośnie dwukrotnie	</item>
+        <item>	-prędkość kątowa zmaleje dwukrotnie -droga przebyta przez ciało w czasie okresu "T" wzrośnie dwukrotnie -przyśpieszenie dośrodkowe ‘ar’ nie zmieni się	</item>
+        <item>	stycznie do okręgu	</item>
+        <item>	maksymalne na górnej powierzchni i maksymalne  na dolnej powierzchni	</item>
+        <item>	Równanie określające równowagę między ciśnieniem powietrza i przyspieszeniem ziemskim.	</item>
+        <item>	Zapewnienie, że obiekt jest stateczny statycznie i dynamicznie.	</item>
+        <item>	suma ciśnienia dynamicznego i statycznego	</item>
+        <item>	opływ zaburzony (turbulentny) wzdłuż całej cięciwy profilu, ale z zachowaniem przylegania strug do profilu	</item>
+        <item>	Wysokość granicy atmosfery otaczającej Ziemię.	</item>
+        <item>	Wykonywanie przez obiekt statecznych wahań wokół osi poprzecznej.	</item>
+        <item>	Środek długości cięciwy profilu.	</item>
+        <item>	Część strumienia powietrza, która zmienia charakter z laminarnego na turbulentny	</item>
+        <item>	Stosunek średniej cięciwy aerodynamicznej do długości skrzydła lub łopaty.	</item>
+        <item>	Kątowe pochylenie nawierzchni głównej drogi startowej.	</item>
+        <item>	Ciężar 1 m? powietrza.	</item>
+        <item>	Zestaw składu chemicznego powietrza na różnych wysokościach.	</item>
+        <item>	Wysokość elewacji lotniska.	</item>
+        <item>	Wysokość wskazywana radiowysokościomierzem.	</item>
+        <item>	Wysokość ciśnieniowa z poprawką na wilgotność powietrza	</item>
+        <item>	Wysokość gęstościowa skorygowana o wpływ temperatury otoczenia.	</item>
+        <item>	Nie ma takiego związku.	</item>
+        <item>	"Obiekt-stałopłat – tak, obiekt-wiropłat
+– nie."	</item>
+        <item>	tak, na dużych kątach natarcia sterowność rośnie, a na małych maleje	</item>
+        <item>	Stateczność statyczna dotyczy równowagi na ziemi, stateczność dynamiczna – równowagi w locie.	</item>
+        <item>	Stanem równowagi spoczynkowej.	</item>
+        <item>	Stanem równowagi spoczynkowej.	</item>
+        <item>	dwuwypukłym niesymetrycznym	</item>
+        <item>	czterokrotne zmniejszenie przebytej drogi	</item>
+        <item>	czterokrotne zmniejszenie przebytej drogi	</item>
+        <item>	cięciwa geometryczna wzdłuż rozpiętości najpierw rośnie, potem maleje	</item>
+        <item>	największe dla obrysu eliptycznego, a najmniejsze dla trapezowego	</item>
+        <item>	Pz=Px	</item>
+        <item>	"Do wykresu zwanego w Polsce
+„krzywą Tytusa Hubera”"	</item>
+        <item>	klapę wysklepiającą i klapę krokodylową	</item>
+        <item>	poszerzacz	</item>
+        <item>	poszerzacz	</item>
+        <item>	zwiększenie stateczności statycznej podłużnej na dodatnich kątach natarcia, a zmniejszenie na ujemnych	</item>
+        <item>	zawsze rośnie przy zmniejszaniu kąta natarcia	</item>
+        <item>	dwukrotny spadek ciśnienia statycznego	</item>
+        <item>	odwrotnym działaniem usterzeń	</item>
+        <item>	przy maleniu powierzchni przekroju prędkość V maleje a przy zwiększaniu powierzchni rośnie	</item>
+        <item>	największa odległość między górnym obrysem profilu i cięciwą aerodynamiczną	</item>
+        <item>	opór tarcia mniejszy, a warstwa przyścienna grubsza	</item>
+        <item>	oporu tarcia	</item>
+        <item>	trymer	</item>
+        <item>	zmniejszyć czterokrotnie	</item>
+        <item>	klapka odciążająca	</item>
+        <item>	punkt turbulencyjny	</item>
+        <item>	Wykres sprawności	</item>
+        <item>	Prędkość optymalna.	</item>
+        <item>	Tona (t), metr (m) i minuta (min).	</item>
+        <item>	Kilogram-siła (kG), atmosfera (at), Kelwin (K)	</item>
+        <item>	10000 N/m?	</item>
+        <item>	nie zmieni się	</item>
+        <item>	Maleje w proporcji do odwrotności gęstości względnej.	</item>
+        <item>	w czasie lotu pilot nie widzi żadnej różnicy	</item>
+        <item>	860 mm Hg	</item>
+        <item>	liczba Hipokryta	</item>
+        <item>	Współczynnik Piccarda.	</item>
+        <item>	Współczynnik d’Amore’a	</item>
+        <item>	po = 100025  N/m?  =  1000,25 hPa	</item>
+        <item>	To  =  301  K.	</item>
+        <item>	=  1,2000 kg/m?.	</item>
+        <item>	t = +16,5 &lt; sup &gt; o&lt; /sup &gt; C	</item>
+        <item>	T = t + 373	</item>
+        <item>	taki sam opór i większy współczynnik siły nośnej	</item>
+        <item>	Proporcje zawartości azotu i tlenu.	</item>
+        <item>	Mega- (M), giga- (G), piko- (p)	</item>
+        <item>	musimy znać prędkość, promień zakrętu i przechylenie	</item>
+        <item>	Celem jest zwiększanie osiągów przelotowych i przez to ekonomii użytkowania statku powietrznego.	</item>
+        <item>	Przyrządem DME.	</item>
+        <item>	Czas połowy okresu własnych drgań konstrukcji (struktury) obiektu.	</item>
+        <item>	równowagą chwiejną	</item>
+        <item>	równowagą stałą	</item>
+        <item>	do prawidłowej odpowiedzi potrzebne są dodatkowe dane z tunelu aerodynamicznego	</item>
+        <item>	zmaleje czterokrotnie	</item>
+        <item>	zmaleje czterokrotnie	</item>
+        <item>	doskonałość skrzydła wzrośnie	</item>
+        <item>	sterowność podłużna nie zmieni się	</item>
+        <item>	prawda tylko dla profili lotniczych	</item>
+        <item>	większy od kąta natarcia dla Clt; sub &gt; z &lt; /sub &gt;  = 0	</item>
+        <item>	krytyczną	</item>
+        <item>	szkieletową profilu i kierunkiem wektora prędkości lotu	</item>
+        <item>	kąt skosu płata	</item>
+        <item>	W warunkach arktycznych.	</item>
+        <item>	poprawienia stateczności w pełnym zakresie kątów natarcia	</item>
+        <item>	zwiększenie sił używanych przez pilota	</item>
+        <item>	prawda, ale tylko wtedy, jeżeli nie zastosowano klapki wyważającej	</item>
+        <item>	dużo mniej niebezpieczny od stromego	</item>
+        <item>	zanikają siły tłumiące drgania samowzbudne	</item>
+        <item>	takiej nazwy nie używa się	</item>
+        <item>	takiej nazwy nie używa się	</item>
+        <item>	takiej nazwy nie używa się	</item>
+        <item>	powiększające powierzchnię skrzydła	</item>
+        <item>	- iloczyn masy i wysokości ciała- jednostka wat [W]	</item>
+        <item>	szkieletowa profilu	</item>
+        <item>	szkieletowa płata	</item>
+        <item>	szkieletowa płata	</item>
+        <item>	grubość profilu	</item>
+        <item>	doskonałość płatowca nie zmieni się	</item>
+        <item>	zmniejszenia oporu kształtu podczas wychylania lotek	</item>
+        <item>	ośi OZ› i ośi OY›	</item>
+        <item>	maksymalna prędkość lotu w atmosferze, w której dochodzi do gwałtownych zmian prędkości pionowej otaczającego powietrza	</item>
+        <item>	zawsze rośnie przy zmniejszaniu kąta natarcia	</item>
+        <item>	V &lt; sub &gt; A &lt; /sub &gt;	</item>
+        <item>	V &lt; sub &gt; NO &lt;/sub &gt;	</item>
+        <item>	poprawienia stateczności w pełnym zakresie kątów natarcia	</item>
+        <item>	prawda tylko dla profili niesymetrycznych	</item>
+        <item>	jest stały i nie zależy od kata natarcia i prędkości lotu	</item>
+        <item>	wychyleniom lotek towarzyszy na obu skrzydłach zwiększenie oporu indukowanego	</item>
+        <item>	stała w każdym punkcie rozpiętości, ale zależy od prędkości lotu	</item>
+        <item>	stałą, ale zależną od prędkości lotu	</item>
+        <item>	13330 m	</item>
+        <item>	17,5 m	</item>
+        <item>	6000 m	</item>
+        <item>	3600 m	</item>
+        <item>	- odchylają się w stronę końca płata na górnej i dolnej powierzchni	</item>
+        <item>	wysokość względna profilu	</item>
+        <item>	V<sub>RA</sub>	</item>
+        <item>	momentem zawiasowym lotek	</item>
+        <item>	dynamicznej kierunkowej	</item>
+        <item>	dynamicznej kierunkowej	</item>
+        <item>	zwiększanie ‘C<sub>z</sub>’ oraz zmniejszanie ‘C<sub>x</sub>’	</item>
+        <item>	zmniejszenie siły oporu	</item>
+        <item>	klap	</item>
+        <item>	lotek	</item>
+        <item>	usterzenia wysokości	</item>
+        <item>	mocy silnika i prędkości lotu	</item>
+        <item>	maleje grubość profilu	</item>
+        <item>	interferencji falowej w przepływach poddźwiękowych	</item>
+        <item>	prawda tylko dla profili lotniczych	</item>
+        <item>	Lilienthala	</item>
+        <item>	zawsze taki sam	</item>
+        <item>	oporu wirowego	</item>
+        <item>	prawda, ale tylko w przypadku, gdy płatowiec jest niestateczny dynamicznie	</item>
+        <item>	odwrotne działanie lotek	</item>
+        <item>	dodatkowa siła nośna, która powoduje tylko przechylenie, bez wpływu na skręcenie i ugięcie skrzydła	</item>
+        <item>	nie wytwarza siły nośnej, tylko siłę oporu	</item>
+        <item>	jest stałe, ale zależy od prędkości lotu	</item>
+        <item>	jest stałe, ale zależy od prędkości lotu	</item>
+        <item>	poprawienia stateczności w pełnym zakresie kątów natarcia	</item>
+        <item>	iloczyn średniej cięciwy geometrycznej i wydłużenia skrzydła S=l Cśr	</item>
+        <item>	za małe przechylenie lub za mała prędkość kątowa zakrętu	</item>
+        <item>	za małe przechylenie lub za duża prędkość kątowa zakrętu	</item>
+        <item>	prędkość, do jakiej nie przewiduje się ograniczeń użytkowania szybowca zgodnie z jego przeznaczeniem	</item>
+        <item>	maksymalna prędkość, przy której można jeszcze użyć pełnych wychyleń sterów bez przekroczenia maksymalnego przeciążenia	</item>
+        <item>	punkt przejścia z opływu turbulentnego w laminarny następuje w tylnej części profilu	</item>
+        <item>	średnia grubość profilu	</item>
+        <item>	szybowiec pozostaje stateczny statycznie	</item>
+        <item>	zwiększeniem statyczności statycznej	</item>
+        <item>	są tym większe im mniejszy jest kąt natarcia skrzydła	</item>
+        <item>	utrudnia wyprowadzenie z korkociągu	</item>
+        <item>	ułatwia wyprowadzenie z korkociągu	</item>
+        <item>	prędkość minimalna maleje	</item>
+        <item>	przeciążenie nie zależy od przechylenia, tylko od prędkości	</item>
+        <item>	zjawiska zwanego dywergencją skrętną usterzenia	</item>
+        <item>	zawsze ujemną	</item>
+        <item>	czoło profilu	</item>
+        <item>	czoło profilu	</item>
+        <item>	środek geometryczny	</item>
+        <item>	środek geometryczny	</item>
+        <item>	korzystnego momentu odchylającego	</item>
+        <item>	zmniejszenia sił niezbędnych do wychylenia lotek	</item>
+        <item>	czterech osi współrzędnych OW›, OX›, OY›, OZ›	</item>
+        <item>	nieznacznie mniejsza od siły oporu na skrzydle przeciwnym	</item>
+        <item>	siła oporu interferencyjnego	</item>
+        <item>	zmieniają się proporcjonalnie do kwadratu wielkości gęstości	</item>
+        <item>	poprawienia stateczności w pełnym zakresie kątów natarcia	</item>
+        <item>	pionową	</item>
+        <item>	kierunkową	</item>
+        <item>	tylko odchylania	</item>
+        <item>	odchylania i przechylania	</item>
+        <item>	statecznością dynamiczną podłużną	</item>
+        <item>	przechylania	</item>
+        <item>	odchylania i przechylania	</item>
+        <item>	pochylania	</item>
+        <item>	przyspieszenie chwilowe	</item>
+        <item>	skos skrzydła	</item>
+        <item>	przyspieszenie chwilowe	</item>
+        <item>	największa odległość między górnym obrysem profilu i cięciwą aerodynamiczną	</item>
+        <item>	linia łącząca ostrza profili płata lotniczego	</item>
+        <item>	-odwrotnie proporcjonalne do przyrostu prędkości kątowej w czasie pomiaru -wprost proporcjonalne do czasu pomiaru	</item>
+        <item>	który w dużym przedziale zmian kąta natarcia pokrywa się z geometrycznym środkiem profilu	</item>
+        <item>	nie zmienia swojego położenia w pełnym zakresie zmian kąta natarcia	</item>
+        <item>	który w dużym przedziale zmian kąta natarcia pokrywa się z geometrycznym środkiem profilu	</item>
+        <item>	równowagą statyczną obojętną	</item>
+        <item>	flatter usterzenia	</item>
+        <item>	zwiększenie stateczności statycznej podłużnej na dodatnich kątach natarcia, a zmniejszenie na ujemnych	</item>
+        <item>	ośi OX› i ośi OY›	</item>
+        <item>	ośi OZ› i ośi OX›	</item>
+        <item>	jak najmniejsze wychylenia lotek	</item>
+        <item>	- nieobojętnej;  - obojętnej;  - chwiejnej	</item>
+        <item>	Gdy wysokość standardowa jest równa wysokości elewacji lotniska	</item>
+        <item>	Są od gęstości powietrza niezależne.	</item>
+        <item>	- wzmacniacz hydrauliczny; - klapka odciążająca	</item>
+        <item>	niezależne od wywoływanych zmian ruchu lub zmian stanu lotu	</item>
+        <item>	nie przesuwa się wzdłuż cięciwy	</item>
+        <item>	przesuwa się wzdłuż cięciwy do przodu	</item>
+        <item>	cięciwa geometryczna profilu nie pokrywa się ze średnią cięciwą aerodynamiczną profilu	</item>
+        <item>	dla alpha>0 przesuwa się wzdłuż cięciwy do przodu, a dla alpha\0 przesuwa się wzdłuż cięciwy do tyłu	</item>
+        <item>	-statecznika pionowego stanowiącego przednią, ruchomą część-steru kierunku stanowiącego tylną nieruchomą część	</item>
+        <item>	-statecznika poziomego stanowiącego przednią, ruchomą część-steru wysokości stanowiącego tylną nieruchomą część	</item>
+        <item>	osią poziomą	</item>
+        <item>	osią podłużną	</item>
+        <item>	osią poprzeczną	</item>
+        <item>	siły oporu na obu lotkach zmaleją o tą samą wartość	</item>
+        <item>	korzystny moment odchylający	</item>
+        <item>	szczelinowy	</item>
+        <item>	przepływ ma charakter turbulentny	</item>
+        <item>	fałsz tylko dla profili symetrycznych	</item>
+        <item>	fałsz tylko dla profili symetrycznych	</item>
+        <item>	klapki odciążającej	</item>
+        <item>	maleje - jeżeli temperatura maleje, a rośnie – jeżeli temperatura wzrasta	</item>
+        <item>	n=1	</item>
+        <item>	Oporu indukowanego	</item>
+        <item>	klapka odciążającej	</item>
+        <item>	nie posiada żadnej symetrii	</item>
+        <item>	nie posiada żadnej symetrii	</item>
+        <item>	biegunową skrzydła	</item>
+        <item>	nie posiada żadnej symetrii	</item>
+        <item>	Cz = f(alpha), Cz = f(Cx)	</item>
+        <item>	tylko Cz = f(Cx)	</item>
+        <item>	zmniejszenia oporu indukowanego szybowca	</item>
+        <item>	wzrost wilgotności względnej powietrza	</item>
+        <item>	Z „oporu tarcia” powietrza o powierzchnię bryły statku powietrznego i z „oporu interferencyjnego”..	</item>
+        <item>	jeżeli przekrój poprzeczny tunelu dwukrotnie się zwiększy, to prędkość powietrza wzrośnie czterokrotnie	</item>
+        <item>	wyważenie masowe powierzchni sterowej	</item>
+        <item>	sterownością dynamiczną	</item>
+        <item>	stabilnością	</item>
+        <item>	flettnera	</item>
+        <item>	krzyżowym połączeniu napędu lotek	</item>
+        <item>	wzrastanie w strudze ciśnienia spiętrzeniowego	</item>
+        <item>	skrzydła wygięte są w górę podczas lotu	</item>
+        <item>	na końcówkach skrzydeł stosuje się profile, na których oderwanie strug dla alpha kryt jest mniej intensywne	</item>
+        <item>	mniejszy lub większy w zależności od prędkości lotu	</item>
+        <item>	zmniejszanie "Cx" oraz "Cz"	</item>
+        <item>	zasada zachowania pędu	</item>
+        <item>	zasada zachowania ciśnienia przepływu zamkniętego	</item>
+        <item>	dowolne.	</item>
+        <item>	nie ma oznaczenia	</item>
+        <item>	dowolne.	</item>
+        <item>	zwiększa się przy maleniu powierzchni przekroju	</item>
+        <item>	Obiekt przyjmuje pozycję coraz bardziej odległą od położenia równowagi.	</item>
+        <item>	Natychmiast po ustaniu impulsu wytrącającego powraca do pozycji równowagi.	</item>
+        <item>	Waha się.	</item>
+        <item>	Opór waha się.	</item>
+        <item>	Zmaleje do zera.	</item>
+        <item>	Siła odśrodkowa zmaleje do zera.	</item>
+        <item>	zmienia się i można go odczytać wykreślając biegunową szybowca	</item>
+        <item>	doskonałość płatowca nie zmieni się	</item>
+        <item>	stosunek Cz/Cx zmaleje	</item>
+        <item>	"-ustawienie klapki wyważającej ; - położenie środka ciężkości szybowca;
+-usytuowanie i wielkość usterzeń"	</item>
+        <item>	zmniejszyć przechylenie lub zmniejszyć prędkość kątową zakrętu	</item>
+        <item>	zwiększyć przechylenie lub zmniejszyć prędkość kątową zakrętu	</item>
+        <item>	zasada zachowania pędu	</item>
+        <item>	zasada zachowania ciśnienia przepływu zamkniętego	</item>
+        <item>	Stateczność wspomaga sterowność podłużną.	</item>
+        <item>	h nie może przyjmować wartości zerowej	</item>
+        <item>	zwiększa się przy maleniu powierzchni przekroju	</item>
+        <item>	Obiekt przyjmuje pozycję coraz bardziej odległą od położenia równowagi.	</item>
+        <item>	Natychmiast po ustaniu impulsu wytrącającego powraca do pozycji równowagi.	</item>
+        <item>	Waha się.	</item>
+        <item>	Opór waha się.	</item>
+        <item>	Zmaleje do zera.	</item>
+        <item>	Siła odśrodkowa zmaleje do zera.	</item>
+        <item>	min maleje, max rośnie	</item>
+        <item>	- rozpędzanie; - hamowanie	</item>
+        <item>	samolot samoczynnie przejdzie w fazę ustalonego lotu nurkowego	</item>
+        <item>	kąty natarcia poszczególnych przekrojów śmigła osiągają wartości krytyczne	</item>
+        <item>	samolot jest niesterowny	</item>
+        <item>	samolot nie jest stateczny i nie jest niestateczny	</item>
+        <item>	samolot nie jest stateczny i nie jest niestateczny	</item>
+        <item>	kąt natarcia łopat śmigła znacznie wzrośnie	</item>
+        <item>	kąt natarcia łopat śmigła znacznie zmaleje	</item>
+        <item>	jeżeli posuw będzie równy jeden	</item>
+        <item>	nigdy	</item>
+        <item>	wtedy, kiedy posuw =1	</item>
+        <item>	wtedy, kiedy prędkość samolotu =0	</item>
+        <item>	wtedy, kiedy posuw =0	</item>
+        <item>	wtedy, kiedy kąt natarcia śmigła =0°	</item>
+        <item>	wtedy, kiedy posuw =1	</item>
+        <item>	gwałtowna zmiana prędkości strug opływających usterzenie poziome	</item>
+        <item>	zastosowanie profilu niesymetrycznego na usterzeniu kierunku	</item>
+        <item>	- iloczyn ilości wykonanej pracy i czasu jej wykonywania- jednostka dżul [J]	</item>
+        <item>	- iloraz siły i drogi- jednostka wat [W]	</item>
+        <item>	doskonałość płatowca nie zmieni się	</item>
+        <item>	stosunek Cz/Cx zmaleje	</item>
+        <item>	Zależy od zmiennej x.	</item>
+        <item>	oś wektora ciągu śmigła nie przechodzi przez środek geometryczny samolotu	</item>
+        <item>	nie powoduje istotnych zmian wpływających na właściwości pilotażowe samolotu	</item>
+        <item>	przyśpieszenie odśrodkowe zmian	</item>
+        <item>	momentem mimośrodowym	</item>
+        <item>	o dużym skoku rzeczywistym	</item>
+        <item>	-ustawienie klapki wyważającej ; - położenie środka ciężkości samolotu; - usytuowanie i wielkość usterzeń	</item>
+        <item>	różna, zależną od tego, czy leci „z wiatrem” czy „pod wiatr"	</item>
+        <item>	ekonomiczną	</item>
+        <item>	stosunek ciężaru samolotu do mocy niezbędnej	</item>
+        <item>	-samoczynne zwiększanie pochylenia; -zmniejszanie prędkości opadania	</item>
+        <item>	interferencji falowej w przepływach poddźwiękowych	</item>
+        <item>	zmianę wartości współczynnika obciążenia ‘n’ z dodatniego na ujemny	</item>
+        <item>	tylko rozkładu mas na samolocie	</item>
+        <item>	powoduje przechylanie	</item>
+        <item>	nie powoduje dodatkowych zmian	</item>
+        <item>	po przestawieniu śmigła na mały skok należy zwiększyć ciśnienie ładowania	</item>
+        <item>	równy Y	</item>
+        <item>	powoduje dodatkowe przechylanie	</item>
+        <item>	momentem napędowym	</item>
+        <item>	Przeciążenia.	</item>
+        <item>	nie jest stałe i zależy od prędkości lotu	</item>
+        <item>	różnica między skokiem rzeczywistym i posuwem śmigła	</item>
+        <item>	samolot jest stateczny statycznie	</item>
+        <item>	samolot nie reaguje na wychylenia sterów z powodu zbyt małej prędkości	</item>
+        <item>	lH – odległość między środkiem ciężkości samolotu i środkiem aerodynamicznym usterzenia poziomego; PZH – przyrost siły aerodynamicznej na usterzeniu wysokości	</item>
+        <item>	środek równowagi obojętnej samolotu	</item>
+        <item>	#NAZWA?	</item>
+        <item>	stateczny statycznie poprzecznie i podłużnie	</item>
+        <item>	statecznością statyczną poprzeczną obojętną	</item>
+        <item>	momentalnie, samoczynnie następowało wyprowadzenie z korkociągu	</item>
+        <item>	odległość jaką przebędzie samolot podczas jednego obrotu śmigła ustawionego na kącie natarcia równym kącie nastawienia =ß	</item>
+        <item>	droga jaką przebędzie wybrany punkt na jednym z profili śmigła podczas jednego pełnego obrotu śmigła	</item>
+        <item>	posuw śmigła =0	</item>
+        <item>	równowagą dynamiczną	</item>
+        <item>	- wielkości usterzenia poziomego; - odległości środka aerodynamicznego usterzenia pionowego od środka ciężkości samolotu; - kąta wzniosu skrzydeł	</item>
+        <item>	- wielkości usterzenia pionowego; - odległości środka aerodynamicznego usterzenia poziomego od środka ciężkości samolotu; - rozkładu mas na samolocie	</item>
+        <item>	zdolność do utrzymania kontroli nad samolotem na który działają zewnętrzne obciążenia dynamiczne	</item>
+        <item>	- powierzchni skrzydła; - ciężaru samolotu	</item>
+        <item>	- wielkość usterzenia pionowego; - odległości środka aerodynamicznego usterzenia poziomego od środka ciężkości samolotu; - położenia środka ciężkości samolotu	</item>
+        <item>	- położenia środka ciężkości samolotu; - układu grzbietopłata lub dolnopłata; - kąta wzniosu skrzydła	</item>
+        <item>	zdolność do samoczynnego powrotu samolotu do położenia równowagi, gdy przestaną działać zakłócenia	</item>
+        <item>	zdolność do zachowania stanu równowagi i przeciwdziałania jego zmianom	</item>
+        <item>	skokiem śmigła	</item>
+        <item>	skokiem śmigła	</item>
+        <item>	być zwichrzone geometrycznie tak, aby kąt natarcia poszczególnych przekrojów był zbliżony do krytycznego kata natarcia	</item>
+        <item>	-wychylić lotki w stronę przeciwną do kierunku przechylania; -odepchnąć drążek sterowy	</item>
+        <item>	zmniejszyć siłę nośną na skrzydle poprzez oddanie drążka sterowego	</item>
+        <item>	-wychylić lotki w stronę przeciwną do kierunku przechylania; -odepchnąć drążek sterowy; -po ustaniu obrotów rozpędzić samolot i wyprowadzić z lotu nurkowego	</item>
+        <item>	przyrost momentu pochylającego samolot musi mieć wartość dodatnią	</item>
+        <item>	należy wychylić drążek sterowy od siebie	</item>
+        <item>	należy wychylić drążek sterowy od siebie	</item>
+        <item>	należy wychylić drążek sterowy od siebie	</item>
+        <item>	"wektor przyrostu siły nośnej na usterzeniu poziomym musi mieć zwrot
+„w dół”"	</item>
+        <item>	"wektor przyrostu siły nośnej na usterzeniu poziomym musi mieć zwrot
+„w dół”"	</item>
+        <item>	przyrost momentu pochylającego samolot musi mieć wartość do ujemną	</item>
+        <item>	należy wychylić drążek sterowy od siebie	</item>
+        <item>	W rozporządzeniach Urzędu Lotnictwa Cywilnego.	</item>
+        <item>	"- prędkość samolotu =0; - poślizg
+śmigła S=0"	</item>
+        <item>	zmienia się i można go odczytać wykreślając biegunową samolotu	</item>
+        <item>	n&gt;1	</item>
+        <item>	0&lt;n&lt;1	</item>
+        <item>	doskonałość profilu nieznacznie wzrośnie	</item>
+        <item>	doskonałość profilu nieznacznie wzrośnie	</item>
+        <item>	stosunek Cz/Cx wzrośnie	</item>
+        <item>	przechylenie się samolotu w lewo; do chwili powrotu drążka do neutrum	</item>
+        <item>	#NAZWA?	</item>
+        <item>	biegunową skrzydła	</item>
+        <item>	chwiejnością powietrza	</item>
+        <item>	zwiększenie ciśnienia ładowania, a później zmniejszenie skoku śmigła skoku śmigła	</item>
+        <item>	zmniejszenie skoku śmigła, a później zwiększenie ciśnienia ładowania	</item>
+        <item>	odległość pomiędzy środkiem aerodynamicznym usterzenia i środkiem aerodynamicznym płata	</item>
+        <item>	sterownością dynamiczna	</item>
+        <item>	końcówki płata wygięte są w górę podczas lotu	</item>
+        <item>	na końcówkach płata stosuje się profile, na których oderwanie strug dla  alpha kryt jest mniej intensywne	</item>
+        <item>	#NAZWA?	</item>
+    </string-array>
+</resources>

@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wiedza_questions">
+        <item>	Usterzenie ogonowe:	</item>
+        <item>	Co mierzy prędkościomierz jako lotniczy przyrząd pokładowy:	</item>
+        <item>	Elementem pomiarowym   (czułym) prędkościomierza jest:	</item>
+        <item>	Elementem pomiarowym (czułym) wysokościomierza jest:	</item>
+        <item>	Hamowanie kołami podwozia jest:	</item>
+        <item>	Jakie ciśnienia doprowadzone są do prędkościomierza:	</item>
+        <item>	Jakie ciśnienie doprowadzane jest do wysokościomierza:	</item>
+        <item>	Jakie parametry odczytujemy z wysokościomierza:	</item>
+        <item>	Kadłub konstrukcji półskorupowej składa się:	</item>
+        <item>	Kadłub o konstrukcji skorupowej składa się:	</item>
+        <item>	Klapka odciążająca służy do:	</item>
+        <item>	Kolor uchwytów i dźwigni w kabinie obsługiwanej przez pilota są:	</item>
+        <item>	Kompensacja masowa (wyważenie masowe)	</item>
+        <item>	Lotki służą do:	</item>
+        <item>	Na czym polega wychylenie różnicowe lotek:	</item>
+        <item>	Przeznaczenie klap skrzydłowych:	</item>
+        <item>	Radiostacja w czasie nadawania ma możliwość:	</item>
+        <item>	Radiostacje lotnicze pracują:	</item>
+        <item>	Układ „miękki“ sterowania mechanizmami sterowniczymi stanowi:	</item>
+        <item>	Układ „sztywny“ sterowania mechanizmami sterowniczymi stanowi:	</item>
+        <item>	Co wskazuje amperomierz wychylony w prawo od zera:	</item>
+        <item>	Agregaty silnikowe napędzane są	</item>
+        <item>	Alternator zbudowany jest z:	</item>
+        <item>	Automatyczny układ przeciw poślizgowy zabudowany jest i służy:	</item>
+        <item>	Blokada szumów (SQ) w radiostacji UKF służy do:	</item>
+        <item>	Blokowanie sterów i lotek ma na celu:	</item>
+        <item>	Ciśnienie oleju mierzone jest	</item>
+        <item>	Co mierzy trójwskazówkowy kontroler parametrów silnika:	</item>
+        <item>	Co możemy odczytać z wysokościomierza:	</item>
+        <item>	Co nazywamy pojemnością ogniwa:	</item>
+        <item>	Co nazywamy żyroskopem:	</item>
+        <item>	Co określa busola magnetyczna:	</item>
+        <item>	Co stanowi nadajnik temperatury oleju w układzie trójwskazówkowego kontrolera parametrów silnika:	</item>
+        <item>	Co to jest współczynnik bezpieczeństwa konstrukcji lotniczej:	</item>
+        <item>	Co wskazuje przyrząd zwany wariometrem:	</item>
+        <item>	Czy kompozyty np. z włókien węglowych, grafitowych, szklanych itp. – stosowane są w konstrukcjach lotniczych:	</item>
+        <item>	Czy rozlanie paliwa w rejonie samolotu wpływa na jego bezpieczeństwo:	</item>
+        <item>	Czym zabezpieczane są obwody elektryczne na samolocie:	</item>
+        <item>	Czynnikiem wykonawczym w instalacji hamowania kołami podwozia głównego jest głównie:	</item>
+        <item>	Dla zabezpieczenia łączności radiowej w statku powietrznym zainstalowane są:	</item>
+        <item>	Do chowania i wypuszczania podwozia, głównie stosowane są instalacje:	</item>
+        <item>	Do czego przeznaczony jest manometr ciśnienia paliwa:	</item>
+        <item>	Do czego służy rurka spiętrzeniowa na samolocie:	</item>
+        <item>	Do czego służy sztuczny horyzont:	</item>
+        <item>	Do czego służy termometr temperatury cylindrów:	</item>
+        <item>	Do pracy radiokompasu potrzebna jest :	</item>
+        <item>	Do pracy radiowysokościomierza wykorzystano :	</item>
+        <item>	Do prawidłowego spalania mieszanki w cylindrach niezbędna jest odpowiednia ilość	</item>
+        <item>	Do rozładowania elektrostatycznego samolotu w czasie lotu przeznaczone są rozładowywacze które przykręcone są do:	</item>
+        <item>	Dopuszczalny czas pracy silnika na przelotowym zakresie wynosi	</item>
+        <item>	Dopuszczalny czas pracy silnika na zakresie startowym zazwyczaj wynosi	</item>
+        <item>	Drobne wgniecenia na krawędzi natarcia łopaty śmigła są dopuszczalne	</item>
+        <item>	Dźwigar jako element konstrukcyjny samolotu:	</item>
+        <item>	Element łączący łopaty i mocujący śmigło na wale nazywa się	</item>
+        <item>	Element tłumiący drgania silnika przekazywane na płatowiec zwany jest	</item>
+        <item>	Elementem otwierającym bezpośrednio zawory jest	</item>
+        <item>	Elementem przenoszącym moment obrotowy silnika jest	</item>
+        <item>	Elementem uszczelniającym współpracujący tłok i cylinder jest	</item>
+        <item>	Elementem utrzymującym zawory w położeniu zamkniętym jest	</item>
+        <item>	Elementy skrzydła, na których zainstalowana jest instalacja przeciw oblodzeniowa:	</item>
+        <item>	Ewentualne opiłki powstające w czasie pracy silnika można wykryć w	</item>
+        <item>	Gaźnik jest przeznaczony do	</item>
+        <item>	Gdzie pilot może znaleźć informacje dotyczące ograniczeń eksploatacyjnych silnika	</item>
+        <item>	Głównymi parametrami pracy silnika kontrolowanymi przez pilota są	</item>
+        <item>	Ile kolorów mają światła pozycyjne:	</item>
+        <item>	Ile przewodowa jest instalacja prądu stałego na samolocie:	</item>
+        <item>	Ile stopni swobody ma sztuczny horyzont:	</item>
+        <item>	Ile stopni swobody ma zakrętomierz:	</item>
+        <item>	Ilość oleju w silniku kontrolowana jest zazwyczaj z wykorzystaniem	</item>
+        <item>	Informacji dotyczącej mocy zespołu napędowego ze śmigłem stałym dostarcza pomiar	</item>
+        <item>	Instalacja przeciwpożarowa zabudowana jest głównie:	</item>
+        <item>	Instrukcja Użytkowania w Locie:	</item>
+        <item>	Jak nazywamy element pomiarowy (czuły) wysokościomierza:	</item>
+        <item>	Jaka jest wartość częstotliwości w sieci prądu przemiennego na samolocie:	</item>
+        <item>	Jaka powinna być minimalna wartość napięcia akumulatora na samolocie , sprawdzanego pod obciążeniem:	</item>
+        <item>	Jaką energię przetwarzamy podczas ładowania akumulatora:	</item>
+        <item>	Jaką energię przetwarzamy podczas rozładowania akumulatora:	</item>
+        <item>	Jaką pozycję przyjmuje wskaźnik ślizgu zakrętomierza, kiedy informuje o zakręcie  skoordynowanym:	</item>
+        <item>	Jaki przyrząd lotniczy przeznaczony jest do pomiaru prędkości kątowej zespołu napędowego:	</item>
+        <item>	Jaki przyrząd lotniczy służy do odległościowego pomiaru paliwa w zbiornikach:	</item>
+        <item>	Jaki przyrząd określa położenie przestrzenne samolotu podczas lotu:	</item>
+        <item>	Jaki rodzaj środka odladzającego jest stosowany w instalacji przeciw oblodzeniowej w czasie lotu:	</item>
+        <item>	Jakie ciśnienie odbierane jest na samolocie	</item>
+        <item>	Jakie działania należy podjąć, gdy w czasie przeglądu samolotu zostanie stwierdzone przez pilota uszkodzenie pneumatyków kół podwozia:	</item>
+        <item>	Jakie elementy silnika wyposażone są w instalację przeciw oblodzeniową:	</item>
+        <item>	Jakie główne zespoły płatowca są zabezpieczone przed oblodzeniem:	</item>
+        <item>	Jakie przyrządy przeznaczone są do określenia stanu pracy silnika lotniczego:	</item>
+        <item>	Jakie wskazania pokazuje woltomierz prądu stałego:	</item>
+        <item>	Jakiego typu są sygnalizatory oblodzenia:	</item>
+        <item>	Jakość smarowania silnika kontrolowana jest poprzez pomiar	</item>
+        <item>	Jednostkowe zużycie paliwa wyrażone jest w	</item>
+        <item>	Jednoznaczność namiaru w radiokompasie otrzymujemy:	</item>
+        <item>	Kabina ciśnieniowa służy:	</item>
+        <item>	Kadłub konstrukcji półskorupowej składa się z części:	</item>
+        <item>	Kadłub konstrukcji skorupowej składa się z części:	</item>
+        <item>	Kiedy sprawdza się sprawność układu zapłonowego	</item>
+        <item>	Klapka odciążająca służy do:	</item>
+        <item>	Klapy służą:	</item>
+        <item>	Kompensacja masowa:	</item>
+        <item>	Lotki służą do:	</item>
+        <item>	Lód usuwany jest z krawędzi natarcia skrzydła zabezpieczonych nakładkami gumowymi (boots) przy pomocy:	</item>
+        <item>	Mechanizm sterowania zaworami to	</item>
+        <item>	Moc przekazywana na wał śmigła zwana jest mocą	</item>
+        <item>	Moc silnika wraz ze wzrostem wysokości	</item>
+        <item>	Moc silnika wysokościowego wraz ze wzrostem wysokości	</item>
+        <item>	Moc tracona na pokonanie oporów mechanicznych wraz ze wzrostem temperatury oleju	</item>
+        <item>	Moment zapłonu odniesiony do kąta obrotu wału silnika nazywamy kątem	</item>
+        <item>	Na czym polega sprawdzenie pracy układu zapłonowego	</item>
+        <item>	Na jakie napięcie znamionowe buduje się prądnice prądu stałego lub alternatory:	</item>
+        <item>	Nagły brak wskazań ciśnienia oleju (bez wzrostu temperatury oleju) jest zazwyczaj spowodowany	</item>
+        <item>	Najmniejsze natężenie ziemskiego pola magnetycznego jest na:	</item>
+        <item>	Nakazem włączenia instalacji przeciw oblodzeniowej jest:	</item>
+        <item>	Niezbędny wydatek powietrza chłodzącego zapewniany jest poprzez zastosowanie odpowiednio ukształtowanych owiewek cylindrów zwanych	</item>
+        <item>	Obecność wody w paliwie jest	</item>
+        <item>	Od czego uzależniamy moc prądnicy zamontowanej na samolocie:	</item>
+        <item>	Odbiornik GPS pozwala na:	</item>
+        <item>	Oddzielacze powietrza z oleju silnikowego ze względu na sposób ich działania dzielimy na	</item>
+        <item>	Odległość mierzona za pomocą radioodległościomierza to:	</item>
+        <item>	Odpowiednia kolejność pracy cylindrów ma na celu	</item>
+        <item>	Odpowiednia kolejność zapłonu ma na celu	</item>
+        <item>	Ogrzewanie wlotu do gaźnika ma na celu	</item>
+        <item>	Opony niskociśnieniowe przeznaczone są:	</item>
+        <item>	Opony wysokociśnieniowe służą:	</item>
+        <item>	Opracowanie, zatwierdzanie, wprowadzanie zmian w Instrukcji Użytkowanie w Locie:	</item>
+        <item>	Optymalna temperatura oleju w silniku to (<sup>°</sup>C)	</item>
+        <item>	Oświetlenie zewnętrzne samolotu składa się z:	</item>
+        <item>	Panele z elementami kontrolnymi i sterującymi radiostacji umieszczane są:	</item>
+        <item>	Parametrami charakteryzującym rozwijaną aktualnie moc silnika z doładowaniem są	</item>
+        <item>	Parametrem kryterialnym do oceny pracy silnikowej instalacji paliwowej jest	</item>
+        <item>	Podaj kolejność cykli pracy silnika czterosuwowego	</item>
+        <item>	Podgrzewanie silnika gorącym powietrzem w okresie niskich temperatur ma na celu	</item>
+        <item>	Podsłuch sygnałów z radiokompasu uzyskujemy:	</item>
+        <item>	Podstawowym rodzajem pracy radiokompasu jest:	</item>
+        <item>	Pokładowy Dziennik Techniczny:	</item>
+        <item>	Pokrycie skrzydła pracujące:	</item>
+        <item>	Pokrycie skrzydła tzw. niepracujące:	</item>
+        <item>	Pomocnicze pompy podające paliwo  zazwyczaj napędzane są	</item>
+        <item>	Pompa olejowa napędzana jest	</item>
+        <item>	Pompa wtryskowa jest przeznaczona do	</item>
+        <item>	Poziom oleju „między kreskami” na miarce bagnetowej oznacza	</item>
+        <item>	Pozycja SBYw transponderze służy do:	</item>
+        <item>	Praca odbiornika GPS oparta jest na:	</item>
+        <item>	Prądnicami prądu stałego, nazywamy maszyny elektryczne które służą do przetwarzania energii:	</item>
+        <item>	Prądnice prądu stałego instalowane na samolotach zbudowane są jako:	</item>
+        <item>	Prędkość przyrządową określamy jako:	</item>
+        <item>	Prędkość rzeczywistą określamy jako:	</item>
+        <item>	Próbę iskrowników wykonuje się	</item>
+        <item>	Przed pokręceniem śmigłem należy upewnić się że wyłączone są	</item>
+        <item>	Przepustnica gaźnika sterowana jest przy pomocy	</item>
+        <item>	Przy awarii prądnicy lub alternatora, na ile czasu powinno wystarczyć akumulatora do bezpiecznego lądowania:	</item>
+        <item>	Przycisk IDENT w transponderze używany jest:	</item>
+        <item>	Przyczyną spalania stukowego jest	</item>
+        <item>	Przydzielone pasmo częstotliwości w zakresie UKF dla łączności radiowej w lotnictwie cywilnym to:	</item>
+        <item>	Radiokompas może pracować jako:	</item>
+        <item>	Radiokompas posiada:	</item>
+        <item>	Radiokompas służy do:	</item>
+        <item>	Radiostacja UKF zasilana jest :	</item>
+        <item>	Radiostacje pokładowe UKF budowane są w następującym układzie:	</item>
+        <item>	Radiowysokościomierz informuje o zadanej wysokości za pomocą:	</item>
+        <item>	Radiowysokościomierz małych wysokości służy do:	</item>
+        <item>	Radiowysokościomierz posiada możliwość :	</item>
+        <item>	Reduktor przeznaczony jest do	</item>
+        <item>	Silnik gwiazdowy to silnik o układzie cylindrów	</item>
+        <item>	Silnik typu bokser to silnik o układzie cylindrów	</item>
+        <item>	Siła gazowa działająca na tłok zależy od	</item>
+        <item>	Siły i momenty powstające w silniku przenoszone są na płatowiec przez	</item>
+        <item>	Skok śmigła (łopat) na zakresie jałowej pracy silnika jest	</item>
+        <item>	Skrzydło samolotu służy do/jest:	</item>
+        <item>	Sloty (skrzela) służą:	</item>
+        <item>	Słuchawki i mikrofony załogi w większości statków powietrznych z radiostacją połączono:	</item>
+        <item>	Spalanie stukowe w silniku powoduje	</item>
+        <item>	Sprawdzenie pracy transpondera na ziemi możemy wykonać za pomocą:	</item>
+        <item>	Sprężarki doładowujące to zazwyczaj sprężarki	</item>
+        <item>	Stan cieplny silnika kontrolowany jest poprzez pomiar	</item>
+        <item>	Stan nadawania lub odbioru radiostacji uwarunkowany jest:	</item>
+        <item>	Sterowanie kołem podwozia przedniego głównie sprzężone jest z:	</item>
+        <item>	Sterowanie nożne (orczyk) służy:	</item>
+        <item>	Sterownica ręczna (wolant, drążek) służy:	</item>
+        <item>	Stopy aluminium używane są w budowie samolotów na:	</item>
+        <item>	Stosunek objętości całkowitej cylindra do objętości komory spalania nazywamy	</item>
+        <item>	Śmigło w którym kąt nastawienia łopat jest regulowany przez pilota zwany jest śmigłem	</item>
+        <item>	"Śmigło zabudowane na wale skierowanym przeciwnie do lotu samolotu to śmigło"	</item>
+        <item>	"Śmigło zabudowane na wale skierowanym zgodnie z lotem samolotu to śmigło"	</item>
+        <item>	Świadectwo Zdatności do Lotu  Samolotu wydaje:	</item>
+        <item>	Tarcza krzywkowa jako element rozrządu stosowany jest w silnikach	</item>
+        <item>	Temperatura głowic cylindrów mierzona jest	</item>
+        <item>	Temperatura oleju mierzona jest	</item>
+        <item>	Tłumik shimmi przeznaczony jest do tłumienia drgań:	</item>
+        <item>	Transponder służy do:	</item>
+        <item>	Urządzenie oddzielające powietrze, pary oleju i spaliny z odprowadzanego oleju z silnika zwane jest	</item>
+        <item>	Urządzeniem wytwarzającym energię elektryczną zapłonu nazywamy	</item>
+        <item>	W amortyzatorach podwozia olejowo-pneumatycznych jako składnik pneumatyczny stosowany jest:	</item>
+        <item>	W celu sprawdzenia transpondera na ziemi należy:	</item>
+        <item>	"W celu ułatwienia pracy załodze zastosowano radiokompasy  z możliwością:"	</item>
+        <item>	W jaki sposób utrzymujemy żądany kurs:	</item>
+        <item>	W jakich jednostkach mierzymy pojemność ogniwa:	</item>
+        <item>	"W jakich warunkach obsługowych do zasilania wykorzystuje się lotniskowe źródło zasilania"	</item>
+        <item>	W jakiej części silnika zainstalowany jest nadajnik przeciw oblodzeniowy:	</item>
+        <item>	W niskociśnieniowym silniku wtryskowym mieszanka wytwarzana jest w	</item>
+        <item>	W silniku chłodzonym powietrzem najbardziej użebrowane są okolice	</item>
+        <item>	W silniku chłodzonym powietrzem znaczna ilość ciepła odprowadzana jest także przez	</item>
+        <item>	W silniku gaźnikowym mieszanka palna wytwarzana jest poprzez	</item>
+        <item>	W wysokociśnieniowym silniku wtryskowym mieszanka wytwarzana jest w	</item>
+        <item>	Wałek rozrządu sprzęgnięty jest bezpośrednio z	</item>
+        <item>	Wartość napięcia prądu przemiennego jednofazowego:	</item>
+        <item>	Wartość napięcia prądu przemiennego trójfazowego:	</item>
+        <item>	Ważność świadectwa zdatności do lotu samolotu:	</item>
+        <item>	Właściwa praca Transpondera sygnalizowana jest:	</item>
+        <item>	Wskazania przyrządu żyroskopowego zwanego zakrętomierzem pokazuje:	</item>
+        <item>	Wybieranie łączności między statkami powietrznymi, między służbami naziemnymi ,między członkami załogi oraz podsłuch pomocy radionawigacyjnych dokonujemy przez :	</item>
+        <item>	Wychylenie lotek przy profilu skrzydła niesymetrycznym (wychylenie różnicowe):	</item>
+        <item>	Z jakiego zapasowego źródła zasilania gdy jest awaria prądnicy prądu stałego	</item>
+        <item>	Zabrania się włączać transponder z ustawionymi:	</item>
+        <item>	Zadanie zmniejszenia sił tarcia i zużycia elementów silnika spełnia	</item>
+        <item>	Zadaniem śmigła jest zamiana	</item>
+        <item>	Zakres i uprawnienia wykonywania obsług technicznych przez pilota przed wykonaniem lotu przez niego na danym statku powietrznym:	</item>
+        <item>	Zakres pracy radiowysokościomierzy to:	</item>
+        <item>	Zakrętomierz jako przyrząd żyroskopowy charakteryzuje się tym że:	</item>
+        <item>	Zapłon mieszanki w silniku czterosuwowym następuje między	</item>
+        <item>	Zasadnicza pompa podająca paliwo jest napędzana	</item>
+        <item>	Zasobnik hydrauliczny (hydroakumulator) przeznaczony jest:	</item>
+        <item>	Zaznaczyć źródła prądu przemiennego:	</item>
+        <item>	Zaznaczyć źródła prądu stałego:	</item>
+        <item>	Zbyt mały luz zaworowy może spowodować	</item>
+        <item>	Ze wzrostem prędkości obrotowej silnika moment obrotowy	</item>
+        <item>	Ze wzrostem stopnia sprężania stosowane paliwo powinno mieć	</item>
+        <item>	Zestaw urządzeń łączności składa się z:	</item>
+        <item>	Zjawisko kawitacji wpływa na pracę instalacji paliwowej	</item>
+        <item>	Zjawisko oblodzenia gaźnika występuje zazwyczaj w warunkach dużej wilgotności i temp. otoczenia ( ?C).	</item>
+        <item>	Zużycie jednostkowe paliwa w trakcie zubażania mieszanki	</item>
+        <item>	Żyromagnetyczna busola odległościowa jest przeznaczona do:	</item>
+    </string-array>
+</resources>

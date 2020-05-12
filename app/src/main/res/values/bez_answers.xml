@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bez_answers" >
+        <item>	Wyjaśnienie okoliczności i przyczyn oraz wypracowanie zaleceń profilaktycznych.	</item>
+        <item>	Czy wszystkie przełączniki, dźwignie i urządzenia kontroli i sterowania znajdują się w położeniu określonym instrukcja użytkowania w locie.	</item>
+        <item>	Stan techniczny statku powietrznego wykonując przegląd przedlotowy.	</item>
+        <item>	lotniczej łączności radiotelefonicznej w niebezpieczeństwie	</item>
+        <item>	123.1 MHz	</item>
+        <item>	24 godzin przed lotem	</item>
+        <item>	Tak	</item>
+        <item>	Tak, ale pod warunkiem wykonywania lotu na wysokości określonej przez państwowy organ zarządzania ruchem lotniczym	</item>
+        <item>	Tak, ale po decyzji PKBWL i pod jej nadzorem	</item>
+        <item>	Nie	</item>
+        <item>	Tak, bez względu na konsekwencje	</item>
+        <item>	156,3 MHz	</item>
+        <item>	świadectwa radiooperatora w służbie lotniczej	</item>
+        <item>	podręcznik pierwszej pomocy i zestaw sygnałów zgodny z Aneksem 12 ICAO („ground-air visual signal code for use by survivors”)	</item>
+        <item>	Właściwą stację naziemną, tak szybko jak to jest możliwe.	</item>
+        <item>	Dzienniku Urzędowym Urzędu Lotnictwa Cywilnego	</item>
+        <item>	zgłosić sytuację awaryjną	</item>
+        <item>	Z wiatrem	</item>
+        <item>	Uchwytu wyzwalającego	</item>
+        <item>	że posiada lotniczy nadajnik ratowniczy SARSAT	</item>
+        <item>	Osobie wskazanej w instrukcji operacyjnej	</item>
+        <item>	bezpośredniego zagrożenia życia załogi i pasażerów	</item>
+        <item>	Zgasić czaszę za pomocą ściągania dolnych linek	</item>
+        <item>	121,5 MHz	</item>
+        <item>	120 dni jeżeli jego instrukcja nie stanowi inaczej	</item>
+        <item>	Ważności ułożenia spadochronu	</item>
+        <item>	Najpóźniej przed startem statku powietrznego natomiast zapięcie taśm uprzęży przed zajęciem miejsca i zapięciem pasów	</item>
+        <item>	Tak – sprawdzamy kartę spadochronu, plombę, właściwe zapięcie ściągaczy, położenie zawleczek zamykających oraz uchwytu	</item>
+        <item>	Tak- szczególnie istotne informacje to minimalna wysokość skoku przy różnych prędkościach i różnych konfiguracjach lotu,maksymalne prędkości użycia i dopuszczalny ciężar pilota	</item>
+        <item>	Tak- spadochrony zawsze napełniają się zawsze na podobnym odcinku, niezależnie od prędkości. Przy większej prędkości poziomej napełnienie następuje w krótszym czasie - ma to bezpośredni związek z mniejszą utratą wysokości	</item>
+        <item>	Aneks 13	</item>
+        <item>	zielonożółty lub czerwony	</item>
+        <item>	nie można zezwolić	</item>
+        <item>	właściwą stację naziemną tak szybko, jak jest to praktycznie możliwe	</item>
+        <item>	Dowódca załogi	</item>
+        <item>	Dowódca załogi	</item>
+        <item>	że substancje te są niezbędne do działania istotnych systemów statku powietrznego	</item>
+        <item>	Prawie lotniczym	</item>
+        <item>	przewoźniku	</item>
+        <item>	grzywny	</item>
+        <item>	Organom Policji lub Straży Granicznej	</item>
+        <item>	dowódcy statku powietrznego	</item>
+        <item>	niezwłocznie zneutralizowane i usunięte	</item>
+        <item>	Ugaszenie pożaru	</item>
+        <item>	Ratowanie życia załogi i pasażerów	</item>
+        <item>	samolot nie będzie certyfikowany i wyposażony do zwalczenia takich warunków	</item>
+        <item>	palenie tytoniu nie jest dozwolone	</item>
+        <item>	Horyzont	</item>
+        <item>	Pisemne sprawozdanie o zdarzeniu w ciągu 10 dni	</item>
+        <item>	pisemny.	</item>
+        <item>	rośnie z wysokością lotu	</item>
+        <item>	przed płaszczyzną obrotu śmigła	</item>
+        <item>	Akrobacyjnych	</item>
+        <item>	500 kHz	</item>
+        <item>	jest pierwszą czynnością w celu opuszczenia pokładu	</item>
+        <item>	pilot nie może przyjmować środków psychotropowych	</item>
+        <item>	"kilkakrotne włączenie i wyłączenie świateł lądowania lub nawigacyjnych"	</item>
+        <item>	kilkakrotne przechylenie samolotu na boki	</item>
+        <item>	około 3-7 m/s	</item>
+        <item>	gaśnicą śniegową lub BCE	</item>
+        <item>	nie wpłyną ujemnie na bezpieczeństwo startu i odlotu	</item>
+        <item>	MAYDAY RELAY	</item>
+        <item>	Aneksie 12 ICAO	</item>
+        <item>	sobie	</item>
+        <item>	przy drugim zestawie urządzeń sterowych statku powietrznego	</item>
+        <item>	Złoży go jeden członek załogi.	</item>
+        <item>	Napisem SAR	</item>
+        <item>	okrążyć statek morski co najmniej raz i przeciąć przedłużenie jego linii drogi na możliwie małej wysokości	</item>
+        <item>	żądanie pomocy medycznej	</item>
+        <item>	nie są dozwolone	</item>
+        <item>	Instrukcji Operacyjnej	</item>
+        <item>	nie	</item>
+        <item>	dowódca statku powietrznego jest przekonany, że zapis powinien być zachowany jako materiał do dochodzenia w razie zdarzenia lub wypadku	</item>
+        <item>	dowódca statku powietrznego	</item>
+        <item>	pokładowym dzienniku technicznym statku powietrznego.	</item>
+        <item>	że jest niezbędne dla ratowania zdrowia lub życia	</item>
+        <item>	72 godziny	</item>
+        <item>	Można naruszyć przepisy lotnicze	</item>
+        <item>	110 V / 400 Hz	</item>
+        <item>	Kiedy należy zapewnić bezpieczeństwo lotu oraz bezpieczeństwo i porządek na pokładzie statku powietrznego..	</item>
+        <item>	powiadomić o tym fakcie służby ruchu lotniczego	</item>
+        <item>	Zameldować do najbliższego organu ruchu lotniczego lub stanowiska kierowania lotami o miejscu opuszczenia	</item>
+        <item>	dowódca statku powietrznego	</item>
+        <item>	nie informuje o podejrzeniu za pośrednictwem łączności radiowej	</item>
+        <item>	Udzielić poszkodowanym lub znajdującym się w niebezpieczeństwie pomocy w zakresie, w jakim może to uczynić bez narażania na niebezpieczeństwo powierzonego mu statku powietrznego, pasażerów, załogi.	</item>
+        <item>	nadać wywołanie w niebezpieczeństwie wszystkimi dostępnymi środkami	</item>
+        <item>	niezwłocznie wyłączyć ELT i powiadomić o tym fakcie właściwe RCC lub służbę informacji lotniczej	</item>
+        <item>	60 dni lub do czasu otrzymania innych poleceń od władzy prowadzącej dochodzenie	</item>
+        <item>	podczas startu i lądowania oraz zawsze, kiedy dowódca uzna to za konieczne	</item>
+        <item>	Dowódca załogi	</item>
+        <item>	dowódca statku powietrznego	</item>
+        <item>	dowódca statku powietrznego	</item>
+        <item>	Dowódca załogi	</item>
+        <item>	przewoźnik lub dysponent statku powietrznego	</item>
+        <item>	wodą z mydłem lub detergentem	</item>
+        <item>	Do startu i lądowania oraz w sytuacjach, kiedy dowódca statku powietrznego uzna to za konieczne.	</item>
+        <item>	tak, by były łatwo dostępne dla wszystkich członków załogi i pasażerów	</item>
+        <item>	Zabroniony	</item>
+        <item>	podjęcia działań, zapewniających zabezpieczenie życia osób i mienia w rejonie zrzutu	</item>
+    </string-array>
+
+    <string-array name="bez_odp_b" >
+        <item>	Wyjaśnienie okoliczności i przyczyn oraz wypracowanie zaleceń profilaktycznych oraz wskazanie winnych zdarzenia	</item>
+        <item>	Czy wszystkie przełączniki, dźwignie i urządzenia kontroli i sterowania znajdują się w położeniu neutralnym.	</item>
+        <item>	Warunki meteorologiczne do planowanego lotu.	</item>
+        <item>	łączności w niebezpieczeństwie dla telegrafii do odbioru słuchowego	</item>
+        <item>	101,5 MHz	</item>
+        <item>	12 godzin przed lotem	</item>
+        <item>	Nie	</item>
+        <item>	Tak, ale pod warunkiem wykonywania lotu na odpowiedniej wysokości.	</item>
+        <item>	Tak	</item>
+        <item>	Tak	</item>
+        <item>	Nie, jeśli statek powietrzny nie został uszkodzony	</item>
+        <item>	121,5 MHz	</item>
+        <item>	licencji członka personelu lotniczego	</item>
+        <item>	jedynie podręcznik pierwszej pomocy	</item>
+        <item>	Właściwą stację naziemną, telefonicznie po lądowaniu.	</item>
+        <item>	Dzienniku Ustaw	</item>
+        <item>	zamówić paliwo na lotnisku lądowania	</item>
+        <item>	Pod wiatr	</item>
+        <item>	Liny otwierającej	</item>
+        <item>	że ma możliwość podejścia według MLS	</item>
+        <item>	PKBWL	</item>
+        <item>	konieczności zapewnienia pomocy medycznej	</item>
+        <item>	Zgasić czaszę za pomocą ściągania górnych linek	</item>
+        <item>	500 kHz	</item>
+        <item>	30 dni	</item>
+        <item>	ułożenia spadochronu	</item>
+        <item>	Bezpośrednio przed skokiem natomiast zapięcie taśm uprzęży po zajęciu miejsca w statku powietrznym i zapięciu pasów	</item>
+        <item>	Nie – nie ma obowiązku kontroli jeżeli jest to kolejny lot a spadochron w statku powietrznym zostawili poprzedni piloci	</item>
+        <item>	Nie jest to konieczne - z każdym spadochronem można wyskoczyć z tej samej wysokości a na prędkość lotu nie mamy wpływu podczas sytuacji przymusowej	</item>
+        <item>	Nie – spadochrony napełniają się zawsze na tym samym odcinku. Prędkość pozioma podczas otwarcia ma jedynie wpływ na czas otwarcia i przeciążenie	</item>
+        <item>	Aneks 11	</item>
+        <item>	pomarańczowy	</item>
+        <item>	Prezes ULC	</item>
+        <item>	organ kontroli ruchu lotniczego, po wylądowaniu	</item>
+        <item>	Załoga statku powietrznego	</item>
+        <item>	Załoga statku powietrznego	</item>
+        <item>	obecność substancji promieniotwórczych na pokładzie statku powietrznego jest bezwzględnie zabroniona	</item>
+        <item>	PL - 2	</item>
+        <item>	dowódcy statku powietrznego	</item>
+        <item>	Pozbawienia wolności do lat 5	</item>
+        <item>	Służbie Więziennej	</item>
+        <item>	inspektora ULC, odpowiedzialnego za certyfikację, licencjonowanie lub nadzór bieżący	</item>
+        <item>	zostawione na podłożu do odparowania	</item>
+        <item>	Ratowanie rannych	</item>
+        <item>	Ratowanie mienia i wyposażenia statku powietrznego	</item>
+        <item>	nie ustanowiono procedury odladzania i przeciwdziałania oblodzeniu samolotu na ziemi	</item>
+        <item>	utrzymania dobrej wentylacji kabiny	</item>
+        <item>	Ziemię	</item>
+        <item>	Pisemne sprawozdanie o zdarzeniu w ciągu 14 dni	</item>
+        <item>	ustny.	</item>
+        <item>	maleje z wysokością lotu	</item>
+        <item>	z boku, w płaszczyźnie obrotu śmigła	</item>
+        <item>	Szkolnych	</item>
+        <item>	121,5 MHz	</item>
+        <item>	nie jest konieczne – po skoku sama się rozłączy	</item>
+        <item>	6 godzin	</item>
+        <item>	kilkakrotne przechylenie samolotu na boki	</item>
+        <item>	wystrzelenie zielonej rakiety	</item>
+        <item>	około 6-9 m/s	</item>
+        <item>	pianą gaśniczą	</item>
+        <item>	odpowiadają danym z AIP	</item>
+        <item>	SOS	</item>
+        <item>	Aneksie 6 ICAO	</item>
+        <item>	pasażerom, o ile ci nie mogą sami założyć masek tlenowych	</item>
+        <item>	w miejscu zapewniającym najlepszą widoczność	</item>
+        <item>	Wszyscy członkowie załogi.	</item>
+        <item>	Napisem SOS	</item>
+        <item>	przelecieć za rufą statku na małej wysokości	</item>
+        <item>	żądanie udzielenia informacji o własnej pozycji	</item>
+        <item>	że dowódca statku powietrznego dopilnuje bezpieczeństwa wykonywania lotu	</item>
+        <item>	AIP	</item>
+        <item>	tak	</item>
+        <item>	dowódca statku powietrznego uzna to za stosowne	</item>
+        <item>	przedstawiciel przewoźnika	</item>
+        <item>	książce obsługi.	</item>
+        <item>	odbywa się poza kabiną załogi	</item>
+        <item>	48 godzin	</item>
+        <item>	Nie można naruszać przepisów lotniczych	</item>
+        <item>	36 V / 400 Hz	</item>
+        <item>	Kiedy z różnych powodów nie może wykonywać swoich obowiązków.	</item>
+        <item>	podjąć próbę siłowego odzyskania kontroli nad sytuacją	</item>
+        <item>	Nadać sygnał SOS i opuścić statek powietrzny	</item>
+        <item>	przedstawiciel przewoźnika w porcie docelowym	</item>
+        <item>	powiadamia statki powietrzne znajdujące się najbliżej statku, co do którego istnieje takie podejrzenie	</item>
+        <item>	Użyć wszelkich środków do udzielenia pomocy naruszając nawet przepisy lotnicze.	</item>
+        <item>	poinformować pasażerów	</item>
+        <item>	wyłączyć ELT	</item>
+        <item>	30 dni	</item>
+        <item>	przez cały czas trwania lotu	</item>
+        <item>	Załoga statku powietrznego	</item>
+        <item>	przewoźnik lub dysponent statku powietrznego	</item>
+        <item>	inspektor kontroli cywilnych statków powietrznych	</item>
+        <item>	Obsługa techniczna	</item>
+        <item>	dowódca statku powietrznego	</item>
+        <item>	benzyną lotniczą	</item>
+        <item>	Na polecenie dowódcy załogi statku powietrznego.	</item>
+        <item>	w kabinie załogi	</item>
+        <item>	Dozwolony, za zgodą władz lotniczych.	</item>
+        <item>	tylko w niebezpieczeństwie	</item>
+    </string-array>
+
+    <string-array name="bez_odp_c" >
+        <item>	Wyjaśnienie okoliczności i przyczyn oraz wypracowanie zaleceń profilaktycznych, wskazanie winnych zdarzenia oraz rozpowszechnianie informacji dotyczącej zdarzeń.	</item>
+        <item>	Czystość i porządek w kabinie.	</item>
+        <item>	Zgodność listy pasażerów.	</item>
+        <item>	łączności z lądem w akcjach poszukiwawczo - ratowniczych (SAR)	</item>
+        <item>	500 kHz	</item>
+        <item>	36 godzin przed lotem	</item>
+        <item>	Tylko w obecności członków PKBWL	</item>
+        <item>	Zabrania się.	</item>
+        <item>	Nie	</item>
+        <item>	Tak, ale pod nadzorem PKBWL	</item>
+        <item>	Tak, jeśli statek powietrzny został uszkodzony	</item>
+        <item>	128,825 MHz	</item>
+        <item>	"nie jest wymagane posiadanie
+żadnego dokumentu"	</item>
+        <item>	podręcznik pierwszej pomocy i pełny tekst Aneksu 6 ICAO	</item>
+        <item>	Właściwą stację naziemną, pisemnie po lądowaniu	</item>
+        <item>	miesięczniku „Przegląd Lotniczy”	</item>
+        <item>	natychmiast lądować w terenie przygodnym	</item>
+        <item>	Bokiem do wiatru	</item>
+        <item>	Automatu spadochronowego	</item>
+        <item>	że ma możliwość podejścia według TLS	</item>
+        <item>	Prezesowi ULC	</item>
+        <item>	ogólnego niebezpieczeństwa dla ruchu lotniczego, zaobserwowania groźnych zjawisk itp.	</item>
+        <item>	Złapać się czegokolwiek	</item>
+        <item>	156.3 MHz	</item>
+        <item>	120 dni	</item>
+        <item>	Produkcji spadochronu	</item>
+        <item>	Po zaistnieniu sytuacji w której konieczne jest wykonanie skoku ratowniczego	</item>
+        <item>	Nie – nie ma obowiązku kontroli jeżeli spadochron pobrany jest bezpośrednio z magazynu lub od układacza	</item>
+        <item>	Nie jest to konieczne – wszystkie spadochrony zawsze otwierają się z wysokości nie mniejszej niż 100 m i mają zapewnić bezpieczeństwo dla każdego przeciętnego pilota w całym zakresie prędkości statku powietrznego	</item>
+        <item>	Nie –aby spadochron zaczął się poprawnie napełniać pilot i tak musi przejść do spadania pionowego	</item>
+        <item>	Aneks 12	</item>
+        <item>	biały	</item>
+        <item>	dowódca statku powietrznego	</item>
+        <item>	władze lokalne	</item>
+        <item>	Służba ruchu lotniczego	</item>
+        <item>	Służba ruchu lotniczego	</item>
+        <item>	udzielenia stosownego zezwolenia przez Ministerstwo Ochrony Środowiska	</item>
+        <item>	JAR-ach	</item>
+        <item>	zarządcy lotniska	</item>
+        <item>	Pozbawienia wolności do 1 roku	</item>
+        <item>	Straży Ochrony Lotniska	</item>
+        <item>	przedstawiciela przewoźnika	</item>
+        <item>	zebrane, przefiltrowane i zużyte do celów gospodarczych	</item>
+        <item>	Telefon do straży pożarnej	</item>
+        <item>	Powiadomienie przełożonego i/lub władzy lotniczej	</item>
+        <item>	temperatura powietrza jest niższa niż 7°C	</item>
+        <item>	może palić tylko jedna osoba na raz	</item>
+        <item>	Czaszę	</item>
+        <item>	Ustne – telefoniczne sprawozdanie po lądowaniu w miejscu docelowym	</item>
+        <item>	nie składa.	</item>
+        <item>	rożnie z wilgotnością względną	</item>
+        <item>	za śmigłem	</item>
+        <item>	Przy przelotach na akwenami wodnymi	</item>
+        <item>	2182 kHz	</item>
+        <item>	zawsze najpierw pasy – one nas najmocniej trzymają	</item>
+        <item>	12 godzin	</item>
+        <item>	wystrzelenie zielonej rakiety	</item>
+        <item>	włączenie smugaczy	</item>
+        <item>	około 8 m/s	</item>
+        <item>	piaskiem	</item>
+        <item>	są zgodne z podawanymi przez odpowiednie służby	</item>
+        <item>	PAN RELAY	</item>
+        <item>	Aneksie 2 ICAO	</item>
+        <item>	dowódcy statku powietrznego, o ile ten nie może sam założyć maski tlenowej	</item>
+        <item>	w miejscu zapewniającym najlepszy nadzór nad czynnościami pilota prowadzącego statek powietrzny	</item>
+        <item>	Pilot.	</item>
+        <item>	Krzyżem maltańskim	</item>
+        <item>	przelecieć wzdłuż lewej burty statku	</item>
+        <item>	żądanie zidentyfikowania statku powietrznego	</item>
+        <item>	że opracowano odpowiednie procedury postępowania i są one przestrzegane	</item>
+        <item>	ustawie „Prawo Lotnicze	</item>
+        <item>	tak, pod warunkiem że korespondencja odbywa się w języku angielskim	</item>
+        <item>	zapis zawiera treści naruszające dobre imię osób obecnych na pokładzie statku powietrznego	</item>
+        <item>	każdy członek załogi lotniczej	</item>
+        <item>	zeszycie prac obsługowych.	</item>
+        <item>	odbywa się w wydzielonej części kabiny pasażerskiej	</item>
+        <item>	24 godziny	</item>
+        <item>	Można naruszyć przepisy lotnicze po konsultacji z członkami załogi	</item>
+        <item>	27 V	</item>
+        <item>	W sytuacjach  zagrażających bezpieczeństwu lotu.	</item>
+        <item>	upewnić się czy instalacja tlenowa jest sprawna	</item>
+        <item>	Opuścić statek powietrzny niezwłocznie.	</item>
+        <item>	Minister Obrony Narodowej	</item>
+        <item>	rządowe statki powietrzne	</item>
+        <item>	Powiadomić odpowiednie służby lotnicze.	</item>
+        <item>	zabezpieczyć przedmioty wartościowe	</item>
+        <item>	zgłosić fakt mechanikowi gdy będzie to możliwe	</item>
+        <item>	60 dni lub do czasu otrzymania innych poleceń od władzy prowadzącej dochodzenie	</item>
+        <item>	w czasie startu i lądowania	</item>
+        <item>	Kontroler Ruchu Lotniczego	</item>
+        <item>	obsługa techniczna w miejscu startu	</item>
+        <item>	właściciel statku powietrznego	</item>
+        <item>	Obsługa lotniskowa	</item>
+        <item>	Urząd Lotnictwa Cywilnego	</item>
+        <item>	alkoholem	</item>
+        <item>	Do startu i do lądowania.	</item>
+        <item>	w części kadłuba najmniej narażonej na uszkodzenie	</item>
+        <item>	Dozwolony.	</item>
+        <item>	uzyskania pisemnej zgody władz terenowych	</item>
+    </string-array>
+
+    <string-array name="bez_odp_d" >
+        <item>	Wyjaśnienie okoliczności i przyczyn zdarzenia.	</item>
+        <item>	Czy wszystkie przełączniki, dźwignie i urządzenia kontroli i sterowania znajdują się w położeniu wyjściowym.	</item>
+        <item>	Czy otrzymał zgodę na lot.	</item>
+        <item>	łączności z tratwami ratunkowymi	</item>
+        <item>	2128 kHz	</item>
+        <item>	48 godzin przed lotem	</item>
+        <item>	Tylko w obecności lekarza.	</item>
+        <item>	Tak, po otrzymaniu zgody od właściwego organu ruchu lotniczego.	</item>
+        <item>	Tak, jeśli posiada do tego odpowiednie kwalifikacje	</item>
+        <item>	Tak, ale po wyrażeniu zgody przez Prezesa ULC	</item>
+        <item>	Tak, jeśli z tej przyczyny lot został przerwany	</item>
+        <item>	123,450 MHz	</item>
+        <item>	obywatelstwa Rzeczypospolitej Polskiej	</item>
+        <item>	Aneks 12 ICAO	</item>
+        <item>	Przełożonego lub najbliższy organ ruchu lotniczego	</item>
+        <item>	na stronach internetowych organizacji lotniczych	</item>
+        <item>	porozumieć się z przewoźnikiem lub dysponentem statku powietrznego	</item>
+        <item>	Ustawienie ciała nie ma żadnego znaczenia	</item>
+        <item>	Ładunku pirotechnicznego	</item>
+        <item>	że może korzystać z przestrzeni RVSM	</item>
+        <item>	Nie składa pisemnego raportu.	</item>
+        <item>	utraty łączności	</item>
+        <item>	Nic nie robić, czasza opadnie sama	</item>
+        <item>	2182 kHz	</item>
+        <item>	180 dni	</item>
+        <item>	wietrzenia spadochronu	</item>
+        <item>	Po opuszczeniu statku powietrznego	</item>
+        <item>	Tak-sprawdzamy ważność ułożenia spadochronu w metryce	</item>
+        <item>	Tak – właściwości spadochronu mogą być inne przy rożnej wilgotności powietrza	</item>
+        <item>	Tak – podczas większej prędkości pilot spada wolniej i spadochron zdąży otworzyć się wyżej	</item>
+        <item>	Aneks 14	</item>
+        <item>	wyłącznie czerwony	</item>
+        <item>	Minister Infrastruktury	</item>
+        <item>	Urząd Lotnictwa Cywilnego	</item>
+        <item>	Dowódca załogi w porozumieniu z załogą i kontrolerem ruchu lotniczego	</item>
+        <item>	Dowódca załogi w porozumieniu z załogą i kontrolerem ruchu lotniczego	</item>
+        <item>	właściwego opakowania i wyraźnego oznakowania substancji promieniotwórczej	</item>
+        <item>	PL - 6	</item>
+        <item>	Straży Granicznej	</item>
+        <item>	Grzywny, karze ograniczenia wolności lub pozbawienia wolności do roku	</item>
+        <item>	Funkcjonariuszom ABW.	</item>
+        <item>	zarządcy lotniska	</item>
+        <item>	zlane do kanalizacji	</item>
+        <item>	Oddalenie się na bezpieczną odległość	</item>
+        <item>	Powiadomienie Policji	</item>
+        <item>	pada deszcz	</item>
+        <item>	załoga jest jednoosobowa	</item>
+        <item>	Zamyka oczy	</item>
+        <item>	Nie składa dodatkowych wyjaśnień.	</item>
+        <item>	składa meldunek ustny, jeśli statek powietrzny uległ jakiemukolwiek uszkodzeniu.	</item>
+        <item>	rośnie z temperaturą punktu rosy	</item>
+        <item>	obojętnie	</item>
+        <item>	Z prędkością pow. 250 km/h	</item>
+        <item>	122,7 MHz	</item>
+        <item>	następuje po zrzucie drzwi – jeżeli nie da się ich zrzucić po co ją odpinać	</item>
+        <item>	24 godziny	</item>
+        <item>	zrzucenie meldunku potwierdzającego	</item>
+        <item>	zrzucenie meldunku potwierdzającego	</item>
+        <item>	nie uzyska certyfikatu spadochron który opada z prędkością większą niż 4 m/s	</item>
+        <item>	wodą	</item>
+        <item>	jeśli organ kontroli ruchu lotniczego udziela zgody, dowódca statku powietrznego wykonuje start	</item>
+        <item>	SECURITE	</item>
+        <item>	AIP Polska, rozdz. ENR1 „Przepisy i Procedury Ogólne”	</item>
+        <item>	osobom nieprzytomnym, niepełnosprawnym i/lub dzieciom	</item>
+        <item>	w zasięgu wzroku pilota prowadzącego statek powietrzny	</item>
+        <item>	Zostanie zatwierdzony przez użytkownika.	</item>
+        <item>	Czerwonym krzyżem na białym tle.	</item>
+        <item>	cyklicznie zwiększać i zmniejszać wysokość lotu	</item>
+        <item>	odpowiedź negatywna	</item>
+        <item>	że przeprowadzane symulacje nie naruszają Instrukcji Użytkowania statku powietrznego	</item>
+        <item>	"rozporządzeniu Ministra Infrastruktury z dnia 3 września 2003, Dz.U. 165
+poz. 1602"	</item>
+        <item>	mają równy priorytet	</item>
+        <item>	świadomość zapisu rozmów powoduje dyskomfort członków załogi	</item>
+        <item>	zarządca lotniska	</item>
+        <item>	dokumentacji technicznej statku powietrznego	</item>
+        <item>	jest bezwzględnie zabronione	</item>
+        <item>	96 godzin	</item>
+        <item>	Wszystkie pozostałe odpowiedzi są nieprawidłowe.	</item>
+        <item>	każde	</item>
+        <item>	W sytuacjach szczególnych.	</item>
+        <item>	wykonywać polecenia  napastników	</item>
+        <item>	Wszystkie pozostałe odpowiedzi są nieprawidłowe	</item>
+        <item>	wszyscy obecni na pokładzie statku powietrznego	</item>
+        <item>	wszystkie statki powietrzne w sektorze odpowiedzialności danej służby ruchu lotniczego	</item>
+        <item>	Powiadomić odpowiednie służby lotnicze i działać według ich poleceń.	</item>
+        <item>	zadbać o bezpieczeństwo dowódcy statku powietrznego	</item>
+        <item>	powiadomić policję	</item>
+        <item>	120 dni	</item>
+        <item>	występowania turbulencji	</item>
+        <item>	Inspektor bezpieczeństwa lotów	</item>
+        <item>	pion bezpieczeństwa lotniczego ULC	</item>
+        <item>	kierownik obsługi startowej	</item>
+        <item>	Drugi pilot	</item>
+        <item>	Departament Kadr Ministerstwa Infrastruktury	</item>
+        <item>	benzyną ekstrakcyjną	</item>
+        <item>	Tylko do lądowania.	</item>
+        <item>	w zamkniętej kasetce w dyspozycji dowódcy statku powietrznego	</item>
+        <item>	Dozwolony, jeśli zachowane są warunki bezpieczeństwa.	</item>
+        <item>	uzyskania zgody władz lotniczych	</item>
+    </string-array>
+</resources>

@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prawo_questions">
+        <item>	Załoga statku powietrznego ma obowiązek zapinania wszystkich pasów bezpieczeństwa i uprzęży:	</item>
+        <item>	Bezpośrednio przed wejściem do kabiny statku powietrznego pilot sprawdza:	</item>
+        <item>	W przypadku konieczności opuszczenia statku powietrznego w powietrzu (np. z przyczyn technicznych), wyposażonego w radiostację pokładową pilot jest zobowiązany:	</item>
+        <item>	W jakich sytuacjach dowódca statku powietrznego może zobowiązać innych członków załogi do wykonywania czynności nie należących do ich normalnego zakresu obowiązków?	</item>
+        <item>	Statek powietrzny służby poszukiwania i ratownictwa lotniczego jest oznakowany następująco:	</item>
+        <item>	Czy można wykonywać loty na statku powietrznym z napędem nad parkami narodowymi?	</item>
+        <item>	Dowódca statku powietrznego powiadamia o nieprawidłowości pracy urządzeń naziemnych i nawigacyjnych:	</item>
+        <item>	Członkowie załogi oraz inne osoby mają zakaz wnoszenia na pokład statku powietrznego:	</item>
+        <item>	Do czego jest zobowiązany dowódca statku powietrznego?	</item>
+        <item>	Do lotniska dolatuje statek powietrzny bez łączności. Aby ostrzec pilota, że lotnisko nie jest bezpieczne i nie należy na nim lądować, informator AFIS nada sygnał świetlny:	</item>
+        <item>	Dostępność przestrzeni powietrznej może być czasowo ograniczona ze względu na:	</item>
+        <item>	Kiedy ustaje obowiązek pomocy, spoczywający na dowódcy statku powietrznego który spostrzegł inny statek powietrzny lub morski, który uległ wypadkowi lub znalazł się w niebezpieczeństwie?	</item>
+        <item>	Kiedy ustaje obowiązek pomocy, spoczywający na dowódcy statku powietrznego który zauważył katastrofę lub klęskę żywiołową?	</item>
+        <item>	Kto może wprowadzić zakazy lub ograniczenia lotów nad obszarem całego państwa albo jego część na czas dłuższy niż 3 miesiące?	</item>
+        <item>	W czasie lotów zabrania się dokonywania wszelkich zrzutów ze statku powietrznego z wyjątkiem zrzutów dokonywanych na potrzeby?	</item>
+        <item>	W jakim celu jest ustanowiona służba kontroli ruchu lotniczego?	</item>
+        <item>	W jakim celu ustanowiono służbę informacji lotniczej?	</item>
+        <item>	Z wyjątkiem przypadków gdy jest to konieczne do startu lub lądowania, lot VFR nad gęstą zabudową miast, osiedli lub zgromadzeniem osób na otwartym powietrzu nie powinien być wykonywany poniżej minimalnej wysokości względnej nad najwyższą przeszkodą w promieniu 600m od statku powietrznego:	</item>
+        <item>	ADIZ jest to:	</item>
+        <item>	AMC jest to:	</item>
+        <item>	ARP, wg ICAO, jest to:	</item>
+        <item>	ATM jest to:	</item>
+        <item>	ATZ jest to:	</item>
+        <item>	AUP jest to:	</item>
+        <item>	Badaniom lotniczo lekarskim podlegają:	</item>
+        <item>	CBA jest to:	</item>
+        <item>	CTA jest to:	</item>
+        <item>	CTR jest to:	</item>
+        <item>	Członek personelu lotniczego jest obowiązany powstrzymać się od wykonywania czynności lotniczych w przypadku gdy?	</item>
+        <item>	Członek personelu lotniczego przy wykonywaniu czynności lotniczych ma obowiązek stosowania się do dotyczących tych czynności?	</item>
+        <item>	Podczas wykonywania czynności lotniczych członek  personelu lotniczego ma obowiązek stosowania się do:	</item>
+        <item>	Członkowie załogi statku powietrznego:	</item>
+        <item>	Czy członek personelu lotniczego może wykonywać loty i inne czynności lotnicze w przypadku utraty wymaganej sprawności psychicznej i fizycznej?	</item>
+        <item>	Czy dowódca statku powietrznego który otrzymał sygnał o niebezpieczeństwie grożącym innemu statkowi powietrznemu lub morskiemu obowiązany jest udzielić znajdującym się w niebezpieczeństwie pomocy?	</item>
+        <item>	Czy dowódca statku powietrznego który spostrzegł statek powietrzny lub morski, który uległ wypadkowi lub znalazł się w niebezpieczeństwie obowiązany jest udzielić znajdującym się w niebezpieczeństwie pomocy?	</item>
+        <item>	Czy dowódca statku powietrznego który zauważył katastrofę lub klęskę żywiołową obowiązany jest udzielić znajdującym się w niebezpieczeństwie pomocy?	</item>
+        <item>	Czy dowódca statku powietrznego który zauważył osobę znajdującą się na morzu w niebezpieczeństwie utraty życia obowiązany jest udzielić znajdującemu się w niebezpieczeństwie pomocy?	</item>
+        <item>	Czy egzamin państwowy praktyczny podlega opłacie?	</item>
+        <item>	Czy egzamin państwowy teoretyczny podlega opłacie?	</item>
+        <item>	Czy licencja wydana lub potwierdzona przez właściwy organ obcego państwa może być w Rzeczypospolitej Polskiej uznana za ważną na równi z licencją polską?	</item>
+        <item>	Czy licencja wydana lub potwierdzona przez właściwy organ obcego państwa może być w Rzeczypospolitej Polskiej uznają za ważną na równi z licencją polską?	</item>
+        <item>	Czy na statku powietrznym wykonującym loty z załogą musi być wyznaczony dowódca statku powietrznego?	</item>
+        <item>	Czy Prezes ULC może upoważnić pracowników ULC do wydawania, odmawiania wydania, uznawania, zawieszania uznania, przywracania uznania, odmawiania uznania, cofania uznania, cofania, zawieszania, przywracania i zmieniania licencji?	</item>
+        <item>	Czy użytkownik polskiej przestrzeni powietrznej jest obowiązany do?	</item>
+        <item>	Czy w decyzji o zawieszeniu licencji lub uprawnienia lotniczego wpisywanego do licencji określa się okres zawieszenia?	</item>
+        <item>	Czy w przypadku kiedy statek powietrzny przekroczył granicę państwową bez wymaganego zezwolenia lub niezgodnie z warunkami zezwolenia, państwowe organy zarządzania ruchem lotniczym mogą wezwać statek powietrzny do wylądowania na wskazanym lotnisku lub mogą wezwać do wykonania innych poleceń tych organów?	</item>
+        <item>	Czy w przypadku kiedy statek powietrzny wykonuje lot wbrew zakazom lub ograniczeniom ustalonym w danych przestrzeniach powietrznych, państwowe organy zarządzania ruchem lotniczym mogą, wezwać statek powietrzny do wylądowania na wskazanym lotnisku lub mogą wezwać do wykonania innych poleceń tych organów?	</item>
+        <item>	Czy w skład komisji którą powołuje Naczelny Lekarz w celu zbadania zasadności odwołania, mogą wchodzić specjaliści biorący udział  w badaniach na podstawie których wydano zaskarżone orzeczenie lotniczo- lekarskie?	</item>
+        <item>	Czym jest licencja?	</item>
+        <item>	Czym skutkuje wpis statku powietrznego do rejestru cywilnych statków powietrznych?	</item>
+        <item>	Do czego jest zobowiązany członek personelu lotniczego, który jest świadomy utraty sprawności fizycznej lub psychicznej wymaganej do wykonywania swoich funkcji?	</item>
+        <item>	Do kogo może odwołać się  osoba zainteresowana od orzeczenia komisji lekarskiej centrum medycyny lotniczej?	</item>
+        <item>	Do kogo może odwołać się  osoba zainteresowana od orzeczenia lekarza orzecznika	</item>
+        <item>	Do lotniska dolatuje statek powietrzny bez łączności. Aby wydać temu statkowi zezwolenia na lądowanie, informator AFIS nada sygnał świetlny:	</item>
+        <item>	"Do lotniska dolatuje statek powietrzny bez łączności. Pilot dostrzegł nadaną z miejsca kierowania lotami w jego kierunku serię błysków czerwonych. Oznacza to, że:"	</item>
+        <item>	Do lotniska dolatuje statek powietrzny bez łączności. Pilot dostrzegł nadany z miejsca kierowania lotami w jego kierunku ciągły sygnał zielony. Oznacza to, że:	</item>
+        <item>	Dolna granica drogi lotniczej powinna być ustalona na wysokości nad terenem nie mniejszej niż:	</item>
+        <item>	Dolna granica strefy kontrolowanej lotniska powinna się znajdować:	</item>
+        <item>	Dolna granica TMA powinna znajdować się:	</item>
+        <item>	Elewacja lotniska jest to:	</item>
+        <item>	Gdzie zostało ustanowione ICAO?	</item>
+        <item>	Jaką licencję uważamy za ważną?	</item>
+        <item>	Jaki charakter ma  zawieszenie licencji i wynikających z niej uprawnień lub niektórych wynikających z niej uprawnień?	</item>
+        <item>	Jaki czas jest stosowany w ruchu lotniczym kontrolowanym, a jaki w niekontrolowanym?	</item>
+        <item>	Jaki status prawny posiada ICAO?	</item>
+        <item>	Jakie działania przeprowadza Naczelny Lekarz w celu zbadania zasadności odwołania, osoby zainteresowanej, od wydanego orzeczenia lotniczo- lekarskiego?	</item>
+        <item>	Jakie służby są zapewniane w przestrzeni kontrolowanej?	</item>
+        <item>	Jakie służby są zapewniane w przestrzeni niekontrolowanej?	</item>
+        <item>	Jakie statki powietrzne mogą być dopuszczone do wykonywania lotów w przestrzeni powietrznej?	</item>
+        <item>	Jakie statki powietrzne mogą być dopuszczone do wykonywania lotów w przestrzeni powietrznej?	</item>
+        <item>	Jakie statki powietrzne mogą być dopuszczone do wykonywania lotów w przestrzeni powietrznej?	</item>
+        <item>	Jakie warunki powinien spełniać kandydat do szkolenia praktycznego?	</item>
+        <item>	Jakie warunki powinien spełniać uczestnik szkolenia praktycznego?	</item>
+        <item>	Jakiemu prawu podlega polski statek powietrzny  oraz osoby i rzeczy na tym statku w czasie lotu poza granicami polskiej przestrzeni powietrznej i w czasie przebywania na obszarze nie podlegającemu zwierzchnictwu żadnego państwa?	</item>
+        <item>	Jakiemu prawu podlegają  w czasie lotu w polskiej przestrzeni powietrznej i w czasie przebywania na terytorium Rzeczypospolitej Polskiej wszystkie statki powietrzne oraz osoby i rzeczy na tych statkach?	</item>
+        <item>	Jeżeli właściwy organ służby ruchu lotniczego lub organ kierowania lotami danego lotniska nie udzielił zezwolenia na przelot w pobliżu czynnego lotniska kontrolowanego, na którym nie przewiduje się lądowania, należy w locie VFR omijać je:	</item>
+        <item>	Jeżeli właściwy organ służby ruchu lotniczego lub organ kierowania lotami danego lotniska nie udzielił zezwolenia na przelot w pobliżu czynnego lotniska niekontrolowanego, na którym nie przewiduje się lądowania, należy w locie VFR omijać je:	</item>
+        <item>	Jeżeli właściwy organ służby ruchu lotniczego lub organ kierowania lotami danego lotniska nie udzielił zezwolenia na przelot w pobliżu czynnego lotniska wojskowego, na którym nie przewiduje się lądowania, należy w locie VFR omijać je:	</item>
+        <item>	Jeżeli z ograniczenia zamieszczonego w orzeczeniu lotniczo-lekarskim wynika obowiązek posiadania przez członka personelu lotniczego podczas wykonywania czynności lotniczych szkieł korekcyjnych to?	</item>
+        <item>	Kandydat na członka personelu lotniczego, odbywający szkolenie w celu uzyskania licencji lub uprawnienia lotniczego jest obowiązany powstrzymać się od wykonywania czynności lotniczych w przypadku gdy?	</item>
+        <item>	Kandydat na członka personelu lotniczego, odbywający szkolenie w celu uzyskania licencji lub uprawnienia lotniczego jest obowiązany powstrzymać się od wykonywania czynności lotniczych w przypadku gdy?	</item>
+        <item>	Kiedy jest przeprowadzane sprawdzenie wiadomości i umiejętności w celu przedłużenia ważności uprawnienia którego ważność wynosi 12 miesięcy?	</item>
+        <item>	Kiedy jest przeprowadzane sprawdzenie wiadomości i umiejętności w celu przedłużenia ważności uprawnienia którego ważność wynosi 24 miesiące?	</item>
+        <item>	Kiedy jest przeprowadzane sprawdzenie wiadomości i umiejętności w celu przedłużenia ważności uprawnienia którego ważność wynosi 3 lata?	</item>
+        <item>	Kiedy następuje wymiana licencji?	</item>
+        <item>	Kiedy następuje, przywrócenie na wniosek zainteresowanego licencji, która została zawieszona?	</item>
+        <item>	Kiedy obowiązek pomocy, spoczywający na dowódcy statku powietrznego który otrzymał sygnał o niebezpieczeństwie grożącym innemu statkowi powietrznemu lub statkowi morskiemu, ustaje?	</item>
+        <item>	Kiedy obowiązek pomocy, spoczywający na dowódcy statku powietrznego który zauważył osobę znajdującą się na morzu w niebezpieczeństwie utraty życia, ustaje?	</item>
+        <item>	Kiedy sprawdza się sprawność psychiczną i fizyczną członka personelu lotniczego?	</item>
+        <item>	Kiedy sprawdza się sprawność psychiczną i fizyczną kandydata na członka personelu lotniczego?	</item>
+        <item>	Komu może być udzielona licencja?	</item>
+        <item>	Komu może być udzielona licencja?	</item>
+        <item>	Komu może być udzielona licencja?	</item>
+        <item>	Komu może być udzielona licencja?	</item>
+        <item>	Komu może być udzielona licencja?	</item>
+        <item>	Komu może być udzielona licencja?	</item>
+        <item>	Komu może być udzielona licencja?	</item>
+        <item>	Komu może być udzielona licencja?	</item>
+        <item>	Komu może być udzielona licencja?	</item>
+        <item>	Komu może być udzielona licencja?	</item>
+        <item>	Konwencja Tokijska z 1963r. dotyczy:	</item>
+        <item>	Kto dokonuje sprawdzenia wiadomości i umiejętności lotniczych na podstawie decyzji Prezesa ULC, jeżeli w wyniku badania incydentu lotniczego powstanie przypuszczenie, że członek personelu lotniczego nie posiada wymaganych wiadomości lub umiejętności?	</item>
+        <item>	Kto dokonuje sprawdzenia wiadomości i umiejętności lotniczych na podstawie decyzji Prezesa ULC, jeżeli w wyniku badania wypadku lotniczego powstanie przypuszczenie, że członek personelu lotniczego nie posiada wymaganych wiadomości lub umiejętności?	</item>
+        <item>	Kto dokonuje sprawdzenia wiadomości i umiejętności lotniczych na podstawie decyzji Prezesa ULC, jeżeli w wyniku wykonywania czynności nadzoru lotniczego powstanie przypuszczenie, że członek personelu lotniczego nie posiada wymaganych wiadomości lub umiejętności?	</item>
+        <item>	Kto dokonuje sprawdzenia wiadomości i umiejętności lotniczych przed wydaniem licencji?	</item>
+        <item>	Kto dokonuje sprawdzenia wiadomości i umiejętności lotniczych przed wydaniem uprawnienia lotniczego wpisywanego do licencji?	</item>
+        <item>	Kto dokonuje sprawdzenia wiadomości i umiejętności lotniczych w celu przedłużenia ważności uprawnienia lotniczego?	</item>
+        <item>	Kto dokonuje sprawdzenia wiadomości i umiejętności lotniczych w celu wznowienia ważności uprawnienia lotniczego?	</item>
+        <item>	Kto jest członkiem personelu lotniczego?	</item>
+        <item>	Kto jest członkiem personelu lotniczego?	</item>
+        <item>	Kto jest obowiązany do przejęcia osoby, zatrzymanej na pokładzie statku powietrznego, która jest podejrzana o popełnienie przestępstwa na tym statku powietrznym?	</item>
+        <item>	Kto jest obowiązany do przejęcia osoby, zatrzymanej na pokładzie statku powietrznego, która zagraża bezpieczeństwu lotu?	</item>
+        <item>	Kto jest obowiązany do przejęcia osoby, zatrzymanej na pokładzie statku powietrznego, która zagraża porządkowi na pokładzie statku powietrznego?	</item>
+        <item>	Kto jest obowiązany przestrzegać warunków i ograniczeń ustalonych w świadectwie zdatności do lotu statku powietrznego  i w dokumentach z nim związanych	</item>
+        <item>	Kto jest uprawniony do wykonywania lotów i innych czynności lotniczych?	</item>
+        <item>	Kto jest uprawniony do wykonywania lotów i innych czynności lotniczych?	</item>
+        <item>	Kto może określić zasady wprowadzania przez państwowy organ zarządzania ruchem lotniczym ograniczeń lotów w części przestrzeni powietrznej, których czas trwania nie będzie dłuższy niż 3 miesiące, oraz sposób publikacji tych ograniczeń?	</item>
+        <item>	Kto może wezwać statek powietrzny do wylądowania na wskazanym lotnisku lub wykonania innych poleceń?	</item>
+        <item>	Kto przeprowadza badania lotniczo-lekarskie i wydaje orzeczenia o istnieniu lub braku przeciwwskazań zdrowotnych do wykonywania funkcji członka personelu lotniczego?	</item>
+        <item>	Kto przeprowadza badania lotniczo-lekarskie i wydaje orzeczenia o istnieniu lub braku przeciwwskazań zdrowotnych do wykonywania funkcji członka personelu lotniczego?	</item>
+        <item>	Kto stanowi załogę statku powietrznego?	</item>
+        <item>	Kto w imieniu centrum medycyny lotniczej przeprowadza badania lotniczo- lekarskie i wydaje orzeczenia?	</item>
+        <item>	Kto wydaje, odmawia wydania, uznaje, zawiesza uznanie, przywraca uznanie, odmawia uznania, cofa uznanie, cofa, zawiesza, przywraca i zmienia licencje?	</item>
+        <item>	Lot VFR dzienny na statku powietrznym innym niż śmigłowiec w przestrzeni klasy G na i poniżej 900 m AMSL lub 300 m AGL, jeśli jest wyższe, może być wykonany:	</item>
+        <item>	Lot VFR dzienny w przestrzeni klasy G na i poniżej 900 m AMSL lub 300 m AGL, jeśli jest wyższe, może być wykonany tylko:	</item>
+        <item>	Lot VFR poniżej FL 100 w przestrzeni powietrznej klasy C może być wykonany, jeżeli odległość pionowa od chmur jest nie mniejsza niż:	</item>
+        <item>	Lot VFR poniżej FL 100 w przestrzeni powietrznej klasy C może być wykonany, jeżeli odległość pozioma od chmur jest nie mniejsza niż:	</item>
+        <item>	Lot VFR poniżej FL 100 w przestrzeni powietrznej klasy C może być wykonany, jeżeli widzialność w locie jest nie mniejsza niż:	</item>
+        <item>	Lot VFR w przestrzeni powietrznej klasy G poniżej FL 100, ale powyżej 900 m AMSL lub 300 m AGL, jeśli jest wyższe, może być wykonany, jeżeli odległość pionowa od chmur jest nie mniejsza niż:	</item>
+        <item>	Lot VFR w przestrzeni powietrznej klasy G poniżej FL 100, ale powyżej 900 m AMSL lub 300 m AGL, jeśli jest wyższe, może być wykonany, jeżeli odległość pozioma od chmur jest nie mniejsza niż:	</item>
+        <item>	Lot VFR w przestrzeni powietrznej klasy G poniżej FL 100, ale powyżej 900 m AMSL lub 300 m AGL, jeśli jest wyższe, może być wykonany, jeżeli widzialność w locie jest nie mniejsza niż:	</item>
+        <item>	Loty nocne VFR mogą być wykonywane tylko do:	</item>
+        <item>	Loty statków powietrznych w strefie niebezpiecznej są:	</item>
+        <item>	Loty statków powietrznych w strefie ograniczonej są:	</item>
+        <item>	Loty statków powietrznych w strefie zakazanej są:	</item>
+        <item>	MATZ jest to:	</item>
+        <item>	MRT jest to:	</item>
+        <item>	Na czym polega zarządzanie przepływem ruchu lotniczego?	</item>
+        <item>	Na czym polega zarządzanie przepływem ruchu lotniczego?	</item>
+        <item>	Na czym polega zarządzanie przestrzenią powietrzną?	</item>
+        <item>	Na czym polega zarządzanie przestrzenią powietrzną?	</item>
+        <item>	Na jaki okres wydaje się licencję?	</item>
+        <item>	Na jakich prawach jest dostępna polska przestrzeń powietrzna?	</item>
+        <item>	Od czego jest uzależniona ważność licencji?	</item>
+        <item>	Od czego jest uzależniona ważność licencji?	</item>
+        <item>	Orzeczenie lotniczo-lekarskie wydane dla osoby poniżej 40 roku życia w zakresie wymagań zdrowotnych dla Klasy 2 posiada ważność?	</item>
+        <item>	Orzeczenie lotniczo-lekarskie wydane dla osoby poniżej 50 roku życia w zakresie wymagań zdrowotnych dla Klasy 2 posiada ważność?	</item>
+        <item>	Orzeczenie lotniczo-lekarskie wydane dla osoby poniżej 50 roku życia w zakresie wymagań zdrowotnych dla Klasy 2 posiada ważność?	</item>
+        <item>	Osoba której licencja została cofnięta ma obowiązek?	</item>
+        <item>	Osoba której licencja została zawieszona ma obowiązek?	</item>
+        <item>	Płyta przeddworcowa (peronowa) lotniska wchodzi w skład:	</item>
+        <item>	Podczas lotów na lotnisku uległa awarii radiostacja naziemna. Sytuacja wymaga wydania nakazu powrotu do lądowania dla  wszystkich statków powietrznych w ruchu nadlotniskowym. W tym przypadku informator AFIS, korzystając z sygnalizatora świetlnego, nada do statków powietrznych w locie sygnał:	</item>
+        <item>	Polską przestrzeń powietrzną dostępną dla żeglugi powietrznej dzielimy na:	</item>
+        <item>	Rejon Informacji Powietrznej /FIR/ jest to:	</item>
+        <item>	Zgodnie z rozporządzeniem M.I z dnia 11.06.2010 r. w sprawie zakazów lub ograniczeń lotów na czas dłuższy niż 3 miesiące, z wyjątkiem przypadków tam określonych, lot nad tym rezerwatem statków powietrznych z napędem może być wykonany na wysokości nie mniejszej niż:	</item>
+        <item>	Służba informacji lotniczej jest zapewniana przez:	</item>
+        <item>	Służba informacji powietrznej jest zapewniana przez:	</item>
+        <item>	Statek powietrzny wykonuje lot w pobliżu lotniska. Przez przypadkowo włączony nadajnik została zablokowana częstotliwość radiowa. Pilot dostrzegł nadaną z miejsca kierowania lotami w jego kierunku serię błysków zielonych. Oznacza to, że:	</item>
+        <item>	Swoboda lotów w polskiej przestrzeni powietrznej dla cywilnych statków powietrznych może być ograniczona na podstawie:	</item>
+        <item>	TFR jest to:	</item>
+        <item>	TMA jest to;	</item>
+        <item>	TRA jest to:	</item>
+        <item>	TSA jest to:	</item>
+        <item>	W celu zapewnienia bezpieczeństwa lotu oraz bezpieczeństwa i porządku na pokładzie statku powietrznego, dowódca  jest upoważniony do:	</item>
+        <item>	W FIR EPWW,  wyłączając przestrzenie, gdzie została dokonana delegacja służby do innych FIR - ów, występują następujące przestrzenie:	</item>
+        <item>	W jaki sposób odbywa się zarządzenie ruchem lotniczym?	</item>
+        <item>	W jakich przypadkach licencja członka personelu lotniczego podlega wymianie?	</item>
+        <item>	W jakich przypadkach licencja członka personelu lotniczego podlega wymianie?	</item>
+        <item>	W jakich przypadkach licencja członka personelu lotniczego podlega wymianie?	</item>
+        <item>	W jakiej formie Prezes ULC wydaje, odmawia wydania, uznaje, zawiesza uznanie, przywraca uznanie, odmawia uznania, cofa uznanie, cofa, zawiesza, przywraca i zmienia licencje?	</item>
+        <item>	W jakim celu jest ustanowiona służba ruchu lotniczego zwana alarmową?	</item>
+        <item>	W jakim celu jest ustanowiona służba ruchu lotniczego zwana służbą informacji powietrznej?	</item>
+        <item>	W jakim celu jest ustanowiona służba ruchu lotniczego zwana służbą kontroli ruchu lotniczego?	</item>
+        <item>	W jakim celu powołano Organizację Międzynarodowego Lotnictwa Cywilnego?	</item>
+        <item>	W jakim celu ustanowiono służbę informacji lotniczej?	</item>
+        <item>	W jakim celu ustanowiono służbę meteorologiczną?	</item>
+        <item>	W jakim celu ustanowiono służbę meteorologiczną?	</item>
+        <item>	W jakim celu ustanowiono służbę meteorologiczną?	</item>
+        <item>	W jakim celu ustanowiono służbę poszukiwania i ratownictwa?	</item>
+        <item>	W jakim celu ustanowiono służbę poszukiwania i ratownictwa?	</item>
+        <item>	W jakim przypadku można cofnąć albo zawiesić licencję lub wynikające z niej niektóre uprawnienia?	</item>
+        <item>	W jakim przypadku można cofnąć albo zawiesić licencję lub wynikające z niej niektóre uprawnienia?	</item>
+        <item>	W jakim przypadku można cofnąć albo zawiesić licencję lub wynikające z niej niektóre uprawnienia?	</item>
+        <item>	W jakim przypadku można cofnąć albo zawiesić licencję lub wynikające z niej niektóre uprawnienia?	</item>
+        <item>	W jakim przypadku można cofnąć albo zawiesić licencję lub wynikające z niej niektóre uprawnienia?	</item>
+        <item>	W jakim przypadku można cofnąć albo zawiesić licencję lub wynikające z niej niektóre uprawnienia?	</item>
+        <item>	W jakim terminie może się odwołać osoba zainteresowana od orzeczenia centrum medycyny lotniczej?	</item>
+        <item>	W jakim terminie może się odwołać osoba zainteresowana od orzeczenia lekarza orzecznika?	</item>
+        <item>	W jakim terminie od dnia upływu ważności poprzedniej licencji, następuje, po sprawdzeniu wiadomości i umiejętności lotniczych wnioskodawcy, wydanie nowej licencji, która nie upoważnia do wykonywania lotów zarobkowych?	</item>
+        <item>	W lotach VFR nie należy startować ani lądować na lotnisku niekontrolowanym, którego przestrzeń powietrzna ma klasę G, jeżeli pułap chmur:	</item>
+        <item>	W lotach VFR nie należy startować ani lądować na lotnisku niekontrolowanym, którego przestrzeń powietrzna ma klasę G, jeżeli widzialność przy ziemi:	</item>
+        <item>	W pobliżu lotniska przelatuje statek powietrzny bez łączności. Aby wydać temu statkowi polecenie lądowania na tym lotnisku informator AFIS nada sygnał świetlny:	</item>
+        <item>	W pobliżu lotniska przelatuje statek powietrzny bez łączności. Aby wydać temu statkowi polecenie udzielenia pierwszeństwo drogi innym statkom powietrznym i kontynuowania krążenia,  informator AFIS nada sygnał świetlny:	</item>
+        <item>	W polskiej przestrzeni powietrznej działa:	</item>
+        <item>	W przypadku gdy statkowi powietrznemu grozi niebezpieczeństwo dowódca statku powietrznego jest zobowiązany?	</item>
+        <item>	W przypadku przedłużania ważności uprawnień lotniczych, od jakiego dnia liczy się ich ważność?	</item>
+        <item>	W przypadku upływu 2 lat od dnia upływu ważności licencji, wydanie nowej licencji następuje?	</item>
+        <item>	W przypadku upływu 2 lat od dnia upływu ważności licencji, wydanie nowej licencji następuje?	</item>
+        <item>	W przypadku wznawiania ważności uprawnień lotniczych, od jakiego dnia liczy się ich ważność?	</item>
+        <item>	W przypadku zaistnienia jakich przyczyn, przy badaniu prowadzonym przez Państwową Komisję Badania Wypadków Lotniczych, Prezes ULC może zawiesić lub zatrzymać licencję?	</item>
+        <item>	W przypadku zaistnienia jakich przyczyn, przy badaniu prowadzonym przez Państwową Komisję Badania Wypadków Lotniczych, Prezes ULC może zawiesić lub zatrzymać licencję?	</item>
+        <item>	W przypadku zawieszenia uprawnienia lotniczego wpisywanego do licencji, jej posiadacz ma obowiązek?	</item>
+        <item>	W razie przymusowego lądowania statku powietrznego, dowódca statku powietrznego?	</item>
+        <item>	W razie uszkodzenia statku powietrznego, dowódca statku powietrznego?	</item>
+        <item>	W skład obszaru kontrolowanego wchodzą:	</item>
+        <item>	Według jakich przepisów odbywa się lot i manewrowanie statku powietrznego na obszarze niepodlegającym zwierzchnictwu żadnego państwa?	</item>
+        <item>	Według jakich przepisów odbywa się lot i manewrowanie statku powietrznego w granicach danego terytorium?	</item>
+        <item>	Według prawa jakiego państwa ocenia się prawa rzeczowe na statku powietrznym?	</item>
+        <item>	Wykonywania jakich czynności zabrania się?	</item>
+        <item>	Zgodnie z rozporządzeniem M.I z dnia 9.10.2003 r. w sprawie ograniczeń lotów na czas dłuższy niż 3 miesiące, z wyjątkiem przypadków tam określonych, lot VFR na samolocie wyposażonym w silnik inny niż tłokowy nad obszarami miast o liczbie mieszkańców od 25 000 do 50 000 nie powinien być wykonywany na wysokości mniejszej niż:	</item>
+        <item>	Zgodnie z rozporządzeniem M. I. z dnia 9.10. 2003 r. w sprawie ograniczeń lotów na czas dłuższy niż 3 miesiące, z wyjątkiem przypadków tam określonych, lot VFR na śmigłowcu lub samolocie o napędzie tłokowym nad obszarami miast o liczbie mieszkańców od 25000 do 50000 nie powinien być wykonywany na wysokości mniejszej niż:	</item>
+        <item>	Zgodnie z rozporządzeniem M.I. z dnia 9.10. 2003r. w sprawie ograniczeń lotów na czas dłuższy niż 3 miesiące  z wyjątkiem przypadków tam określonych, lot VFR nad obszarami miast o liczbie mieszkańców od 50 000 do 100 000 nie powinien być wykonywany na wysokości mniejszej niż:	</item>
+        <item>	Zgodnie z rozporządzeniem M.I. z dnia 9.10.2003r. w sprawie ograniczeń lotów na czas dłuższy niż 3 miesiące  z wyjątkiem przypadków tam określonych, lot VFR nad obszarami miast o liczbie mieszkańców powyżej 25 000 lot nie powinien być wykonywany na wysokości mniejszej niż 500 m nad:	</item>
+        <item>	Zgodnie z rozporządzeniem M.I. z dnia 9.10. 2003r. w sprawie ograniczeń lotów na czas dłuższy niż 3 miesiące, z wyjątkiem przypadków tam określonych, lot VFR nad obszarami miast o liczbie mieszkańców większej niż 100 000 nie powinien być wykonywany na wysokości mniejszej niż:	</item>
+        <item>	Zgodnie z rozporządzeniem M.I. z dnia 9.10.2003r. w sprawie ograniczeń lotów na czas dłuższy niż 3 miesiące , z wyjątkiem przypadków tam określonych, lot VFR nad obszarem zwartej zabudowy miasta stołecznego Warszawy  nie powinien być wykonywany na wysokości mniejszej niż:	</item>
+        <item>	Osoba która była świadkiem nieszczęśliwego wypadku statku powietrznego jest obowiązana niezwłocznie zawiadomić:	</item>
+        <item>	Badaniom lotniczo lekarskim podlegają:	</item>
+        <item>	Członek personelu lotniczego obowiązany jest niezwłocznie zasięgnąć porady lekarza orzecznika w celu przeprowadzenia badań okolicznościowych i wykluczenia przeciwwskazań do wykonywania określonych czynności lotniczych w przypadku:	</item>
+        <item>	Czy badania lotniczo-lekarskie są przeprowadzane odpłatnie?	</item>
+        <item>	Czy użytkownik statku powietrznego wykonując czynności związane z przeglądami, naprawami i obsługą techniczną statku powietrznego, ma obowiązek powiadamiać Prezesa ULC o wszelkich zdarzeniach i okolicznościach mogących mieć istotne znaczenie dla zdatności statku powietrznego do lotu?	</item>
+        <item>	Czy zezwolenie kontroli ruchu lotniczego to upoważnienie dowódcy statku powietrznego do postępowania zgodnie z warunkami określonymi przez organ kontroli ruchu lotniczego?	</item>
+        <item>	Dowódca statku powietrznego ma prawo decydować o:	</item>
+        <item>	Dowódca statku powietrznego ma prawo decydować o:	</item>
+        <item>	Kiedy następuje skreślenie członka personelu lotniczego z rejestru personelu lotniczego?	</item>
+        <item>	Kiedy następuje skreślenie członka personelu lotniczego z rejestru personelu?	</item>
+        <item>	Kiedy następuje, przywrócenie na wniosek zainteresowanego licencji, która została zawieszona?	</item>
+        <item>	Kiedy państwowy organ zarządzania ruchem lotniczym oraz cywilne lotniskowe organy służby ruchu lotniczego i właściwe organy wojskowe mogą wezwać statek powietrzny do wylądowania na wskazanym lotnisku lub do wykonania innych poleceń?	</item>
+        <item>	Kiedy państwowy organ zarządzania ruchem lotniczym oraz cywilne lotniskowe organy służby ruchu lotniczego i właściwe organy wojskowe mogą wezwać statek powietrzny do wylądowania na wskazanym lotnisku lub do wykonania innych poleceń?	</item>
+        <item>	Kiedy państwowy organ zarządzania ruchem lotniczym oraz cywilne lotniskowe organy służby ruchu lotniczego i właściwe organy wojskowe mogą wezwać statek powietrzny do wylądowania na wskazanym lotnisku lub do wykonania innych poleceń?	</item>
+        <item>	Kiedy państwowy organ zarządzania ruchem lotniczym oraz cywilne lotniskowe organy służby ruchu lotniczego i właściwe organy wojskowe mogą wezwać statek powietrzny do wylądowania na wskazanym lotnisku lub do wykonania innych poleceń?	</item>
+        <item>	Kogo zaliczamy do personelu wchodzącego w skład załóg statków powietrznych, któremu wydaje się licencje?	</item>
+        <item>	Kto może wnosić  i używać na pokładzie statku powietrznego broń palną i gazową, materiały wybuchowe oraz urządzenia, środki , substancje mogące stanowić zagrożenie dla bezpieczeństwa lotu lub pasażerów?	</item>
+        <item>	Kto może wnosić  i używać na pokładzie statku powietrznego broń palną i gazową, materiały wybuchowe oraz urządzenia, środki , substancje mogące stanowić zagrożenie dla bezpieczeństwa lotu lub pasażerów?	</item>
+        <item>	Kto ponosi odpowiedzialność za szkody spowodowane ruchem statków powietrznych?	</item>
+        <item>	Kto ponosi odpowiedzialność za szkody spowodowane ruchem statków powietrznych?	</item>
+        <item>	Kto prowadzi listę centrów medycyny lotniczej?	</item>
+        <item>	Kto prowadzi listę lekarzy orzeczników?	</item>
+        <item>	Mając na względzie przeciwdziałanie oddziaływaniu lotnictwa cywilnego na środowisko oraz wymagania wynikające z przepisów międzynarodowych, Minister właściwy do spraw transportu w porozumieniu z ministrem właściwym do spraw środowiska może:	</item>
+        <item>	Na jaki okres czasu Minister właściwy do spraw transportu w porozumieniu z Ministrem Obrony Narodowej ministrami właściwymi do spraw wewnętrznych oraz środowiska może wprowadzać zakazy lub ograniczenia lotów nad obszarem całego państwa albo jego części?	</item>
+        <item>	Na jakich statkach powietrznych można przeprowadzić praktyczne szkolenie na ziemi i w locie?	</item>
+        <item>	Oprócz służb ruchu lotniczego statkom powietrznym wykonującym loty w polskiej przestrzeni powietrznej zapewnia się:	</item>
+        <item>	Oprócz służb ruchu lotniczego statkom powietrznym wykonującym loty w polskiej przestrzeni powietrznej zapewnia się:	</item>
+        <item>	Osoba która była świadkiem nieszczęśliwego wypadku statku powietrznego jest obowiązana niezwłocznie zawiadomić:	</item>
+        <item>	Osoba która była świadkiem nieszczęśliwego wypadku statku powietrznego jest obowiązana niezwłocznie zawiadomić:	</item>
+        <item>	Osoba która była świadkiem przymusowego lądowania statku powietrznego jest obowiązana niezwłocznie zawiadomić:	</item>
+        <item>	Osoba która była świadkiem przymusowego lądowania statku powietrznego jest obowiązana niezwłocznie zawiadomić:	</item>
+        <item>	Osoba która odnalazła porzucony statek powietrzny lub jego szczątki jest obowiązana niezwłocznie zawiadomić:	</item>
+        <item>	Osoba która odnalazła porzucony statek powietrzny lub jego szczątki jest obowiązana niezwłocznie zawiadomić:	</item>
+        <item>	Osoba która odnalazła porzucony statek powietrzny lub jego szczątki jest obowiązana niezwłocznie zawiadomić:	</item>
+        <item>	Osoba która odnalazła porzucony statek powietrzny lub jego szczątki jest obowiązana niezwłocznie zawiadomić:	</item>
+        <item>	Przy kim działa stała, niezależna Państwowa Komisja Badania Wypadków Lotniczych prowadząca badania wypadków i incydentów lotniczych?	</item>
+        <item>	W czasie lotów zabrania się dokonywania wszelkich zrzutów ze statku powietrznego z wyjątkiem zrzutów dokonywanych na potrzeby?	</item>
+        <item>	W czasie lotów zabrania się dokonywania wszelkich zrzutów ze statku powietrznego z wyjątkiem zrzutów dokonywanych na potrzeby?	</item>
+        <item>	W przypadku negatywnego wyniku sprawdzenia wiadomości lub umiejętności lotniczych dokonywanych w celu przedłużenia uprawnień lotniczych:	</item>
+        <item>	W przypadku negatywnego wyniku sprawdzenia wiadomości lub umiejętności lotniczych dokonywanych w celu przedłużenia uprawnień lotniczych:	</item>
+        <item>	W przypadku negatywnego wyniku sprawdzenia wiadomości lub umiejętności lotniczych dokonywanych w celu wznowienia uprawnień lotniczych:	</item>
+        <item>	W przypadku utraty ważności poprzedniej licencji nową wydaje się po załączeniu do wniosku dokumentów potwierdzających ukończenie szkolenia lotniczego wznawiającego wiadomości oraz umiejętności lotnicze oraz:	</item>
+        <item>	Czy odpowiedzialność za szkody spowodowane ruchem statków powietrznych powstaje, jeżeli szkoda wynikła z samego faktu przelotu statku powietrznego?	</item>
+        <item>	Czy pracownikom Urzędu Lotnictwa Cywilnego, przysługuje prawo zabezpieczenia statku powietrznego używanego przez osoby nieuprawnione w celu niedopuszczenia do dalszego jego użytkowania?	</item>
+        <item>	Każdy statek powietrzny, pojazd lub osoby znajdujące się na polu manewrowym i w pobliżu tego pola lub też ruch odbywający się w pobliżu lotniska, które mogą stanowić niebezpieczeństwo dla zainteresowanych statków powietrznych, to:	</item>
+        <item>	Które loty międzynarodowe nie wymagają uzyskania zezwolenia?	</item>
+        <item>	Lot VFR na i powyżej FL 100 w przestrzeni powietrznej klasy C może być wykonany, jeżeli widzialność w locie jest nie mniejsza niż:	</item>
+        <item>	Meldunek „Na krótkiej prostej” jest podawany, gdy statek pow. znajdujący się w kręgu nadlotniskowym wykonuje zakręt do podejścia końcowego w odległości od punktu przyziemienia mniejszej niż:	</item>
+        <item>	Nie mając przydzielonego indywidualnego kodu SSR, wlatując w locie IFR w przestrzeń powietrzną, gdzie na potrzeby służby ruchu lotniczego wykorzystywany jest radar wtórny, dowódca statku powietrznego wyposażonego w transponder powinien włączyć go w modzie A na kod:	</item>
+        <item>	Przy wykonywaniu lotów międzynarodowych statek powietrzny jest obowiązany przestrzegać?	</item>
+        <item>	Służba informacji powietrznej w przestrzeni klasy F:	</item>
+        <item>	Teren, nad którym jest wykonywany lot VFR, wznosi się do wysokości 300m AMSL (elewacja terenu). Lot ten na wys. 1350 m  AMSL może być wykonany, jeżeli odległość pozioma od chmur jest:	</item>
+        <item>	Z wyjątkiem przypadków gdy jest to konieczne do startu lub lądowania oraz z wyjątkiem statków powietrznych lotnictwa państwowego, lot VFR poza gęstą zabudową miast lub osiedli lub poza zgromadzeniem osób na otwartym powietrzu nie powinien być wykonywany na wysokości mniejszej niż:	</item>
+        <item>	AFIL to :	</item>
+        <item>	Bieżący plan lotu, czyli plan lotu wraz z ewentualnymi zmianami wynikającymi z kolejnych zezwoleń to:	</item>
+        <item>	Co nazywamy portem lotniczym?	</item>
+        <item>	Co to jest lotnictwo ogólne?	</item>
+        <item>	Członek personelu lotniczego jest obowiązany powstrzymać się od wykonywania czynności lotniczych w przypadku gdy?	</item>
+        <item>	Czy działalność organizacji lotniczej, niebędącej ośrodkiem szkolenia lotniczego podlega certyfikacji?	</item>
+        <item>	Czy działalność ośrodka szkolenia lotniczego podlega certyfikacji?	</item>
+        <item>	Czy lotnisko, z którego nastąpi odlot może być również lotniskiem zapasowym?	</item>
+        <item>	Czy obcy statek powietrzny i jego załoga przebywający na terytorium RP mogą zostać poddane inspekcji, a ich dokumenty sprawdzone przez polskie organy administracji lotniczej?	</item>
+        <item>	Czy organizacja lotnicza, nie będąca ośrodkiem szkolenia lotniczego, może dopuścić do szkolenia teoretycznego kandydata, który nie posiada wykształcenia określonego w ustawie dla danej licencji?	</item>
+        <item>	Czy organizacja prowadząca szkolenie lotnicze niezarobkowo, może prowadzić szkolenie po tym, jak minął okres ważności jego certyfikatu?	</item>
+        <item>	Czy organizacja prowadząca szkolenie lotnicze niezarobkowo, może prowadzić szkolenie w zakresie nie objętym certyfikatem?	</item>
+        <item>	Czy ośrodek szkolenia lotniczego może dopuścić do szkolenia teoretycznego kandydata, który nie posiada wykształcenia określonego w ustawie dla danej licencji?	</item>
+        <item>	Czy ośrodek szkolenia lotniczego może prowadzić szkolenie po tym, jak minął okres ważności jego certyfikatu?	</item>
+        <item>	Czy ośrodek szkolenia lotniczego może prowadzić szkolenie w zakresie nie objętym certyfikatem?	</item>
+        <item>	Czy pilot samolotowy turystyczny może posiadać uprawnienie do lotów wg wskazań przyrządów?	</item>
+        <item>	Czy pilot samolotowy turystyczny może posiadać uprawnienie do lotów wg wskazań przyrządów?	</item>
+        <item>	Czy pracownikom Urzędu Lotnictwa Cywilnego, przysługuje prawo dostępu do materiałów, dokumentów oraz innych danych niezbędnych do przeprowadzenia kontroli, a także sporządzania ich kopii ?	</item>
+        <item>	Czy pracownikom Urzędu Lotnictwa Cywilnego, przysługuje prawo przeprowadzania oględzin statku powietrznego wykorzystywanego do działalności lotniczej?	</item>
+        <item>	Czy pracownikom Urzędu Lotnictwa Cywilnego, przysługuje prawo wykonywania czynności kontrolno-pomiarowych badań statków powietrznych wykorzystywanych do prowadzenia działalności lotniczej?	</item>
+        <item>	Czy pracownikom Urzędu Lotnictwa Cywilnego, przysługuje prawo zabezpieczenia statku powietrznego znajdującego się w nieodpowiednim stanie technicznym w celu niedopuszczenia do dalszego jego używania?	</item>
+        <item>	Czy pracownikom Urzędu Lotnictwa Cywilnego, przysługuje prawo zabezpieczenia statku powietrznego znajdującego się w nieodpowiednim stanie technicznym w przypadku naruszenia zasad jego użytkowania?	</item>
+        <item>	Czy usługi państwowego organu zarządzania ruchem lotniczym są świadczone odpłatnie?	</item>
+        <item>	Czym charakteryzuje się organizacja lotnicza, nie będąca ośrodkiem szkolenia lotniczego?	</item>
+        <item>	Czym się charakteryzuje szkolenie praktyczne na ziemi i w locie?	</item>
+        <item>	Czym się charakteryzuje teoretyczne szkolenie lotnicze?	</item>
+        <item>	Dla jakich specjalności personelu lotniczego są wymagane licencje?	</item>
+        <item>	Dla jakich specjalności personelu lotniczego są wymagane licencje?	</item>
+        <item>	Do lotniska dolatuje statek powietrzny bez łączności. Pilot dostrzegł nadaną z miejsca kierowania lotami w jego kierunku serię błysków białych. Oznacza to, że:	</item>
+        <item>	"Do lotniska dolatuje statek powietrzny bez łączności. Pilot dostrzegł nadany z miejsca kierowania lotami w jego kierunku ciągły sygnał czerwony. Oznacza to, że:"	</item>
+        <item>	Dowódca samolotu lecącego z lotniska „AAAA” do lotniska „BBBB”, lotnisko zapasowe „CCCC”,     zgłosił, że ma na pokładzie chorego pasażera wymagającego natychmiastowej pomocy lekarskiej. Otrzymał zezwolenie  na zniżanie i lądowanie na lotnisku „DDDD”. W tej sytuacji wykona lądowanie:	</item>
+        <item>	Dowódca statku powietrznego ma prawo decydować o:	</item>
+        <item>	Dowódca statku powietrznego ma prawo decydować o:	</item>
+        <item>	Dowódca uprowadzanego statku powietrznego, jeżeli nie ma innej możliwości powiadomienia służby ruchu lotniczego o wymuszonej zmianie trasy lotu, powinien:	</item>
+        <item>	Gdy dowódca statku powietrznego wykonując lot kontrolowany przewiduje, że czas przelotu nad następnym obowiązkowym punktem meldowania lub nad granicą rejonu informacji powietrznej, albo nad lotniskiem docelowym, w zależności od tego, który z powyższych punktów będzie pierwszy, różni się od czasu, który został podany służbom ruchu lotniczego, to powinien podać niezwłocznie zainteresowanemu organowi służb ruchu lotniczego poprawiony przewidywany czas, jeżeli różnica jest większa niż:	</item>
+        <item>	Gdy dowódca statku powietrznego wykonując lot kontrolowany VFR odstąpi nieumyślnie od bieżącego planu lotu, to w przypadku odchylenia od nakazanej linii drogi powinien:	</item>
+        <item>	Gdy dowódca statku powietrznego wykonując lot kontrolowany VFR przewiduje, że czas przelotu nad następnym obowiązkowym punktem meldowania lub nad granicą rejonu informacji powietrznej, albo nad lotniskiem docelowym, w zależności od tego, który z powyższych punktów będzie pierwszy, różni się o więcej niż trzy minuty od czasu, który został podany służbom ruchu lotniczego, powinien:	</item>
+        <item>	Gdy dowódca statku powietrznego wykonując lot kontrolowany VFR stwierdzi, że przeciętna rzeczywista prędkość powietrzna na poziomie przelotu miedzy punktami meldowania różni się lub przewiduje, że będzie różnić się w granicach plus lub minus 5% od rzeczywistej prędkości powietrznej podanej w planie lotu, powinien:	</item>
+        <item>	Gdzie może być prowadzone szkolenie kandydatów do uzyskania licencji i uprawnień lotniczych wpisywanych do licencji?	</item>
+        <item>	Gdzie może być prowadzone szkolenie kandydatów do uzyskania licencji i uprawnień lotniczych wpisywanych do licencji?	</item>
+        <item>	Granica ważności zezwolenia kontroli ruchu lotniczego to:	</item>
+        <item>	Ile godzin lotów szkoleniowych na dwusterze powinno zawierać szkolenie pilota samolotowego turystycznego do lotów nocnych VFR?	</item>
+        <item>	Ile godzin lotów szkoleniowych samodzielnych powinno zawierać szkolenie pilota samolotowego turystycznego do lotów nocnych VFR?	</item>
+        <item>	Ile godzin lotu powinno zawierać szkolenie pilota samolotowego turystycznego do lotów nocnych VFR?	</item>
+        <item>	Ile samodzielnych startów i lądowań  z pełnym zatrzymaniem musi wykonać pilot samolotowy turystyczny, w szkoleniu do uprawnienia do lotów nocnych VFR?	</item>
+        <item>	Ile ukończonych lat musi mieć kandydat ubiegający się o wydanie licencji pilota samolotowego turystycznego?	</item>
+        <item>	Ile ukończonych lat musi mieć kandydat ubiegający się o wydanie licencji pilota turystycznego bez względu na kategorię statku powietrznego, którego dotyczy licencja?	</item>
+        <item>	Indywidualny, dyskretny kod SSR transpondera to:	</item>
+        <item>	Informator lotniskowej służby informacji powietrznej jest  zobowiązany do zapewniania służby:	</item>
+        <item>	Jak długo od czasu EOBT jest ważny plan lotu ?	</item>
+        <item>	Jaki dokument oprócz licencji, powinien posiadać członek personelu lotniczego podczas wykonywania czynności lotniczych, do których uprawnia licencja?	</item>
+        <item>	Jakie informacje wprowadzane są do AIP systemem AIRAC ?	</item>
+        <item>	Jakie jednostki prędkości oznaczane są w planie lotu literą "N"?	</item>
+        <item>	Jakie uprawnienia lotnicze mogą być wpisywane do licencji pilota samolotowego turystycznego?	</item>
+        <item>	Jakie uprawnienia lotnicze mogą być wpisywane do licencji pilota samolotowego turystycznego?	</item>
+        <item>	Jakie uprawnienia lotnicze mogą być wpisywane do licencji pilota samolotowego turystycznego?	</item>
+        <item>	Jakie uprawnienia lotnicze mogą być wpisywane do licencji pilota samolotowego turystycznego?	</item>
+        <item>	Jakie uprawnienia lotnicze mogą być wpisywane do licencji pilota samolotowego turystycznego?	</item>
+        <item>	Jakie uprawnienia lotnicze mogą być wpisywane do licencji pilota samolotowego turystycznego?	</item>
+        <item>	Jakie uprawnienia lotnicze mogą być wpisywane do licencji pilota samolotowego turystycznego?	</item>
+        <item>	Jakie uprawnienia lotnicze mogą być wpisywane do licencji pilota samolotowego turystycznego?	</item>
+        <item>	Jakie uprawnienia lotnicze mogą być wpisywane do licencji pilota samolotowego turystycznego?	</item>
+        <item>	Jakie uprawnienia ma posiadacz licencji pilota samolotowego turystycznego?	</item>
+        <item>	Jakie wykształcenie powinien posiadać kandydat ubiegający się o licencję pilota samolotowego turystycznego?	</item>
+        <item>	Jakie wykształcenie powinien posiadać kandydat ubiegający się o licencję pilota turystycznego bez względu na kategorię statku powietrznego, którego dotyczy licencja?	</item>
+        <item>	Jakim przepisom podlega odpowiedzialność za szkody spowodowane ruchem statków powietrznych?	</item>
+        <item>	Jeżeli  lot VFR ma być wykonany w przestrzeni powietrznej kontrolowanej plan lotu należy przedstawić nie później przed planowanym czasem odblokowania, niż:	</item>
+        <item>	Jeżeli  lot VFR ma być wykonany w przestrzeni powietrznej kontrolowanej, a plan lotu jest zgłaszany z powietrza, należy go przedstawić przed przewidywanym przybyciem statku powietrznego do zamierzonego punktu przecięcia drogi lotniczej nie później, niż:	</item>
+        <item>	Jeżeli  lot VFR ma być wykonany w przestrzeni powietrznej kontrolowanej, a plan lotu jest zgłaszany z powietrza, należy go przedstawić przed przewidywanym przybyciem statku powietrznego do zamierzonego punktu wlotu do przestrzeni kontrolowanej nie później, niż:	</item>
+        <item>	Jeżeli  lot VFR ma być wykonany w przestrzeni powietrznej kontrolowanej, a plan lotu jest zgłaszany z powietrza, należy go przedstawić:	</item>
+        <item>	Jeżeli  lot VFR ma być wykonany w przestrzeni powietrznej kontrolowanej, a plan lotu jest zgłaszany z powietrza, należy go przedstawić:	</item>
+        <item>	Jeżeli  lot VFR, dla którego ma być zapewniona służba alarmowa, będzie naruszać przestrzeń powietrzną kontrolowaną to plan lotu należy  dostarczyć do Biura Odpraw Załóg lub właściwego terytorialnie ośrodka FIS nie później przed rozpoczęciem lotu, niż:	</item>
+        <item>	Jeżeli  lot VFR, dla którego ma być zapewniona służba alarmowa, będzie przekraczał granicę FIR-u to plan lotu należy dostarczyć do Biura Odpraw Załóg lub właściwego terytorialnie ośrodka FIS nie później przed planowanym czasem odblokowania, niż:	</item>
+        <item>	Jeżeli  lot VFR, dla którego ma być zapewniona służba alarmowa, nie będzie naruszać przestrzeni powietrznej kontrolowanej lub nie będzie przekraczać granicy FIR-u, to zgodnie z pkt. 7.2 Biuletynu VFR, plan lotu należy dostarczyć do Biura Odpraw Załóg lub właściwego terytorialnie ośrodka FIS nie później przed rozpoczęciem lotu, niż:	</item>
+        <item>	Jeżeli nie podano inaczej w zezwoleniu i jeżeli będzie zachowana minimalna wysokość nad gęstą zabudową miast lub osiedli lub zgromadzeniem osób na otwartym powietrzu, lot VFR w FIR Warszawa w przestrzeni klasy G, w przelocie poziomym, może być wykonany na:	</item>
+        <item>	Jeżeli nie podano inaczej w zezwoleniu i jeżeli będzie zachowana minimalna wysokość nad gęstą zabudową miast lub osiedli lub zgromadzeniem osób na otwartym powietrzu, lot VFR w FIR Warszawa w przestrzeni klasy G, w przelocie poziomym, może być wykonany na:	</item>
+        <item>	Jeżeli nie podano inaczej w zezwoleniu i jeżeli będzie zachowana minimalna wysokość nad gęstą zabudową miast lub osiedli lub zgromadzeniem osób na otwartym powietrzu, lot VFR w FIR Warszawa w przestrzeni klasy G, w przelocie poziomym, powinien być wykonany na:	</item>
+        <item>	Jeżeli nie podano inaczej w zezwoleniu kontroli ruchu lotniczego i jeżeli będzie zachowana minimalna wysokość nad gęstą zabudową miast lub osiedli lub zgromadzeniem osób na otwartym powietrzu, lot VFR w FIR Warszawa w przestrzeni klasy C w przelocie poziomym może być wykonany na:	</item>
+        <item>	Jeżeli nie podano inaczej w zezwoleniu kontroli ruchu lotniczego i jeżeli będzie zachowana minimalna wysokość nad gęstą zabudową miast lub osiedli lub zgromadzeniem osób na otwartym powietrzu, lot VFR w FIR Warszawa w przestrzeni klasy C w przelocie poziomym może być wykonany na:	</item>
+        <item>	Jeżeli nie podano inaczej w zezwoleniu kontroli ruchu lotniczego i jeżeli będzie zachowana minimalna wysokość nad gęstą zabudową miast lub osiedli lub zgromadzeniem osób na otwartym powietrzu, lot VFR w FIR Warszawa w przestrzeni klasy C w przelocie poziomym może być wykonany na:	</item>
+        <item>	Jeżeli nie podano inaczej w zezwoleniu kontroli ruchu lotniczego i jeżeli będzie zachowana minimalna wysokość nad gęstą zabudową miast lub osiedli lub zgromadzeniem osób na otwartym powietrzu, lot VFR w FIR Warszawa w przestrzeni klasy C w przelocie poziomym może być wykonany na:	</item>
+        <item>	Jeżeli nie podano inaczej w zezwoleniu kontroli ruchu lotniczego i jeżeli będzie zachowana minimalna wysokość nad gęstą zabudową miast lub osiedli lub zgromadzeniem osób na otwartym powietrzu, lot VFR w FIR Warszawa w przestrzeni klasy C w przelocie poziomym powinien być wykonany na:	</item>
+        <item>	Jeżeli nie podano inaczej w zezwoleniu kontroli ruchu lotniczego i jeżeli będzie zachowana minimalna wysokość nad gęstą zabudową miast lub osiedli lub zgromadzeniem osób na otwartym powietrzu, lot VFR w FIR Warszawa w przestrzeni klasy C w przelocie poziomym powyżej 900 m nad terenem może być wykonany na:	</item>
+        <item>	Jeżeli nie podano inaczej w zezwoleniu kontroli ruchu lotniczego i jeżeli będzie zachowana minimalna wysokość nad gęstą zabudową miast lub osiedli lub zgromadzeniem osób na otwartym powietrzu, lot VFR w FIR Warszawa w przestrzeni klasy C w przelocie poziomym powyżej 900 m nad terenem może być wykonany na:	</item>
+        <item>	Jeżeli nie podano inaczej w zezwoleniu kontroli ruchu lotniczego i jeżeli będzie zachowana minimalna wysokość nad gęstą zabudową miast lub osiedli lub zgromadzeniem osób na otwartym powietrzu, lot VFR w FIR Warszawa w przestrzeni klasy C w przelocie poziomym powyżej 900 m nad terenem może być wykonany na:	</item>
+        <item>	Jeżeli nie podano inaczej w zezwoleniu kontroli ruchu lotniczego i jeżeli będzie zachowana minimalna wysokość nad gęstą zabudową miast lub osiedli lub zgromadzeniem osób na otwartym powietrzu, lot VFR w FIR Warszawa w przestrzeni klasy C w przelocie poziomym powyżej 900 m nad terenem powinien być wykonany na:	</item>
+        <item>	Jeżeli nie podano inaczej w zezwoleniu kontroli ruchu lotniczego i jeżeli będzie zachowana minimalna wysokość nad gęstą zabudową miast lub osiedli lub zgromadzeniem osób na otwartym powietrzu, lot VFR w FIR Warszawa w przestrzeni klasy G w przelocie poziomym powyżej 900 m nad terenem może być wykonany na:	</item>
+        <item>	Jeżeli nie podano inaczej w zezwoleniu kontroli ruchu lotniczego i jeżeli będzie zachowana minimalna wysokość nad gęstą zabudową miast lub osiedli lub zgromadzeniem osób na otwartym powietrzu, lot VFR w FIR Warszawa w przestrzeni klasy G w przelocie poziomym powyżej 900 m nad terenem może być wykonany na:	</item>
+        <item>	Jeżeli nie podano inaczej w zezwoleniu kontroli ruchu lotniczego lot VFR w FIR Warszawa w przestrzeni klasy G w przelocie poziomym powyżej 900 m nad terenem może być wykonany na:	</item>
+        <item>	Jeżeli zdarzenie nastąpiło na obszarze konkretnego państwa, to według prawa jakiego państwa  ocenia się roszczenia o wynagrodzenie szkód wyrządzonych w związku z używaniem statku powietrznego osobom i w mieniu znajdującym się poza statkiem powietrznym?	</item>
+        <item>	Jeżeli zdarzenie nastąpiło na obszarze konkretnego państwa, to według prawa jakiego państwa ocenia się roszczenia o szkody powstałe  w razie zderzenia statków powietrznych?	</item>
+        <item>	Jeżeli zdarzenie nastąpiło na obszarze konkretnego państwa, to według prawa jakiego państwa ocenia się roszczenia o wynagrodzenie za pomoc udzieloną przez statek powietrzny?	</item>
+        <item>	Jeżeli zdarzenie nastąpiło na obszarze konkretnego państwa, to według prawa jakiego państwa ocenia się roszczenia o wynagrodzenie za pomoc udzieloną statkowi powietrznemu?	</item>
+        <item>	Jeżeli zdarzenie nastąpiło na obszarze niepodlegającym zwierzchnictwu żadnego państwa to według jakiego prawa ocenia się roszczenia o wynagrodzenie za pomoc udzieloną statkowi powietrznemu?	</item>
+        <item>	Jeżeli zdarzenie nastąpiło na obszarze niepodlegającym zwierzchnictwu żadnego państwa, to według jakiego prawa  ocenia się roszczenia o wynagrodzenie szkód wyrządzonych w związku z używaniem statku powietrznego osobom i w mieniu znajdującym się poza statkiem powietrznym?	</item>
+        <item>	Jeżeli zdarzenie nastąpiło na obszarze niepodlegającym zwierzchnictwu żadnego państwa, to według jakiego prawa ocenia się roszczenia o szkody powstałe  w razie zderzenia statków powietrznych?	</item>
+        <item>	Jeżeli zdarzenie nastąpiło na obszarze niepodlegającym zwierzchnictwu żadnego państwa, to według jakiego prawa ocenia się roszczenia o wynagrodzenie za pomoc udzieloną przez statek powietrzny?	</item>
+        <item>	Kandydat to uzyskania licencji pilota samolotowego turystycznego może zaliczyć do czasu 45 godzin lotu na samolotach zaliczonych do klasy samolotów jednosilnikowych tłokowych?	</item>
+        <item>	Kandydat to uzyskania licencji pilota samolotowego turystycznego powinien wykazać, że w trakcie szkolenia lotniczego:	</item>
+        <item>	Kandydat to uzyskania licencji pilota samolotowego turystycznego powinien wykazać, że w trakcie szkolenia lotniczego:	</item>
+        <item>	Kandydat to uzyskania licencji pilota samolotowego turystycznego powinien wykazać, że w trakcie szkolenia lotniczego:	</item>
+        <item>	Kandydat to uzyskania licencji pilota samolotowego turystycznego powinien wykazać, że w trakcie szkolenia lotniczego:	</item>
+        <item>	Kandydat to uzyskania licencji pilota samolotowego turystycznego powinien wykazać, że w trakcie szkolenia lotniczego:	</item>
+        <item>	Kandydat to uzyskania licencji pilota samolotowego turystycznego powinien wykazać, że w trakcie szkolenia lotniczego:	</item>
+        <item>	Kiedy najpóźniej przed EOBT należy złożyć plan lotu ?	</item>
+        <item>	Kiedy należy podać poprawiony przewidywany czas odblokowania EOBT w stosunku do lotów podlegających ograniczeniom ATFM?	</item>
+        <item>	Kiedy państwowy organ zarządzania ruchem lotniczym oraz cywilne lotniskowe organy służby ruchu lotniczego i właściwe organy wojskowe mogą wezwać statek powietrzny do wylądowania na wskazanym lotnisku lub do wykonania innych poleceń?	</item>
+        <item>	Kiedy państwowy organ zarządzania ruchem lotniczym oraz cywilne lotniskowe organy służby ruchu lotniczego i właściwe organy wojskowe mogą wezwać statek powietrzny do wylądowania na wskazanym lotnisku lub do wykonania innych poleceń?	</item>
+        <item>	Kiedy państwowy organ zarządzania ruchem lotniczym oraz cywilne lotniskowe organy służby ruchu lotniczego i właściwe organy wojskowe mogą wezwać statek powietrzny do wylądowania na wskazanym lotnisku lub do wykonania innych poleceń?	</item>
+        <item>	Kiedy państwowy organ zarządzania ruchem lotniczym oraz cywilne lotniskowe organy służby ruchu lotniczego i właściwe organy wojskowe mogą wezwać statek powietrzny do wylądowania na wskazanym lotnisku lub do wykonania innych poleceń?	</item>
+        <item>	Kiedy Prezes ULC ma prawo uznać świadectwo zdatności statku powietrznego do lotu wydane lub potwierdzone przez właściwy organ innego państwa na równi ze świadectwami zdatności statków powietrznych do lotu wydanymi w Rzeczypospolitej Polskiej?	</item>
+        <item>	Kiedy Prezes ULC ma prawo uznać zezwolenie na lot statku powietrznego bez świadectwa zdatności do lotu wydane lub potwierdzone przez właściwy organ innego państwa na równi z zezwoleniami na lot statku powietrznego bez świadectwa zdatności do lotu wydanymi w Rzeczypospolitej Polskiej?	</item>
+        <item>	Kogo nazywamy użytkownikiem statku powietrznego?	</item>
+        <item>	Kogo nazywamy zarządzającym lotniskiem?	</item>
+        <item>	Kogo zaliczamy do personelu wchodzącego w skład załóg statków powietrznych, któremu wydaje się licencje?	</item>
+        <item>	Kogo zaliczamy do personelu wchodzącego w skład załóg statków powietrznych, któremu wydaje się licencje?	</item>
+        <item>	Kogo zaliczamy do personelu wchodzącego w skład załóg statków powietrznych?	</item>
+        <item>	Kogo zaliczamy do personelu wchodzącego w skład załóg statków powietrznych?	</item>
+        <item>	Kontroler ruchu lotniczego nie jest  zobowiązany do zapewniania służby:	</item>
+        <item>	Kto ma prawo uznać potwierdzenie spełnianie przez statek powietrzny wymagań dotyczących ochrony środowiska wydane lub potwierdzone przez właściwy organ innego państwa, za ważne na równi z potwierdzeniami spełnienia przez statek powietrzny wymagań dotyczących ochrony środowiska wydanymi w Rzeczypospolitej Polskiej?	</item>
+        <item>	Kto ma prawo uznać zezwolenie na lot statku powietrznego bez świadectwa zdatności do lotu statku powietrznego wydane lub potwierdzone przez właściwy organ innego państwa, za ważne na równi z zezwoleniami na lot bez świadectwa zdatności do lotu statku powietrznego wydanymi w Rzeczypospolitej Polskiej?	</item>
+        <item>	Kto ma prawo uznać, świadectwo zdatności do lotu statku powietrznego wydane lub potwierdzone przez właściwy organ innego państwa, za ważne na równi ze świadectwami zdatności do lotu statku powietrznego wydanymi w Rzeczypospolitej Polskiej?	</item>
+        <item>	Kto może wnosić  i używać na pokładzie statku powietrznego broń palną i gazową, materiały wybuchowe oraz urządzenia, środki , substancje mogące stanowić zagrożenie dla bezpieczeństwa lotu lub pasażerów?	</item>
+        <item>	Kto ponosi odpowiedzialność za szkody spowodowane ruchem statków powietrznych?	</item>
+        <item>	Kto ponosi odpowiedzialność za szkody spowodowane ruchem statków powietrznych?	</item>
+        <item>	Kto ponosi odpowiedzialność za szkody spowodowane ruchem statków powietrznych?	</item>
+        <item>	Kto ponosi odpowiedzialność za szkody spowodowane ruchem statków powietrznych?	</item>
+        <item>	Kto ponosi odpowiedzialność za szkody spowodowane ruchem statków powietrznych?	</item>
+        <item>	Kto ponosi odpowiedzialność za szkody spowodowane ruchem statków powietrznych?	</item>
+        <item>	Kto ponosi odpowiedzialność za szkody spowodowane ruchem statków powietrznych?	</item>
+        <item>	Kto ponosi odpowiedzialność za szkody spowodowane ruchem statków powietrznych?	</item>
+        <item>	Kto posiada całkowite zwierzchnictwo nad przestrzenią powietrzną Rzeczpospolitej Polski?	</item>
+        <item>	Kto stwierdza spełnienie przez kandydata wymagań, które pozwalają przeprowadzić szkolenie teoretycznego?	</item>
+        <item>	Kto stwierdza spełnienie przez kandydata wymagań, które pozwalają przeprowadzić szkolenie teoretycznego?	</item>
+        <item>	Kto w ramach zwierzchnictwa nad przestrzenią powietrzną RP zarządza ruchem powietrznym w tej przestrzeni?	</item>
+        <item>	Kto wykonuje funkcje wynikające ze zwierzchnictwa Rzeczpospolitej Polski nad własną przestrzenią powietrzną?	</item>
+        <item>	Który z poniżej wymienionych organów jest odpowiedzialny za alarmowanie wojskowego organu odpowiedzialnego za akcje poszukiwania i ratownictwa cywilnych statków powietrznych oraz inicjowanie takich akcji w FIR EPWW, jak również pełni rolę Centrum Koordynacyjnego Ratownictwa?	</item>
+        <item>	Lot kontrolowany - Controlled flight - jest to:	</item>
+        <item>	Lot VFR - spec dzienny statkiem powietrznym innym niż śmigłowiec może być wykonany, jeżeli      widzialność w locie nie jest mniejsza niż:	</item>
+        <item>	Lot VFR - spec dzienny statkiem powietrznym innym niż śmigłowiec może być wykonany, jeżeli pułap     chmur nie jest mniejszy niż:	</item>
+        <item>	Lot VFR dzienny na statku powietrznym innym niż śmigłowiec w przestrzeni klasy G na i poniżej 900 m AMSL lub 300 m AGL, jeśli jest wyższe, w warunkach, w których prawdopodobieństwo spotkania innego ruchu w zasadzie będzie małe, np. podczas prac agrolotniczych na małych wysokościach lub w obszarach o małej intensywności ruchu, może być wykonany:	</item>
+        <item>	Lot VFR na i powyżej FL 100  w przestrzeni powietrznej klasy C może być wykonany, jeżeli odległość   pionowa od chmur jest nie mniejsza niż:	</item>
+        <item>	Lot VFR na i powyżej FL 100 w przestrzeni powietrznej klasy C może być wykonany z prędkością nie większą, niż:	</item>
+        <item>	Lot VFR na i powyżej FL 100 w przestrzeni powietrznej klasy C może być wykonany, jeżeli odległość pozioma od chmur jest:	</item>
+        <item>	Loty nocne VFR mogą być wykonywane z prędkościami nie większymi niż:	</item>
+        <item>	Loty nocne VFR mogą być wykonywane:	</item>
+        <item>	Loty nocne VFR na samolotach na trasach i w przelotach mogą być wykonywane nie  niżej niż:	</item>
+        <item>	Meldunek „Na długiej prostej” jest podawany, gdy statek powietrzny w locie VFR, wykonujący na lotnisku kontrolowanym podejście wprost z trasy, znajdzie się w odległości od punktu przyziemienia:	</item>
+        <item>	Meldunek „Na długiej prostej” jest podawany, gdy statek powietrzny znajdujący się w kręgu nadlotniskowym na lotnisku kontrolowanym wykonuje zakręt do podejścia końcowego w odległości od punktu przyziemienia większej niż:	</item>
+        <item>	Meldunek „Na prostej” jest podawany, gdy statek powietrzny  znajdujący się w kręgu nadlotniskowym na lotnisku kontrolowanym znajdzie się w odległości od punktu przyziemienia:	</item>
+        <item>	Meldunek „Na prostej” jest podawany, gdy statek powietrzny w locie VFR, wykonujący na lotnisku kontrolowanym podejście wprost z trasy, znajdzie się w odległości od punktu przyziemienia:	</item>
+        <item>	Minimalne wysokości w lotach nocnych VFR na trasach i w przelotach określa się od:	</item>
+        <item>	MSA na mapie procedury podejścia oznacza:	</item>
+        <item>	Na jakich statkach powietrznych można przeprowadzić praktyczne szkolenie na ziemi i w locie?	</item>
+        <item>	O ile może zostać zmniejszony czas 45 godzin lotu na samolotach jednosilnikowych tłokowych, kiedy kandydat do licencji pilota samolotowego turystycznego jest posiadaczem świadectwa kwalifikacji pilota statku powietrznego ultralekkiego o cechach samolotu?	</item>
+        <item>	O ile może zostać zmniejszony czas 45 godzin lotu na samolotach jednosilnikowych tłokowych, kiedy kandydat do licencji pilota samolotowego turystycznego jest posiadaczem świadectwa kwalifikacji pilota statku powietrznego ultralekkiego o cechach śmigłowca?	</item>
+        <item>	O ile może zostać zmniejszony czas 45 godzin lotu na samolotach jednosilnikowych tłokowych, kiedy kandydat do licencji pilota samolotowego turystycznego jest posiadaczem świadectwa kwalifikacji pilota statku powietrznego ultralekkiego o cechach wiatrakowca?	</item>
+        <item>	O ile może zostać zmniejszony czas lotów wymaganych do licencji PPL(A), kiedy kandydat do licencji pilota samolotowego turystycznego jest posiadaczem licencji pilota szybowcowego?	</item>
+        <item>	O ile może zostać zmniejszony czas lotów do licencji pilota samolotowego turystycznego, kiedy kandydat jest posiadaczem licencji pilota śmigłowcowego?	</item>
+        <item>	O ile może zostać zmniejszony czas lotów wymaganych do licencji PPL(A) kiedy kandydat jest posiadaczem licencji pilota wiatrakowcowego?	</item>
+        <item>	Oprócz służb ruchu lotniczego statkom powietrznym wykonującym loty w polskiej przestrzeni powietrznej zapewnia się:	</item>
+        <item>	Oprócz służb ruchu lotniczego statkom powietrznym wykonującym loty w polskiej przestrzeni powietrznej zapewnia się:	</item>
+        <item>	Orzeczenie lotniczo-lekarskie wydane dla osoby poniżej 40 roku życia w zakresie wymagań zdrowotnych dla Klasy 1 posiada ważność?	</item>
+        <item>	Orzeczenie lotniczo-lekarskie Klasy I wydane dla osoby powyżej 40 roku życia, wykonującej loty w zarobkowym przewozie lotniczym w załodze jednoosobowej posiada ważność?	</item>
+        <item>	Ośrodek szkolenia lotniczego jest to:	</item>
+        <item>	Oznacz odpowiednią literą przepisy wykonywania lotów lub rodzaj planowanego lotu wg oznaczeń stosowanych w planach lotów - lot IFR:	</item>
+        <item>	Oznacz odpowiednią literą przepisy wykonywania lotów lub rodzaj planowanego lotu wg oznaczeń stosowanych w planach lotów - lot innego rodzaju, niż określone:	</item>
+        <item>	Oznacz odpowiednią literą przepisy wykonywania lotów lub rodzaj planowanego lotu wg oznaczeń stosowanych w planach lotów - lot lotnictwa ogólnego:	</item>
+        <item>	Oznacz odpowiednią literą przepisy wykonywania lotów lub rodzaj planowanego lotu wg oznaczeń stosowanych w planach lotów - lot nierozkładowy lotnictwa komunikacyjnego:	</item>
+        <item>	Oznacz odpowiednią literą przepisy wykonywania lotów lub rodzaj planowanego lotu wg oznaczeń stosowanych w planach lotów - lot rozkładowy lotnictwa komunikacyjnego:	</item>
+        <item>	Oznacz odpowiednią literą przepisy wykonywania lotów lub rodzaj planowanego lotu wg oznaczeń stosowanych w planach lotów - lot VFR:	</item>
+        <item>	Oznacz odpowiednią literą przepisy wykonywania lotów lub rodzaj planowanego lotu wg oznaczeń stosowanych w planach lotów – najpierw lot IFR, potem lot VFR:	</item>
+        <item>	Oznacz odpowiednią literą przepisy wykonywania lotów lub rodzaj planowanego lotu wg oznaczeń stosowanych w planach lotów – najpierw lot VFR, potem lot IFR:	</item>
+        <item>	Pierwszeństwo w podejściu do lądowania powinien mieć statek powietrzny:	</item>
+        <item>	Pilot zaplanował nocny lot VFR na FL 125. Czy otrzyma zezwolenie na wykonanie tego lotu?	</item>
+        <item>	Podstawowym dokumentem zawierającym informacje lotnicze autoryzowane przez właściwe władze państwa jest:	</item>
+        <item>	Poziom (Level) jest to:	</item>
+        <item>	Poziom lotu (Flight Level) jest to:	</item>
+        <item>	Poziom przejściowy (Transition Level) jest to:	</item>
+        <item>	Poziom przelotu (Cruising Level) jest to:	</item>
+        <item>	Poziomy przelotu, na jakich ma się odbyć przelot albo jego część, należy wyrażać jako poziomy lotu:	</item>
+        <item>	Poziomy przelotu, na jakich ma się odbyć przelot albo jego część, należy wyrażać jako wysokości bezwzględne:	</item>
+        <item>	Przez przypadkowo włączony nadajnik została zablokowana częstotliwość radiowa. Statek powietrzny kołuje po lotnisku. Aby zatrzymać ten statek w miejscu, w którym się znajduje, kierujący lotami powinien użyć sygnału świetlnego:	</item>
+        <item>	Przez przypadkowo włączony nadajnik została zablokowana częstotliwość radiowa. Statek powietrzny porusza się po lotnisku. Aby nakazać temu statkowi kołowanie poza polem wzlotów będącym w użyciu kierujący lotami powinien użyć sygnału świetlnego:	</item>
+        <item>	Przez przypadkowo włączony nadajnik została zablokowana częstotliwość radiowa. Statek powietrzny porusza się po lotnisku. Aby nakazać temu statkowi powrót do punktu wyjściowego na lotnisku kierujący lotami powinien użyć sygnału świetlnego:	</item>
+        <item>	Przez przypadkowo włączony nadajnik została zablokowana częstotliwość radiowa. Statek powietrzny porusza się po lotnisku. Aby udzielić temu statkowi zezwolenia na kołowanie kierujący lotami powinien użyć sygnału świetlnego:	</item>
+        <item>	Przez przypadkowo włączony nadajnik została zablokowana częstotliwość radiowa. Statek powietrzny porusza się po lotnisku. Aby udzielić temu statkowi zezwolenia na start kierujący lotami powinien użyć sygnału świetlnego:	</item>
+        <item>	Przy wykonywaniu lotów międzynarodowych statek powietrzny jest obowiązany przestrzegać?	</item>
+        <item>	QFE jest to:	</item>
+        <item>	QNH jest to:	</item>
+        <item>	Rada Ministrów w drodze rozporządzenia wprowadza zakazy i ograniczenia w ruchu lotniczym, niezbędne ze względu na:	</item>
+        <item>	Rada Ministrów w drodze rozporządzenia wprowadza zakazy i ograniczenia w ruchu lotniczym, niezbędne ze względu na:	</item>
+        <item>	Służba informacji powietrznej w przestrzeni klasy G:	</item>
+        <item>	Służba kontroli ruchu lotniczego ma obowiązek zapewnić w przestrzeni klasy A separacje  między statkami powietrznymi wykonującymi loty:	</item>
+        <item>	Służba kontroli ruchu lotniczego ma obowiązek zapewnić w przestrzeni klasy C separacje  między statkami powietrznymi wykonującymi loty:	</item>
+        <item>	Służba kontroli ruchu lotniczego ma obowiązek zapewnić w przestrzeni klasy D separacje  między statkami powietrznymi wykonującymi loty:	</item>
+        <item>	Służba kontroli ruchu lotniczego ma obowiązek zapewnić w przestrzeni klasy E separacje  między statkami powietrznymi wykonującymi loty:	</item>
+        <item>	Statek powietrzny nie zgłosił się w ciągu 30 minut po: a/ przewidywanym czasie przylotu podanym przez pilota; b/ ostatnio potwierdzonym spodziewanym czasie podejścia; w zależności od tego, który z tych czasów jest najpóźniejszy, odpowiednie informacje dotyczące tego statku powinny być przekazane użytkownikom statków pow. lub ich upoważnionym przedstawicielom oraz dowódcom innych zainteresowanych statków pow. i na ich życzenie powinna być podjęta normalna kontrola ruchu lotniczego. Za podjęcie decyzji w sprawie dalszego, normalnego kontynuowania lotów lub też za podjęcie innego działania odpowiedzialni są:	</item>
+        <item>	Statek powietrzny podchodzący do lądowania na lotnisku docelowym ma uszkodzone podwozie, wykonuje więc lądowanie:	</item>
+        <item>	Statek powietrzny porusza się po lotnisku. Przez przypadkowo włączony nadajnik została zablokowana częstotliwość radiowa. Pilot dostrzegł nadaną z miejsca kierowania lotami w jego kierunku serię błysków białych. Oznacza to, że:	</item>
+        <item>	Statek powietrzny porusza się po lotnisku. Przez przypadkowo włączony nadajnik została zablokowana częstotliwość radiowa. Pilot dostrzegł nadaną z miejsca kierowania lotami w jego kierunku serię błysków czerwonych. Oznacza to, że:	</item>
+        <item>	Statek powietrzny porusza się po lotnisku. Przez przypadkowo włączony nadajnik została zablokowana częstotliwość radiowa. Pilot dostrzegł nadaną z miejsca kierowania lotami w jego kierunku serię błysków zielonych. Oznacza to, że:	</item>
+        <item>	"Statek powietrzny porusza się po lotnisku. Przez przypadkowo włączony nadajnik została zablokowana częstotliwość radiowa. Pilot dostrzegł nadany z miejsca kierowania lotami w jego kierunku ciągły sygnał czerwony. Oznacza to, że:"	</item>
+        <item>	Statek powietrzny porusza się po lotnisku. Przez przypadkowo włączony nadajnik została zablokowana częstotliwość radiowa. Pilot dostrzegł nadany z miejsca kierowania lotami w jego kierunku ciągły sygnał zielony. Oznacza to, że:	</item>
+        <item>	Statek powietrzny w locie VFR może wlecieć do rejonu kontrolowanego lub strefy kontrolowanej lotniska objętej klasą C jeżeli pilot:	</item>
+        <item>	Statek powietrzny w locie VFR wylatuje z CTR do przestrzeni klasy G. Otrzymał zezwolenie na przelot na wys. 200 m nad  terenem.  Po wyjściu z CTR pilot powinien mieć wysokościomierz ustawiony na:	</item>
+        <item>	Strefa identyfikacji obrony powietrznej (ADIZ) jest to przestrzeń powietrzna, która rozciąga się wzdłuż granicy państwowej w głąb kraju do odległości:	</item>
+        <item>	Szkolenie lotnicze w organizacji prowadzącej szkolenie lotnicze niezarobkowo jest prowadzone:	</item>
+        <item>	Szkolenie lotnicze w organizacji prowadzącej szkolenie lotnicze niezarobkowo jest prowadzone:	</item>
+        <item>	Szkolenie lotnicze w ośrodku szkolenia lotniczego jest prowadzone:	</item>
+        <item>	Szkolenie lotnicze w ośrodku szkolenia lotniczego jest prowadzone:	</item>
+        <item>	Teren, nad którym jest wykonywany lot VFR, wznosi się do wysokości 300m AMSL (elewacja terenu). Lot ten na wys. 1350 m  AMSL może być wykonany z prędkością nie większą, niż:	</item>
+        <item>	Teren, nad którym jest wykonywany lot VFR, wznosi się do wysokości 300m AMSL (elewacja terenu). Lot ten na wys. 1350 m  AMSL może być wykonany, jeżeli odległość pionowa od chmur jest:	</item>
+        <item>	Teren, nad którym jest wykonywany lot VFR, wznosi się do wysokości 300m AMSL (elewacja terenu). Lot ten na wys. 1350 m  AMSL może być wykonany, jeżeli widzialność jest nie mniejsza niż:	</item>
+        <item>	W czasie lotów zabrania się dokonywania wszelkich zrzutów ze statku powietrznego z wyjątkiem zrzutów dokonywanych na potrzeby?	</item>
+        <item>	W czasie lotów zabrania się dokonywania wszelkich zrzutów ze statku powietrznego z wyjątkiem zrzutów dokonywanych na potrzeby?	</item>
+        <item>	W FIR Warszawa, w przestrzeni powietrznej kontrolowanej warstwa przejściowa może mieć grubość:	</item>
+        <item>	W jakiej formie Rada Ministrów może wprowadzić zakazy i ograniczenia w ruchu lotniczym?	</item>
+        <item>	W jakim terminie od dnia upływu ważności poprzedniej licencji, następuje, po sprawdzeniu wiadomości i umiejętności lotniczych wnioskodawcy, wydanie nowej licencji?	</item>
+        <item>	W jakim zakresie może szkolić organizacja lotnicza nie będąca ośrodkiem szkolenia lotniczego?	</item>
+        <item>	W planach lotu wysokość bezwzględną w setkach stóp oznacza się literą:	</item>
+        <item>	W przestrzeni klasy G lecą naprzeciw siebie samolot i śmigłowiec. Aby uniknąć zderzenia dowódcy tych statków powietrznych powinni :	</item>
+        <item>	W przestrzeni klasy G lecą naprzeciw siebie samolot i śmigłowiec. Aby uniknąć zderzenia dowódcy tych statków powietrznych powinni minąć się:	</item>
+        <item>	W przestrzeni powietrznej nad wodami otwartymi Morza Bałtyckiego mogą być wyznaczane strefy:	</item>
+        <item>	W przypadku akcji przechwytywania dowódca przechwytywanego statku powietrznego powinien włączyć kod transpondera:	</item>
+        <item>	W przypadku bezprawnej ingerencji (HIJACK) pilot nastawia transponder w modzie „A” na kod:	</item>
+        <item>	W przypadku negatywnego wyniku sprawdzenia wiadomości lub umiejętności lotniczych dokonywanych w celu przedłużenia uprawnień lotniczych:	</item>
+        <item>	W przypadku negatywnego wyniku sprawdzenia wiadomości lub umiejętności lotniczych dokonywanych w celu przedłużenia uprawnień lotniczych:	</item>
+        <item>	W przypadku stwierdzenia utraty łączności radiowej (RADIOCOM FAILURE) pilot nastawia transponder w modzie „A” na kod:	</item>
+        <item>	W stanie bezpośredniego zagrożenia (EMERGENCY) pilot nastawia transponder w modzie „A” na kod:	</item>
+        <item>	W stosunku do jakich obywateli można stosować polską ustawę karną, w przypadku popełnienia za granicą przestępstwa lub wykroczenia przeciwko przepisom o locie i manewrowaniu statku powietrznego?	</item>
+        <item>	W strefie kontrolowanej lotniska objętej klasą C dowódca statku powietrznego wykonującego lot VFR jest odpowiedzialny za separacje  z innymi statkami powietrznymi wykonującymi lot:	</item>
+        <item>	Warstwa przejściowa (Transition Layer) jest to:	</item>
+        <item>	Według prawa jakiego państwa  ocenia się roszczenia o wynagrodzenie szkód wyrządzonych w związku z używaniem statku powietrznego osobom i w mieniu znajdującym się poza statkiem powietrznym, jeżeli  zainteresowane strony  i statek powietrzny , mają tę samą przynależność państwową?	</item>
+        <item>	Według prawa jakiego państwa ocenia się roszczenia o szkody powstałe  w razie zderzenia statków powietrznych, jeżeli statki powietrzne , mają tę samą przynależność państwową?	</item>
+        <item>	Według prawa jakiego państwa ocenia się roszczenia o wynagrodzenie za pomoc udzieloną przez statek powietrzny, jeżeli zainteresowana strona  i statek powietrzny , mają tę samą przynależność państwową ?	</item>
+        <item>	Wykonując lot VFR w FIR WARSZAWA, nie mając przydzielonego indywidualnego kodu SSR, wlatując w przestrzeń powietrzną, gdzie na potrzeby służby kontroli ruchu lotniczego wykorzystywany jest radar wtórny, pilot powinien włączyć transponder ustawiając go w modzie A na kod:	</item>
+        <item>	Wysokość przejściowa jest to:	</item>
+        <item>	Wysokość przejściowa w FIR EPWW w przestrzeni klasy G została ustalona na 6500 ft (2000 m)  AMSL. Wysokość ta jest to:	</item>
+        <item>	Z jakich części składa się szkolenie lotnicze do uzyskania licencji lub uprawnienia lotniczego?	</item>
+        <item>	Z jakich części składa się szkolenie lotnicze?	</item>
+        <item>	Jeżeli nie podano inaczej w zezwoleniu kontroli ruchu lotniczego i jeżeli będzie zachowana minimalna wysokość nad gęstą zabudową miast lub osiedli lub zgromadzeniem osób na otwartym powietrzu, lot VFR w FIR Warszawa w przestrzeni klasy C przelot poziomy może się odbyć na	</item>
+    </string-array>
+</resources>
