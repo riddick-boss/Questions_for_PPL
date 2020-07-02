@@ -3,7 +3,6 @@ package paczka.aplikacji.pytaniaegzaminacyjneppla;
 import android.content.Context;
 import android.content.SharedPreferences;
 import android.os.Bundle;
-import android.preference.PreferenceManager;
 import android.view.View;
 import android.view.inputmethod.InputMethodManager;
 import android.widget.Button;
@@ -20,11 +19,11 @@ import com.google.android.gms.ads.initialization.OnInitializationCompleteListene
 public class LearnActivity extends AppCompatActivity implements View.OnClickListener {
 
     
-    public static final String INDEX_KEY = "index_key";
+    private static final String INDEX_KEY = "index_key";
     //q&a array
     String[] question, answer, subject;
 
-    int index, gotonr;
+    private int index, gotonr;
 
     private AdView madView;
 
@@ -171,15 +170,13 @@ public class LearnActivity extends AppCompatActivity implements View.OnClickList
     }
 
     public int loadIndex(){
-        SharedPreferences prefs = PreferenceManager.getDefaultSharedPreferences(this);
+        SharedPreferences prefs = this.getPreferences(Context.MODE_PRIVATE);
         return prefs.getInt(INDEX_KEY, 0);
     }
 
     public void saveIndex(int i){
-        SharedPreferences prefs = PreferenceManager.getDefaultSharedPreferences(this);
-        SharedPreferences.Editor editor = prefs.edit();
-        editor.putInt(INDEX_KEY, i);
-        editor.apply();
+        SharedPreferences prefs = this.getPreferences(Context.MODE_PRIVATE);
+        prefs.edit().putInt(INDEX_KEY, i).apply();
     }
 
     @Override
@@ -194,8 +191,6 @@ public class LearnActivity extends AppCompatActivity implements View.OnClickList
             imm.hideSoftInputFromWindow(v.getWindowToken(),0);
         }
     }
-
-
 }
 
 

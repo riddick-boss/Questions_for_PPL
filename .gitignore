@@ -12,4 +12,4 @@
 /captures
 .externalNativeBuild
 .cxx
-/apikeys.xml
+app\src\main\res\values\apikeys.xml

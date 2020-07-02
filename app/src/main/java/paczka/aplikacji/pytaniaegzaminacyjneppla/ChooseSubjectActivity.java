@@ -5,7 +5,6 @@ import android.content.Context;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.os.Bundle;
-import android.preference.PreferenceManager;
 import android.view.View;
 import android.view.inputmethod.InputMethodManager;
 import android.widget.Button;
@@ -20,19 +19,19 @@ import com.google.android.gms.ads.initialization.OnInitializationCompleteListene
 
 public class ChooseSubjectActivity extends Activity implements View.OnClickListener {
 
-    public static String index_key;
+    private String index_key;
 
     //q&a array
     String[] question, answer;
 
-    int index, gotonr;
+    private int index, gotonr;
 
     //Layout Bars
     TextView questionTextView, answerTextView, questionnumberTextView, subjectTextView;
     Button nextButton, prevButton, gotoButton;
     EditText gotoEditText;
 
-    public static boolean back_pressed_twice;
+    private boolean back_pressed_twice;
 
     private AdView madView, madView2;
 
@@ -267,7 +266,7 @@ public class ChooseSubjectActivity extends Activity implements View.OnClickListe
     }
 
     public int loadIndex(String name_of_subject){
-        SharedPreferences prefs = PreferenceManager.getDefaultSharedPreferences(this);
+        SharedPreferences prefs = this.getPreferences(Context.MODE_PRIVATE);
         if(name_of_subject.equals("Prawo")) index_key="Prawo_key";
         else if(name_of_subject.equals("Bezpieczenstwo")) index_key="Bezpieczenstwo_key";
         else if(name_of_subject.equals("Wiedza o samolocie")) index_key="Wiedza o samolocie_key";
@@ -282,11 +281,8 @@ public class ChooseSubjectActivity extends Activity implements View.OnClickListe
     }
 
     public void saveIndex(int i){
-        SharedPreferences prefs = PreferenceManager.getDefaultSharedPreferences(this);
-        SharedPreferences.Editor editor = prefs.edit();
-        editor.putInt(index_key, i);
-        editor.apply();
-        index_key=null;
+        SharedPreferences prefs = this.getPreferences(Context.MODE_PRIVATE);
+        prefs.edit().putInt(index_key, i).commit();
     }
 
     //save index while pressing back
@@ -305,7 +301,7 @@ public class ChooseSubjectActivity extends Activity implements View.OnClickListe
         }
     }
 
-    //save index on exiting app
+    //save index on exiting or leaving app
     @Override
     protected void onPause() {
         super.onPause();
