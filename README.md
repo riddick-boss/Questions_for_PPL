@@ -39,7 +39,7 @@ Question is exposed with 4 answers (only 1 correct). When user taps answer it ch
 
 <img src="/Screenshots/Scr_7_apk.png" width="200">
 
-Few random questions from subject are picked with 4 answers. Number of questions is same as on real exam in Civil Aviation Department. When user taps answer it changes color to blue. User can pick only one answer, but it is possible to change answer - other will appear with blue background, previous answer will change background to default. Answers are remembered so user can go back to questions which he has already given answer to and change them. By pressing "check" button user goes to results view.
+Few random questions from subject are picked with 4 answers. Number of questions is same as on real exam in Civil Aviation Department. When user taps answer it changes color to blue. User can pick only one answer, but it is possible to change it - other will appear with blue background, previous answer will change background to default. Answers are remembered so user can go back to questions which he has already given answer to and change them. By pressing "check" button user goes to results view.
 
 #### 6. Exam results view
 
