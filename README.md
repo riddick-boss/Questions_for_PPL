@@ -11,7 +11,7 @@ App is witten in Java. Also used:
 
 #### 1. Opening acivity
 
-<imge scr="/Screenshots/Scr_1_apk.png" width="200">
+<img scr="/Screenshots/Scr_1_apk.png" width="200">
 
 Here user decides if he wants to learn, test himself/herself or simulate exam.
 
