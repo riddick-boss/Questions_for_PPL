@@ -1,4 +1,4 @@
-# Questions for PPL(A), PL: Pytania_Egzaminacyjne_PPL(A)
+# Questions for PPL(A), PL: Pytania Egzaminacyjne PPL(A)
 
 #### Android app, which purpose is to make studying to aviation exam (PPL- Private Pilot License) easier by exposing questions and answers in convenient way. There are 3 modes: learn, test and exam simulation. 
 
