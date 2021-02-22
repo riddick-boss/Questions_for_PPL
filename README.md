@@ -4,7 +4,7 @@
 
 #### App is published on Google Play [https://play.google.com/store/apps/details?id=com.aplikacji.pytaniaegzaminacyjneppla]
 
-App is witten in Java. Also used:
+App is written in Java. Also used:
 - Shared Preferences
 - Admob Moblie Ads
 
