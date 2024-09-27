@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="paczka.aplikacji.pytaniaegzaminacyjneppla">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
 
     <supports-screens
         android:smallScreens="false"
@@ -9,7 +8,6 @@
         android:xlargeScreens="true"/>
 
     <application
-        android:allowBackup="false"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_label"
         android:roundIcon="@mipmap/ic_launcher_round"
@@ -19,20 +17,21 @@
             android:name="com.google.android.gms.ads.APPLICATION_ID"
             android:value="@string/ADMOB_APP_ID"/>
 
-        <activity android:name="paczka.aplikacji.pytaniaegzaminacyjneppla.MainActivity">
+        <activity android:name="paczka.aplikacji.pytaniaegzaminacyjneppla.MainActivity"
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity android:name="paczka.aplikacji.pytaniaegzaminacyjneppla.LearnActivity"
-            android:windowSoftInputMode="adjustNothing"></activity>
+            android:windowSoftInputMode="adjustNothing" />
         <activity android:name="paczka.aplikacji.pytaniaegzaminacyjneppla.TestActivity"
-            android:windowSoftInputMode="adjustNothing"></activity>
+            android:windowSoftInputMode="adjustNothing" />
         <activity android:name="paczka.aplikacji.pytaniaegzaminacyjneppla.ChooseSubjectActivity"
-            android:windowSoftInputMode="adjustNothing"></activity>
+            android:windowSoftInputMode="adjustNothing" />
         <activity android:name="paczka.aplikacji.pytaniaegzaminacyjneppla.ExamActivity"
-            android:windowSoftInputMode="adjustNothing"></activity>
+            android:windowSoftInputMode="adjustNothing" />
     </application>
 
 </manifest>
